@@ -1,0 +1,4 @@
+playwright
+curl_cffi
+beautifulsoup4
+requests

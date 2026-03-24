@@ -1,0 +1,38 @@
+name: Scrape deals
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC daily
+  workflow_dispatch:      # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browser + system deps
+        run: python -m playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit updated deals.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add deals.json
+          git diff --staged --quiet && echo "No changes, skipping commit" && exit 0
+          git commit -m "chore: update deals $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

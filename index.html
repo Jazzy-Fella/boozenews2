@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BoozeNewz — UK Supermarket Booze Deals</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0d0d0d;
+      --surface:  #161616;
+      --surface2: #1f1f1f;
+      --border:   #2c2c2c;
+      --amber:    #f5a623;
+      --amber2:   #ffd166;
+      --green:    #4ade80;
+      --red:      #f87171;
+      --text:     #e8e8e0;
+      --muted:    #666;
+      --r:        6px;
+      --font-mono: 'Courier New', 'Lucida Console', monospace;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-mono);
+      min-height: 100vh;
+      font-size: 14px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--amber);
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo {
+      font-size: 1.4rem;
+      font-weight: bold;
+      letter-spacing: 2px;
+      color: var(--amber);
+      text-transform: uppercase;
+    }
+    .logo span { color: var(--amber2); }
+
+    .header-meta {
+      font-size: 0.72rem;
+      color: var(--muted);
+      text-align: right;
+      line-height: 1.6;
+    }
+    .header-meta strong { color: var(--amber2); }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .filter-group {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-size: 0.68rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      align-self: center;
+      margin-right: 4px;
+    }
+
+    .btn-filter {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 5px 12px;
+      border-radius: var(--r);
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      transition: all 0.1s;
+    }
+    .btn-filter:hover { border-color: var(--amber); color: var(--amber); }
+    .btn-filter.active {
+      background: var(--amber);
+      border-color: var(--amber);
+      color: #000;
+    }
+
+    .divider { width: 1px; background: var(--border); align-self: stretch; margin: 0 4px; }
+
+    .search-wrap {
+      flex: 1;
+      min-width: 160px;
+      max-width: 320px;
+      position: relative;
+    }
+    .search-wrap input {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      padding: 6px 10px 6px 28px;
+      border-radius: var(--r);
+      transition: border-color 0.1s;
+    }
+    .search-wrap input::placeholder { color: var(--muted); }
+    .search-wrap input:focus { outline: none; border-color: var(--amber); }
+    .search-wrap .ico {
+      position: absolute;
+      left: 9px; top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      font-size: 0.8rem;
+      pointer-events: none;
+    }
+
+    .result-info {
+      margin-left: auto;
+      font-size: 0.72rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .result-info strong { color: var(--amber2); }
+
+    /* ── Table ── */
+    .table-wrap {
+      padding: 16px 20px;
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 600px;
+    }
+
+    thead th {
+      text-align: left;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--muted);
+      padding: 0 10px 8px;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+    }
+    thead th:hover { color: var(--amber); }
+    thead th.sorted { color: var(--amber2); }
+    thead th .sort-arrow { margin-left: 4px; opacity: 0.6; }
+
+    tbody tr {
+      border-bottom: 1px solid #1e1e1e;
+      transition: background 0.1s;
+    }
+    tbody tr:hover { background: var(--surface2); }
+
+    td {
+      padding: 9px 10px;
+      vertical-align: middle;
+      font-size: 0.82rem;
+    }
+
+    /* Store badge */
+    .store-badge {
+      display: inline-block;
+      font-size: 0.62rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 2px 7px;
+      border-radius: 3px;
+      white-space: nowrap;
+    }
+    .store-morrisons { background: #ffd000; color: #000; }
+    .store-tesco     { background: #003f9f; color: #fff; }
+    .store-asda      { background: #00984a; color: #fff; }
+    .store-sainsburys{ background: #f06c00; color: #fff; }
+
+    /* Category badge */
+    .cat-badge {
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      padding: 1px 5px;
+      border-radius: 3px;
+    }
+    .cat-beer    { color: #f5a623; border-color: #f5a623; }
+    .cat-spirits { color: #c084fc; border-color: #c084fc; }
+
+
+    /* Title cell */
+    .title-cell a {
+      color: var(--text);
+      text-decoration: none;
+      line-height: 1.4;
+      display: block;
+    }
+    .title-cell a:hover { color: var(--amber2); }
+    .title-meta {
+      display: flex;
+      gap: 6px;
+      margin-top: 4px;
+      flex-wrap: wrap;
+    }
+
+    /* Price */
+    .price-cell {
+      white-space: nowrap;
+      color: var(--amber2);
+      font-weight: bold;
+    }
+
+    /* Promo */
+    .promo-cell {
+      color: #aaa;
+      font-size: 0.76rem;
+      max-width: 220px;
+    }
+
+    /* Saving */
+    .saving-cell {
+      white-space: nowrap;
+      font-weight: bold;
+      text-align: right;
+    }
+    .saving-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: rgba(74,222,128,0.12);
+      color: var(--green);
+      border: 1px solid rgba(74,222,128,0.25);
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-size: 0.78rem;
+    }
+    .saving-pill.zero {
+      background: rgba(102,102,102,0.1);
+      color: var(--muted);
+      border-color: var(--border);
+    }
+
+    /* ── State messages ── */
+    .state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+      display: none;
+    }
+    .state.visible { display: block; }
+    .state-icon { font-size: 2.5rem; margin-bottom: 14px; }
+    .state h3 { color: var(--text); margin-bottom: 8px; font-size: 1rem; }
+    .state p { font-size: 0.85rem; }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 16px 20px;
+      font-size: 0.68rem;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .promo-cell { max-width: 140px; }
+      td { padding: 7px 6px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Booze<span>Newz</span></div>
+  <div class="header-meta">
+    <div>🍺 UK Supermarket Deal Scanner</div>
+    <div>Updated: <strong id="updated-time">—</strong></div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <!-- Category filters -->
+  <span class="filter-label">Category</span>
+  <div class="filter-group" id="cat-filters">
+    <button class="btn-filter active" data-cat="all">All</button>
+    <button class="btn-filter" data-cat="beer">🍺 Beer</button>
+    <button class="btn-filter" data-cat="spirits">🥃 Spirits</button>
+
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Store filters -->
+  <span class="filter-label">Store</span>
+  <div class="filter-group" id="store-filters">
+    <button class="btn-filter active" data-store="all">All</button>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Search -->
+  <div class="search-wrap">
+    <span class="ico">⌕</span>
+    <input type="search" id="search" placeholder="Search products…" autocomplete="off" />
+  </div>
+
+  <!-- Result count -->
+  <div class="result-info" id="result-info"></div>
+</div>
+
+<!-- Loading state -->
+<div class="state visible" id="state-loading">
+  <div class="state-icon">⏳</div>
+  <h3>Loading deals…</h3>
+  <p>Fetching the latest bargains</p>
+</div>
+
+<!-- Empty state -->
+<div class="state" id="state-empty">
+  <div class="state-icon">🔍</div>
+  <h3>No deals found</h3>
+  <p>Try adjusting your filters or search</p>
+</div>
+
+<!-- Error state -->
+<div class="state" id="state-error">
+  <div class="state-icon">⚠️</div>
+  <h3>Could not load deals</h3>
+  <p id="error-msg">Run <code>python3 scraper.py</code> to generate deals.json, then serve with <code>python3 -m http.server 8080</code></p>
+</div>
+
+<!-- Deals table -->
+<div class="table-wrap" id="table-wrap" style="display:none">
+  <table>
+    <thead>
+      <tr>
+        <th data-sort="title">Product <span class="sort-arrow"></span></th>
+        <th data-sort="price">Price <span class="sort-arrow"></span></th>
+        <th>Promotion</th>
+        <th data-sort="saving" class="sorted">Saving ▼ <span class="sort-arrow"></span></th>
+      </tr>
+    </thead>
+    <tbody id="deals-body"></tbody>
+  </table>
+</div>
+
+<footer>
+  <div>BoozeNewz — prices from public UK supermarket websites. Not affiliated with any retailer.</div>
+  <div id="footer-count"></div>
+</footer>
+
+<script>
+  const $ = id => document.getElementById(id);
+  const PAGE_SIZE = 60;
+
+  let allDeals = [];
+  let visibleDeals = [];  // filtered + sorted
+  let renderedCount = 0;
+  let sortKey = 'saving';
+  let sortDir = -1;
+  let activeCat = 'all';
+  let activeStore = 'all';
+
+  // ── Sentinel for infinite scroll ─────────────────────────────────────────
+  const sentinel = document.createElement('div');
+  sentinel.id = 'scroll-sentinel';
+  document.querySelector('.table-wrap').after(sentinel);
+
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) appendRows();
+  }, { rootMargin: '300px' });
+  observer.observe(sentinel);
+
+  // ── Load data ────────────────────────────────────────────────────────────
+  async function load() {
+    try {
+      const res = await fetch('deals.json?t=' + Date.now());
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      allDeals = data.deals || [];
+
+      const updated = data.updated ? new Date(data.updated) : null;
+      $('updated-time').textContent = updated
+        ? updated.toLocaleString('en-GB', { dateStyle: 'short', timeStyle: 'short' })
+        : '—';
+
+      buildStoreFilters();
+      render();
+    } catch (e) {
+      show('state-error');
+      $('error-msg').textContent = e.message;
+    }
+  }
+
+  // ── Build dynamic store filter buttons ───────────────────────────────────
+  function buildStoreFilters() {
+    const stores = [...new Set(allDeals.map(d => d.store))].sort();
+    const container = $('store-filters');
+    stores.forEach(store => {
+      const btn = document.createElement('button');
+      btn.className = 'btn-filter';
+      btn.dataset.store = store;
+      btn.textContent = store;
+      container.appendChild(btn);
+    });
+  }
+
+  // ── Filter + sort, then render first batch ───────────────────────────────
+  function render() {
+    hide('state-loading'); hide('state-empty'); hide('state-error');
+
+    const q = $('search').value.trim().toLowerCase();
+    visibleDeals = allDeals.filter(d => {
+      if (activeCat !== 'all' && d.category !== activeCat) return false;
+      if (activeStore !== 'all' && d.store !== activeStore) return false;
+      if (q && !d.title.toLowerCase().includes(q) && !(d.promotion || '').toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    visibleDeals.sort((a, b) => {
+      let av = a[sortKey], bv = b[sortKey];
+      if (typeof av === 'string') av = av.replace(/[^0-9.]/g, '') || av;
+      if (typeof bv === 'string') bv = bv.replace(/[^0-9.]/g, '') || bv;
+      const an = parseFloat(av), bn = parseFloat(bv);
+      if (!isNaN(an) && !isNaN(bn)) return sortDir * (an - bn);
+      return sortDir * String(av).localeCompare(String(bv));
+    });
+
+    if (visibleDeals.length === 0) {
+      $('table-wrap').style.display = 'none';
+      show('state-empty');
+      $('result-info').textContent = '0 deals';
+      return;
+    }
+
+    $('table-wrap').style.display = '';
+    $('result-info').innerHTML = `<strong>${visibleDeals.length.toLocaleString()}</strong> deals`;
+    $('footer-count').textContent = `${allDeals.length.toLocaleString()} total deals loaded`;
+
+    // Clear and render first batch
+    $('deals-body').innerHTML = '';
+    renderedCount = 0;
+    appendRows();
+  }
+
+  // ── Append the next batch of rows ────────────────────────────────────────
+  function appendRows() {
+    const batch = visibleDeals.slice(renderedCount, renderedCount + PAGE_SIZE);
+    if (batch.length === 0) return;
+
+    const frag = document.createDocumentFragment();
+    batch.forEach(d => {
+      const tr = document.createElement('tr');
+      const savingNum = parseFloat(d.saving) || 0;
+      const savingHtml = savingNum > 0
+        ? `<span class="saving-pill">−£${savingNum.toFixed(2)}</span>`
+        : `<span class="saving-pill zero">—</span>`;
+      const storeCls = 'store-' + (d.store || '').toLowerCase().replace(/[^a-z]/g, '');
+      const cat = d.category || 'other';
+      tr.innerHTML = `
+        <td class="title-cell">
+          <a href="${esc(d.link)}" target="_blank" rel="noopener">${esc(d.title)}</a>
+          <div class="title-meta">
+            <span class="store-badge ${storeCls}">${esc(d.store)}</span>
+            <span class="cat-badge cat-${cat}">${cat}</span>
+          </div>
+        </td>
+        <td class="price-cell">${esc(d.price)}</td>
+        <td class="promo-cell">${esc(d.promotion)}</td>
+        <td class="saving-cell">${savingHtml}</td>
+      `;
+      frag.appendChild(tr);
+    });
+    $('deals-body').appendChild(frag);
+    renderedCount += batch.length;
+  }
+
+  // ── Event listeners ──────────────────────────────────────────────────────
+  $('cat-filters').addEventListener('click', e => {
+    const btn = e.target.closest('[data-cat]');
+    if (!btn) return;
+    activeCat = btn.dataset.cat;
+    $('cat-filters').querySelectorAll('.btn-filter').forEach(b => b.classList.toggle('active', b === btn));
+    render();
+  });
+
+  $('store-filters').addEventListener('click', e => {
+    const btn = e.target.closest('[data-store]');
+    if (!btn) return;
+    activeStore = btn.dataset.store;
+    $('store-filters').querySelectorAll('.btn-filter').forEach(b => b.classList.toggle('active', b === btn));
+    render();
+  });
+
+  let searchTimer;
+  $('search').addEventListener('input', () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(render, 180);
+  });
+
+  document.querySelector('thead').addEventListener('click', e => {
+    const th = e.target.closest('[data-sort]');
+    if (!th) return;
+    const key = th.dataset.sort;
+    sortDir = (key === sortKey) ? sortDir * -1 : (key === 'saving' ? -1 : 1);
+    sortKey = key;
+    document.querySelectorAll('thead th').forEach(h => {
+      h.classList.remove('sorted');
+      const arrow = h.querySelector('.sort-arrow');
+      if (arrow) arrow.textContent = '';
+    });
+    th.classList.add('sorted');
+    const arr = th.querySelector('.sort-arrow');
+    if (arr) arr.textContent = sortDir === -1 ? '▼' : '▲';
+    render();
+  });
+
+  // ── Helpers ──────────────────────────────────────────────────────────────
+  function show(id) { $(id).classList.add('visible'); }
+  function hide(id) { $(id).classList.remove('visible'); }
+  function esc(s) {
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  load();
+</script>
+</body>
+</html>
