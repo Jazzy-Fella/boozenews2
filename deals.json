@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-26T07:21:10.213409+00:00",
-  "total": 1754,
+  "updated": "2026-03-26T16:05:40.583598+00:00",
+  "total": 1753,
   "deals": [
     {
       "store": "Tesco",
@@ -1714,7 +1714,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "spirits",
       "title": "Disaronno Originale 1 Litre",
       "price": "£27.25",
       "promotion": "£21.00 Clubcard Price",
@@ -2290,7 +2290,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
+      "category": "spirits",
       "title": "Drambuie",
       "price": "£21.50",
       "promotion": "Now £16.50, Was £21.50",
@@ -2470,7 +2470,7 @@
     },
     {
       "store": "Asda",
-      "category": "other",
+      "category": "spirits",
       "title": "Original Advocaat 70cl",
       "price": "£11.50",
       "promotion": "Was £16.35, Now £11.50",
@@ -3118,7 +3118,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
+      "category": "spirits",
       "title": "Jagermeister",
       "price": "£21.50",
       "promotion": "Now £17.50, Was £21.50",
@@ -3439,15 +3439,6 @@
       "promotion": "Was £23.37, Now £19.75",
       "saving": 3.62,
       "link": "https://www.asda.com/groceries/product/x/x/9024768"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "The Pale Rose ",
-      "price": "£14.50",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.62,
-      "link": "https://groceries.morrisons.com/products/the-pale-rose/112653567"
     },
     {
       "store": "Morrisons",
@@ -3856,7 +3847,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Morrisons The Best Block Series 007 Mclaren Vale Garnacha-Mencia 75CL",
       "price": "£13.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -4303,15 +4294,6 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/6451696"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Pale Rosé 187ml",
-      "price": "£3.75",
-      "promotion": "Any 4 for 3",
-      "saving": 3.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9104010"
     },
     {
       "store": "Asda",
@@ -5260,7 +5242,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Nos Somos Alentejano Red 75cl",
       "price": "£10.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -5269,7 +5251,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Nos Somos Alentejano White 75cl",
       "price": "£10.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -5620,7 +5602,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Rollin' Waves Gluten Free Pale 440ml",
       "price": "£3.05",
       "promotion": "Any 4 for 3",
@@ -5764,7 +5746,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Juicy Pale 440ml",
       "price": "£3.03",
       "promotion": "Any 4 for 3",
@@ -6241,7 +6223,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Little Hazy Assassin Hazy Session Pale 440ml",
       "price": "£2.97",
       "promotion": "Any 4 for 3",
@@ -6358,7 +6340,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Rhubarb Fruity Pale 440ml",
       "price": "£2.86",
       "promotion": "Any 4 for 3",
@@ -6592,7 +6574,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Croft Original Sherry Fine Pale Cream",
       "price": "£15.50",
       "promotion": "£13.50 - More Card Price",
@@ -7330,7 +7312,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Northern Monk Heathen Club Hazy Pale (Abv 4.6%)",
       "price": "£7.00",
       "promotion": "Buy 2 for £10.50",
@@ -7804,6 +7786,15 @@
       "promotion": "£9.25 - More Card Price",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/fleurs-de-prairie-luberon/111180198"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Foster's Lager Beer Can   12 x 440ml",
+      "price": "£10.00",
+      "promotion": "Buy 2 for £17",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-12-x-440ml/115868416"
     },
     {
       "store": "Morrisons",
@@ -8500,7 +8491,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Birra Moretti Sale Di Mare ",
       "price": "£3.40",
       "promotion": "Buy 3 for £6.50",
@@ -9022,7 +9013,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Crush Hour Everyday Hazy Pale 4 x 330ml",
       "price": "£6.02",
       "promotion": "Any 2 for £10",
@@ -9165,6 +9156,15 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/315051517"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Cruzcampo Sevilla Orange Beer 4x440ml",
+      "price": "£5.50",
+      "promotion": "£4.50 Clubcard Price",
+      "saving": 1.0,
+      "link": "https://www.tesco.com/groceries/en-GB/products/323492176"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Damm Lemon Lemon Flavoured Beer 4 x 330ml",
@@ -9292,7 +9292,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
+      "category": "spirits",
       "title": "Malibu Pina Colada Pre-Mixed Cocktail Can   250ml",
       "price": "£2.50",
       "promotion": "Buy 8 for £12 - Online Exclusive",
@@ -9301,7 +9301,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
+      "category": "spirits",
       "title": "Malibu Strawberry Daiquiri",
       "price": "£2.50",
       "promotion": "Buy 8 for £12 - Online Exclusive",
@@ -9544,7 +9544,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Heathen Club Hazy Pale 4 x 330ml",
       "price": "£5.97",
       "promotion": "Any 2 for £10",
@@ -9562,7 +9562,7 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
+      "category": "other",
       "title": "Judicious Juicy Pale 4 x 330ml",
       "price": "£5.97",
       "promotion": "Any 2 for £10",
@@ -9832,7 +9832,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Bath Ales Gem            ",
       "price": "£2.80",
       "promotion": "Buy 4 for £7.50",
@@ -10057,7 +10057,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Saltaire Cascade Pale",
       "price": "£2.80",
       "promotion": "Buy 4 for £7.50",
@@ -10066,7 +10066,7 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
+      "category": "other",
       "title": "Saltaire South Island Pale ",
       "price": "£2.80",
       "promotion": "Buy 4 for £7.50",
@@ -12298,7 +12298,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "other",
       "title": "Healeys Cornish Rattler Cyder - Peach 500ml",
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
@@ -12307,7 +12307,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "other",
       "title": "Healeys Rattler Cornish Pineapple Cyder 500ml",
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
@@ -12838,7 +12838,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "other",
       "title": "Oakham Ales Citra 500Ml",
       "price": "£2.45",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
@@ -12955,7 +12955,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "other",
       "title": "Timothy Taylors Landlord Pale 500Ml",
       "price": "£2.45",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
@@ -13837,7 +13837,7 @@
     },
     {
       "store": "Tesco",
-      "category": "beer",
+      "category": "other",
       "title": "Badger The Cranborne Poacher Ale500ml",
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
@@ -14095,15 +14095,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.45,
       "link": "https://www.asda.com/groceries/product/x/x/6104989"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Pale Rosé 187ml",
-      "price": "£1.19",
-      "promotion": "Any 4 for 3",
-      "saving": 0.44,
-      "link": "https://www.asda.com/groceries/product/x/x/7623499"
     },
     {
       "store": "Morrisons",

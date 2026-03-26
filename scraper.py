@@ -138,8 +138,10 @@ def detect_category(name: str) -> str:
                    "mezcal", "schnapps", "absinthe", "sambuca", "baileys",
                    "kahlua", "cointreau", "triple sec", "vermouth", "aperol",
                    "campari", "amaretto", "bitters", "calvados", "grappa",
-                   "pisco", "eau de vie"]
-    beer_kws = ["beer", "lager", "ale", "stout", "cider", "ipa", "bitter",
+                   "pisco", "eau de vie", "disaronno", "malibu", "midori",
+                   "jagermeister", "jägermeister", "fireball", "drambuie",
+                   "frangelico", "chartreuse", "benedictine", "advocaat"]
+    beer_kws = ["beer", "lager", "stout", "cider", "ipa", "bitter",
                 "porter", "pilsner", "pale ale", "saison", "wheat beer", "sour beer",
                 "shandy", "craft brew", "pils", " pint", "draught"]
     wine_kws = ["wine", "prosecco", "champagne", "cava", "rosé", "rose",
@@ -153,6 +155,9 @@ def detect_category(name: str) -> str:
     for kw in beer_kws:
         if kw in nl:
             return "beer"
+    # word-boundary check for "ale" to avoid matching "originale", "pale", etc.
+    if re.search(r'\bale\b', nl):
+        return "beer"
     for kw in wine_kws:
         if kw in nl:
             return "wine"
