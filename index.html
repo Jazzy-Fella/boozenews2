@@ -3,400 +3,543 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BoozeNewz — UK Supermarket Booze Deals</title>
+  <title>BOOZE NEWZ P.100</title>
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#cc0000" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="Booze Newz" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    /* ── Teletext colour palette ── */
     :root {
-      --bg:       #0d0d0d;
-      --surface:  #161616;
-      --surface2: #1f1f1f;
-      --border:   #2c2c2c;
-      --amber:    #f5a623;
-      --amber2:   #ffd166;
-      --green:    #4ade80;
-      --red:      #f87171;
-      --text:     #e8e8e0;
-      --muted:    #666;
-      --r:        6px;
-      --font-mono: 'Courier New', 'Lucida Console', monospace;
+      --tt-black:   #000000;
+      --tt-red:     #dd0000;
+      --tt-red2:    #ff2020;
+      --tt-green:   #00cc00;
+      --tt-yellow:  #ffff00;
+      --tt-blue:    #1a1aff;
+      --tt-cyan:    #00cccc;
+      --tt-white:   #ffffff;
+      --tt-dgrey:   #1a0000;
+      --font: 'VT323', 'Courier New', monospace;
     }
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: var(--font-mono);
+    html, body {
+      background: var(--tt-black);
+      color: var(--tt-white);
+      font-family: var(--font);
+      font-size: 20px;
+      line-height: 1.3;
       min-height: 100vh;
-      font-size: 14px;
     }
 
-    /* ── Header ── */
-    header {
-      background: var(--surface);
-      border-bottom: 2px solid var(--amber);
-      padding: 14px 20px;
+    /* ── Page wrapper ── */
+    .page {
+      max-width: 900px;
+      margin: 0 auto;
+      border-left: 4px solid #111;
+      border-right: 4px solid #111;
+      min-height: 100vh;
+    }
+
+    /* ── Ceefax status bar ── */
+    .tt-statusbar {
+      background: var(--tt-blue);
+      color: var(--tt-white);
+      font-family: var(--font);
+      font-size: 1.2rem;
+      padding: 3px 10px;
       display: flex;
-      align-items: center;
       justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 10px;
+      align-items: center;
       position: sticky;
       top: 0;
-      z-index: 100;
+      z-index: 101;
+      letter-spacing: 1px;
     }
+    .tt-statusbar .sb-page  { color: var(--tt-white); }
+    .tt-statusbar .sb-brand { color: var(--tt-cyan); letter-spacing: 2px; }
+    .tt-statusbar .sb-time  { color: var(--tt-white); }
 
-    .logo {
-      font-size: 1.4rem;
-      font-weight: bold;
-      letter-spacing: 2px;
-      color: var(--amber);
-      text-transform: uppercase;
-    }
-    .logo span { color: var(--amber2); }
-
-    .header-meta {
-      font-size: 0.72rem;
-      color: var(--muted);
-      text-align: right;
-      line-height: 1.6;
-    }
-    .header-meta strong { color: var(--amber2); }
-
-    /* ── Toolbar ── */
-    .toolbar {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 10px 20px;
+    /* ── Header band 1: title bar ── */
+    .tt-titlebar {
+      background: var(--tt-black);
+      border-bottom: 3px solid var(--tt-yellow);
+      padding: 10px 16px;
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
+      justify-content: center;
       align-items: center;
     }
-
-    .filter-group {
+    .brand-area {
       display: flex;
-      gap: 4px;
+      align-items: center;
+      gap: 14px;
+    }
+    .tt-sprite { image-rendering: pixelated; flex-shrink: 0; }
+    .brand {
+      font-size: 4.8rem;
+      letter-spacing: 4px;
+      color: var(--tt-yellow);
+      text-shadow: 3px 3px 0 #6b4400;
+      line-height: 1;
+    }
+    .tt-titlebar .tt-right {
+      text-align: right;
+      font-family: var(--font);
+      font-size: 1.2rem;
+      line-height: 1.8;
+      color: var(--tt-cyan);
+    }
+    .tt-page-num { font-size: 2rem; color: var(--tt-white); }
+
+    /* ── Header band 2: subtitle ── */
+    .tt-subbar {
+      background: var(--tt-red);
+      color: var(--tt-white);
+      padding: 2px 10px;
+      font-size: 1.2rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .tt-updated {
+      font-size: 1rem;
+      animation: tt-flash 1s step-end infinite;
+    }
+
+    /* ── Nav / filter bar ── */
+    .tt-nav {
+      background: var(--tt-black);
+      border-top: 2px solid var(--tt-red);
+      border-bottom: 2px solid var(--tt-red);
+      padding: 6px 8px;
+      display: flex;
       flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      justify-content: center;
+      position: sticky;
+      top: 33px;
+      z-index: 99;
     }
 
-    .filter-label {
-      font-size: 0.68rem;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      align-self: center;
-      margin-right: 4px;
-    }
-
-    .btn-filter {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      color: var(--muted);
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      padding: 5px 12px;
-      border-radius: var(--r);
-      cursor: pointer;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      transition: all 0.1s;
-    }
-    .btn-filter:hover { border-color: var(--amber); color: var(--amber); }
-    .btn-filter.active {
-      background: var(--amber);
-      border-color: var(--amber);
-      color: #000;
-    }
-
-    .divider { width: 1px; background: var(--border); align-self: stretch; margin: 0 4px; }
-
-    .search-wrap {
-      flex: 1;
-      min-width: 160px;
-      max-width: 320px;
-      position: relative;
-    }
-    .search-wrap input {
-      width: 100%;
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      color: var(--text);
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      padding: 6px 10px 6px 28px;
-      border-radius: var(--r);
-      transition: border-color 0.1s;
-    }
-    .search-wrap input::placeholder { color: var(--muted); }
-    .search-wrap input:focus { outline: none; border-color: var(--amber); }
-    .search-wrap .ico {
-      position: absolute;
-      left: 9px; top: 50%;
-      transform: translateY(-50%);
-      color: var(--muted);
-      font-size: 0.8rem;
-      pointer-events: none;
-    }
-
-    .result-info {
-      margin-left: auto;
-      font-size: 0.72rem;
-      color: var(--muted);
+    .tt-nav-label {
+      color: var(--tt-cyan);
+      font-size: 1rem;
+      margin-right: 2px;
       white-space: nowrap;
     }
-    .result-info strong { color: var(--amber2); }
+
+    .tt-sep {
+      color: var(--tt-red);
+      font-size: 1.4rem;
+      margin: 0 4px;
+    }
+
+    /* Filter buttons */
+    .btn-filter {
+      background: var(--tt-black);
+      border: 2px solid var(--tt-red);
+      color: var(--tt-white);
+      font-family: var(--font);
+      font-size: 1.1rem;
+      padding: 1px 10px;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: none;
+    }
+    .btn-filter:hover {
+      background: var(--tt-red);
+      color: var(--tt-yellow);
+    }
+    .btn-filter.active {
+      background: var(--tt-red);
+      border-color: var(--tt-red);
+      color: var(--tt-yellow);
+    }
+    .btn-filter.active.cat-beer-btn   { background: var(--tt-red); border-color: var(--tt-red); color: var(--tt-yellow); }
+    .btn-filter.active.cat-spirits-btn { background: var(--tt-red); border-color: var(--tt-red); color: var(--tt-cyan); }
+    .btn-filter.active.store-btn { background: var(--tt-red); border-color: var(--tt-red); color: var(--tt-yellow); }
+
+    /* Search */
+    .tt-search-wrap {
+      flex: 1;
+      min-width: 140px;
+      max-width: 280px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .tt-search-wrap label {
+      color: var(--tt-cyan);
+      font-size: 1rem;
+      white-space: nowrap;
+    }
+    .tt-search-wrap input {
+      flex: 1;
+      background: var(--tt-black);
+      border: 2px solid var(--tt-red);
+      color: var(--tt-yellow);
+      font-family: var(--font);
+      font-size: 1.1rem;
+      padding: 1px 4px;
+      outline: none;
+      caret-color: var(--tt-cyan);
+    }
+    .tt-search-wrap input::placeholder { color: #444; }
+
+    /* Result count */
+    .result-info {
+      margin-left: auto;
+      color: var(--tt-cyan);
+      font-size: 1rem;
+      white-space: nowrap;
+    }
+    .result-info strong { color: var(--tt-yellow); }
 
     /* ── Table ── */
     .table-wrap {
-      padding: 16px 20px;
       overflow-x: auto;
     }
 
     table {
       width: 100%;
       border-collapse: collapse;
-      min-width: 600px;
+      min-width: 560px;
     }
 
+    thead tr {
+      background: var(--tt-red);
+    }
     thead th {
-      text-align: left;
-      font-size: 0.65rem;
+      color: var(--tt-white);
+      font-family: var(--font);
+      font-size: 1.1rem;
+      font-weight: normal;
       text-transform: uppercase;
-      letter-spacing: 1.5px;
-      color: var(--muted);
-      padding: 0 10px 8px;
-      border-bottom: 1px solid var(--border);
+      letter-spacing: 2px;
+      padding: 4px 10px;
+      text-align: left;
       white-space: nowrap;
       cursor: pointer;
       user-select: none;
+      border-right: 1px solid #aa0000;
     }
-    thead th:hover { color: var(--amber); }
-    thead th.sorted { color: var(--amber2); }
-    thead th .sort-arrow { margin-left: 4px; opacity: 0.6; }
+    thead th:last-child { border-right: none; }
+    thead th:hover { background: #aa0000; color: var(--tt-yellow); }
+    thead th.sorted { color: var(--tt-yellow); }
+    thead th .sort-arrow { margin-left: 4px; }
 
-    tbody tr {
-      border-bottom: 1px solid #1e1e1e;
-      transition: background 0.1s;
-    }
-    tbody tr:hover { background: var(--surface2); }
+    tbody tr:nth-child(odd)  { background: var(--tt-black); }
+    tbody tr:nth-child(even) { background: #110000; }
+    tbody tr:hover { background: #1a0000; }
 
     td {
-      padding: 9px 10px;
+      padding: 5px 10px;
       vertical-align: middle;
-      font-size: 0.82rem;
+      font-size: 1.1rem;
+      border-bottom: 1px solid #330000;
     }
 
-    /* Store badge */
-    .store-badge {
-      display: inline-block;
-      font-size: 0.62rem;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      padding: 2px 7px;
-      border-radius: 3px;
-      white-space: nowrap;
-    }
-    .store-morrisons { background: #ffd000; color: #000; }
-    .store-tesco     { background: #003f9f; color: #fff; }
-    .store-asda      { background: #00984a; color: #fff; }
-    .store-sainsburys{ background: #f06c00; color: #fff; }
-
-    /* Category badge */
-    .cat-badge {
-      font-size: 0.6rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--muted);
-      border: 1px solid var(--border);
-      padding: 1px 5px;
-      border-radius: 3px;
-    }
-    .cat-beer    { color: #f5a623; border-color: #f5a623; }
-    .cat-spirits { color: #c084fc; border-color: #c084fc; }
-
-
-    /* Title cell */
+    /* Product title */
     .title-cell a {
-      color: var(--text);
-      text-decoration: none;
-      line-height: 1.4;
+      color: var(--tt-cyan);
+      text-decoration: underline;
+      text-underline-offset: 2px;
       display: block;
+      line-height: 1.3;
     }
-    .title-cell a:hover { color: var(--amber2); }
+    .title-cell a:hover { color: var(--tt-yellow); }
     .title-meta {
       display: flex;
       gap: 6px;
-      margin-top: 4px;
+      margin-top: 3px;
       flex-wrap: wrap;
+      align-items: center;
     }
+
+    /* Store badges — solid Teletext colour blocks */
+    .store-badge {
+      display: inline-block;
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 0 6px;
+      white-space: nowrap;
+    }
+    .store-morrisons { background: var(--tt-yellow); color: #000; }
+    .store-tesco     { background: #0055cc;           color: #fff; }
+    .store-asda      { background: var(--tt-green);   color: #000; }
+
+    /* Category — just teletext colours, no border */
+    .cat-badge {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .cat-beer    { color: var(--tt-yellow); }
+    .cat-spirits { color: var(--tt-cyan); }
+    .cat-other   { color: #888; }
 
     /* Price */
     .price-cell {
+      color: var(--tt-yellow);
+      font-size: 1.2rem;
       white-space: nowrap;
-      color: var(--amber2);
-      font-weight: bold;
     }
 
     /* Promo */
     .promo-cell {
-      color: #aaa;
-      font-size: 0.76rem;
-      max-width: 220px;
+      color: var(--tt-yellow);
+      font-size: 1rem;
+      max-width: 200px;
     }
 
     /* Saving */
     .saving-cell {
-      white-space: nowrap;
-      font-weight: bold;
       text-align: right;
+      white-space: nowrap;
     }
     .saving-pill {
-      display: inline-flex;
-      align-items: center;
-      gap: 3px;
-      background: rgba(74,222,128,0.12);
-      color: var(--green);
-      border: 1px solid rgba(74,222,128,0.25);
-      border-radius: 4px;
-      padding: 2px 8px;
-      font-size: 0.78rem;
+      color: var(--tt-green);
+      font-size: 1.2rem;
+      padding: 0 4px;
     }
-    .saving-pill.zero {
-      background: rgba(102,102,102,0.1);
-      color: var(--muted);
-      border-color: var(--border);
-    }
+    .saving-pill.zero { color: #555; }
 
     /* ── State messages ── */
     .state {
       text-align: center;
-      padding: 80px 20px;
-      color: var(--muted);
+      padding: 60px 20px;
+      color: var(--tt-cyan);
       display: none;
+      font-size: 1.4rem;
     }
     .state.visible { display: block; }
-    .state-icon { font-size: 2.5rem; margin-bottom: 14px; }
-    .state h3 { color: var(--text); margin-bottom: 8px; font-size: 1rem; }
-    .state p { font-size: 0.85rem; }
+    .state h3 { color: var(--tt-yellow); margin-bottom: 8px; font-size: 1.8rem; }
+    .state p   { color: var(--tt-white); font-size: 1.2rem; }
+    .state code { color: var(--tt-green); }
 
     /* ── Footer ── */
     footer {
-      border-top: 1px solid var(--border);
-      padding: 16px 20px;
-      font-size: 0.68rem;
-      color: var(--muted);
+      background: var(--tt-red);
+      color: var(--tt-white);
+      padding: 4px 10px;
+      font-size: 1rem;
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
-      gap: 8px;
+      gap: 4px;
+      letter-spacing: 0.5px;
+      margin-top: 20px;
+    }
+    footer span { color: var(--tt-cyan); }
+
+    /* ── CRT overlay ── */
+    @keyframes tt-flash {
+      0%, 49%  { opacity: 1; }
+      50%, 99% { opacity: 0; }
+    }
+
+    @keyframes flicker {
+      0%   { opacity: 1; }
+      19%  { opacity: 1; }
+      20%  { opacity: 0.94; }
+      21%  { opacity: 1; }
+      49%  { opacity: 1; }
+      50%  { opacity: 0.97; }
+      51%  { opacity: 1; }
+      74%  { opacity: 1; }
+      75%  { opacity: 0.95; }
+      76%  { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    .crt {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 9999;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 2px,
+        rgba(0,0,0,0.08) 2px,
+        rgba(0,0,0,0.08) 3px
+      );
+      animation: flicker 6s infinite;
     }
 
     /* ── Responsive ── */
     @media (max-width: 640px) {
-      .promo-cell { max-width: 140px; }
-      td { padding: 7px 6px; }
+      html, body { font-size: 17px; }
+      .brand { font-size: 3rem; letter-spacing: 2px; }
+      .tt-sprite { width: 60px; height: 75px; }
+      .promo-cell { max-width: 130px; }
+      td { padding: 4px 6px; }
+      table { min-width: 0; }
+      .col-was { display: none; }
     }
   </style>
 </head>
 <body>
+<!-- Ceefax status bar -->
+<div class="tt-statusbar">
+  <span class="sb-page">P100</span>
+  <span class="sb-time" id="tt-clock">--- -- --- --:--:--</span>
+</div>
 
-<header>
-  <div class="logo">Booze<span>Newz</span></div>
-  <div class="header-meta">
-    <div>🍺 UK Supermarket Deal Scanner</div>
-    <div>Updated: <strong id="updated-time">—</strong></div>
+<div class="page">
+
+  <!-- Title bar -->
+  <div class="tt-titlebar">
+    <div class="brand-area">
+      <!-- Pixel art beer mug (5px grid, 14×13) -->
+      <svg class="tt-sprite" xmlns="http://www.w3.org/2000/svg" width="70" height="50" viewBox="0 0 70 50" shape-rendering="crispEdges">
+        <!-- Foam -->
+        <rect x="10" y="0"  width="35" height="5"  fill="#ffffff"/>
+        <rect x="5"  y="5"  width="40" height="5"  fill="#ffffff"/>
+        <rect x="0"  y="10" width="45" height="5"  fill="#ffffff"/>
+        <!-- Mug top edge -->
+        <rect x="5"  y="15" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="15" width="30" height="5"  fill="#ff9900"/>
+        <rect x="40" y="15" width="5"  height="5"  fill="#cc8800"/>
+        <!-- Mug rows with shadow stripes + handle -->
+        <rect x="5"  y="20" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="20" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="15" y="20" width="10" height="5"  fill="#ff9900"/>
+        <rect x="25" y="20" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="30" y="20" width="10" height="5"  fill="#ff9900"/>
+        <rect x="40" y="20" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="45" y="20" width="10" height="5"  fill="#cc8800"/>
+        <rect x="5"  y="25" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="25" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="15" y="25" width="10" height="5"  fill="#ff9900"/>
+        <rect x="25" y="25" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="30" y="25" width="10" height="5"  fill="#ff9900"/>
+        <rect x="40" y="25" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="55" y="25" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="5"  y="30" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="30" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="15" y="30" width="10" height="5"  fill="#ff9900"/>
+        <rect x="25" y="30" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="30" y="30" width="10" height="5"  fill="#ff9900"/>
+        <rect x="40" y="30" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="55" y="30" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="5"  y="35" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="35" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="15" y="35" width="10" height="5"  fill="#ff9900"/>
+        <rect x="25" y="35" width="5"  height="5"  fill="#aa6600"/>
+        <rect x="30" y="35" width="10" height="5"  fill="#ff9900"/>
+        <rect x="40" y="35" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="45" y="35" width="10" height="5"  fill="#cc8800"/>
+        <!-- Lower mug body -->
+        <rect x="5"  y="40" width="5"  height="5"  fill="#cc8800"/>
+        <rect x="10" y="40" width="30" height="5"  fill="#ee8800"/>
+        <rect x="40" y="40" width="5"  height="5"  fill="#cc8800"/>
+        <!-- Mug bottom -->
+        <rect x="5"  y="45" width="40" height="5"  fill="#cc8800"/>
+      </svg>
+      <div class="brand">BOOZE NEWZ</div>
+    </div>
   </div>
-</header>
 
-<div class="toolbar">
-  <!-- Category filters -->
-  <span class="filter-label">Category</span>
-  <div class="filter-group" id="cat-filters">
-    <button class="btn-filter active" data-cat="all">All</button>
-    <button class="btn-filter" data-cat="beer">🍺 Beer</button>
-    <button class="btn-filter" data-cat="spirits">🥃 Spirits</button>
-
+  <!-- Subtitle bar -->
+  <div class="tt-subbar">
+    <div class="tt-updated">UPDATED: <span id="updated-time">--/--/----</span></div>
   </div>
 
-  <div class="divider"></div>
+  <!-- Nav / filters -->
+  <div class="tt-nav">
+    <div id="cat-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
+      <button class="btn-filter active" data-cat="all">ALL</button>
+      <button class="btn-filter cat-beer-btn" data-cat="beer">BEER</button>
+      <button class="btn-filter cat-spirits-btn" data-cat="spirits">SPIRITS</button>
+    </div>
 
-  <!-- Store filters -->
-  <span class="filter-label">Store</span>
-  <div class="filter-group" id="store-filters">
-    <button class="btn-filter active" data-store="all">All</button>
+    <div id="store-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
+      <button class="btn-filter store-btn active" data-store="all">ALL</button>
+    </div>
+
+    <div class="tt-search-wrap">
+      <label for="search">SEARCH:</label>
+      <input type="search" id="search" placeholder="TYPE HERE" autocomplete="off" />
+    </div>
+
+    <div class="result-info" id="result-info"></div>
   </div>
 
-  <div class="divider"></div>
-
-  <!-- Search -->
-  <div class="search-wrap">
-    <span class="ico">⌕</span>
-    <input type="search" id="search" placeholder="Search products…" autocomplete="off" />
+  <!-- States -->
+  <div class="state visible" id="state-loading">
+    <h3>>>> LOADING <<<</h3>
+    <p>FETCHING THE LATEST BARGAINS...</p>
+  </div>
+  <div class="state" id="state-empty">
+    <h3>NO DEALS FOUND</h3>
+    <p>TRY ADJUSTING YOUR FILTERS OR SEARCH</p>
+  </div>
+  <div class="state" id="state-error">
+    <h3>*** ERROR ***</h3>
+    <p id="error-msg">RUN <code>python3 scraper.py</code> TO GENERATE DEALS</p>
   </div>
 
-  <!-- Result count -->
-  <div class="result-info" id="result-info"></div>
-</div>
+  <!-- Deals table -->
+  <div class="table-wrap" id="table-wrap" style="display:none">
+    <table>
+      <thead>
+        <tr>
+          <th data-sort="title">PRODUCT <span class="sort-arrow"></span></th>
+          <th>DEAL</th>
+          <th class="col-was" data-sort="price">WAS <span class="sort-arrow"></span></th>
+          <th data-sort="saving" class="sorted">SAVING ▼ <span class="sort-arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="deals-body"></tbody>
+    </table>
+  </div>
 
-<!-- Loading state -->
-<div class="state visible" id="state-loading">
-  <div class="state-icon">⏳</div>
-  <h3>Loading deals…</h3>
-  <p>Fetching the latest bargains</p>
-</div>
+  <!-- Footer -->
+  <footer>
+    <div>BOOZENEWZ &mdash; PRICES FROM PUBLIC UK SUPERMARKET WEBSITES</div>
+    <div><span id="footer-count"></span></div>
+  </footer>
 
-<!-- Empty state -->
-<div class="state" id="state-empty">
-  <div class="state-icon">🔍</div>
-  <h3>No deals found</h3>
-  <p>Try adjusting your filters or search</p>
-</div>
-
-<!-- Error state -->
-<div class="state" id="state-error">
-  <div class="state-icon">⚠️</div>
-  <h3>Could not load deals</h3>
-  <p id="error-msg">Run <code>python3 scraper.py</code> to generate deals.json, then serve with <code>python3 -m http.server 8080</code></p>
-</div>
-
-<!-- Deals table -->
-<div class="table-wrap" id="table-wrap" style="display:none">
-  <table>
-    <thead>
-      <tr>
-        <th data-sort="title">Product <span class="sort-arrow"></span></th>
-        <th data-sort="price">Price <span class="sort-arrow"></span></th>
-        <th>Promotion</th>
-        <th data-sort="saving" class="sorted">Saving ▼ <span class="sort-arrow"></span></th>
-      </tr>
-    </thead>
-    <tbody id="deals-body"></tbody>
-  </table>
-</div>
-
-<footer>
-  <div>BoozeNewz — prices from public UK supermarket websites. Not affiliated with any retailer.</div>
-  <div id="footer-count"></div>
-</footer>
+</div><!-- .page -->
+<div class="crt"></div>
 
 <script>
   const $ = id => document.getElementById(id);
   const PAGE_SIZE = 60;
 
   let allDeals = [];
-  let visibleDeals = [];  // filtered + sorted
+  let visibleDeals = [];
   let renderedCount = 0;
   let sortKey = 'saving';
   let sortDir = -1;
   let activeCat = 'all';
   let activeStore = 'all';
 
+  // ── Live clock (Ceefax style: "Thu 26 Mar 11:52:26") ────────────────────
+  const DAYS  = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function tick() {
+    const n = new Date();
+    const d = `${DAYS[n.getDay()]} ${n.getDate()} ${MONTHS[n.getMonth()]}`;
+    const t = n.toLocaleTimeString('en-GB');
+    $('tt-clock').textContent = `${d} ${t}`;
+  }
+  tick();
+  setInterval(tick, 1000);
+
   // ── Sentinel for infinite scroll ─────────────────────────────────────────
   const sentinel = document.createElement('div');
   sentinel.id = 'scroll-sentinel';
   document.querySelector('.table-wrap').after(sentinel);
-
   const observer = new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) appendRows();
   }, { rootMargin: '300px' });
@@ -412,8 +555,8 @@
 
       const updated = data.updated ? new Date(data.updated) : null;
       $('updated-time').textContent = updated
-        ? updated.toLocaleString('en-GB', { dateStyle: 'short', timeStyle: 'short' })
-        : '—';
+        ? updated.toLocaleString('en-GB', { dateStyle: 'short', timeStyle: 'short' }).toUpperCase()
+        : '--/--/----';
 
       buildStoreFilters();
       render();
@@ -423,15 +566,15 @@
     }
   }
 
-  // ── Build dynamic store filter buttons ───────────────────────────────────
+  // ── Build store filter buttons ────────────────────────────────────────────
   function buildStoreFilters() {
     const stores = [...new Set(allDeals.map(d => d.store))].sort();
     const container = $('store-filters');
     stores.forEach(store => {
       const btn = document.createElement('button');
-      btn.className = 'btn-filter';
+      btn.className = 'btn-filter store-btn';
       btn.dataset.store = store;
-      btn.textContent = store;
+      btn.textContent = store.toUpperCase();
       container.appendChild(btn);
     });
   }
@@ -460,21 +603,20 @@
     if (visibleDeals.length === 0) {
       $('table-wrap').style.display = 'none';
       show('state-empty');
-      $('result-info').textContent = '0 deals';
+      $('result-info').textContent = '0 DEALS';
       return;
     }
 
     $('table-wrap').style.display = '';
-    $('result-info').innerHTML = `<strong>${visibleDeals.length.toLocaleString()}</strong> deals`;
-    $('footer-count').textContent = `${allDeals.length.toLocaleString()} total deals loaded`;
+    $('result-info').innerHTML = `<strong>${visibleDeals.length.toLocaleString()}</strong> DEALS`;
+    $('footer-count').textContent = `${allDeals.length.toLocaleString()} TOTAL DEALS`;
 
-    // Clear and render first batch
     $('deals-body').innerHTML = '';
     renderedCount = 0;
     appendRows();
   }
 
-  // ── Append the next batch of rows ────────────────────────────────────────
+  // ── Append next batch ────────────────────────────────────────────────────
   function appendRows() {
     const batch = visibleDeals.slice(renderedCount, renderedCount + PAGE_SIZE);
     if (batch.length === 0) return;
@@ -484,8 +626,8 @@
       const tr = document.createElement('tr');
       const savingNum = parseFloat(d.saving) || 0;
       const savingHtml = savingNum > 0
-        ? `<span class="saving-pill">−£${savingNum.toFixed(2)}</span>`
-        : `<span class="saving-pill zero">—</span>`;
+        ? `<span class="saving-pill">-£${savingNum.toFixed(2)}</span>`
+        : `<span class="saving-pill zero">---</span>`;
       const storeCls = 'store-' + (d.store || '').toLowerCase().replace(/[^a-z]/g, '');
       const cat = d.category || 'other';
       tr.innerHTML = `
@@ -493,11 +635,11 @@
           <a href="${esc(d.link)}" target="_blank" rel="noopener">${esc(d.title)}</a>
           <div class="title-meta">
             <span class="store-badge ${storeCls}">${esc(d.store)}</span>
-            <span class="cat-badge cat-${cat}">${cat}</span>
+            <span class="cat-badge cat-${cat}">${cat.toUpperCase()}</span>
           </div>
         </td>
-        <td class="price-cell">${esc(d.price)}</td>
         <td class="promo-cell">${esc(d.promotion)}</td>
+        <td class="price-cell col-was">${esc(d.price)}</td>
         <td class="saving-cell">${savingHtml}</td>
       `;
       frag.appendChild(tr);
@@ -506,7 +648,7 @@
     renderedCount += batch.length;
   }
 
-  // ── Event listeners ──────────────────────────────────────────────────────
+  // ── Events ───────────────────────────────────────────────────────────────
   $('cat-filters').addEventListener('click', e => {
     const btn = e.target.closest('[data-cat]');
     if (!btn) return;
@@ -556,6 +698,10 @@
   }
 
   load();
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js');
+  }
 </script>
 </body>
 </html>
