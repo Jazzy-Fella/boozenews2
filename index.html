@@ -168,8 +168,21 @@
     .btn-filter.active.store-btn { background: var(--tt-red); border-color: var(--tt-red); color: var(--tt-yellow); }
 
     /* Search */
+    .tt-nav-filters {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 100%;
+    }
+    .tt-nav-search {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      gap: 8px;
+    }
     .tt-search-wrap {
-      flex: 0 1 200px;
+      flex: 1;
       min-width: 120px;
       display: flex;
       align-items: center;
@@ -195,7 +208,6 @@
 
     /* Result count */
     .result-info {
-      margin-left: auto;
       color: var(--tt-cyan);
       font-size: 1rem;
       white-space: nowrap;
@@ -456,22 +468,25 @@
 
   <!-- Nav / filters -->
   <div class="tt-nav">
-    <div id="cat-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
-      <button class="btn-filter active" data-cat="all">ALL</button>
-      <button class="btn-filter cat-beer-btn" data-cat="beer">BEER</button>
-      <button class="btn-filter cat-spirits-btn" data-cat="spirits">SPIRITS</button>
+    <div class="tt-nav-filters">
+      <div id="cat-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
+        <button class="btn-filter active" data-cat="all">ALL</button>
+        <button class="btn-filter cat-beer-btn" data-cat="beer">BEER</button>
+        <button class="btn-filter cat-spirits-btn" data-cat="spirits">SPIRITS</button>
+      </div>
+
+      <div id="store-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
+        <button class="btn-filter store-btn active" data-store="all">ALL</button>
+      </div>
     </div>
 
-    <div id="store-filters" style="display:flex;gap:4px;flex-wrap:wrap;">
-      <button class="btn-filter store-btn active" data-store="all">ALL</button>
+    <div class="tt-nav-search">
+      <div class="tt-search-wrap">
+        <label for="search">SEARCH:</label>
+        <input type="search" id="search" placeholder="TYPE HERE" autocomplete="off" />
+      </div>
+      <div class="result-info" id="result-info"></div>
     </div>
-
-    <div class="tt-search-wrap">
-      <label for="search">SEARCH:</label>
-      <input type="search" id="search" placeholder="TYPE HERE" autocomplete="off" />
-    </div>
-
-    <div class="result-info" id="result-info"></div>
   </div>
 
   <!-- States -->
