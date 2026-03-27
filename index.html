@@ -109,7 +109,6 @@
     }
     .tt-updated {
       font-size: 1rem;
-      animation: tt-flash 1s step-end infinite;
     }
 
     /* ── Nav / filter bar ── */
@@ -285,7 +284,7 @@
       padding: 0 6px;
       white-space: nowrap;
     }
-    .store-morrisons { background: var(--tt-yellow); color: #000; }
+    .store-morrisons { background: #ff6600; color: #fff; }
     .store-tesco     { background: #0055cc;           color: #fff; }
     .store-asda      { background: var(--tt-green);   color: #000; }
 
@@ -298,6 +297,21 @@
     .cat-beer    { color: var(--tt-yellow); }
     .cat-spirits { color: var(--tt-cyan); }
     .cat-other   { color: #888; }
+
+    /* Best deal badge */
+    .best-badge {
+      display: inline-block;
+      background: transparent;
+      color: var(--tt-yellow);
+      font-size: 0.85rem;
+      padding: 1px 0;
+      margin-bottom: 4px;
+      letter-spacing: 1px;
+    }
+    .best-badge-star {
+      color: var(--tt-yellow);
+      animation: tt-flash 1s step-end infinite;
+    }
 
     /* Deal Price (combined) */
     .deal-price-cell {
@@ -593,6 +607,10 @@
 
     const q = $('search').value.trim().toLowerCase();
     visibleDeals = allDeals.filter(d => {
+      if (!(parseFloat(d.saving) > 0)) return false;
+      if (/\b(any|buy)\s+\d+\s+for\s+/i.test(d.promotion || '')) return false;
+      if (/\bginger\s+beer\b/i.test(d.title)) return false;
+      if (d.category === 'beer' && /\b(non[- ]?alcoholic|alcohol[- ]?free|0\.0%|0%)\b/i.test(d.title)) return false;
       if (activeCat !== 'all' && d.category !== activeCat) return false;
       if (activeStore !== 'all' && d.store !== activeStore) return false;
       if (q && !d.title.toLowerCase().includes(q) && !(d.promotion || '').toLowerCase().includes(q)) return false;
@@ -621,8 +639,62 @@
 
     $('deals-body').innerHTML = '';
     renderedCount = 0;
+    computeBestDeals(visibleDeals);
+    // Pin best deals to top, then the rest in sort order
+    visibleDeals = [
+      ...visibleDeals.filter(d => d._bestLabel),
+      ...visibleDeals.filter(d => !d._bestLabel),
+    ];
     appendRows();
   }
+
+  // ── Detect spirit subtype from title (word-boundary safe) ────────────────
+  const SPIRIT_TYPES = [
+    { key: 'whisky',   re: /\b(whisk[ey]|bourbon|scotch|malt)\b/i },
+    { key: 'gin',      re: /\bgin\b/i },
+    { key: 'vodka',    re: /\bvodka\b/i },
+    { key: 'rum',      re: /\brum\b/i },
+    { key: 'tequila',  re: /\btequila\b/i },
+    { key: 'brandy',   re: /\b(brandy|cognac|armagnac)\b/i },
+    { key: 'liqueur',  re: /\bliqueur\b/i },
+    { key: 'cider',    re: /\bcider\b/i },
+    { key: 'beer',     re: /\b(beer|lager|ale|stout|ipa)\b/i },
+  ];
+
+  function dealSubtype(d) {
+    const t = (d.title + ' ' + (d.promotion || '')).toLowerCase();
+    if (d.category === 'beer') {
+      // Check cider first before defaulting to beer
+      if (/\bcider\b/i.test(t)) return 'cider';
+      return 'beer';
+    }
+    for (const { key, re } of SPIRIT_TYPES) {
+      if (re.test(t)) return key;
+    }
+    return 'spirits';
+  }
+
+  // ── Compute best deal per subtype (by % saving) ───────────────────────────
+  function computeBestDeals(deals) {
+    // Clear previous badges
+    for (const d of allDeals) delete d._bestLabel;
+    const best = {};
+    for (const d of deals) {
+      const pct = parseFloat(d.saving) / parseFloat((d.price || '0').replace(/[^0-9.]/g, ''));
+      if (!isFinite(pct) || pct <= 0) continue;
+      const sub = dealSubtype(d);
+      if (!best[sub] || pct > best[sub].pct) best[sub] = { d, pct };
+    }
+    for (const [sub, { d }] of Object.entries(best)) {
+      d._bestLabel = SUBTYPE_LABEL[sub];
+    }
+  }
+
+  const SUBTYPE_LABEL = {
+    whisky: 'BEST WHISKY', gin: 'BEST GIN', vodka: 'BEST VODKA',
+    rum: 'BEST RUM', tequila: 'BEST TEQUILA', brandy: 'BEST BRANDY',
+    liqueur: 'BEST LIQUEUR', cider: 'BEST CIDER', beer: 'BEST BEER',
+  };
 
   // ── Append next batch ────────────────────────────────────────────────────
   function appendRows() {
@@ -640,6 +712,7 @@
       const cat = d.category || 'other';
       tr.innerHTML = `
         <td class="title-cell">
+          ${d._bestLabel ? `<div class="best-badge"><span class="best-badge-star">★</span> ${d._bestLabel} DEAL <span class="best-badge-star">★</span></div>` : ''}
           <a href="${esc(d.link)}" target="_blank" rel="noopener">${esc(d.title)}</a>
           <div class="title-meta">
             <span class="store-badge ${storeCls}">${esc(d.store)}</span>
