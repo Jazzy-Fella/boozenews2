@@ -370,6 +370,10 @@ def parse_asda_hit(hit: dict) -> dict:
     if not name:
         return None
 
+    brand = hit.get("BRAND", "")
+    if brand and not name.lower().startswith(brand.lower()):
+        name = f"{brand} {name}"
+
     cin = hit.get("CIN", "")
     image_id = hit.get("IMAGE_ID", "")
     prices_en = hit.get("PRICES", {}).get("EN", {})
@@ -381,7 +385,7 @@ def parse_asda_hit(hit: dict) -> dict:
     promo_name = promos_en[0].get("NAME", "") if promos_en else ""
 
     if offer_type in ("Rollback", "Dropped") and was_price:
-        promo = f"Was £{was_price:.2f}, Now £{price:.2f}"
+        promo = f"Now £{price:.2f}, Was £{was_price:.2f}"
         saving = round(max(was_price - price, 0), 2)
     elif promo_name:
         promo = promo_name
