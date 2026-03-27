@@ -299,31 +299,26 @@
     .cat-spirits { color: var(--tt-cyan); }
     .cat-other   { color: #888; }
 
-    /* Price */
-    .price-cell {
-      color: var(--tt-yellow);
-      font-size: 1.2rem;
+    /* Deal Price (combined) */
+    .deal-price-cell {
       white-space: nowrap;
-    }
-
-    /* Promo */
-    .promo-cell {
-      color: var(--tt-yellow);
-      font-size: 1rem;
-      max-width: 200px;
-    }
-
-    /* Saving */
-    .saving-cell {
       text-align: right;
-      white-space: nowrap;
     }
-    .saving-pill {
+    .deal-promo {
+      color: var(--tt-yellow);
+      font-size: 1.1rem;
+    }
+    .deal-was {
+      color: var(--tt-red2);
+      font-size: 1rem;
+      text-decoration: line-through;
+      margin-top: 2px;
+    }
+    .deal-saving {
       color: var(--tt-green);
-      font-size: 1.2rem;
-      padding: 0 4px;
+      font-size: 1rem;
+      margin-top: 2px;
     }
-    .saving-pill.zero { color: #555; }
 
     /* ── State messages ── */
     .state {
@@ -392,10 +387,10 @@
       html, body { font-size: 17px; }
       .brand { font-size: 3rem; letter-spacing: 2px; }
       .tt-sprite { width: 60px; height: 75px; }
-      .promo-cell { max-width: 130px; }
       td { padding: 4px 6px; }
-      table { min-width: 0; }
-      .col-was { display: none; }
+      table { min-width: 0; table-layout: fixed; }
+      thead th:first-child { width: 58%; }
+      .deal-price-cell { white-space: normal; }
     }
   </style>
 </head>
@@ -508,10 +503,8 @@
     <table>
       <thead>
         <tr>
-          <th data-sort="title">PRODUCT <span class="sort-arrow"></span></th>
-          <th>DEAL</th>
-          <th class="col-was" data-sort="price">WAS <span class="sort-arrow"></span></th>
-          <th data-sort="saving" class="sorted">SAVING ▼ <span class="sort-arrow"></span></th>
+          <th data-sort="title" style="width:65%">PRODUCT <span class="sort-arrow"></span></th>
+          <th data-sort="saving" class="sorted">DEAL PRICE ▼ <span class="sort-arrow"></span></th>
         </tr>
       </thead>
       <tbody id="deals-body"></tbody>
@@ -653,9 +646,11 @@
             <span class="cat-badge cat-${cat}">${cat.toUpperCase()}</span>
           </div>
         </td>
-        <td class="promo-cell">${esc(d.promotion)}</td>
-        <td class="price-cell col-was">${esc(d.price)}</td>
-        <td class="saving-cell">${savingHtml}</td>
+        <td class="deal-price-cell">
+          <div class="deal-promo">${esc(d.promotion)}</div>
+          ${d.price ? `<div class="deal-was">${esc(d.price)}</div>` : ''}
+          ${savingNum > 0 ? `<div class="deal-saving">-£${savingNum.toFixed(2)}</div>` : ''}
+        </td>
       `;
       frag.appendChild(tr);
     });
