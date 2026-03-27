@@ -58,7 +58,7 @@ def make_icon(size):
     scale = min(avail / SRC_W, avail / SRC_H)
     scaled_w = SRC_W * scale
     scaled_h = SRC_H * scale
-    ox = (size - scaled_w) / 2 + size * 0.06
+    ox = (size - scaled_w) / 2 + size * 0.07
     oy = (size - scaled_h) / 2
     for x, y, w, h, color in RECTS:
         x1 = int(ox + x * scale)
