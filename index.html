@@ -411,7 +411,7 @@
 <body>
 <!-- Ceefax status bar -->
 <div class="tt-statusbar">
-  <span class="sb-page">P100</span>
+  <span class="sb-page" id="sb-page">P100</span>
   <span class="sb-time" id="tt-clock">--- -- --- --:--:--</span>
 </div>
 
@@ -557,6 +557,7 @@
   }
   tick();
   setInterval(tick, 1000);
+  $('sb-page').textContent = 'P' + (Math.floor(Math.random() * 401) + 100);
 
   // ── Sentinel for infinite scroll ─────────────────────────────────────────
   const sentinel = document.createElement('div');
@@ -721,7 +722,7 @@
         </td>
         <td class="deal-price-cell">
           <div class="deal-promo">${esc(d.promotion)}</div>
-          ${d.price ? `<div class="deal-was">${esc(d.price)}</div>` : ''}
+          ${d.price && !/\bwas\b/i.test(d.promotion || '') ? `<div class="deal-was">${esc(d.price)}</div>` : ''}
           ${savingNum > 0 ? `<div class="deal-saving">-£${savingNum.toFixed(2)}</div>` : ''}
         </td>
       `;
