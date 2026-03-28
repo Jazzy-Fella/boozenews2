@@ -70,6 +70,7 @@
       border-bottom: 3px solid var(--tt-yellow);
       padding: 10px 16px;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
     }
@@ -351,10 +352,7 @@
       color: var(--tt-white);
       padding: 4px 10px;
       font-size: 1rem;
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 4px;
+      text-align: center;
       letter-spacing: 0.5px;
       margin-top: 20px;
     }
@@ -549,6 +547,7 @@
       </svg>
       <div class="brand">BOOZE NEWZ</div>
     </div>
+    <div style="color:var(--tt-yellow);font-size:1rem;letter-spacing:0.05em;margin-top:4px;">DAILY DEALS SCANNER</div>
   </div>
 
   <!-- Subtitle bar -->
@@ -608,7 +607,7 @@
 
   <!-- Footer -->
   <footer>
-    <div>BOOZENEWZ &mdash; PRICES FROM PUBLIC UK SUPERMARKET WEBSITES</div>
+    <div>BOOZENEWZ &mdash; DEALS FROM UK SUPERMARKETS</div>
     <div><span id="footer-count"></span></div>
   </footer>
 
@@ -794,7 +793,7 @@
       const tr = document.createElement('tr');
       const savingNum = parseFloat(d.saving) || 0;
       const savingHtml = savingNum > 0
-        ? `<span class="saving-pill">-£${savingNum.toFixed(2)}</span>`
+        ? `<span class="saving-pill">SAVE&#8239;£${savingNum.toFixed(2)}!</span>`
         : `<span class="saving-pill zero">---</span>`;
       const storeCls = 'store-' + (d.store || '').toLowerCase().replace(/[^a-z]/g, '');
       const cat = d.category || 'other';
@@ -810,7 +809,7 @@
         <td class="deal-price-cell">
           <div class="deal-promo">${esc(d.promotion)}</div>
           ${d.price && !/\bwas\b/i.test(d.promotion || '') ? `<div class="deal-was">${esc(d.price)}</div>` : ''}
-          ${savingNum > 0 ? `<div class="deal-saving">-£${savingNum.toFixed(2)}</div>` : ''}
+          ${savingNum > 0 ? `<div class="deal-saving">SAVE&#8239;£${savingNum.toFixed(2)}!</div>` : ''}
         </td>
       `;
       frag.appendChild(tr);
