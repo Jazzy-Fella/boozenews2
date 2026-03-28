@@ -122,7 +122,7 @@
       align-items: center;
       justify-content: center;
       position: sticky;
-      top: 33px;
+      top: 32px;
       z-index: 99;
     }
 
@@ -195,6 +195,11 @@
       flex: 1;
       background: var(--tt-black);
       border: 2px solid var(--tt-red);
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Ccircle cx='6' cy='6' r='4' stroke='%23444' stroke-width='2' fill='none'/%3E%3Cline x1='9.5' y1='9.5' x2='14' y2='14' stroke='%23444' stroke-width='2' stroke-linecap='square'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: 8px center;
+      background-size: 16px 16px;
+      padding-left: 32px;
       color: var(--tt-yellow);
       font-family: var(--font);
       font-size: 1.1rem;
@@ -370,7 +375,7 @@
       20%  { opacity: 0.94; }
       21%  { opacity: 1; }
       49%  { opacity: 1; }
-      50%  { opacity: 0.97; }
+      50%  { opacity: 0.94; }
       51%  { opacity: 1; }
       74%  { opacity: 1; }
       75%  { opacity: 0.95; }
@@ -385,9 +390,9 @@
       background: repeating-linear-gradient(
         to bottom,
         transparent 0px,
-        transparent 2px,
-        rgba(0,0,0,0.08) 2px,
-        rgba(0,0,0,0.08) 3px
+        transparent 3px,
+        rgba(0,0,0,0.10) 3px,
+        rgba(0,0,0,0.10) 4px
       );
       animation: flicker 6s infinite;
     }
@@ -572,7 +577,7 @@
     <div class="tt-nav-search">
       <div class="tt-search-wrap">
         <label for="search">SEARCH:</label>
-        <input type="search" id="search" placeholder="TYPE HERE" autocomplete="off" />
+        <input type="search" id="search" placeholder="" autocomplete="off" />
       </div>
       <div class="result-info" id="result-info"></div>
     </div>
