@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-30T08:42:24.411188+00:00",
-  "total": 1779,
+  "updated": "2026-03-30T09:05:27.263460+00:00",
+  "total": 1777,
   "deals": [
     {
       "store": "Tesco",
@@ -1660,15 +1660,6 @@
     },
     {
       "store": "Tesco",
-      "category": "other",
-      "title": "Ciroc Cosmopolitan 500ml",
-      "price": "£16.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 6.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316545459"
-    },
-    {
-      "store": "Tesco",
       "category": "spirits",
       "title": "Disaronno Originale 1 Litre",
       "price": "£27.25",
@@ -2890,15 +2881,6 @@
       "promotion": "£18.25 Clubcard Price",
       "saving": 4.25,
       "link": "https://www.tesco.com/groceries/en-GB/products/314929147"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Hotel Chocolat Velvetised Chocolate Cream 500ml",
-      "price": "£22.50",
-      "promotion": "£18.25 Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310130357"
     },
     {
       "store": "Morrisons",
