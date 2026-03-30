@@ -164,6 +164,134 @@ def detect_category(name: str) -> str:
     return "other"
 
 
+# ── Sainsbury's ────────────────────────────────────────────────────────────────
+
+SAINSBURYS_BASE   = "https://www.sainsburys.co.uk"
+SAINSBURYS_OFFERS = f"{SAINSBURYS_BASE}/gol-ui/offers/beers-wines-spirits"
+SAINSBURYS_API    = f"{SAINSBURYS_BASE}/groceries-api/gol-services/product/v1/product"
+
+
+def _parse_sainsburys_product(prod: dict) -> dict | None:
+    name = prod.get("name", "")
+    if not name:
+        return None
+
+    full_url = prod.get("full_url", SAINSBURYS_BASE)
+    retail    = prod.get("retail_price", {})
+    price     = float(retail.get("price") or 0)
+
+    # Determine promo text and saving from promotions array
+    promotions = prod.get("promotions") or []
+    promo_text = ""
+    saving     = 0.0
+    was_price  = 0.0
+
+    if promotions:
+        p0          = promotions[0]
+        strap       = p0.get("strap_line", "")
+        was_retail  = p0.get("was_retail_price") or {}
+        was_price   = float(was_retail.get("price") or 0)
+
+        if was_price and price:
+            saving     = round(max(was_price - price, 0), 2)
+            promo_text = strap or f"Now £{price:.2f}, Was £{was_price:.2f}"
+        elif strap:
+            promo_text = strap
+            saving     = calc_saving(price, strap)
+
+    if saving <= 0:
+        return None
+
+    return {
+        "store":     "Sainsburys",
+        "category":  detect_category(name),
+        "title":     name,
+        "price":     f"£{was_price:.2f}" if was_price else (f"£{price:.2f}" if price else ""),
+        "promotion": promo_text,
+        "saving":    saving,
+        "link":      full_url,
+    }
+
+
+def scrape_sainsburys(page) -> list:
+    log.info("  Loading Sainsbury's…")
+
+    # Intercept the product API response fired by the page
+    captured_pages: list[dict] = []
+
+    def handle_response(response):
+        url = response.url
+        if "/product/v1/product?" in url and "page_number" in url and "/sponsored" not in url:
+            try:
+                data = response.json()
+                if isinstance(data, dict) and data.get("products"):
+                    captured_pages.append(data)
+            except Exception:
+                pass
+
+    page.on("response", handle_response)
+
+    # Visit homepage first to establish a real session
+    page.goto(SAINSBURYS_BASE, timeout=30_000)
+    page.wait_for_load_state("networkidle", timeout=20_000)
+    for selector in ["button:has-text('Continue and accept')", "button:has-text('Accept all')"]:
+        try:
+            page.click(selector, timeout=4_000)
+            page.wait_for_timeout(1_000)
+            break
+        except Exception:
+            pass
+
+    # Navigate to the BWS offers page
+    page.goto(SAINSBURYS_OFFERS, timeout=30_000)
+    page.wait_for_load_state("networkidle", timeout=25_000)
+    page.evaluate("window.scrollBy(0, 1500)")
+    page.wait_for_timeout(2_000)
+
+    if not captured_pages:
+        log.warning("    Sainsbury's: no product data captured (bot detection?)")
+        return []
+
+    first   = captured_pages[0]
+    total   = first.get("total_count", 0)
+    pg_size = len(first.get("products", []))
+    log.info(f"    Page 1: {pg_size} products (total={total})")
+
+    all_products = list(first.get("products", []))
+
+    # Fetch remaining pages through the established browser session
+    if pg_size > 0 and total > pg_size:
+        num_pages = (total + pg_size - 1) // pg_size
+        for pg in range(2, min(num_pages + 1, 20)):
+            url = (
+                f"{SAINSBURYS_API}?page_number={pg}&page_size={pg_size}"
+                "&filter[offer]=true&filter[category]=beers-wines-spirits"
+                "&sort_order=RELEVANCE"
+            )
+            try:
+                resp = page.request.get(url, headers={"Accept": "application/json"})
+                if resp.status == 200:
+                    data = resp.json()
+                    prods = data.get("products", [])
+                    all_products.extend(prods)
+                    log.info(f"    Page {pg}: {len(prods)} products")
+                else:
+                    log.warning(f"    Page {pg}: HTTP {resp.status}, stopping pagination")
+                    break
+            except Exception as exc:
+                log.warning(f"    Page {pg}: {exc}")
+                break
+            time.sleep(0.4)
+
+    deals = []
+    for prod in all_products:
+        deal = _parse_sainsburys_product(prod)
+        if deal:
+            deals.append(deal)
+
+    return deals
+
+
 # ── Morrisons ──────────────────────────────────────────────────────────────────
 
 MORRISONS_BASE = "https://groceries.morrisons.com"
@@ -508,6 +636,43 @@ def main():
         log.info(f"  ✓ {len(asda_deals)} deals from Asda")
     except Exception as exc:
         log.error(f"  ✗ Asda failed: {exc}")
+
+    # ── Sainsbury's (Playwright — response interception) ──
+    if HAS_PLAYWRIGHT:
+        log.info("\nScraping Sainsbury's…")
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--disable-blink-features=AutomationControlled",
+                        "--no-sandbox",
+                        "--disable-dev-shm-usage",
+                        "--disable-gpu",
+                    ],
+                )
+                ctx = browser.new_context(
+                    user_agent=(
+                        "Mozilla/5.0 (X11; Linux x86_64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/121.0.0.0 Safari/537.36"
+                    ),
+                    locale="en-GB",
+                    timezone_id="Europe/London",
+                )
+                ctx.add_init_script(
+                    'Object.defineProperty(navigator, "webdriver", {get: () => undefined})'
+                )
+                pg = ctx.new_page()
+                sainsburys_deals = scrape_sainsburys(pg)
+                browser.close()
+
+            all_deals.extend(sainsburys_deals)
+            log.info(f"  ✓ {len(sainsburys_deals)} deals from Sainsbury's")
+        except Exception as exc:
+            log.error(f"  ✗ Sainsbury's failed: {exc}")
+    else:
+        log.warning("\nSkipping Sainsbury's: playwright not installed")
 
     # ── Morrisons (Playwright — needs real browser cookies) ──
     if HAS_PLAYWRIGHT:
