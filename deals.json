@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-01T07:45:27.278328+00:00",
-  "total": 1791,
+  "updated": "2026-04-02T07:24:38.468629+00:00",
+  "total": 1799,
   "deals": [
     {
       "store": "Tesco",
@@ -226,6 +226,15 @@
       "promotion": "£30.00 Clubcard Price",
       "saving": 13.5,
       "link": "https://www.tesco.com/groceries/en-GB/products/314433762"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Jameson Black Barrel Triple Distilled Irish Whiskey",
+      "price": "£40.50",
+      "promotion": "£27.00 - More Card Price",
+      "saving": 13.5,
+      "link": "https://groceries.morrisons.com/products/jameson-black-barrel-triple-distilled-irish-whiskey/111124410"
     },
     {
       "store": "Morrisons",
@@ -804,6 +813,15 @@
       "link": "https://groceries.morrisons.com/products/chase-rhubarb-flavoured-premium-vodka/113042231"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Old Pulteney Twelve Years Old Single Malt Scotch Whisky 70cl",
+      "price": "£27.00",
+      "promotion": "Now £27.00, Was £36.25",
+      "saving": 9.25,
+      "link": "https://www.asda.com/groceries/product/x/x/1527016"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Bankhall Single Malt Whisky ",
@@ -1092,15 +1110,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7461422"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Chase Pink Grapefruit Gin 40% vol 70cl",
-      "price": "£29.50",
-      "promotion": "£21.25 Clubcard Price",
-      "saving": 8.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306647170"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Bolney Classic Cuvee ",
@@ -1144,15 +1153,6 @@
       "promotion": "£10.00 Clubcard Price",
       "saving": 8.0,
       "link": "https://www.tesco.com/groceries/en-GB/products/305832643"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Jack Daniel's Tennessee Whiskey 1L",
-      "price": "£26.00",
-      "promotion": "Now £26.00, Was £34.00",
-      "saving": 8.0,
-      "link": "https://www.asda.com/groceries/product/x/x/1652853"
     },
     {
       "store": "Morrisons",
@@ -1288,15 +1288,6 @@
       "promotion": "Now £15.00, Was £22.49",
       "saving": 7.49,
       "link": "https://www.asda.com/groceries/product/x/x/9254576"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Bombay Sapphire London Dry Gin, 100cl",
-      "price": "£23.00",
-      "promotion": "Now £23.00, Was £30.47",
-      "saving": 7.47,
-      "link": "https://www.asda.com/groceries/product/x/x/874056"
     },
     {
       "store": "Asda",
@@ -1578,15 +1569,6 @@
       "link": "https://groceries.morrisons.com/products/malibu-original-white-rum-with-coconut-flavour/113469227"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Absolut Original Swedish Vodka 1L",
-      "price": "£23.00",
-      "promotion": "Now £23.00, Was £29.73",
-      "saving": 6.73,
-      "link": "https://www.asda.com/groceries/product/x/x/1767911"
-    },
-    {
       "store": "Tesco",
       "category": "spirits",
       "title": "Baileys White Chocolate and Raspberry 500ml",
@@ -1612,15 +1594,6 @@
       "promotion": "£24.00 - More Card Price",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/caorunn-scottish-raspberry-gin/112632205"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Disaronno Originale Amaretto Liqueur 1L",
-      "price": "£21.00",
-      "promotion": "Now £21.00, Was £27.50",
-      "saving": 6.5,
-      "link": "https://www.asda.com/groceries/product/x/x/4781222"
     },
     {
       "store": "Tesco",
@@ -1675,15 +1648,6 @@
       "promotion": "£24.25 Clubcard Price",
       "saving": 6.25,
       "link": "https://www.tesco.com/groceries/en-GB/products/276771804"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Ciroc Cosmopolitan 500ml",
-      "price": "£16.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 6.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316545459"
     },
     {
       "store": "Tesco",
@@ -1760,7 +1724,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Amarone 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Amarone 75cl",
       "price": "£15.00",
       "promotion": "Now £15.00, Was £21.00",
       "saving": 6.0,
@@ -1819,6 +1783,15 @@
       "promotion": "£18.50 Clubcard Price",
       "saving": 6.0,
       "link": "https://www.tesco.com/groceries/en-GB/products/288953554"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Whiskey 1L",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £26.00",
+      "saving": 6.0,
+      "link": "https://www.asda.com/groceries/product/x/x/1652853"
     },
     {
       "store": "Tesco",
@@ -2064,24 +2037,6 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/273925686"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "The Kraken Black Spiced Rum 70cl",
-      "price": "£21.00",
-      "promotion": "Now £21.00, Was £26.50",
-      "saving": 5.5,
-      "link": "https://www.asda.com/groceries/product/x/x/4159070"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "The Kraken Black Spiced Rum Black Cherry & Madagascan Vanilla 70cl",
-      "price": "£21.00",
-      "promotion": "Now £21.00, Was £26.50",
-      "saving": 5.5,
-      "link": "https://www.asda.com/groceries/product/x/x/7625457"
-    },
-    {
       "store": "Tesco",
       "category": "spirits",
       "title": "The Kraken Black Spiced Rum Dark Caramel & Cornish Sea Salt 70cl",
@@ -2273,7 +2228,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Châteauneuf-du-Pape 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Châteauneuf-du-Pape 75cl",
       "price": "£15.00",
       "promotion": "Now £15.00, Was £20.00",
       "saving": 5.0,
@@ -4099,6 +4054,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Absolut Original Swedish Vodka 1L",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £23.00",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/1767911"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Belorante Pecorino 750ml",
       "price": "£7.00",
@@ -4114,6 +4078,15 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/7294558"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Bombay Sapphire London Dry Gin, 100cl",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £23.00",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/874056"
     },
     {
       "store": "Asda",
@@ -4141,15 +4114,6 @@
       "promotion": "Now £9.00, Was £12.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/3860530"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Captain Morgan Dark Rum Bottle 40% Vol 70Cl",
-      "price": "£19.75",
-      "promotion": "£16.75 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/256640881"
     },
     {
       "store": "Morrisons",
@@ -4537,6 +4501,15 @@
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.99,
       "link": "https://www.tesco.com/groceries/en-GB/products/313732035"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Antica Sambuca with Raspberry Flavour Liqueur 70cl",
+      "price": "£15.50",
+      "promotion": "Now £15.50, Was £18.48",
+      "saving": 2.98,
+      "link": "https://www.asda.com/groceries/product/x/x/9235655"
     },
     {
       "store": "Asda",
@@ -5187,6 +5160,15 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/305973510"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Inch's Medium Apple Cider Can 10x440ml",
+      "price": "£11.50",
+      "promotion": "£9.00 Clubcard Price",
+      "saving": 2.5,
+      "link": "https://www.tesco.com/groceries/en-GB/products/308088770"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Inzuzo Chenin Blanc ",
@@ -5473,15 +5455,6 @@
       "promotion": "£15.50 Clubcard Price",
       "saving": 2.5,
       "link": "https://www.tesco.com/groceries/en-GB/products/255486673"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Antica Sambuca with Raspberry Flavour Liqueur 70cl",
-      "price": "£16.00",
-      "promotion": "Now £16.00, Was £18.48",
-      "saving": 2.48,
-      "link": "https://www.asda.com/groceries/product/x/x/9235655"
     },
     {
       "store": "Asda",
@@ -6008,7 +5981,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Sicilian Reserve Red 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Sicilian Reserve Red 75cl",
       "price": "£9.00",
       "promotion": "Buy 6 Save 25%",
       "saving": 2.25,
@@ -6017,7 +5990,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Vouvray Chenin Blanc 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Vouvray Chenin Blanc 75cl",
       "price": "£9.00",
       "promotion": "Buy 6 Save 25%",
       "saving": 2.25,
@@ -6292,6 +6265,15 @@
       "promotion": "Any 4 for 3",
       "saving": 2.25,
       "link": "https://www.asda.com/groceries/product/x/x/9294477"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Skinny Premium Lager 12x330ml",
+      "price": "£15.75",
+      "promotion": "£13.50 Clubcard Price",
+      "saving": 2.25,
+      "link": "https://www.tesco.com/groceries/en-GB/products/322431695"
     },
     {
       "store": "Tesco",
@@ -6773,15 +6755,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Chablis 75cl",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £15.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9175862"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Crémant D'Alsace Brut 75cl",
       "price": "£10.00",
       "promotion": "Now £10.00, Was £12.00",
@@ -6791,7 +6764,16 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Côte De Beaune Villages 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Chablis 75cl",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £15.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9175862"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Exceptional by  Côte De Beaune Villages 75cl",
       "price": "£16.00",
       "promotion": "Now £16.00, Was £18.00",
       "saving": 2.0,
@@ -6800,7 +6782,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Montepulciano D'abruzzo 75cl",
       "price": "£8.00",
       "promotion": "Buy 6 Save 25%",
       "saving": 2.0,
@@ -6877,6 +6859,15 @@
       "promotion": "Any 2 for £20",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9233873"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hobgoblin Session IPA Ale Beer 10 x 440ml",
+      "price": "£10.50",
+      "promotion": "£8.50 Clubcard Price",
+      "saving": 2.0,
+      "link": "https://www.tesco.com/groceries/en-GB/products/316198224"
     },
     {
       "store": "Morrisons",
@@ -7421,7 +7412,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Old Vine Garnacha 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Old Vine Garnacha 75cl",
       "price": "£7.00",
       "promotion": "Buy 6 Save 25%",
       "saving": 1.75,
@@ -7453,6 +7444,15 @@
       "promotion": "£16.25 - More Card Price",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/grant-s-blended-scotch-whisky/101564104"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Henry Westons Medium Dry Organic Cider 3 Litres",
+      "price": "£9.25",
+      "promotion": "£7.50 Clubcard Price",
+      "saving": 1.75,
+      "link": "https://www.tesco.com/groceries/en-GB/products/311260792"
     },
     {
       "store": "Asda",
@@ -7498,6 +7498,15 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/northern-monk-heathen-club-hazy-pale-abv-4-6/113201474"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "St Austell Brewery Tribute Pale Ale 10 X 440Ml",
+      "price": "£13.00",
+      "promotion": "£11.25 Clubcard Price",
+      "saving": 1.75,
+      "link": "https://www.tesco.com/groceries/en-GB/products/312360142"
     },
     {
       "store": "Morrisons",
@@ -7943,7 +7952,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Sancerre Val De Loire 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Sancerre Val De Loire 75cl",
       "price": "£15.00",
       "promotion": "Now £15.00, Was £16.50",
       "saving": 1.5,
@@ -8085,6 +8094,15 @@
       "link": "https://groceries.morrisons.com/products/northern-monk-timothy-taylors-northern-rising-stout/114290464"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Old Speckled Hen Pale Ale 10 X 440Ml",
+      "price": "£12.75",
+      "promotion": "£11.25 Clubcard Price",
+      "saving": 1.5,
+      "link": "https://www.tesco.com/groceries/en-GB/products/313857319"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Passoa Passion Fruit Liqueur",
@@ -8119,24 +8137,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/sharps-atlantic/112524271"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tw Kempton Cherry Marshmallow Gin Liqueur 50Cl",
-      "price": "£9.00",
-      "promotion": "£7.50 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314685699"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "TW Kempton Rhubarb & Ginger Gin Liqueur 50cl",
-      "price": "£9.00",
-      "promotion": "£7.50 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/301969885"
     },
     {
       "store": "Asda",
@@ -8310,6 +8310,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/7320213"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Antica Sambuca Classic 70cl",
+      "price": "£15.50",
+      "promotion": "Now £15.50, Was £16.90",
+      "saving": 1.4,
+      "link": "https://www.asda.com/groceries/product/x/x/4046058"
+    },
+    {
       "store": "Tesco",
       "category": "beer",
       "title": "Heineken Lager Beer Can 6x330ml",
@@ -8355,6 +8364,15 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/301839383"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Greene King IPA 4X500Ml Cans",
+      "price": "£5.00",
+      "promotion": "£3.65 Save 25% Clubcard Price",
+      "saving": 1.35,
+      "link": "https://www.tesco.com/groceries/en-GB/products/251442812"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Merrydown Original Vintage Apple Cider 750ml",
@@ -8380,6 +8398,15 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.35,
       "link": "https://groceries.morrisons.com/products/st-austell-brewery-proper-job-cornish-ipa/111414484"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Famous Grouse Blended Scotch Whisky 350ml",
+      "price": "£9.95",
+      "promotion": "Now £9.95, Was £11.28",
+      "saving": 1.33,
+      "link": "https://www.asda.com/groceries/product/x/x/1979"
     },
     {
       "store": "Tesco",
@@ -9435,6 +9462,15 @@
       "link": "https://groceries.morrisons.com/products/damm-lemon-lemon-flavoured-beer-4-x-330ml/115081736"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Disaronno Originale Amaretto Liqueur 1L",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £21.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4781222"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Donovan's Hot Cross Bun Country Cream 70cl",
@@ -9721,6 +9757,33 @@
       "promotion": "£5.85 Clubcard Price",
       "saving": 1.0,
       "link": "https://www.tesco.com/groceries/en-GB/products/322766125"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Kraken Black Spiced Rum 70cl",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £21.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4159070"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Kraken Black Spiced Rum Black Cherry & Madagascan Vanilla 70cl",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £21.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7625457"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "The Kraken Dark Caramel and Cornish Sea Salt, Limited Edition 70cl",
+      "price": "£20.00",
+      "promotion": "Now £20.00, Was £21.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9296611"
     },
     {
       "store": "Morrisons",
@@ -10443,15 +10506,6 @@
       "link": "https://groceries.morrisons.com/products/absolut-vodka-sprite-watermelon-pre-mixed-can-250ml/115023350"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Antica Sambuca Classic 70cl",
-      "price": "£16.00",
-      "promotion": "Now £16.00, Was £16.90",
-      "saving": 0.9,
-      "link": "https://www.asda.com/groceries/product/x/x/4046058"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Archers Schnapps with Lemonade",
@@ -10659,6 +10713,15 @@
       "link": "https://groceries.morrisons.com/products/carlsberg-danish-pilsner-lager-beer-cans/113528784"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Double Diamond Beer 4x440ml",
+      "price": "£5.85",
+      "promotion": "£5.00 Clubcard Price",
+      "saving": 0.85,
+      "link": "https://www.tesco.com/groceries/en-GB/products/321966719"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Edinburgh Gin Rhubarb & Ginger Gin Liqueur ",
@@ -10783,6 +10846,15 @@
       "promotion": "Now £4.65, Was £5.50",
       "saving": 0.85,
       "link": "https://groceries.morrisons.com/products/skinny-premium-lager-4-x-330ml/115339194"
+    },
+    {
+      "store": "Tesco",
+      "category": "other",
+      "title": "St Austells Tribute 4X500ml",
+      "price": "£6.35",
+      "promotion": "£5.50 Clubcard Price",
+      "saving": 0.85,
+      "link": "https://www.tesco.com/groceries/en-GB/products/259129837"
     },
     {
       "store": "Asda",
@@ -10954,6 +11026,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.8,
       "link": "https://www.asda.com/groceries/product/x/x/9233533"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hobgoblin Amber Ale Beer Can 4x568ml",
+      "price": "£6.15",
+      "promotion": "£5.35 Clubcard Price",
+      "saving": 0.8,
+      "link": "https://www.tesco.com/groceries/en-GB/products/321221651"
     },
     {
       "store": "Morrisons",
@@ -11397,6 +11478,15 @@
       "link": "https://groceries.morrisons.com/products/southern-comfort-lemonade-lime-abv-5/109752847"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "St Austell Brewery Anthem Session Pale Ale 3.4% 4x440ml",
+      "price": "£4.55",
+      "promotion": "£3.80 Clubcard Price",
+      "saving": 0.75,
+      "link": "https://www.tesco.com/groceries/en-GB/products/321050645"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Stella Artois Unfiltered Can ",
@@ -11575,15 +11665,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.7,
       "link": "https://groceries.morrisons.com/products/white-claw-watermelon/113698337"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Whyte & Mackay Blended Scotch Whisky 35cl",
-      "price": "£9.75",
-      "promotion": "Now £9.75, Was £10.44",
-      "saving": 0.69,
-      "link": "https://www.asda.com/groceries/product/x/x/2576302"
     },
     {
       "store": "Morrisons",
@@ -13838,6 +13919,15 @@
     {
       "store": "Tesco",
       "category": "beer",
+      "title": "BrewDog Cold Beer 4 x 440ml",
+      "price": "£4.00",
+      "promotion": "£3.50 Clubcard Price",
+      "saving": 0.5,
+      "link": "https://www.tesco.com/groceries/en-GB/products/316062523"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
       "title": "BrewDog Cold Beer Peach Lager 4 x440ml",
       "price": "£4.00",
       "promotion": "£3.50 Clubcard Price",
@@ -14509,15 +14599,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.43,
       "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-large-bottle-650ml/101576931"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henry Westons Vintage Pear Cider 500ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315846370"
     },
     {
       "store": "Tesco",
@@ -16102,15 +16183,6 @@
       "promotion": "Now £19.97, Was £20.00",
       "saving": 0.03,
       "link": "https://www.asda.com/groceries/product/x/x/5949938"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "The Famous Grouse Blended Scotch Whisky 350ml",
-      "price": "£11.25",
-      "promotion": "Now £11.25, Was £11.28",
-      "saving": 0.03,
-      "link": "https://www.asda.com/groceries/product/x/x/1979"
     },
     {
       "store": "Asda",
