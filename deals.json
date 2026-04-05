@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-04T07:11:28.125352+00:00",
-  "total": 1766,
+  "updated": "2026-04-05T07:18:15.198883+00:00",
+  "total": 1767,
   "deals": [
     {
       "store": "Tesco",
@@ -2287,15 +2287,6 @@
       "promotion": "Now £15.50, Was £20.50",
       "saving": 5.0,
       "link": "https://www.asda.com/groceries/product/x/x/7531695"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Jim Beam Orange Liqueur 70CL",
-      "price": "£20.50",
-      "promotion": "£15.50 - More Card Price",
-      "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/jim-beam-orange-liqueur-70cl/113051120"
     },
     {
       "store": "Asda",
@@ -6456,6 +6447,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9244383"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "19 Crimes The Uprising Chard 750ml",
+      "price": "£8.25",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 2.06,
+      "link": "https://www.asda.com/groceries/product/x/x/9026213"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Organic Montepulciano D'Abruzzo 75cl",
@@ -7291,15 +7291,6 @@
       "promotion": "Now £8.00, Was £9.75",
       "saving": 1.75,
       "link": "https://www.asda.com/groceries/product/x/x/6579367"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "19 Crimes The Uprising Chard 750ml",
-      "price": "£7.00",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 1.75,
-      "link": "https://www.asda.com/groceries/product/x/x/9026213"
     },
     {
       "store": "Tesco",
@@ -12468,6 +12459,15 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/308109827"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Keo Beer 630ml",
+      "price": "£2.80",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.63,
+      "link": "https://www.tesco.com/groceries/en-GB/products/271384222"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Leffe Blonde ",
@@ -12673,6 +12673,15 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/crabbies-ginger-beer/113977707"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Fuller's Griffin Gold Golden Ale Beer 500ml",
+      "price": "£1.60",
+      "promotion": "£1.00 Clubcard Price",
+      "saving": 0.6,
+      "link": "https://www.tesco.com/groceries/en-GB/products/317854380"
     },
     {
       "store": "Asda",
