@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-11T07:10:56.184592+00:00",
-  "total": 1579,
+  "updated": "2026-04-12T07:25:14.663170+00:00",
+  "total": 1580,
   "deals": [
     {
       "store": "Tesco",
@@ -1913,15 +1913,6 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Nemiroff De Luxe Premium Vodka 1000ml",
-      "price": "£23.00",
-      "promotion": "Now £23.00, Was £27.94",
-      "saving": 4.94,
-      "link": "https://www.asda.com/groceries/product/x/x/9028530"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
       "title": "Jameson Triple Distilled Blended Irish Whiskey 70cl",
       "price": "£21.00",
       "promotion": "Now £21.00, Was £25.87",
@@ -2044,15 +2035,6 @@
       "promotion": "Now £19.50, Was £24",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/bacardi-spiced-premium-rum-spirit-drink/110620729"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brewdog Lost Lager 10X440ml",
-      "price": "£13.50",
-      "promotion": "£9.00 Save 1/3 Clubcard Price",
-      "saving": 4.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307750039"
     },
     {
       "store": "Tesco",
@@ -2440,15 +2422,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/brewdog-mix-beer-cans/112146469"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brewdog Punk Ipa 12X330ml",
-      "price": "£17.00",
-      "promotion": "£13.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307143689"
     },
     {
       "store": "Asda",
@@ -4584,6 +4557,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9233873"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hobgoblin Session IPA Ale Beer 10 x 440ml",
+      "price": "£10.50",
+      "promotion": "£8.50 Clubcard Price",
+      "saving": 2.0,
+      "link": "https://www.tesco.com/groceries/en-GB/products/316198224"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Cloudy Cider 10x440ml",
@@ -4627,6 +4609,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/murphy-s-irish-stout-10x440ml/115026489"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Nemiroff De Luxe Premium Vodka 1000ml",
+      "price": "£23.00",
+      "promotion": "Now £23.00, Was £25.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9028530"
     },
     {
       "store": "Morrisons",
@@ -5034,6 +5025,15 @@
       "link": "https://groceries.morrisons.com/products/smirnoff-red-label-vodka/101547582"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "St Austell Brewery Tribute Pale Ale 10 X 440Ml",
+      "price": "£13.00",
+      "promotion": "£11.25 Clubcard Price",
+      "saving": 1.75,
+      "link": "https://www.tesco.com/groceries/en-GB/products/312360142"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "St Austell Tribute Pale Ale",
@@ -5374,15 +5374,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-12-x-440ml/115868416"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Jack Daniel's Tennessee Fire 1L 70 Proof",
-      "price": "£24.50",
-      "promotion": "Now £24.50, Was £26.00",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9246858"
     },
     {
       "store": "Morrisons",
@@ -10571,6 +10562,15 @@
     {
       "store": "Tesco",
       "category": "beer",
+      "title": "Cornish Rattler Apple Cider 500Ml Bottle",
+      "price": "£2.80",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.63,
+      "link": "https://www.tesco.com/groceries/en-GB/products/262019572"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
       "title": "Corona Extra Lager 620Ml",
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
@@ -10639,6 +10639,15 @@
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
       "link": "https://www.tesco.com/groceries/en-GB/products/308109827"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Keo Beer 630ml",
+      "price": "£2.80",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.63,
+      "link": "https://www.tesco.com/groceries/en-GB/products/271384222"
     },
     {
       "store": "Morrisons",
