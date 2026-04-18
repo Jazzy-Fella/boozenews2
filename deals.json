@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17T08:00:08.384644+00:00",
-  "total": 1532,
+  "updated": "2026-04-18T07:20:16.174862+00:00",
+  "total": 1504,
   "deals": [
     {
       "store": "Tesco",
@@ -379,15 +379,6 @@
       "promotion": "Now £25, Was £36.50",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/brockmans-premium-gin-abv-40-70cl/109934739"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Grey Goose L'original Vodka 700Ml",
-      "price": "£42.50",
-      "promotion": "£31.00 Clubcard Price",
-      "saving": 11.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255705185"
     },
     {
       "store": "Tesco",
@@ -2154,15 +2145,6 @@
       "link": "https://groceries.morrisons.com/products/relais-du-roi-principaute-d-orange-rouge/114293235"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Stoli The Original Premium Vodka 70cl",
-      "price": "£22.50",
-      "promotion": "£18.00 Clubcard Price",
-      "saving": 4.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/256914391"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tequila Rose Strawberry Cream Liqueur 50CL",
@@ -2433,6 +2415,15 @@
       "link": "https://groceries.morrisons.com/products/brewdog-mix-beer-cans/112146469"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "BrewDog Wingman IPA 12 x330ml",
+      "price": "£17.00",
+      "promotion": "£13.00 Clubcard Price",
+      "saving": 4.0,
+      "link": "https://www.tesco.com/groceries/en-GB/products/315342171"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Carling Original Lager Beer Can 18 x 440ml",
@@ -2647,15 +2638,6 @@
       "promotion": "£13.00 Clubcard Price",
       "saving": 3.75,
       "link": "https://www.tesco.com/groceries/en-GB/products/311680104"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "BrewDog Hazy Jane Beer Cans ",
-      "price": "£16.75",
-      "promotion": "Now £13, Was £16.75",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/brewdog-hazy-jane-beer-cans/111194830"
     },
     {
       "store": "Morrisons",
@@ -3083,7 +3065,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Aperol Alcoholic Aperitif 70cl",
+      "title": "Aperol Aperitivo, 11% ABV - Italian Spritz Cocktail 70cl",
       "price": "£10.00",
       "promotion": "Now £10.00, Was £13.00",
       "saving": 3.0,
@@ -3245,7 +3227,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "John Smith's John Smiths Beer Extra Smooth Pale Ale 15 x 440 ml",
+      "title": "John Smith's Beer Extra Smooth Pale Ale 15 x 440 ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
       "saving": 3.0,
@@ -4539,15 +4521,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9028530"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Northern Monk Eternal Session IPA 4x330ml",
-      "price": "£7.00",
-      "promotion": "Now £5, Was £7",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/northern-monk-eternal-session-ipa-4x330ml/108941064"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Northern Monk Outcast Nova Gigantic Double Hazy IPA 440ml",
@@ -4756,15 +4729,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Brewgooder Dripp Passionfruit Fruit Beer 440ml",
-      "price": "£3.30",
-      "promotion": "Now £1.50, Was £3.30",
-      "saving": 1.8,
-      "link": "https://groceries.morrisons.com/products/brewgooder-dripp-passionfruit-fruit-beer-440ml/115075985"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Morrisons Peach Bellini Sprits ",
       "price": "£6.00",
@@ -4845,15 +4809,6 @@
       "link": "https://groceries.morrisons.com/products/boddingtons/113370657"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "Every Minute Matters Cali 440",
-      "price": "£3.75",
-      "promotion": "Any 5 for £10",
-      "saving": 1.75,
-      "link": "https://www.asda.com/groceries/product/x/x/9352145"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Gordon's Special London Dry Gin",
@@ -4917,6 +4872,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9366368"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Siren Craft Brew Every Minute Matters Cali 440",
+      "price": "£3.75",
+      "promotion": "Any 5 for £10",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9352145"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Smirnoff  Red Label Vodka",
@@ -4951,15 +4915,6 @@
       "promotion": "Now £9.25, Was £11",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/thatchers-gold-medium-dry-cider-cans/105790070"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Vocation Brewery Heart & Soul Session IPA 4x330ml",
-      "price": "£7.00",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.75,
-      "link": "https://groceries.morrisons.com/products/vocation-brewery-heart-soul-session-ipa-4x330ml/114864181"
     },
     {
       "store": "Tesco",
@@ -5023,15 +4978,6 @@
       "promotion": "Any 3 for £5",
       "saving": 1.65,
       "link": "https://www.asda.com/groceries/product/x/x/9226918"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "BrewDog Punk Ipa",
-      "price": "£3.80",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 1.63,
-      "link": "https://groceries.morrisons.com/products/brewdog-punk-ipa/111347875"
     },
     {
       "store": "Tesco",
@@ -5232,22 +5178,22 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/294190721"
     },
     {
-      "store": "Morrisons",
+      "store": "Tesco",
       "category": "other",
-      "title": "Brixton Brewery Atlantic A.P.A. ",
-      "price": "£6.75",
-      "promotion": "Buy 2 for £10.50",
+      "title": "BrewDog Mello Lime & Mint 4 x 330ml",
+      "price": "£6.50",
+      "promotion": "£5.00 Clubcard Price",
       "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/brixton-brewery-atlantic-a-p-a/112391018"
+      "link": "https://www.tesco.com/groceries/en-GB/products/322337904"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brixton Brewery Reliance Pale Ale ",
-      "price": "£6.75",
-      "promotion": "Buy 2 for £10.50",
+      "store": "Tesco",
+      "category": "other",
+      "title": "BrewDog Mello Peach and Passionfruit 4 x330ml",
+      "price": "£6.50",
+      "promotion": "£5.00 Clubcard Price",
       "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/brixton-brewery-reliance-pale-ale/112391093"
+      "link": "https://www.tesco.com/groceries/en-GB/products/322553728"
     },
     {
       "store": "Morrisons",
@@ -5917,15 +5863,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "BrewDog Hazy Jane Guava",
-      "price": "£6.50",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/brewdog-hazy-jane-guava/112393814"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "BrewDog Punk Ipa Beer Cans ",
       "price": "£6.50",
@@ -5968,15 +5905,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/budweiser-budvar-original-lager/114011306"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Camden Eazy",
-      "price": "£6.50",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/camden-eazy/113717737"
     },
     {
       "store": "Morrisons",
@@ -6708,15 +6636,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9271126"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Mahou 660ml",
-      "price": "£3.20",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 1.03,
-      "link": "https://groceries.morrisons.com/products/mahou-660ml/114766346"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Tiny Rebel Clwb Tropical Tropical IPA 440ml",
@@ -6746,7 +6665,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "ASDA x St Ives Sour 440ml",
+      "title": "ASDA No.8 St. Ives Brewery Berry Sour 440ml",
       "price": "£3.02",
       "promotion": "Any 5 for £10",
       "saving": 1.02,
@@ -6861,15 +6780,6 @@
       "link": "https://groceries.morrisons.com/products/abbot-ale-cans/101576703"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Adnams Ghost Ship Beer Can 4.5%",
-      "price": "£6.25",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/adnams-ghost-ship-beer-can-4-5/105613330"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Adnams Southwold Ghost Ship Beyond the Pale Ale 440ml",
@@ -6967,15 +6877,6 @@
       "promotion": "Any 2 for £10",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9339246"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Brewdog Juice Shack 4x330ml",
-      "price": "£6.25",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/brewdog-juice-shack-4x330ml/114847963"
     },
     {
       "store": "Tesco",
@@ -7734,15 +7635,6 @@
       "link": "https://www.tesco.com/groceries/en-GB/products/257810454"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Camden Hells Lager 660Ml (Abv 4.6%)",
-      "price": "£3.10",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 0.93,
-      "link": "https://groceries.morrisons.com/products/camden-hells-lager-660ml-abv-4-6/109830067"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Desperados Original Beer Lager Bottles 3 x 330ml",
@@ -7816,15 +7708,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Bath Ales Gem            ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/bath-ales-gem/106815574"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Brakspear Oxford Gold Beer Bottle",
       "price": "£2.80",
@@ -7849,15 +7732,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.92,
       "link": "https://groceries.morrisons.com/products/clogwyn-gold-4/107164902"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Conwy Brewery Welsh Pride   500ml",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/conwy-brewery-welsh-pride-500ml/107164718"
     },
     {
       "store": "Morrisons",
@@ -7912,15 +7786,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.92,
       "link": "https://groceries.morrisons.com/products/hopnik-citra-ipa-beer-bottle/110600437"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Ilkley Mary Jane 3.4%",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/ilkley-mary-jane-3-4/104125334"
     },
     {
       "store": "Morrisons",
@@ -8571,6 +8436,24 @@
       "link": "https://groceries.morrisons.com/products/lilley-s-bee-sting-lightly-sparkled-perry-bottle/112601548"
     },
     {
+      "store": "Tesco",
+      "category": "other",
+      "title": "Mahou Cerveza Especial Madrid 660ml",
+      "price": "£3.00",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.83,
+      "link": "https://www.tesco.com/groceries/en-GB/products/323862827"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Mythos Premium Greek Lager Beer Bottle 660ml",
+      "price": "£3.00",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.83,
+      "link": "https://www.tesco.com/groceries/en-GB/products/323924628"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Peroni Nastro Azzurro Bottled Beer Lager Large",
@@ -8833,15 +8716,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Brooklyn Pilsner Lager 4x440ml",
-      "price": "£6.00",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/brooklyn-pilsner-lager-4x440ml/113916082"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Campaneo Old Vines Garnacha",
       "price": "£6.75",
@@ -8938,15 +8812,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.75,
       "link": "https://www.asda.com/groceries/product/x/x/9371306"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Greene King Prior Life All Day IPA 4x330ml",
-      "price": "£4.50",
-      "promotion": "Now £3.75, Was £4.50",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/greene-king-prior-life-all-day-ipa-4x330ml/114866339"
     },
     {
       "store": "Asda",
@@ -9464,15 +9329,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Lilley's Passion Fruit Martini Cider Lightly Sparkled ",
-      "price": "£2.85",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 0.68,
-      "link": "https://groceries.morrisons.com/products/lilley-s-passion-fruit-martini-cider-lightly-sparkled/113758344"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Lilley's Raspberry Lemonade Cider Lightly Sparkled ",
       "price": "£2.85",
       "promotion": "Buy 3 for £6.50",
@@ -9635,15 +9491,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Adnams Broadside   ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/adnams-broadside/101584711"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Arran Blonde 5%",
       "price": "£2.55",
       "promotion": "Buy 4 for £7.50",
@@ -9680,29 +9527,11 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Badger The Blandford Fly Golden Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/badger-the-blandford-fly-golden-ale/101525210"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Badger The Cranborne Poacher Ruby Ale",
       "price": "£2.55",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.67,
       "link": "https://groceries.morrisons.com/products/badger-the-cranborne-poacher-ruby-ale/101530140"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Batemans Victory Ale Bottle",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/batemans-victory-ale-bottle/101584691"
     },
     {
       "store": "Morrisons",
@@ -9914,15 +9743,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Loch Ness Brewery Hoppy Ness India Pale Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/loch-ness-brewery-hoppy-ness-india-pale-ale/110286839"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Newcastle Brown Ale Bottle",
       "price": "£2.55",
       "promotion": "Buy 4 for £7.50",
@@ -9982,24 +9802,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.67,
       "link": "https://groceries.morrisons.com/products/purity-brewing-co-mad-goose-pale-ale/108160760"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Purity Brewing Co. Pure Gold Premium Golden Ale Beer Bottle ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/purity-brewing-co-pure-gold-premium-golden-ale-beer-bottle/111815747"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Red Macgregor   ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/red-macgregor/106818871"
     },
     {
       "store": "Morrisons",
@@ -11146,21 +10948,21 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Henry Westons British Vintage Cider 500ml",
+      "price": "£2.30",
+      "promotion": "Any 4 for £7",
+      "saving": 0.55,
+      "link": "https://www.asda.com/groceries/product/x/x/7631505"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Henry Westons Cloudy Vintage 500ml",
       "price": "£2.30",
       "promotion": "Any 4 for £7",
       "saving": 0.55,
       "link": "https://www.asda.com/groceries/product/x/x/6679982"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Henry Westons Medium Dry British Vintage 500ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7",
-      "saving": 0.55,
-      "link": "https://www.asda.com/groceries/product/x/x/7631505"
     },
     {
       "store": "Asda",
@@ -11206,15 +11008,6 @@
       "promotion": "£4.70 Clubcard Price",
       "saving": 0.55,
       "link": "https://www.tesco.com/groceries/en-GB/products/321051765"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Madri Exceptional Lager Beer Bottles 4x330ml",
-      "price": "£5.80",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 0.55,
-      "link": "https://groceries.morrisons.com/products/madri-exceptional-lager-beer-bottles-4x330ml/113119569"
     },
     {
       "store": "Asda",
@@ -11377,15 +11170,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.53,
       "link": "https://www.asda.com/groceries/product/x/x/3867155"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Kopparberg Pear Cider Bottle",
-      "price": "£2.70",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 0.53,
-      "link": "https://groceries.morrisons.com/products/kopparberg-pear-cider-bottle/101557385"
     },
     {
       "store": "Morrisons",
@@ -12216,15 +12000,6 @@
       "link": "https://groceries.morrisons.com/products/birrificio-angelo-poretti-italian-lager-beer-bottle/112386809"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brooklyn Brewery Pilsner Lager Beer Bottle",
-      "price": "£2.60",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 0.43,
-      "link": "https://groceries.morrisons.com/products/brooklyn-brewery-pilsner-lager-beer-bottle/112917884"
-    },
-    {
       "store": "Tesco",
       "category": "other",
       "title": "Budweiser 660Ml",
@@ -12394,15 +12169,6 @@
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
       "link": "https://www.tesco.com/groceries/en-GB/products/273614795"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Adnams Ghost Ship Bottle Beer 4.5%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/adnams-ghost-ship-bottle-beer-4-5/104069993"
     },
     {
       "store": "Morrisons",
@@ -12655,15 +12421,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/scottish-joker-ipa-5/105499928"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Spitfire Gold ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/spitfire-gold/107782145"
     },
     {
       "store": "Morrisons",
@@ -13618,15 +13375,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.19,
       "link": "https://www.asda.com/groceries/product/x/x/4957821"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brutal Fruit Ruby Apple Cider Bottle",
-      "price": "£2.35",
-      "promotion": "Buy 3 for £6.50",
-      "saving": 0.18,
-      "link": "https://groceries.morrisons.com/products/brutal-fruit-ruby-apple-cider-bottle/114233831"
     },
     {
       "store": "Tesco",
