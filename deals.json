@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20T08:21:45.099514+00:00",
-  "total": 1373,
+  "updated": "2026-04-21T08:04:26.061048+00:00",
+  "total": 1377,
   "deals": [
     {
       "store": "Morrisons",
@@ -12,6 +12,15 @@
       "link": "https://groceries.morrisons.com/products/cardhu-gold-reserve-single-malt-scotch-whisky/108233746"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Cardhu Gold Reserve Single Malt Scotch Whisky Bottle 40% Vol 70Cl",
+      "price": "£47.00",
+      "promotion": "£27.00 Clubcard Price",
+      "saving": 20.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/285694951"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "The Singleton Malt Master Single Malt Scotch Whisky 40% vol 70cl",
@@ -19,6 +28,15 @@
       "promotion": "Now £23.98, Was £41.40",
       "saving": 17.42,
       "link": "https://www.asda.com/groceries/product/x/x/6038784"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Singleton of Dufftown Malt Master's Whisky Bottle 40% Vol 70cl",
+      "price": "£41.00",
+      "promotion": "£25.00 Clubcard Price",
+      "saving": 16.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/299335434"
     },
     {
       "store": "Morrisons",
@@ -34,9 +52,9 @@
       "category": "spirits",
       "title": "Jura Cask Edition Single Malt Scotch Whisky - Rum Cask Finish 70cl",
       "price": "£41.25",
-      "promotion": "£27.00 Save 1/3 Clubcard Price",
-      "saving": 14.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317978538"
+      "promotion": "£26.00 Clubcard Price",
+      "saving": 15.25,
+      "link": "https://www.tesco.com/shop/en-GB/products/317978538"
     },
     {
       "store": "Asda",
@@ -50,11 +68,29 @@
     {
       "store": "Tesco",
       "category": "spirits",
+      "title": "Highland Park Malt Whisky 70Cl Bottle",
+      "price": "£47.50",
+      "promotion": "£33.50 Clubcard Price",
+      "saving": 14.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/256775750"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Jura Single Malt Scotch Whisky 70cl",
+      "price": "£45.00",
+      "promotion": "£31.00 Clubcard Price",
+      "saving": 14.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/310154107"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
       "title": "Botanist Islay Dry Gin 70Cl.",
       "price": "£41.00",
       "promotion": "£27.50 Clubcard Price",
       "saving": 13.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/281921802"
+      "link": "https://www.tesco.com/shop/en-GB/products/281921802"
     },
     {
       "store": "Asda",
@@ -81,7 +117,7 @@
       "price": "£39.50",
       "promotion": "£26.50 Clubcard Price",
       "saving": 13.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322345998"
+      "link": "https://www.tesco.com/shop/en-GB/products/322345998"
     },
     {
       "store": "Morrisons",
@@ -108,7 +144,7 @@
       "price": "£36.00",
       "promotion": "£23.00 Clubcard Price",
       "saving": 13.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313843407"
+      "link": "https://www.tesco.com/shop/en-GB/products/313843407"
     },
     {
       "store": "Tesco",
@@ -117,7 +153,7 @@
       "price": "£53.50",
       "promotion": "£40.50 Clubcard Price",
       "saving": 13.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/258244362"
+      "link": "https://www.tesco.com/shop/en-GB/products/258244362"
     },
     {
       "store": "Asda",
@@ -135,7 +171,7 @@
       "price": "£42.75",
       "promotion": "£30.00 Clubcard Price",
       "saving": 12.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/325039240"
+      "link": "https://www.tesco.com/shop/en-GB/products/325039240"
     },
     {
       "store": "Morrisons",
@@ -180,7 +216,7 @@
       "price": "£82.27",
       "promotion": "£69.99 Clubcard Price",
       "saving": 12.28,
-      "link": "https://www.tesco.com/groceries/en-GB/products/325839870?seller=trn:tesco:seller:uuid:009a7572-5b0a-4b76-8d54-7c27c6b198a1"
+      "link": "https://www.tesco.com/shop/en-GB/products/325839870?seller=trn:tesco:seller:uuid:009a7572-5b0a-4b76-8d54-7c27c6b198a1"
     },
     {
       "store": "Asda",
@@ -216,7 +252,7 @@
       "price": "£34.00",
       "promotion": "£22.00 Clubcard Price",
       "saving": 12.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/285845756"
+      "link": "https://www.tesco.com/shop/en-GB/products/285845756"
     },
     {
       "store": "Morrisons",
@@ -243,7 +279,7 @@
       "price": "£37.00",
       "promotion": "£25.50 Clubcard Price",
       "saving": 11.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/285331961"
+      "link": "https://www.tesco.com/shop/en-GB/products/285331961"
     },
     {
       "store": "Morrisons",
@@ -261,7 +297,7 @@
       "price": "£36.50",
       "promotion": "£25.00 Clubcard Price",
       "saving": 11.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313520067"
+      "link": "https://www.tesco.com/shop/en-GB/products/313520067"
     },
     {
       "store": "Tesco",
@@ -270,7 +306,16 @@
       "price": "£36.50",
       "promotion": "£25.00 Clubcard Price",
       "saving": 11.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310167547"
+      "link": "https://www.tesco.com/shop/en-GB/products/310167547"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wild Turkey 101 Kentucky Bourbon Whiskey 70cl",
+      "price": "£36.50",
+      "promotion": "£25.00 Clubcard Price",
+      "saving": 11.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/301745862"
     },
     {
       "store": "Tesco",
@@ -279,7 +324,7 @@
       "price": "£26.00",
       "promotion": "£15.00 Clubcard Price",
       "saving": 11.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322541967"
+      "link": "https://www.tesco.com/shop/en-GB/products/322541967"
     },
     {
       "store": "Morrisons",
@@ -315,7 +360,7 @@
       "price": "£44.50",
       "promotion": "£34.00 Clubcard Price",
       "saving": 10.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251552394"
+      "link": "https://www.tesco.com/shop/en-GB/products/251552394"
     },
     {
       "store": "Tesco",
@@ -324,7 +369,7 @@
       "price": "£35.50",
       "promotion": "£25.00 Clubcard Price",
       "saving": 10.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/266815631"
+      "link": "https://www.tesco.com/shop/en-GB/products/266815631"
     },
     {
       "store": "Asda",
@@ -360,7 +405,7 @@
       "price": "£34.50",
       "promotion": "£24.50 Clubcard Price",
       "saving": 10.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/290204287"
+      "link": "https://www.tesco.com/shop/en-GB/products/290204287"
     },
     {
       "store": "Tesco",
@@ -369,7 +414,7 @@
       "price": "£35.00",
       "promotion": "£25.00 Clubcard Price",
       "saving": 10.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/267214426"
+      "link": "https://www.tesco.com/shop/en-GB/products/267214426"
     },
     {
       "store": "Tesco",
@@ -378,7 +423,7 @@
       "price": "£38.00",
       "promotion": "£28.00 Save 25% Clubcard Price",
       "saving": 10.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/266816906"
+      "link": "https://www.tesco.com/shop/en-GB/products/266816906"
     },
     {
       "store": "Asda",
@@ -396,7 +441,7 @@
       "price": "£25.75",
       "promotion": "£16.00 Clubcard Price",
       "saving": 9.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321223655"
+      "link": "https://www.tesco.com/shop/en-GB/products/321223655"
     },
     {
       "store": "Asda",
@@ -414,7 +459,7 @@
       "price": "£39.50",
       "promotion": "£30.00 Clubcard Price",
       "saving": 9.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/279628965"
+      "link": "https://www.tesco.com/shop/en-GB/products/279628965"
     },
     {
       "store": "Morrisons",
@@ -441,7 +486,7 @@
       "price": "£23.50",
       "promotion": "£14.00 Clubcard Price",
       "saving": 9.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255250422"
+      "link": "https://www.tesco.com/shop/en-GB/products/255250422"
     },
     {
       "store": "Morrisons",
@@ -504,7 +549,7 @@
       "price": "£32.25",
       "promotion": "£23.00 Clubcard Price",
       "saving": 9.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322645384"
+      "link": "https://www.tesco.com/shop/en-GB/products/322645384"
     },
     {
       "store": "Asda",
@@ -531,7 +576,7 @@
       "price": "£31.50",
       "promotion": "£22.50 Clubcard Price",
       "saving": 9.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/301948772"
+      "link": "https://www.tesco.com/shop/en-GB/products/301948772"
     },
     {
       "store": "Tesco",
@@ -540,7 +585,7 @@
       "price": "£31.50",
       "promotion": "£22.50 Clubcard Price",
       "saving": 9.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/303986302"
+      "link": "https://www.tesco.com/shop/en-GB/products/303986302"
     },
     {
       "store": "Asda",
@@ -558,7 +603,7 @@
       "price": "£30.00",
       "promotion": "£21.00 Clubcard Price",
       "saving": 9.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/303215299"
+      "link": "https://www.tesco.com/shop/en-GB/products/303215299"
     },
     {
       "store": "Tesco",
@@ -567,7 +612,7 @@
       "price": "£30.00",
       "promotion": "£21.00 Clubcard Price",
       "saving": 9.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316186123"
+      "link": "https://www.tesco.com/shop/en-GB/products/316186123"
     },
     {
       "store": "Asda",
@@ -594,7 +639,7 @@
       "price": "£44.75",
       "promotion": "£36.00 Clubcard Price",
       "saving": 8.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250613779"
+      "link": "https://www.tesco.com/shop/en-GB/products/250613779"
     },
     {
       "store": "Morrisons",
@@ -612,7 +657,7 @@
       "price": "£27.50",
       "promotion": "£19.00 Clubcard Price",
       "saving": 8.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/279769279"
+      "link": "https://www.tesco.com/shop/en-GB/products/279769279"
     },
     {
       "store": "Morrisons",
@@ -630,7 +675,7 @@
       "price": "£29.50",
       "promotion": "£21.00 Clubcard Price",
       "saving": 8.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/268439480"
+      "link": "https://www.tesco.com/shop/en-GB/products/268439480"
     },
     {
       "store": "Tesco",
@@ -639,7 +684,7 @@
       "price": "£34.00",
       "promotion": "£25.50 Save 25% Clubcard Price",
       "saving": 8.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/299638715"
+      "link": "https://www.tesco.com/shop/en-GB/products/299638715"
     },
     {
       "store": "Tesco",
@@ -648,7 +693,7 @@
       "price": "£34.00",
       "promotion": "£25.50 Save 25% Clubcard Price",
       "saving": 8.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315453759"
+      "link": "https://www.tesco.com/shop/en-GB/products/315453759"
     },
     {
       "store": "Tesco",
@@ -657,7 +702,7 @@
       "price": "£32.00",
       "promotion": "£23.50 Save 25% Clubcard Price",
       "saving": 8.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/285970774"
+      "link": "https://www.tesco.com/shop/en-GB/products/285970774"
     },
     {
       "store": "Morrisons",
@@ -693,7 +738,7 @@
       "price": "£33.00",
       "promotion": "£25.00 Clubcard Price",
       "saving": 8.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305828643"
+      "link": "https://www.tesco.com/shop/en-GB/products/305828643"
     },
     {
       "store": "Tesco",
@@ -702,7 +747,7 @@
       "price": "£31.00",
       "promotion": "£23.00 Save 25% Clubcard Price",
       "saving": 8.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/252695240"
+      "link": "https://www.tesco.com/shop/en-GB/products/252695240"
     },
     {
       "store": "Tesco",
@@ -711,7 +756,7 @@
       "price": "£31.50",
       "promotion": "£23.50 Save 25% Clubcard Price",
       "saving": 8.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/256565653"
+      "link": "https://www.tesco.com/shop/en-GB/products/256565653"
     },
     {
       "store": "Tesco",
@@ -720,7 +765,7 @@
       "price": "£23.00",
       "promotion": "£15.00 Save 1/3 Clubcard Price",
       "saving": 8.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/309740780"
+      "link": "https://www.tesco.com/shop/en-GB/products/309740780"
     },
     {
       "store": "Tesco",
@@ -729,7 +774,7 @@
       "price": "£18.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 8.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305832643"
+      "link": "https://www.tesco.com/shop/en-GB/products/305832643"
     },
     {
       "store": "Morrisons",
@@ -761,11 +806,20 @@
     {
       "store": "Tesco",
       "category": "spirits",
+      "title": "Paddy Irish Whiskey 1L",
+      "price": "£27.75",
+      "promotion": "£20.00 Clubcard Price",
+      "saving": 7.75,
+      "link": "https://www.tesco.com/shop/en-GB/products/250836469"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
       "title": "Tequila Rose Strawberry Cream Liqueur 1L",
       "price": "£26.75",
       "promotion": "£19.00 Clubcard Price",
       "saving": 7.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317976811"
+      "link": "https://www.tesco.com/shop/en-GB/products/317976811"
     },
     {
       "store": "Morrisons",
@@ -783,7 +837,7 @@
       "price": "£26.50",
       "promotion": "£19.00 Clubcard Price",
       "saving": 7.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/271136868"
+      "link": "https://www.tesco.com/shop/en-GB/products/271136868"
     },
     {
       "store": "Morrisons",
@@ -810,7 +864,7 @@
       "price": "£27.50",
       "promotion": "£20.00 Clubcard Price",
       "saving": 7.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322757862"
+      "link": "https://www.tesco.com/shop/en-GB/products/322757862"
     },
     {
       "store": "Tesco",
@@ -819,7 +873,16 @@
       "price": "£46.50",
       "promotion": "£39.00 Clubcard Price",
       "saving": 7.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/300274556"
+      "link": "https://www.tesco.com/shop/en-GB/products/300274556"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Plymouth Gin 70Cl",
+      "price": "£29.50",
+      "promotion": "£22.00 Save 25% Clubcard Price",
+      "saving": 7.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/278452995"
     },
     {
       "store": "Tesco",
@@ -828,7 +891,7 @@
       "price": "£23.00",
       "promotion": "£15.50 Clubcard Price",
       "saving": 7.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251985123"
+      "link": "https://www.tesco.com/shop/en-GB/products/251985123"
     },
     {
       "store": "Morrisons",
@@ -855,16 +918,7 @@
       "price": "£22.25",
       "promotion": "£15.00 Clubcard Price",
       "saving": 7.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/303299499"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Early Times American Whiskey 1L",
-      "price": "£26.75",
-      "promotion": "£19.50 Clubcard Price",
-      "saving": 7.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322755858"
+      "link": "https://www.tesco.com/shop/en-GB/products/303299499"
     },
     {
       "store": "Tesco",
@@ -873,7 +927,7 @@
       "price": "£27.00",
       "promotion": "£20.00 Save 25% Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/259678371"
+      "link": "https://www.tesco.com/shop/en-GB/products/259678371"
     },
     {
       "store": "Tesco",
@@ -882,7 +936,7 @@
       "price": "£22.50",
       "promotion": "£15.50 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307138258"
+      "link": "https://www.tesco.com/shop/en-GB/products/307138258"
     },
     {
       "store": "Morrisons",
@@ -900,7 +954,7 @@
       "price": "£21.00",
       "promotion": "£14.00 Save 1/3 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/304388110"
+      "link": "https://www.tesco.com/shop/en-GB/products/304388110"
     },
     {
       "store": "Tesco",
@@ -909,7 +963,7 @@
       "price": "£25.50",
       "promotion": "£18.50 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305734539"
+      "link": "https://www.tesco.com/shop/en-GB/products/305734539"
     },
     {
       "store": "Tesco",
@@ -918,7 +972,7 @@
       "price": "£25.50",
       "promotion": "£18.50 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/274578121"
+      "link": "https://www.tesco.com/shop/en-GB/products/274578121"
     },
     {
       "store": "Morrisons",
@@ -954,7 +1008,7 @@
       "price": "£34.50",
       "promotion": "£27.50 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250835977"
+      "link": "https://www.tesco.com/shop/en-GB/products/250835977"
     },
     {
       "store": "Tesco",
@@ -963,7 +1017,7 @@
       "price": "£22.50",
       "promotion": "£15.50 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/254870847"
+      "link": "https://www.tesco.com/shop/en-GB/products/254870847"
     },
     {
       "store": "Asda",
@@ -981,7 +1035,7 @@
       "price": "£28.00",
       "promotion": "£21.00 Save 25% Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/304783517"
+      "link": "https://www.tesco.com/shop/en-GB/products/304783517"
     },
     {
       "store": "Tesco",
@@ -990,7 +1044,7 @@
       "price": "£37.00",
       "promotion": "£30.00 Clubcard Price",
       "saving": 7.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306936719"
+      "link": "https://www.tesco.com/shop/en-GB/products/306936719"
     },
     {
       "store": "Morrisons",
@@ -1035,7 +1089,7 @@
       "price": "£29.75",
       "promotion": "£23.00 Clubcard Price",
       "saving": 6.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255927642"
+      "link": "https://www.tesco.com/shop/en-GB/products/255927642"
     },
     {
       "store": "Tesco",
@@ -1044,7 +1098,7 @@
       "price": "£29.75",
       "promotion": "£23.00 Clubcard Price",
       "saving": 6.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312082396"
+      "link": "https://www.tesco.com/shop/en-GB/products/312082396"
     },
     {
       "store": "Tesco",
@@ -1053,7 +1107,7 @@
       "price": "£25.25",
       "promotion": "£18.50 Save 25% Clubcard Price",
       "saving": 6.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/259776963"
+      "link": "https://www.tesco.com/shop/en-GB/products/259776963"
     },
     {
       "store": "Tesco",
@@ -1062,7 +1116,7 @@
       "price": "£32.25",
       "promotion": "£25.50 Clubcard Price",
       "saving": 6.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311945307"
+      "link": "https://www.tesco.com/shop/en-GB/products/311945307"
     },
     {
       "store": "Morrisons",
@@ -1080,7 +1134,7 @@
       "price": "£26.75",
       "promotion": "£20.00 Save 25% Clubcard Price",
       "saving": 6.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317422197"
+      "link": "https://www.tesco.com/shop/en-GB/products/317422197"
     },
     {
       "store": "Tesco",
@@ -1089,7 +1143,7 @@
       "price": "£17.50",
       "promotion": "£11.00 Clubcard Price",
       "saving": 6.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323864981"
+      "link": "https://www.tesco.com/shop/en-GB/products/323864981"
     },
     {
       "store": "Morrisons",
@@ -1125,7 +1179,7 @@
       "price": "£25.50",
       "promotion": "£19.00 Save 25% Clubcard Price",
       "saving": 6.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255248604"
+      "link": "https://www.tesco.com/shop/en-GB/products/255248604"
     },
     {
       "store": "Morrisons",
@@ -1143,7 +1197,7 @@
       "price": "£25.00",
       "promotion": "£18.50 Save 25% Clubcard Price",
       "saving": 6.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250096284"
+      "link": "https://www.tesco.com/shop/en-GB/products/250096284"
     },
     {
       "store": "Asda",
@@ -1161,7 +1215,7 @@
       "price": "£20.00",
       "promotion": "£13.50 Clubcard Price",
       "saving": 6.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312340157"
+      "link": "https://www.tesco.com/shop/en-GB/products/312340157"
     },
     {
       "store": "Tesco",
@@ -1170,7 +1224,7 @@
       "price": "£26.25",
       "promotion": "£20.00 Clubcard Price",
       "saving": 6.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312227186"
+      "link": "https://www.tesco.com/shop/en-GB/products/312227186"
     },
     {
       "store": "Tesco",
@@ -1179,7 +1233,7 @@
       "price": "£26.25",
       "promotion": "£20.00 Clubcard Price",
       "saving": 6.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310695618"
+      "link": "https://www.tesco.com/shop/en-GB/products/310695618"
     },
     {
       "store": "Tesco",
@@ -1188,7 +1242,7 @@
       "price": "£36.50",
       "promotion": "£30.50 Clubcard Price",
       "saving": 6.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306945047"
+      "link": "https://www.tesco.com/shop/en-GB/products/306945047"
     },
     {
       "store": "Morrisons",
@@ -1215,7 +1269,7 @@
       "price": "£27.50",
       "promotion": "£21.50 Clubcard Price",
       "saving": 6.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/300411717"
+      "link": "https://www.tesco.com/shop/en-GB/products/300411717"
     },
     {
       "store": "Tesco",
@@ -1224,7 +1278,7 @@
       "price": "£24.50",
       "promotion": "£18.50 Clubcard Price",
       "saving": 6.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/258144288"
+      "link": "https://www.tesco.com/shop/en-GB/products/258144288"
     },
     {
       "store": "Tesco",
@@ -1233,7 +1287,7 @@
       "price": "£33.50",
       "promotion": "£27.50 Clubcard Price",
       "saving": 6.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/260479006"
+      "link": "https://www.tesco.com/shop/en-GB/products/260479006"
     },
     {
       "store": "Morrisons",
@@ -1269,7 +1323,7 @@
       "price": "£16.75",
       "promotion": "£11.00 Save 1/3 Clubcard Price",
       "saving": 5.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320672129"
+      "link": "https://www.tesco.com/shop/en-GB/products/320672129"
     },
     {
       "store": "Morrisons",
@@ -1287,7 +1341,7 @@
       "price": "£23.50",
       "promotion": "£18.00 Clubcard Price",
       "saving": 5.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323009802"
+      "link": "https://www.tesco.com/shop/en-GB/products/323009802"
     },
     {
       "store": "Tesco",
@@ -1296,7 +1350,7 @@
       "price": "£29.50",
       "promotion": "£24.00 Clubcard Price",
       "saving": 5.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321338663"
+      "link": "https://www.tesco.com/shop/en-GB/products/321338663"
     },
     {
       "store": "Morrisons",
@@ -1350,7 +1404,16 @@
       "price": "£25.50",
       "promotion": "£20.00 Clubcard Price",
       "saving": 5.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255947376"
+      "link": "https://www.tesco.com/shop/en-GB/products/255947376"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "RUM DON PAPA BAROKO 40% 0,7L TUBA",
+      "price": "£36.50",
+      "promotion": "£31.00 Clubcard Price",
+      "saving": 5.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/325040250"
     },
     {
       "store": "Morrisons",
@@ -1404,7 +1467,7 @@
       "price": "£15.25",
       "promotion": "£10.00 Save 1/3 Clubcard Price",
       "saving": 5.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311229404"
+      "link": "https://www.tesco.com/shop/en-GB/products/311229404"
     },
     {
       "store": "Tesco",
@@ -1413,7 +1476,7 @@
       "price": "£19.00",
       "promotion": "£14.00 Save 25% Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314695468"
+      "link": "https://www.tesco.com/shop/en-GB/products/314695468"
     },
     {
       "store": "Morrisons",
@@ -1440,7 +1503,7 @@
       "price": "£34.00",
       "promotion": "£29.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310178908"
+      "link": "https://www.tesco.com/shop/en-GB/products/310178908"
     },
     {
       "store": "Tesco",
@@ -1449,7 +1512,7 @@
       "price": "£34.00",
       "promotion": "£29.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317536814"
+      "link": "https://www.tesco.com/shop/en-GB/products/317536814"
     },
     {
       "store": "Tesco",
@@ -1458,7 +1521,7 @@
       "price": "£34.00",
       "promotion": "£29.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314107112"
+      "link": "https://www.tesco.com/shop/en-GB/products/314107112"
     },
     {
       "store": "Morrisons",
@@ -1485,7 +1548,7 @@
       "price": "£18.00",
       "promotion": "£13.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/294017180"
+      "link": "https://www.tesco.com/shop/en-GB/products/294017180"
     },
     {
       "store": "Asda",
@@ -1503,7 +1566,7 @@
       "price": "£20.50",
       "promotion": "£15.50 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255250186"
+      "link": "https://www.tesco.com/shop/en-GB/products/255250186"
     },
     {
       "store": "Morrisons",
@@ -1539,7 +1602,7 @@
       "price": "£25.00",
       "promotion": "£20.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315975887"
+      "link": "https://www.tesco.com/shop/en-GB/products/315975887"
     },
     {
       "store": "Morrisons",
@@ -1557,7 +1620,7 @@
       "price": "£21.00",
       "promotion": "£16.00 Clubcard Price",
       "saving": 5.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/286116028"
+      "link": "https://www.tesco.com/shop/en-GB/products/286116028"
     },
     {
       "store": "Tesco",
@@ -1566,7 +1629,7 @@
       "price": "£15.99",
       "promotion": "£11.00 Clubcard Price",
       "saving": 4.99,
-      "link": "https://www.tesco.com/groceries/en-GB/products/295220887"
+      "link": "https://www.tesco.com/shop/en-GB/products/295220887"
     },
     {
       "store": "Asda",
@@ -1576,15 +1639,6 @@
       "promotion": "Now £8.00, Was £12.97",
       "saving": 4.97,
       "link": "https://www.asda.com/groceries/product/x/x/9096708"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 18x440ml",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £17.94",
-      "saving": 4.94,
-      "link": "https://www.asda.com/groceries/product/x/x/9221259"
     },
     {
       "store": "Asda",
@@ -1611,7 +1665,7 @@
       "price": "£17.75",
       "promotion": "£13.00 Save 25% Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/290773107"
+      "link": "https://www.tesco.com/shop/en-GB/products/290773107"
     },
     {
       "store": "Morrisons",
@@ -1629,7 +1683,7 @@
       "price": "£23.50",
       "promotion": "£18.75 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306493143"
+      "link": "https://www.tesco.com/shop/en-GB/products/306493143"
     },
     {
       "store": "Tesco",
@@ -1638,7 +1692,7 @@
       "price": "£23.25",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257430575"
+      "link": "https://www.tesco.com/shop/en-GB/products/257430575"
     },
     {
       "store": "Tesco",
@@ -1647,7 +1701,7 @@
       "price": "£23.25",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/302142018"
+      "link": "https://www.tesco.com/shop/en-GB/products/302142018"
     },
     {
       "store": "Tesco",
@@ -1656,7 +1710,7 @@
       "price": "£28.25",
       "promotion": "£23.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/260622528"
+      "link": "https://www.tesco.com/shop/en-GB/products/260622528"
     },
     {
       "store": "Tesco",
@@ -1665,7 +1719,7 @@
       "price": "£23.75",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321541001"
+      "link": "https://www.tesco.com/shop/en-GB/products/321541001"
     },
     {
       "store": "Tesco",
@@ -1674,7 +1728,7 @@
       "price": "£23.25",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322658962"
+      "link": "https://www.tesco.com/shop/en-GB/products/322658962"
     },
     {
       "store": "Tesco",
@@ -1683,7 +1737,7 @@
       "price": "£23.75",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321547525"
+      "link": "https://www.tesco.com/shop/en-GB/products/321547525"
     },
     {
       "store": "Tesco",
@@ -1692,7 +1746,7 @@
       "price": "£23.25",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306653968"
+      "link": "https://www.tesco.com/shop/en-GB/products/306653968"
     },
     {
       "store": "Tesco",
@@ -1701,7 +1755,7 @@
       "price": "£23.25",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306660032"
+      "link": "https://www.tesco.com/shop/en-GB/products/306660032"
     },
     {
       "store": "Asda",
@@ -1731,6 +1785,15 @@
       "link": "https://groceries.morrisons.com/products/bacardi-spiced-premium-rum-spirit-drink/110620729"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Bacardi Spiced Rum 70Cl",
+      "price": "£19.50",
+      "promotion": "£15.00 Clubcard Price",
+      "saving": 4.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/303215317"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Baileys Salted Caramel Irish Cream Liqueur (ABV 17%)",
@@ -1746,7 +1809,7 @@
       "price": "£23.50",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251773944"
+      "link": "https://www.tesco.com/shop/en-GB/products/251773944"
     },
     {
       "store": "Morrisons",
@@ -1827,7 +1890,16 @@
       "price": "£18.50",
       "promotion": "£14.00 Clubcard Price",
       "saving": 4.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322533107"
+      "link": "https://www.tesco.com/shop/en-GB/products/322533107"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Staropramen Pilsner Lager Beer Cans",
+      "price": "£14.50",
+      "promotion": "Now £10, Was £14.50",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/staropramen-pilsner-lager-beer-cans/114973185"
     },
     {
       "store": "Morrisons",
@@ -1899,7 +1971,7 @@
       "price": "£22.75",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/264417662"
+      "link": "https://www.tesco.com/shop/en-GB/products/264417662"
     },
     {
       "store": "Tesco",
@@ -1908,7 +1980,7 @@
       "price": "£22.75",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257546202"
+      "link": "https://www.tesco.com/shop/en-GB/products/257546202"
     },
     {
       "store": "Morrisons",
@@ -1926,7 +1998,7 @@
       "price": "£22.50",
       "promotion": "£18.25 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314929147"
+      "link": "https://www.tesco.com/shop/en-GB/products/314929147"
     },
     {
       "store": "Tesco",
@@ -1935,7 +2007,7 @@
       "price": "£22.50",
       "promotion": "£18.25 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310130357"
+      "link": "https://www.tesco.com/shop/en-GB/products/310130357"
     },
     {
       "store": "Morrisons",
@@ -1953,7 +2025,7 @@
       "price": "£23.75",
       "promotion": "£19.50 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312361141"
+      "link": "https://www.tesco.com/shop/en-GB/products/312361141"
     },
     {
       "store": "Tesco",
@@ -1962,7 +2034,7 @@
       "price": "£18.25",
       "promotion": "£14.00 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322429266"
+      "link": "https://www.tesco.com/shop/en-GB/products/322429266"
     },
     {
       "store": "Tesco",
@@ -1971,7 +2043,7 @@
       "price": "£26.75",
       "promotion": "£22.50 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/295702818"
+      "link": "https://www.tesco.com/shop/en-GB/products/295702818"
     },
     {
       "store": "Morrisons",
@@ -1989,7 +2061,7 @@
       "price": "£22.75",
       "promotion": "£18.50 Clubcard Price",
       "saving": 4.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255248898"
+      "link": "https://www.tesco.com/shop/en-GB/products/255248898"
     },
     {
       "store": "Asda",
@@ -2007,7 +2079,7 @@
       "price": "£23.00",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251783327"
+      "link": "https://www.tesco.com/shop/en-GB/products/251783327"
     },
     {
       "store": "Tesco",
@@ -2016,7 +2088,7 @@
       "price": "£23.00",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255097768"
+      "link": "https://www.tesco.com/shop/en-GB/products/255097768"
     },
     {
       "store": "Morrisons",
@@ -2034,7 +2106,7 @@
       "price": "£23.00",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/258428243"
+      "link": "https://www.tesco.com/shop/en-GB/products/258428243"
     },
     {
       "store": "Tesco",
@@ -2043,7 +2115,7 @@
       "price": "£17.25",
       "promotion": "£13.25 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255249776"
+      "link": "https://www.tesco.com/shop/en-GB/products/255249776"
     },
     {
       "store": "Asda",
@@ -2061,7 +2133,7 @@
       "price": "£23.00",
       "promotion": "£19.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/290225452"
+      "link": "https://www.tesco.com/shop/en-GB/products/290225452"
     },
     {
       "store": "Morrisons",
@@ -2079,7 +2151,7 @@
       "price": "£19.00",
       "promotion": "£15.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/309743575"
+      "link": "https://www.tesco.com/shop/en-GB/products/309743575"
     },
     {
       "store": "Asda",
@@ -2097,7 +2169,7 @@
       "price": "£14.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323910408"
+      "link": "https://www.tesco.com/shop/en-GB/products/323910408"
     },
     {
       "store": "Morrisons",
@@ -2133,7 +2205,7 @@
       "price": "£19.00",
       "promotion": "£15.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321536808"
+      "link": "https://www.tesco.com/shop/en-GB/products/321536808"
     },
     {
       "store": "Asda",
@@ -2151,7 +2223,7 @@
       "price": "£14.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323911079"
+      "link": "https://www.tesco.com/shop/en-GB/products/323911079"
     },
     {
       "store": "Morrisons",
@@ -2170,15 +2242,6 @@
       "promotion": "£12.75 - More Card Price",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/olmeca-altos-strawberry-margarita-75cl/115023501"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Opihr Oriental Spiced Gin 70Cl",
-      "price": "£25.50",
-      "promotion": "£21.50 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/285353514"
     },
     {
       "store": "Morrisons",
@@ -2241,7 +2304,7 @@
       "price": "£17.89",
       "promotion": "£14.00 Clubcard Price",
       "saving": 3.89,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307345928"
+      "link": "https://www.tesco.com/shop/en-GB/products/307345928"
     },
     {
       "store": "Tesco",
@@ -2250,7 +2313,7 @@
       "price": "£13.80",
       "promotion": "£10.00 Clubcard Price",
       "saving": 3.8,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308479238"
+      "link": "https://www.tesco.com/shop/en-GB/products/308479238"
     },
     {
       "store": "Tesco",
@@ -2259,7 +2322,7 @@
       "price": "£15.79",
       "promotion": "£12.00 Clubcard Price",
       "saving": 3.79,
-      "link": "https://www.tesco.com/groceries/en-GB/products/258479775"
+      "link": "https://www.tesco.com/shop/en-GB/products/258479775"
     },
     {
       "store": "Morrisons",
@@ -2349,7 +2412,7 @@
       "price": "£24.00",
       "promotion": "£20.50 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/325039789"
+      "link": "https://www.tesco.com/shop/en-GB/products/325039789"
     },
     {
       "store": "Morrisons",
@@ -2367,7 +2430,7 @@
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316791443"
+      "link": "https://www.tesco.com/shop/en-GB/products/316791443"
     },
     {
       "store": "Morrisons",
@@ -2403,7 +2466,7 @@
       "price": "£16.50",
       "promotion": "£13.00 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/300542631"
+      "link": "https://www.tesco.com/shop/en-GB/products/300542631"
     },
     {
       "store": "Tesco",
@@ -2412,7 +2475,7 @@
       "price": "£18.00",
       "promotion": "£14.50 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/309207963"
+      "link": "https://www.tesco.com/shop/en-GB/products/309207963"
     },
     {
       "store": "Tesco",
@@ -2421,7 +2484,7 @@
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316443608"
+      "link": "https://www.tesco.com/shop/en-GB/products/316443608"
     },
     {
       "store": "Tesco",
@@ -2430,7 +2493,7 @@
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316801364"
+      "link": "https://www.tesco.com/shop/en-GB/products/316801364"
     },
     {
       "store": "Tesco",
@@ -2439,7 +2502,7 @@
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316788407"
+      "link": "https://www.tesco.com/shop/en-GB/products/316788407"
     },
     {
       "store": "Morrisons",
@@ -2457,7 +2520,7 @@
       "price": "£10.25",
       "promotion": "£6.75 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320804995"
+      "link": "https://www.tesco.com/shop/en-GB/products/320804995"
     },
     {
       "store": "Morrisons",
@@ -2475,7 +2538,7 @@
       "price": "£23.00",
       "promotion": "£19.50 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/290642522"
+      "link": "https://www.tesco.com/shop/en-GB/products/290642522"
     },
     {
       "store": "Tesco",
@@ -2484,7 +2547,7 @@
       "price": "£14.00",
       "promotion": "£10.50 Save 25% Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321344776"
+      "link": "https://www.tesco.com/shop/en-GB/products/321344776"
     },
     {
       "store": "Morrisons",
@@ -2502,7 +2565,7 @@
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
       "saving": 3.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316807283"
+      "link": "https://www.tesco.com/shop/en-GB/products/316807283"
     },
     {
       "store": "Morrisons",
@@ -2547,7 +2610,7 @@
       "price": "£13.25",
       "promotion": "£10.00 Clubcard Price",
       "saving": 3.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321666885"
+      "link": "https://www.tesco.com/shop/en-GB/products/321666885"
     },
     {
       "store": "Morrisons",
@@ -2565,7 +2628,7 @@
       "price": "£14.25",
       "promotion": "£11.00 Clubcard Price",
       "saving": 3.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/302301516"
+      "link": "https://www.tesco.com/shop/en-GB/products/302301516"
     },
     {
       "store": "Morrisons",
@@ -2583,7 +2646,7 @@
       "price": "£14.75",
       "promotion": "£11.50 Clubcard Price",
       "saving": 3.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/271215625"
+      "link": "https://www.tesco.com/shop/en-GB/products/271215625"
     },
     {
       "store": "Asda",
@@ -2620,6 +2683,15 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/7294558"
+    },
+    {
+      "store": "Tesco",
+      "category": "other",
+      "title": "BrewDog Hazy Jane 10x330ml",
+      "price": "£14.00",
+      "promotion": "£11.00 Clubcard Price",
+      "saving": 3.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/323869647"
     },
     {
       "store": "Asda",
@@ -2664,7 +2736,7 @@
       "price": "£10.00",
       "promotion": "£7.00 Clubcard Price",
       "saving": 3.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322664919"
+      "link": "https://www.tesco.com/shop/en-GB/products/322664919"
     },
     {
       "store": "Tesco",
@@ -2673,7 +2745,7 @@
       "price": "£13.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 3.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315069497"
+      "link": "https://www.tesco.com/shop/en-GB/products/315069497"
     },
     {
       "store": "Asda",
@@ -2718,7 +2790,7 @@
       "price": "£13.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 3.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/324433856"
+      "link": "https://www.tesco.com/shop/en-GB/products/324433856"
     },
     {
       "store": "Asda",
@@ -2871,7 +2943,7 @@
       "price": "£13.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 3.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307340375"
+      "link": "https://www.tesco.com/shop/en-GB/products/307340375"
     },
     {
       "store": "Morrisons",
@@ -2916,7 +2988,7 @@
       "price": "£12.99",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.99,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313732035"
+      "link": "https://www.tesco.com/shop/en-GB/products/313732035"
     },
     {
       "store": "Asda",
@@ -2943,7 +3015,7 @@
       "price": "£13.95",
       "promotion": "£11.00 Clubcard Price",
       "saving": 2.95,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305964763"
+      "link": "https://www.tesco.com/shop/en-GB/products/305964763"
     },
     {
       "store": "Tesco",
@@ -2952,7 +3024,7 @@
       "price": "£12.75",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320791190"
+      "link": "https://www.tesco.com/shop/en-GB/products/320791190"
     },
     {
       "store": "Morrisons",
@@ -2970,7 +3042,7 @@
       "price": "£10.25",
       "promotion": "£7.50 Save 25% Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322760546"
+      "link": "https://www.tesco.com/shop/en-GB/products/322760546"
     },
     {
       "store": "Tesco",
@@ -2979,7 +3051,7 @@
       "price": "£14.00",
       "promotion": "£11.25 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257467883"
+      "link": "https://www.tesco.com/shop/en-GB/products/257467883"
     },
     {
       "store": "Tesco",
@@ -2988,7 +3060,7 @@
       "price": "£12.00",
       "promotion": "£9.25 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323654550"
+      "link": "https://www.tesco.com/shop/en-GB/products/323654550"
     },
     {
       "store": "Tesco",
@@ -2997,7 +3069,7 @@
       "price": "£12.00",
       "promotion": "£9.25 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313942247"
+      "link": "https://www.tesco.com/shop/en-GB/products/313942247"
     },
     {
       "store": "Tesco",
@@ -3006,7 +3078,7 @@
       "price": "£12.00",
       "promotion": "£9.25 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315735956"
+      "link": "https://www.tesco.com/shop/en-GB/products/315735956"
     },
     {
       "store": "Asda",
@@ -3033,7 +3105,7 @@
       "price": "£16.75",
       "promotion": "£14.00 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251554766"
+      "link": "https://www.tesco.com/shop/en-GB/products/251554766"
     },
     {
       "store": "Tesco",
@@ -3042,7 +3114,7 @@
       "price": "£13.25",
       "promotion": "£10.50 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/278653665"
+      "link": "https://www.tesco.com/shop/en-GB/products/278653665"
     },
     {
       "store": "Tesco",
@@ -3051,7 +3123,7 @@
       "price": "£22.50",
       "promotion": "£19.75 Clubcard Price",
       "saving": 2.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255482746"
+      "link": "https://www.tesco.com/shop/en-GB/products/255482746"
     },
     {
       "store": "Tesco",
@@ -3060,7 +3132,7 @@
       "price": "£12.59",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.59,
-      "link": "https://www.tesco.com/groceries/en-GB/products/274360096"
+      "link": "https://www.tesco.com/shop/en-GB/products/274360096"
     },
     {
       "store": "Asda",
@@ -3087,7 +3159,7 @@
       "price": "£13.75",
       "promotion": "£11.25 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250714435"
+      "link": "https://www.tesco.com/shop/en-GB/products/250714435"
     },
     {
       "store": "Morrisons",
@@ -3108,15 +3180,6 @@
       "link": "https://groceries.morrisons.com/products/birra-moretti-lager-beer-cans/112386315"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "BrewDog Cold Beer 10 x 440ml",
-      "price": "£9.50",
-      "promotion": "£7.00 Save 25% Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316063948"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Coors Lager Beer Cans 10x440ml",
@@ -3132,7 +3195,7 @@
       "price": "£23.25",
       "promotion": "£20.75 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255248190"
+      "link": "https://www.tesco.com/shop/en-GB/products/255248190"
     },
     {
       "store": "Tesco",
@@ -3141,7 +3204,7 @@
       "price": "£12.00",
       "promotion": "£9.50 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/289347337"
+      "link": "https://www.tesco.com/shop/en-GB/products/289347337"
     },
     {
       "store": "Tesco",
@@ -3150,7 +3213,7 @@
       "price": "£11.50",
       "promotion": "£9.00 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308088770"
+      "link": "https://www.tesco.com/shop/en-GB/products/308088770"
     },
     {
       "store": "Morrisons",
@@ -3168,7 +3231,7 @@
       "price": "£15.50",
       "promotion": "£13.00 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/302305570"
+      "link": "https://www.tesco.com/shop/en-GB/products/302305570"
     },
     {
       "store": "Morrisons",
@@ -3213,7 +3276,7 @@
       "price": "£23.00",
       "promotion": "£20.50 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314314431"
+      "link": "https://www.tesco.com/shop/en-GB/products/314314431"
     },
     {
       "store": "Tesco",
@@ -3222,7 +3285,7 @@
       "price": "£10.00",
       "promotion": "£7.50 Save 25% Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322544135"
+      "link": "https://www.tesco.com/shop/en-GB/products/322544135"
     },
     {
       "store": "Morrisons",
@@ -3240,7 +3303,7 @@
       "price": "£18.50",
       "promotion": "£16.00 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/256521498"
+      "link": "https://www.tesco.com/shop/en-GB/products/256521498"
     },
     {
       "store": "Morrisons",
@@ -3258,7 +3321,7 @@
       "price": "£18.00",
       "promotion": "£15.50 Clubcard Price",
       "saving": 2.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255486673"
+      "link": "https://www.tesco.com/shop/en-GB/products/255486673"
     },
     {
       "store": "Asda",
@@ -3294,7 +3357,7 @@
       "price": "£17.45",
       "promotion": "£15.00 Clubcard Price",
       "saving": 2.45,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315390809"
+      "link": "https://www.tesco.com/shop/en-GB/products/315390809"
     },
     {
       "store": "Tesco",
@@ -3303,7 +3366,7 @@
       "price": "£12.00",
       "promotion": "£9.60 Clubcard Price",
       "saving": 2.4,
-      "link": "https://www.tesco.com/groceries/en-GB/products/263928911"
+      "link": "https://www.tesco.com/shop/en-GB/products/263928911"
     },
     {
       "store": "Morrisons",
@@ -3321,7 +3384,7 @@
       "price": "£10.25",
       "promotion": "£8.00 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/300228819"
+      "link": "https://www.tesco.com/shop/en-GB/products/300228819"
     },
     {
       "store": "Tesco",
@@ -3330,7 +3393,7 @@
       "price": "£12.25",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310174596"
+      "link": "https://www.tesco.com/shop/en-GB/products/310174596"
     },
     {
       "store": "Asda",
@@ -3420,7 +3483,7 @@
       "price": "£11.50",
       "promotion": "£9.25 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321026865"
+      "link": "https://www.tesco.com/shop/en-GB/products/321026865"
     },
     {
       "store": "Tesco",
@@ -3429,16 +3492,7 @@
       "price": "£15.50",
       "promotion": "£13.25 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/318184122"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sharp's Doom Bar Amber Ale 10 x 440ml",
-      "price": "£13.25",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323904059"
+      "link": "https://www.tesco.com/shop/en-GB/products/318184122"
     },
     {
       "store": "Tesco",
@@ -3447,7 +3501,7 @@
       "price": "£17.75",
       "promotion": "£15.50 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/325066988"
+      "link": "https://www.tesco.com/shop/en-GB/products/325066988"
     },
     {
       "store": "Tesco",
@@ -3456,7 +3510,7 @@
       "price": "£12.25",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313002548"
+      "link": "https://www.tesco.com/shop/en-GB/products/313002548"
     },
     {
       "store": "Asda",
@@ -3549,22 +3603,13 @@
       "link": "https://groceries.morrisons.com/products/birrificio-angelo-poretti-italian-lager-cans/114435205"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brewdog Cold Beer ",
-      "price": "£11.00",
-      "promotion": "Now £9, Was £11",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/brewdog-cold-beer/114196161"
-    },
-    {
       "store": "Tesco",
       "category": "beer",
       "title": "Camden Hells Lager 10x330ml",
       "price": "£12.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323921793"
+      "link": "https://www.tesco.com/shop/en-GB/products/323921793"
     },
     {
       "store": "Tesco",
@@ -3573,7 +3618,7 @@
       "price": "£12.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323853124"
+      "link": "https://www.tesco.com/shop/en-GB/products/323853124"
     },
     {
       "store": "Morrisons",
@@ -3591,7 +3636,16 @@
       "price": "£12.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/303759382"
+      "link": "https://www.tesco.com/shop/en-GB/products/303759382"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Chambord Black Raspberry Liqueur 20 cL",
+      "price": "£8.50",
+      "promotion": "£6.50 Clubcard Price",
+      "saving": 2.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/265390344"
     },
     {
       "store": "Asda",
@@ -3637,6 +3691,15 @@
       "promotion": "Any 2 for £20",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9035428"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Damm Lemon Beer 10 x 330ml",
+      "price": "£10.00",
+      "promotion": "£8.00 Clubcard Price",
+      "saving": 2.0,
+      "link": "https://www.tesco.com/shop/en-GB/products/323930753"
     },
     {
       "store": "Morrisons",
@@ -3726,7 +3789,7 @@
       "price": "£17.00",
       "promotion": "£15.00 Clubcard Price",
       "saving": 2.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313508707"
+      "link": "https://www.tesco.com/shop/en-GB/products/313508707"
     },
     {
       "store": "Asda",
@@ -3888,7 +3951,7 @@
       "price": "£12.00",
       "promotion": "£10.00 Clubcard Price",
       "saving": 2.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321671768"
+      "link": "https://www.tesco.com/shop/en-GB/products/321671768"
     },
     {
       "store": "Asda",
@@ -3924,7 +3987,7 @@
       "price": "£11.25",
       "promotion": "£9.30 Clubcard Price",
       "saving": 1.95,
-      "link": "https://www.tesco.com/groceries/en-GB/products/277258576"
+      "link": "https://www.tesco.com/shop/en-GB/products/277258576"
     },
     {
       "store": "Asda",
@@ -3951,7 +4014,7 @@
       "price": "£11.25",
       "promotion": "£9.35 Clubcard Price",
       "saving": 1.9,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317638763"
+      "link": "https://www.tesco.com/shop/en-GB/products/317638763"
     },
     {
       "store": "Asda",
@@ -4017,6 +4080,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/6063979"
     },
     {
+      "store": "Tesco",
+      "category": "other",
+      "title": "Bacardi Carta Blanca 70Cl",
+      "price": "£17.50",
+      "promotion": "£15.75 Clubcard Price",
+      "saving": 1.75,
+      "link": "https://www.tesco.com/shop/en-GB/products/256563839"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Boddingtons",
@@ -4032,7 +4104,7 @@
       "price": "£11.00",
       "promotion": "£9.25 Clubcard Price",
       "saving": 1.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/253607419"
+      "link": "https://www.tesco.com/shop/en-GB/products/253607419"
     },
     {
       "store": "Morrisons",
@@ -4059,7 +4131,7 @@
       "price": "£5.75",
       "promotion": "£4.00 Clubcard Price",
       "saving": 1.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323660317"
+      "link": "https://www.tesco.com/shop/en-GB/products/323660317"
     },
     {
       "store": "Morrisons",
@@ -4329,7 +4401,7 @@
       "price": "£12.25",
       "promotion": "£10.75 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321033424"
+      "link": "https://www.tesco.com/shop/en-GB/products/321033424"
     },
     {
       "store": "Morrisons",
@@ -4347,7 +4419,7 @@
       "price": "£7.00",
       "promotion": "£5.50 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315840382"
+      "link": "https://www.tesco.com/shop/en-GB/products/315840382"
     },
     {
       "store": "Morrisons",
@@ -4392,7 +4464,7 @@
       "price": "£13.00",
       "promotion": "£11.50 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/275503278"
+      "link": "https://www.tesco.com/shop/en-GB/products/275503278"
     },
     {
       "store": "Morrisons",
@@ -4419,7 +4491,7 @@
       "price": "£7.50",
       "promotion": "£6.00 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323856576"
+      "link": "https://www.tesco.com/shop/en-GB/products/323856576"
     },
     {
       "store": "Asda",
@@ -4455,7 +4527,7 @@
       "price": "£7.50",
       "promotion": "£6.00 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312342573"
+      "link": "https://www.tesco.com/shop/en-GB/products/312342573"
     },
     {
       "store": "Morrisons",
@@ -4473,7 +4545,7 @@
       "price": "£10.25",
       "promotion": "£8.75 Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321224947"
+      "link": "https://www.tesco.com/shop/en-GB/products/321224947"
     },
     {
       "store": "Morrisons",
@@ -4545,7 +4617,7 @@
       "price": "£5.75",
       "promotion": "£4.25 Save 25% Clubcard Price",
       "saving": 1.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/252638240"
+      "link": "https://www.tesco.com/shop/en-GB/products/252638240"
     },
     {
       "store": "Asda",
@@ -4662,7 +4734,7 @@
       "price": "£6.45",
       "promotion": "£5.00 Clubcard Price",
       "saving": 1.45,
-      "link": "https://www.tesco.com/groceries/en-GB/products/294127619"
+      "link": "https://www.tesco.com/shop/en-GB/products/294127619"
     },
     {
       "store": "Tesco",
@@ -4671,7 +4743,7 @@
       "price": "£6.45",
       "promotion": "£5.00 Clubcard Price",
       "saving": 1.45,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307141547"
+      "link": "https://www.tesco.com/shop/en-GB/products/307141547"
     },
     {
       "store": "Morrisons",
@@ -4716,7 +4788,7 @@
       "price": "£7.65",
       "promotion": "£6.25 Clubcard Price",
       "saving": 1.4,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255218744"
+      "link": "https://www.tesco.com/shop/en-GB/products/255218744"
     },
     {
       "store": "Morrisons",
@@ -4770,7 +4842,7 @@
       "price": "£9.35",
       "promotion": "£8.00 Clubcard Price",
       "saving": 1.35,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315968755"
+      "link": "https://www.tesco.com/shop/en-GB/products/315968755"
     },
     {
       "store": "Morrisons",
@@ -4815,7 +4887,7 @@
       "price": "£7.30",
       "promotion": "£6.00 Clubcard Price",
       "saving": 1.3,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308858274"
+      "link": "https://www.tesco.com/shop/en-GB/products/308858274"
     },
     {
       "store": "Asda",
@@ -4833,7 +4905,7 @@
       "price": "£7.30",
       "promotion": "£6.00 Clubcard Price",
       "saving": 1.3,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308838966"
+      "link": "https://www.tesco.com/shop/en-GB/products/308838966"
     },
     {
       "store": "Morrisons",
@@ -4887,7 +4959,7 @@
       "price": "£7.75",
       "promotion": "£6.50 Clubcard Price",
       "saving": 1.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323423887"
+      "link": "https://www.tesco.com/shop/en-GB/products/323423887"
     },
     {
       "store": "Morrisons",
@@ -4906,15 +4978,6 @@
       "promotion": "Any 5 for £10",
       "saving": 1.25,
       "link": "https://www.asda.com/groceries/product/x/x/9362288"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "BrewDog Gluten Free Punk IPA",
-      "price": "£6.50",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/brewdog-gluten-free-punk-ipa/112686764"
     },
     {
       "store": "Morrisons",
@@ -4986,7 +5049,7 @@
       "price": "£8.50",
       "promotion": "£7.25 Clubcard Price",
       "saving": 1.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323784948"
+      "link": "https://www.tesco.com/shop/en-GB/products/323784948"
     },
     {
       "store": "Asda",
@@ -5022,7 +5085,7 @@
       "price": "£5.25",
       "promotion": "£4.00 Clubcard Price",
       "saving": 1.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/306930698"
+      "link": "https://www.tesco.com/shop/en-GB/products/306930698"
     },
     {
       "store": "Tesco",
@@ -5031,7 +5094,7 @@
       "price": "£10.75",
       "promotion": "£9.50 Clubcard Price",
       "saving": 1.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/268766472"
+      "link": "https://www.tesco.com/shop/en-GB/products/268766472"
     },
     {
       "store": "Morrisons",
@@ -5058,7 +5121,7 @@
       "price": "£7.40",
       "promotion": "£6.15 Clubcard Price",
       "saving": 1.25,
-      "link": "https://www.tesco.com/groceries/en-GB/products/301840870"
+      "link": "https://www.tesco.com/shop/en-GB/products/301840870"
     },
     {
       "store": "Morrisons",
@@ -5112,7 +5175,7 @@
       "price": "£3.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 1.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315589040"
+      "link": "https://www.tesco.com/shop/en-GB/products/315589040"
     },
     {
       "store": "Morrisons",
@@ -5427,7 +5490,7 @@
       "price": "£6.10",
       "promotion": "£5.00 Clubcard Price",
       "saving": 1.1,
-      "link": "https://www.tesco.com/groceries/en-GB/products/274347579"
+      "link": "https://www.tesco.com/shop/en-GB/products/274347579"
     },
     {
       "store": "Tesco",
@@ -5436,7 +5499,7 @@
       "price": "£8.60",
       "promotion": "£7.50 Clubcard Price",
       "saving": 1.1,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322831814"
+      "link": "https://www.tesco.com/shop/en-GB/products/322831814"
     },
     {
       "store": "Morrisons",
@@ -5504,29 +5567,11 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "White Claw Tequila Smash Mango & Passionfruit  250ml",
-      "price": "£2.60",
-      "promotion": "Buy 8 for £12 - Online Exclusive",
-      "saving": 1.1,
-      "link": "https://groceries.morrisons.com/products/white-claw-tequila-smash-mango-passionfruit-250ml/114703353"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "White Claw Tequila Smash Strawberry & Lime 250ml",
       "price": "£2.60",
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.1,
       "link": "https://groceries.morrisons.com/products/white-claw-tequila-smash-strawberry-lime-250ml/114703441"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Wonderland Cocktail Co. Whisky Sour 125ml",
-      "price": "£4.10",
-      "promotion": "Buy 4 for £12 - Online Exclusive",
-      "saving": 1.1,
-      "link": "https://groceries.morrisons.com/products/wonderland-cocktail-co-whisky-sour-125ml/114225056"
     },
     {
       "store": "Asda",
@@ -5895,7 +5940,7 @@
       "price": "£7.50",
       "promotion": "£6.50 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313759424"
+      "link": "https://www.tesco.com/shop/en-GB/products/313759424"
     },
     {
       "store": "Asda",
@@ -5985,7 +6030,7 @@
       "price": "£6.50",
       "promotion": "£5.50 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315051517"
+      "link": "https://www.tesco.com/shop/en-GB/products/315051517"
     },
     {
       "store": "Tesco",
@@ -5994,7 +6039,7 @@
       "price": "£5.50",
       "promotion": "£4.50 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323492176"
+      "link": "https://www.tesco.com/shop/en-GB/products/323492176"
     },
     {
       "store": "Tesco",
@@ -6003,7 +6048,7 @@
       "price": "£5.00",
       "promotion": "£4.00 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323656409"
+      "link": "https://www.tesco.com/shop/en-GB/products/323656409"
     },
     {
       "store": "Asda",
@@ -6093,7 +6138,7 @@
       "price": "£7.25",
       "promotion": "£6.25 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323861523"
+      "link": "https://www.tesco.com/shop/en-GB/products/323861523"
     },
     {
       "store": "Morrisons",
@@ -6111,7 +6156,7 @@
       "price": "£5.75",
       "promotion": "£4.75 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/289300600"
+      "link": "https://www.tesco.com/shop/en-GB/products/289300600"
     },
     {
       "store": "Tesco",
@@ -6120,7 +6165,7 @@
       "price": "£5.75",
       "promotion": "£4.75 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/275399014"
+      "link": "https://www.tesco.com/shop/en-GB/products/275399014"
     },
     {
       "store": "Asda",
@@ -6246,7 +6291,7 @@
       "price": "£6.00",
       "promotion": "£5.00 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323915035"
+      "link": "https://www.tesco.com/shop/en-GB/products/323915035"
     },
     {
       "store": "Asda",
@@ -6282,7 +6327,7 @@
       "price": "£6.50",
       "promotion": "£5.50 Clubcard Price",
       "saving": 1.0,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323869221"
+      "link": "https://www.tesco.com/shop/en-GB/products/323869221"
     },
     {
       "store": "Morrisons",
@@ -6660,7 +6705,7 @@
       "price": "£3.10",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.93,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314842750"
+      "link": "https://www.tesco.com/shop/en-GB/products/314842750"
     },
     {
       "store": "Tesco",
@@ -6669,7 +6714,7 @@
       "price": "£3.10",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.93,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257810454"
+      "link": "https://www.tesco.com/shop/en-GB/products/257810454"
     },
     {
       "store": "Asda",
@@ -6687,7 +6732,7 @@
       "price": "£3.10",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.93,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322442848"
+      "link": "https://www.tesco.com/shop/en-GB/products/322442848"
     },
     {
       "store": "Tesco",
@@ -6696,7 +6741,7 @@
       "price": "£3.10",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.93,
-      "link": "https://www.tesco.com/groceries/en-GB/products/312576097"
+      "link": "https://www.tesco.com/shop/en-GB/products/312576097"
     },
     {
       "store": "Morrisons",
@@ -6786,7 +6831,7 @@
       "price": "£2.80",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.92,
-      "link": "https://www.tesco.com/groceries/en-GB/products/267193309"
+      "link": "https://www.tesco.com/shop/en-GB/products/267193309"
     },
     {
       "store": "Morrisons",
@@ -6903,7 +6948,7 @@
       "price": "£2.80",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.92,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321762102"
+      "link": "https://www.tesco.com/shop/en-GB/products/321762102"
     },
     {
       "store": "Morrisons",
@@ -6921,7 +6966,7 @@
       "price": "£2.80",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.92,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323904318"
+      "link": "https://www.tesco.com/shop/en-GB/products/323904318"
     },
     {
       "store": "Morrisons",
@@ -7101,7 +7146,7 @@
       "price": "£6.65",
       "promotion": "£5.75 Clubcard Price",
       "saving": 0.9,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317761938"
+      "link": "https://www.tesco.com/shop/en-GB/products/317761938"
     },
     {
       "store": "Morrisons",
@@ -7362,7 +7407,7 @@
       "price": "£5.85",
       "promotion": "£5.00 Clubcard Price",
       "saving": 0.85,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310175163"
+      "link": "https://www.tesco.com/shop/en-GB/products/310175163"
     },
     {
       "store": "Asda",
@@ -7443,7 +7488,7 @@
       "price": "£6.85",
       "promotion": "£6.00 Clubcard Price",
       "saving": 0.85,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323862303"
+      "link": "https://www.tesco.com/shop/en-GB/products/323862303"
     },
     {
       "store": "Asda",
@@ -7470,7 +7515,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/262597364"
+      "link": "https://www.tesco.com/shop/en-GB/products/262597364"
     },
     {
       "store": "Tesco",
@@ -7479,7 +7524,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/258288808"
+      "link": "https://www.tesco.com/shop/en-GB/products/258288808"
     },
     {
       "store": "Tesco",
@@ -7488,7 +7533,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323910846"
+      "link": "https://www.tesco.com/shop/en-GB/products/323910846"
     },
     {
       "store": "Asda",
@@ -7506,7 +7551,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323666806"
+      "link": "https://www.tesco.com/shop/en-GB/products/323666806"
     },
     {
       "store": "Tesco",
@@ -7515,7 +7560,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323862827"
+      "link": "https://www.tesco.com/shop/en-GB/products/323862827"
     },
     {
       "store": "Tesco",
@@ -7524,7 +7569,7 @@
       "price": "£3.00",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.83,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323924628"
+      "link": "https://www.tesco.com/shop/en-GB/products/323924628"
     },
     {
       "store": "Asda",
@@ -7596,7 +7641,7 @@
       "price": "£5.80",
       "promotion": "£5.00 Clubcard Price",
       "saving": 0.8,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308115727"
+      "link": "https://www.tesco.com/shop/en-GB/products/308115727"
     },
     {
       "store": "Tesco",
@@ -7605,7 +7650,7 @@
       "price": "£5.30",
       "promotion": "£4.50 Clubcard Price",
       "saving": 0.8,
-      "link": "https://www.tesco.com/groceries/en-GB/products/270947780"
+      "link": "https://www.tesco.com/shop/en-GB/products/270947780"
     },
     {
       "store": "Asda",
@@ -7731,7 +7776,7 @@
       "price": "£2.95",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.78,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311690530"
+      "link": "https://www.tesco.com/shop/en-GB/products/311690530"
     },
     {
       "store": "Tesco",
@@ -7740,7 +7785,7 @@
       "price": "£2.65",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.77,
-      "link": "https://www.tesco.com/groceries/en-GB/products/252007906"
+      "link": "https://www.tesco.com/shop/en-GB/products/252007906"
     },
     {
       "store": "Asda",
@@ -7893,7 +7938,7 @@
       "price": "£4.50",
       "promotion": "£3.75 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320988067"
+      "link": "https://www.tesco.com/shop/en-GB/products/320988067"
     },
     {
       "store": "Morrisons",
@@ -8091,7 +8136,7 @@
       "price": "£6.75",
       "promotion": "£6.00 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323852920"
+      "link": "https://www.tesco.com/shop/en-GB/products/323852920"
     },
     {
       "store": "Tesco",
@@ -8100,7 +8145,7 @@
       "price": "£6.75",
       "promotion": "£6.00 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323858516"
+      "link": "https://www.tesco.com/shop/en-GB/products/323858516"
     },
     {
       "store": "Tesco",
@@ -8109,7 +8154,7 @@
       "price": "£3.50",
       "promotion": "£2.75 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323787485"
+      "link": "https://www.tesco.com/shop/en-GB/products/323787485"
     },
     {
       "store": "Asda",
@@ -8190,7 +8235,7 @@
       "price": "£6.60",
       "promotion": "£5.85 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305986604"
+      "link": "https://www.tesco.com/shop/en-GB/products/305986604"
     },
     {
       "store": "Morrisons",
@@ -8298,7 +8343,7 @@
       "price": "£5.35",
       "promotion": "£4.60 Clubcard Price",
       "saving": 0.75,
-      "link": "https://www.tesco.com/groceries/en-GB/products/288514389"
+      "link": "https://www.tesco.com/shop/en-GB/products/288514389"
     },
     {
       "store": "Asda",
@@ -8379,7 +8424,7 @@
       "price": "£2.90",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.73,
-      "link": "https://www.tesco.com/groceries/en-GB/products/260340251"
+      "link": "https://www.tesco.com/shop/en-GB/products/260340251"
     },
     {
       "store": "Morrisons",
@@ -8442,16 +8487,7 @@
       "price": "£3.00",
       "promotion": "£2.30 Clubcard Price",
       "saving": 0.7,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315469948"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hobgoblin Gold Ale Beer Can 4 x 568ml",
-      "price": "£6.15",
-      "promotion": "£5.45 Clubcard Price",
-      "saving": 0.7,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314686963"
+      "link": "https://www.tesco.com/shop/en-GB/products/315469948"
     },
     {
       "store": "Morrisons",
@@ -8514,7 +8550,7 @@
       "price": "£5.95",
       "promotion": "£5.25 Clubcard Price",
       "saving": 0.7,
-      "link": "https://www.tesco.com/groceries/en-GB/products/282645306"
+      "link": "https://www.tesco.com/shop/en-GB/products/282645306"
     },
     {
       "store": "Morrisons",
@@ -8532,7 +8568,7 @@
       "price": "£2.85",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.68,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314848283"
+      "link": "https://www.tesco.com/shop/en-GB/products/314848283"
     },
     {
       "store": "Tesco",
@@ -8541,7 +8577,7 @@
       "price": "£2.85",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.68,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311204059"
+      "link": "https://www.tesco.com/shop/en-GB/products/311204059"
     },
     {
       "store": "Morrisons",
@@ -8820,7 +8856,7 @@
       "price": "£2.55",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.67,
-      "link": "https://www.tesco.com/groceries/en-GB/products/279750807"
+      "link": "https://www.tesco.com/shop/en-GB/products/279750807"
     },
     {
       "store": "Morrisons",
@@ -8937,7 +8973,7 @@
       "price": "£2.55",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.67,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251113004"
+      "link": "https://www.tesco.com/shop/en-GB/products/251113004"
     },
     {
       "store": "Morrisons",
@@ -9027,7 +9063,7 @@
       "price": "£6.10",
       "promotion": "£5.45 Clubcard Price",
       "saving": 0.65,
-      "link": "https://www.tesco.com/groceries/en-GB/products/305962978"
+      "link": "https://www.tesco.com/shop/en-GB/products/305962978"
     },
     {
       "store": "Tesco",
@@ -9036,7 +9072,7 @@
       "price": "£6.15",
       "promotion": "£5.50 Clubcard Price",
       "saving": 0.65,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323852235"
+      "link": "https://www.tesco.com/shop/en-GB/products/323852235"
     },
     {
       "store": "Asda",
@@ -9126,7 +9162,7 @@
       "price": "£6.35",
       "promotion": "£5.70 Clubcard Price",
       "saving": 0.65,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307159285"
+      "link": "https://www.tesco.com/shop/en-GB/products/307159285"
     },
     {
       "store": "Asda",
@@ -9180,7 +9216,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/262019572"
+      "link": "https://www.tesco.com/shop/en-GB/products/262019572"
     },
     {
       "store": "Tesco",
@@ -9189,7 +9225,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308097897"
+      "link": "https://www.tesco.com/shop/en-GB/products/308097897"
     },
     {
       "store": "Asda",
@@ -9207,7 +9243,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/280543652"
+      "link": "https://www.tesco.com/shop/en-GB/products/280543652"
     },
     {
       "store": "Tesco",
@@ -9216,7 +9252,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311679216"
+      "link": "https://www.tesco.com/shop/en-GB/products/311679216"
     },
     {
       "store": "Tesco",
@@ -9225,7 +9261,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/304788760"
+      "link": "https://www.tesco.com/shop/en-GB/products/304788760"
     },
     {
       "store": "Tesco",
@@ -9234,7 +9270,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/302274017"
+      "link": "https://www.tesco.com/shop/en-GB/products/302274017"
     },
     {
       "store": "Tesco",
@@ -9243,7 +9279,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/308109827"
+      "link": "https://www.tesco.com/shop/en-GB/products/308109827"
     },
     {
       "store": "Tesco",
@@ -9252,7 +9288,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/271384222"
+      "link": "https://www.tesco.com/shop/en-GB/products/271384222"
     },
     {
       "store": "Tesco",
@@ -9261,7 +9297,7 @@
       "price": "£2.80",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.63,
-      "link": "https://www.tesco.com/groceries/en-GB/products/273320825"
+      "link": "https://www.tesco.com/shop/en-GB/products/273320825"
     },
     {
       "store": "Tesco",
@@ -9270,7 +9306,7 @@
       "price": "£2.50",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.62,
-      "link": "https://www.tesco.com/groceries/en-GB/products/271028403"
+      "link": "https://www.tesco.com/shop/en-GB/products/271028403"
     },
     {
       "store": "Tesco",
@@ -9279,7 +9315,7 @@
       "price": "£2.50",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.62,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251821197"
+      "link": "https://www.tesco.com/shop/en-GB/products/251821197"
     },
     {
       "store": "Tesco",
@@ -9288,7 +9324,7 @@
       "price": "£2.50",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.62,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321329225"
+      "link": "https://www.tesco.com/shop/en-GB/products/321329225"
     },
     {
       "store": "Morrisons",
@@ -9324,7 +9360,7 @@
       "price": "£2.50",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.62,
-      "link": "https://www.tesco.com/groceries/en-GB/products/264019091"
+      "link": "https://www.tesco.com/shop/en-GB/products/264019091"
     },
     {
       "store": "Morrisons",
@@ -9414,7 +9450,7 @@
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
       "saving": 0.6,
-      "link": "https://www.tesco.com/groceries/en-GB/products/322990694"
+      "link": "https://www.tesco.com/shop/en-GB/products/322990694"
     },
     {
       "store": "Asda",
@@ -9441,7 +9477,7 @@
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
       "saving": 0.6,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323873296"
+      "link": "https://www.tesco.com/shop/en-GB/products/323873296"
     },
     {
       "store": "Asda",
@@ -9513,7 +9549,7 @@
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
       "saving": 0.6,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317871572"
+      "link": "https://www.tesco.com/shop/en-GB/products/317871572"
     },
     {
       "store": "Asda",
@@ -9549,7 +9585,7 @@
       "price": "£5.85",
       "promotion": "£5.25 Clubcard Price",
       "saving": 0.6,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316422607"
+      "link": "https://www.tesco.com/shop/en-GB/products/316422607"
     },
     {
       "store": "Morrisons",
@@ -9630,7 +9666,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315953300"
+      "link": "https://www.tesco.com/shop/en-GB/products/315953300"
     },
     {
       "store": "Asda",
@@ -9666,7 +9702,7 @@
       "price": "£2.45",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257815529"
+      "link": "https://www.tesco.com/shop/en-GB/products/257815529"
     },
     {
       "store": "Tesco",
@@ -9675,7 +9711,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/260554787"
+      "link": "https://www.tesco.com/shop/en-GB/products/260554787"
     },
     {
       "store": "Tesco",
@@ -9684,7 +9720,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/264079462"
+      "link": "https://www.tesco.com/shop/en-GB/products/264079462"
     },
     {
       "store": "Tesco",
@@ -9693,7 +9729,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/266667686"
+      "link": "https://www.tesco.com/shop/en-GB/products/266667686"
     },
     {
       "store": "Tesco",
@@ -9702,7 +9738,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323773610"
+      "link": "https://www.tesco.com/shop/en-GB/products/323773610"
     },
     {
       "store": "Tesco",
@@ -9711,7 +9747,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/299789795"
+      "link": "https://www.tesco.com/shop/en-GB/products/299789795"
     },
     {
       "store": "Tesco",
@@ -9720,7 +9756,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/309178731"
+      "link": "https://www.tesco.com/shop/en-GB/products/309178731"
     },
     {
       "store": "Tesco",
@@ -9729,7 +9765,7 @@
       "price": "£2.75",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/268773428"
+      "link": "https://www.tesco.com/shop/en-GB/products/268773428"
     },
     {
       "store": "Tesco",
@@ -9738,7 +9774,7 @@
       "price": "£2.45",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/289531326"
+      "link": "https://www.tesco.com/shop/en-GB/products/289531326"
     },
     {
       "store": "Tesco",
@@ -9747,7 +9783,7 @@
       "price": "£2.45",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.58,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257054657"
+      "link": "https://www.tesco.com/shop/en-GB/products/257054657"
     },
     {
       "store": "Asda",
@@ -9936,7 +9972,7 @@
       "price": "£5.25",
       "promotion": "£4.70 Clubcard Price",
       "saving": 0.55,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321051765"
+      "link": "https://www.tesco.com/shop/en-GB/products/321051765"
     },
     {
       "store": "Asda",
@@ -10017,7 +10053,7 @@
       "price": "£3.50",
       "promotion": "£2.95 Clubcard Price",
       "saving": 0.55,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320970462"
+      "link": "https://www.tesco.com/shop/en-GB/products/320970462"
     },
     {
       "store": "Asda",
@@ -10080,7 +10116,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/317652492"
+      "link": "https://www.tesco.com/shop/en-GB/products/317652492"
     },
     {
       "store": "Asda",
@@ -10098,7 +10134,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/262593126"
+      "link": "https://www.tesco.com/shop/en-GB/products/262593126"
     },
     {
       "store": "Tesco",
@@ -10107,7 +10143,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/292340398"
+      "link": "https://www.tesco.com/shop/en-GB/products/292340398"
     },
     {
       "store": "Tesco",
@@ -10116,7 +10152,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251916333"
+      "link": "https://www.tesco.com/shop/en-GB/products/251916333"
     },
     {
       "store": "Asda",
@@ -10143,7 +10179,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/283274639"
+      "link": "https://www.tesco.com/shop/en-GB/products/283274639"
     },
     {
       "store": "Tesco",
@@ -10152,7 +10188,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/283274426"
+      "link": "https://www.tesco.com/shop/en-GB/products/283274426"
     },
     {
       "store": "Tesco",
@@ -10161,7 +10197,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321112521"
+      "link": "https://www.tesco.com/shop/en-GB/products/321112521"
     },
     {
       "store": "Tesco",
@@ -10170,7 +10206,7 @@
       "price": "£2.70",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.53,
-      "link": "https://www.tesco.com/groceries/en-GB/products/303191793"
+      "link": "https://www.tesco.com/shop/en-GB/products/303191793"
     },
     {
       "store": "Asda",
@@ -10206,7 +10242,7 @@
       "price": "£2.40",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.52,
-      "link": "https://www.tesco.com/groceries/en-GB/products/270972772"
+      "link": "https://www.tesco.com/shop/en-GB/products/270972772"
     },
     {
       "store": "Asda",
@@ -10398,6 +10434,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/7735875"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Magners Apple Cider 4X440ml",
+      "price": "£4.85",
+      "promotion": "£4.35 Clubcard Price",
+      "saving": 0.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/309169517"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "McGuigan Black Label Red",
@@ -10494,7 +10539,7 @@
       "price": "£4.50",
       "promotion": "£4.00 Clubcard Price",
       "saving": 0.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323501357"
+      "link": "https://www.tesco.com/shop/en-GB/products/323501357"
     },
     {
       "store": "Morrisons",
@@ -10512,7 +10557,7 @@
       "price": "£4.00",
       "promotion": "£3.50 Clubcard Price",
       "saving": 0.5,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323507881"
+      "link": "https://www.tesco.com/shop/en-GB/products/323507881"
     },
     {
       "store": "Asda",
@@ -10647,7 +10692,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/257521151"
+      "link": "https://www.tesco.com/shop/en-GB/products/257521151"
     },
     {
       "store": "Tesco",
@@ -10656,7 +10701,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250621372"
+      "link": "https://www.tesco.com/shop/en-GB/products/250621372"
     },
     {
       "store": "Tesco",
@@ -10665,7 +10710,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250053638"
+      "link": "https://www.tesco.com/shop/en-GB/products/250053638"
     },
     {
       "store": "Tesco",
@@ -10674,7 +10719,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251443235"
+      "link": "https://www.tesco.com/shop/en-GB/products/251443235"
     },
     {
       "store": "Tesco",
@@ -10683,7 +10728,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323508655"
+      "link": "https://www.tesco.com/shop/en-GB/products/323508655"
     },
     {
       "store": "Tesco",
@@ -10692,7 +10737,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315854354"
+      "link": "https://www.tesco.com/shop/en-GB/products/315854354"
     },
     {
       "store": "Asda",
@@ -10710,7 +10755,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315473257"
+      "link": "https://www.tesco.com/shop/en-GB/products/315473257"
     },
     {
       "store": "Tesco",
@@ -10719,7 +10764,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/323655745"
+      "link": "https://www.tesco.com/shop/en-GB/products/323655745"
     },
     {
       "store": "Tesco",
@@ -10728,7 +10773,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/310099541"
+      "link": "https://www.tesco.com/shop/en-GB/products/310099541"
     },
     {
       "store": "Tesco",
@@ -10737,7 +10782,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/253110315"
+      "link": "https://www.tesco.com/shop/en-GB/products/253110315"
     },
     {
       "store": "Tesco",
@@ -10746,7 +10791,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/271084370"
+      "link": "https://www.tesco.com/shop/en-GB/products/271084370"
     },
     {
       "store": "Tesco",
@@ -10755,7 +10800,7 @@
       "price": "£2.65",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/291116568"
+      "link": "https://www.tesco.com/shop/en-GB/products/291116568"
     },
     {
       "store": "Tesco",
@@ -10764,7 +10809,7 @@
       "price": "£2.35",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
-      "link": "https://www.tesco.com/groceries/en-GB/products/279725314"
+      "link": "https://www.tesco.com/shop/en-GB/products/279725314"
     },
     {
       "store": "Asda",
@@ -10980,7 +11025,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/311259351"
+      "link": "https://www.tesco.com/shop/en-GB/products/311259351"
     },
     {
       "store": "Tesco",
@@ -10989,7 +11034,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/265214134"
+      "link": "https://www.tesco.com/shop/en-GB/products/265214134"
     },
     {
       "store": "Tesco",
@@ -10998,7 +11043,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/255218992"
+      "link": "https://www.tesco.com/shop/en-GB/products/255218992"
     },
     {
       "store": "Tesco",
@@ -11007,7 +11052,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314428135"
+      "link": "https://www.tesco.com/shop/en-GB/products/314428135"
     },
     {
       "store": "Tesco",
@@ -11016,7 +11061,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321667837"
+      "link": "https://www.tesco.com/shop/en-GB/products/321667837"
     },
     {
       "store": "Tesco",
@@ -11025,7 +11070,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/307755374"
+      "link": "https://www.tesco.com/shop/en-GB/products/307755374"
     },
     {
       "store": "Tesco",
@@ -11034,7 +11079,7 @@
       "price": "£2.60",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.43,
-      "link": "https://www.tesco.com/groceries/en-GB/products/309190531"
+      "link": "https://www.tesco.com/shop/en-GB/products/309190531"
     },
     {
       "store": "Tesco",
@@ -11043,7 +11088,7 @@
       "price": "£2.30",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
-      "link": "https://www.tesco.com/groceries/en-GB/products/273614795"
+      "link": "https://www.tesco.com/shop/en-GB/products/273614795"
     },
     {
       "store": "Morrisons",
@@ -11268,7 +11313,7 @@
       "price": "£2.30",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
-      "link": "https://www.tesco.com/groceries/en-GB/products/259591645"
+      "link": "https://www.tesco.com/shop/en-GB/products/259591645"
     },
     {
       "store": "Tesco",
@@ -11277,7 +11322,7 @@
       "price": "£2.30",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
-      "link": "https://www.tesco.com/groceries/en-GB/products/270952928"
+      "link": "https://www.tesco.com/shop/en-GB/products/270952928"
     },
     {
       "store": "Morrisons",
@@ -11295,7 +11340,7 @@
       "price": "£2.30",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313848048"
+      "link": "https://www.tesco.com/shop/en-GB/products/313848048"
     },
     {
       "store": "Morrisons",
@@ -11349,7 +11394,7 @@
       "price": "£2.30",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.42,
-      "link": "https://www.tesco.com/groceries/en-GB/products/261387643"
+      "link": "https://www.tesco.com/shop/en-GB/products/261387643"
     },
     {
       "store": "Morrisons",
@@ -11565,7 +11610,7 @@
       "price": "£2.55",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.38,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321783601"
+      "link": "https://www.tesco.com/shop/en-GB/products/321783601"
     },
     {
       "store": "Tesco",
@@ -11574,7 +11619,7 @@
       "price": "£2.55",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.38,
-      "link": "https://www.tesco.com/groceries/en-GB/products/290696187"
+      "link": "https://www.tesco.com/shop/en-GB/products/290696187"
     },
     {
       "store": "Asda",
@@ -11736,7 +11781,7 @@
       "price": "£1.80",
       "promotion": "£1.50 Clubcard Price",
       "saving": 0.3,
-      "link": "https://www.tesco.com/groceries/en-GB/products/320406740"
+      "link": "https://www.tesco.com/shop/en-GB/products/320406740"
     },
     {
       "store": "Asda",
@@ -11799,7 +11844,7 @@
       "price": "£2.55",
       "promotion": "£2.25 Clubcard Price",
       "saving": 0.3,
-      "link": "https://www.tesco.com/groceries/en-GB/products/256595496"
+      "link": "https://www.tesco.com/shop/en-GB/products/256595496"
     },
     {
       "store": "Tesco",
@@ -11808,7 +11853,7 @@
       "price": "£2.55",
       "promotion": "£2.25 Clubcard Price",
       "saving": 0.3,
-      "link": "https://www.tesco.com/groceries/en-GB/products/275465339"
+      "link": "https://www.tesco.com/shop/en-GB/products/275465339"
     },
     {
       "store": "Asda",
@@ -11917,15 +11962,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.26,
       "link": "https://www.asda.com/groceries/product/x/x/9247059"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Bass Pale Ale 500ml",
-      "price": "£2.00",
-      "promotion": "Any 4 for £7",
-      "saving": 0.25,
-      "link": "https://www.asda.com/groceries/product/x/x/9263712"
     },
     {
       "store": "Asda",
@@ -12069,7 +12105,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314838963"
+      "link": "https://www.tesco.com/shop/en-GB/products/314838963"
     },
     {
       "store": "Tesco",
@@ -12078,7 +12114,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/314934837"
+      "link": "https://www.tesco.com/shop/en-GB/products/314934837"
     },
     {
       "store": "Tesco",
@@ -12087,7 +12123,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/315973777"
+      "link": "https://www.tesco.com/shop/en-GB/products/315973777"
     },
     {
       "store": "Asda",
@@ -12141,7 +12177,7 @@
       "price": "£2.10",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/250906669"
+      "link": "https://www.tesco.com/shop/en-GB/products/250906669"
     },
     {
       "store": "Morrisons",
@@ -12159,7 +12195,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321224901"
+      "link": "https://www.tesco.com/shop/en-GB/products/321224901"
     },
     {
       "store": "Tesco",
@@ -12168,7 +12204,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/316055630"
+      "link": "https://www.tesco.com/shop/en-GB/products/316055630"
     },
     {
       "store": "Tesco",
@@ -12177,7 +12213,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/268732702"
+      "link": "https://www.tesco.com/shop/en-GB/products/268732702"
     },
     {
       "store": "Tesco",
@@ -12186,7 +12222,7 @@
       "price": "£2.40",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.23,
-      "link": "https://www.tesco.com/groceries/en-GB/products/321113249"
+      "link": "https://www.tesco.com/shop/en-GB/products/321113249"
     },
     {
       "store": "Asda",
@@ -12222,7 +12258,7 @@
       "price": "£2.35",
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.18,
-      "link": "https://www.tesco.com/groceries/en-GB/products/251325796"
+      "link": "https://www.tesco.com/shop/en-GB/products/251325796"
     },
     {
       "store": "Asda",
@@ -12276,7 +12312,7 @@
       "price": "£2.00",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.12,
-      "link": "https://www.tesco.com/groceries/en-GB/products/313956542"
+      "link": "https://www.tesco.com/shop/en-GB/products/313956542"
     },
     {
       "store": "Asda",
@@ -12348,7 +12384,7 @@
       "price": "£1.95",
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.07,
-      "link": "https://www.tesco.com/groceries/en-GB/products/264792757"
+      "link": "https://www.tesco.com/shop/en-GB/products/264792757"
     },
     {
       "store": "Asda",
