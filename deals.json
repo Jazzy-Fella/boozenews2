@@ -1,16 +1,7 @@
 {
-  "updated": "2026-05-01T08:22:31.821492+00:00",
-  "total": 1634,
+  "updated": "2026-05-02T07:54:02.587826+00:00",
+  "total": 1304,
   "deals": [
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Cardhu Gold Reserve Single Malt Scotch Whisky Bottle 40% Vol 70Cl",
-      "price": "£47.00",
-      "promotion": "£27.00 Clubcard Price",
-      "saving": 20.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/285694951"
-    },
     {
       "store": "Asda",
       "category": "spirits",
@@ -21,24 +12,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/6038784"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Singleton of Dufftown Malt Master's Whisky Bottle 40% Vol 70cl",
-      "price": "£41.00",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 16.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/299335434"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jura Cask Edition Single Malt Scotch Whisky - Rum Cask Finish 70cl",
-      "price": "£41.25",
-      "promotion": "£26.00 Clubcard Price",
-      "saving": 15.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/317978538"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Haig Club Club Clubman Single Grain Scotch Whisky 40% vol 1L Bottle",
@@ -46,24 +19,6 @@
       "promotion": "Now £23.50, Was £37.50",
       "saving": 14.0,
       "link": "https://www.asda.com/groceries/product/x/x/6149224"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Highland Park Malt Whisky 70Cl Bottle",
-      "price": "£47.50",
-      "promotion": "£33.50 Clubcard Price",
-      "saving": 14.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/256775750"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jura Single Malt Scotch Whisky 70cl",
-      "price": "£45.00",
-      "promotion": "£31.00 Clubcard Price",
-      "saving": 14.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/310154107"
     },
     {
       "store": "Morrisons",
@@ -84,15 +39,6 @@
       "link": "https://groceries.morrisons.com/products/bushmills-12-year-old-single-malt-irish-whiskey/115456876"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Pimm's The Original No.1 Cup Bottle 25% Vol 1L",
-      "price": "£23.50",
-      "promotion": "£10.00 Better than Half Price Clubcard Price",
-      "saving": 13.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/255250422"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Johnnie Walker Black Ruby Blended Scotch Whisky 40% vol 70cl",
@@ -100,33 +46,6 @@
       "promotion": "Now £26.00, Was £39.40",
       "saving": 13.4,
       "link": "https://www.asda.com/groceries/product/x/x/9329401"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Johnnie Walker Black Ruby Blended Scotch Whisky 70cl",
-      "price": "£39.50",
-      "promotion": "£26.50 Clubcard Price",
-      "saving": 13.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/322345998"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jura Single Malt Scotch Whisky Bourbon Cask 70cl",
-      "price": "£36.00",
-      "promotion": "£23.00 Clubcard Price",
-      "saving": 13.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/313843407"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "The Glenlivet French Oak Reserve 15 Year Old Single Malt Scotch Whisky 70cl",
-      "price": "£53.50",
-      "promotion": "£40.50 Clubcard Price",
-      "saving": 13.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/258244362"
     },
     {
       "store": "Asda",
@@ -165,15 +84,6 @@
       "link": "https://groceries.morrisons.com/products/jura-rum-cask/112614445"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Old Pulteney Harbour Single Malt Scotch Whisky 70cl",
-      "price": "£36.00",
-      "promotion": "£23.75 Save 1/3 Clubcard Price",
-      "saving": 12.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/315860847"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Jack Daniel's Gentleman Jack Tennessee Whiskey 70 cL",
@@ -190,51 +100,6 @@
       "promotion": "Now £23.00, Was £35.00",
       "saving": 12.0,
       "link": "https://www.asda.com/groceries/product/x/x/7617844"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "The Ardmore Highland Single Malt Scotch Whisky 70cl",
-      "price": "£34.00",
-      "promotion": "£22.00 Clubcard Price",
-      "saving": 12.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/285845756"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Laphroaig Islay Single Malt Scotch Whisky - Select 70cl",
-      "price": "£37.00",
-      "promotion": "£25.50 Clubcard Price",
-      "saving": 11.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/285331961"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tamnavulin Sherry Cask Single Malt Whisky 70cl",
-      "price": "£36.50",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 11.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/313520067"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tamnavulin Speyside Single Malt Scotch Whisky 70cl",
-      "price": "£36.50",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 11.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/310167547"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Wild Turkey 101 Kentucky Bourbon Whiskey 70cl",
-      "price": "£36.50",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 11.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/301745862"
     },
     {
       "store": "Morrisons",
@@ -271,15 +136,6 @@
       "promotion": "Now £30.50, Was £41.37",
       "saving": 10.87,
       "link": "https://www.asda.com/groceries/product/x/x/9052032"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bowmore 12 Year Old Single Malt Scotch Whisky 70cl",
-      "price": "£44.50",
-      "promotion": "£34.00 Clubcard Price",
-      "saving": 10.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/251552394"
     },
     {
       "store": "Morrisons",
@@ -327,24 +183,6 @@
       "link": "https://groceries.morrisons.com/products/courvoisier-vsop-cognac/101543215"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Glenfiddich 14 Year Old Bourbon Cask Single Malt 70cl",
-      "price": "£50.00",
-      "promotion": "£40.00 Clubcard Price",
-      "saving": 10.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/330743187"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Maker's Mark Kentucky Straight Bourbon Whisky 70cl",
-      "price": "£35.00",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 10.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/267214426"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "The Woodsman Blended Scotch Whisky ",
@@ -352,15 +190,6 @@
       "promotion": "Now £20, Was £30",
       "saving": 10.0,
       "link": "https://groceries.morrisons.com/products/the-woodsman-blended-scotch-whisky/111555261"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Woodford Reserve Kentucky Straight Bourbon Whiskey 70 cL",
-      "price": "£38.00",
-      "promotion": "£28.00 Save 25% Clubcard Price",
-      "saving": 10.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/266816906"
     },
     {
       "store": "Asda",
@@ -381,15 +210,6 @@
       "link": "https://groceries.morrisons.com/products/absolut-blue-original-swedish-vodka-1l/101535240"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bankhall British Single Malt Whisky 70cl",
-      "price": "£25.75",
-      "promotion": "£16.00 Clubcard Price",
-      "saving": 9.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/321223655"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Woodford Reserve Kentucky Straight Bourbon Whiskey 70 cL",
@@ -397,15 +217,6 @@
       "promotion": "Now £28.00, Was £37.75",
       "saving": 9.75,
       "link": "https://www.asda.com/groceries/product/x/x/2681441"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Eagle Rare Single Barrel 10 Year Old Bourbon Whiskey 70cl",
-      "price": "£39.50",
-      "promotion": "£30.00 Clubcard Price",
-      "saving": 9.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/279628965"
     },
     {
       "store": "Asda",
@@ -471,15 +282,6 @@
       "link": "https://groceries.morrisons.com/products/aberlour-12-year-old-speyside-single-malt-scotch-whisky/107348066"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jim Beam Black Bourbon Whiskey 70cl",
-      "price": "£32.25",
-      "promotion": "£23.00 Clubcard Price",
-      "saving": 9.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/322645384"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Old Pulteney 12 Year Old Single Malt Scotch Whisky",
@@ -498,24 +300,6 @@
       "link": "https://groceries.morrisons.com/products/glenmorangie-triple-cask-reserve-single-malt-whisky-70cl/114219182"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Malfy Rosa Pink Grapefruit Flavoured Gin Spirit Drink 70cl",
-      "price": "£31.50",
-      "promotion": "£22.50 Clubcard Price",
-      "saving": 9.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/303986302"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Silent Pool Gin 70cl",
-      "price": "£45.00",
-      "promotion": "£36.00 Clubcard Price",
-      "saving": 9.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323919232"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "The Woodsman Blended Scotch Whisky 70cl",
@@ -532,24 +316,6 @@
       "promotion": "Now £21, Was £30",
       "saving": 9.0,
       "link": "https://groceries.morrisons.com/products/whitley-neill-black-cherry-gin/113041888"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Whitley Neill Gin - Blood Orange 70cl",
-      "price": "£30.00",
-      "promotion": "£21.00 Clubcard Price",
-      "saving": 9.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/303215299"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Whitley Neill Gin - Japanese Yuzu & White Strawberry 70cl",
-      "price": "£30.00",
-      "promotion": "£21.00 Clubcard Price",
-      "saving": 9.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/316186123"
     },
     {
       "store": "Morrisons",
@@ -606,24 +372,6 @@
       "link": "https://groceries.morrisons.com/products/courvoisier-vs-cognac/101545157"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Courvoisier VS Cognac 1 litre",
-      "price": "£44.75",
-      "promotion": "£36.00 Clubcard Price",
-      "saving": 8.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/250613779"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Glenmorangie Triple Cask Reserve Highland Single Malt Scotch Whisky 70cl",
-      "price": "£33.75",
-      "promotion": "£25.00 Save 25% Clubcard Price",
-      "saving": 8.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/316799711"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Whitley Neill Gin Japanese Yuzu & White Strawberry 70CL",
@@ -651,33 +399,6 @@
       "link": "https://groceries.morrisons.com/products/martell-vs-fine-cognac/101571638"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "ROKU Japanese Craft Gin Sakura Bloom Edition 70cl",
-      "price": "£34.00",
-      "promotion": "£25.50 Save 25% Clubcard Price",
-      "saving": 8.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/315453759"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "SIPSMITH LONDON DRY GIN 70CL",
-      "price": "£32.00",
-      "promotion": "£23.50 Save 25% Clubcard Price",
-      "saving": 8.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/285970774"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Stauning HØST Danish Double Malt Whisky 70cl",
-      "price": "£48.00",
-      "promotion": "£39.50 Clubcard Price",
-      "saving": 8.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/321537888"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Whitley Neill Black Cherry Gin 70cl",
@@ -694,24 +415,6 @@
       "promotion": "Now £23.50, Was £31.75",
       "saving": 8.25,
       "link": "https://groceries.morrisons.com/products/malfy-rosa-pink-grapefruit-flavoured-gin/111124663"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Beer Lager Bottles 18x330ml",
-      "price": "£26.25",
-      "promotion": "£18.00 Clubcard Price",
-      "saving": 8.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/312227186"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "1800 Reserva Silver Tequila 70cl",
-      "price": "£33.00",
-      "promotion": "£25.00 Clubcard Price",
-      "saving": 8.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/305828643"
     },
     {
       "store": "Morrisons",
@@ -732,15 +435,6 @@
       "link": "https://groceries.morrisons.com/products/bolney-classic-cuvee/114473084"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bombay Sapphire Gin 1 Litre",
-      "price": "£31.00",
-      "promotion": "£23.00 Save 25% Clubcard Price",
-      "saving": 8.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/252695240"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Chivas Regal 12 Year Old Blended Scotch Whisky",
@@ -748,15 +442,6 @@
       "promotion": "£23.50 - More Card Price",
       "saving": 8.0,
       "link": "https://groceries.morrisons.com/products/chivas-regal-12-year-old-blended-scotch-whisky/101564729"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Chivas Regal Aged 12 Years Blended Scotch Whisky 70cl",
-      "price": "£31.50",
-      "promotion": "£23.50 Save 25% Clubcard Price",
-      "saving": 8.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/256565653"
     },
     {
       "store": "Morrisons",
@@ -777,15 +462,6 @@
       "link": "https://groceries.morrisons.com/products/havana-club-7-year-old-dark-rum/108454240"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Martell VS Fine Cognac 70cl",
-      "price": "£34.00",
-      "promotion": "£26.00 Clubcard Price",
-      "saving": 8.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/255814948"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Nemiroff De Luxe Vodka ",
@@ -802,33 +478,6 @@
       "promotion": "Now £8.50, Was £16.50",
       "saving": 8.0,
       "link": "https://www.asda.com/groceries/product/x/x/4811917"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Paddy Irish Whiskey 1L",
-      "price": "£27.75",
-      "promotion": "£20.00 Clubcard Price",
-      "saving": 7.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/250836469"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tequila Rose Strawberry Cream Liqueur 1L",
-      "price": "£26.75",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 7.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/317976811"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Ballantine's Finest Blended Scotch Whisky 70cl",
-      "price": "£26.50",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 7.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/271136868"
     },
     {
       "store": "Morrisons",
@@ -858,42 +507,6 @@
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottles-12x330ml/112386041"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Nemiroff De Luxe Vodka 1L",
-      "price": "£27.50",
-      "promotion": "£20.00 Clubcard Price",
-      "saving": 7.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/322757862"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Patron Xo Cafe 70Cl",
-      "price": "£46.50",
-      "promotion": "£39.00 Clubcard Price",
-      "saving": 7.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/300274556"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Plymouth Gin 70Cl",
-      "price": "£29.50",
-      "promotion": "£22.00 Save 25% Clubcard Price",
-      "saving": 7.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/278452995"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Southern Comfort Original Liqueur with Whiskey 70cl",
-      "price": "£23.00",
-      "promotion": "£15.50 Clubcard Price",
-      "saving": 7.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/251985123"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Whitley Neill Distillers Cut London Dry Gin   70cl",
@@ -914,38 +527,11 @@
     {
       "store": "Tesco",
       "category": "spirits",
-      "title": "Aperol Aperitivo 100cl",
-      "price": "£22.25",
-      "promotion": "£15.00 Clubcard Price",
-      "saving": 7.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/303299499"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Berkshire Botanical Rhubarb & Raspberry Gin 50Cl",
-      "price": "£22.50",
-      "promotion": "£15.50 Clubcard Price",
-      "saving": 7.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/307138258"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
       "title": "Dead Man's Fingers Spiced Rum 70Cl",
       "price": "£26.00",
       "promotion": "£19.00 Save 25% Clubcard Price",
       "saving": 7.0,
       "link": "https://www.tesco.com/shop/en-GB/products/303390959"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Fireball Cinnamon Whiskey  70cl",
-      "price": "£21.00",
-      "promotion": "£14.00 Save 1/3 Clubcard Price",
-      "saving": 7.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/304388110"
     },
     {
       "store": "Morrisons",
@@ -955,33 +541,6 @@
       "promotion": "Now £13.50, Was £20.50",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/glayva-liqueur/101574775"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Jack Daniel's Tennessee Apple 70 cL",
-      "price": "£25.50",
-      "promotion": "£18.50 Clubcard Price",
-      "saving": 7.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/305734539"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Jack Daniel's Tennessee Honey 70 cL",
-      "price": "£25.50",
-      "promotion": "£18.50 Clubcard Price",
-      "saving": 7.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/274578121"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jameson Triple Distilled Irish Whiskey 1 Litre",
-      "price": "£34.50",
-      "promotion": "£27.50 Clubcard Price",
-      "saving": 7.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/250835977"
     },
     {
       "store": "Tesco",
@@ -1047,60 +606,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5391316"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Absolut Swedish Vodka 1L",
-      "price": "£29.75",
-      "promotion": "£23.00 Clubcard Price",
-      "saving": 6.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/255927642"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Absolut Vanilia Vanilla Flavoured Vodka 1 Litre",
-      "price": "£29.75",
-      "promotion": "£23.00 Clubcard Price",
-      "saving": 6.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/312082396"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bell's Original Blended Whisky Bottle 40% Vol 1L",
-      "price": "£25.25",
-      "promotion": "£18.50 Save 25% Clubcard Price",
-      "saving": 6.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/259776963"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Born Irish Whiskey With Stout 700Ml",
-      "price": "£32.25",
-      "promotion": "£25.50 Clubcard Price",
-      "saving": 6.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/311945307"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "El Jimador Tequila Blanco 70cl",
-      "price": "£26.75",
-      "promotion": "£20.00 Save 25% Clubcard Price",
-      "saving": 6.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/317422197"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Baileys White Chocolate and Raspberry 500ml",
-      "price": "£17.50",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 6.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323864981"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "BrewDog Duo Spiced Rum",
@@ -1155,15 +660,6 @@
       "link": "https://groceries.morrisons.com/products/caorunn-scottish-raspberry-gin/112632205"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Glen Moray Twisted Vine Single Malt Scotch Whisky 70cl",
-      "price": "£30.00",
-      "promotion": "£23.50 Clubcard Price",
-      "saving": 6.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/315756211"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Gordon's London Dry Gin   1L",
@@ -1173,15 +669,6 @@
       "link": "https://groceries.morrisons.com/products/gordon-s-london-dry-gin-1l/101557705"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jack Daniel's Old No. 7 Tennessee Whiskey 70 cL",
-      "price": "£25.50",
-      "promotion": "£19.00 Save 25% Clubcard Price",
-      "saving": 6.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/255248604"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jameson Triple Triple Blended Irish Whiskey (Abv 40%) 70cl",
@@ -1189,15 +676,6 @@
       "promotion": "£23.00 - More Card Price",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/jameson-triple-triple-blended-irish-whiskey-abv-40-70cl/114889418"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Johnnie Walker Red Label Scotch Whisky Bottle 40% Vol 70cl",
-      "price": "£25.00",
-      "promotion": "£18.50 Save 25% Clubcard Price",
-      "saving": 6.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/250096284"
     },
     {
       "store": "Morrisons",
@@ -1301,29 +779,11 @@
     {
       "store": "Tesco",
       "category": "spirits",
-      "title": "Gordon's Premium Pink Gin Based Flavoured Spirit Drink 35% vol 1L Bottle",
-      "price": "£27.50",
-      "promotion": "£21.50 Clubcard Price",
-      "saving": 6.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/300411717"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
       "title": "Havana Club Anejo Especial Rum 70Cl",
       "price": "£24.50",
       "promotion": "£18.50 Clubcard Price",
       "saving": 6.0,
       "link": "https://www.tesco.com/shop/en-GB/products/258144288"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Hendrick's Another Gin 700ml",
-      "price": "£33.50",
-      "promotion": "£27.50 Clubcard Price",
-      "saving": 6.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/324103815"
     },
     {
       "store": "Morrisons",
@@ -1389,15 +849,6 @@
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-liqueur/109177686"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Estrella Damm Barcelona 10x440ml",
-      "price": "£16.75",
-      "promotion": "£11.00 Save 1/3 Clubcard Price",
-      "saving": 5.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/320672129"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Famille Brocard Chablis Premier Cru 750ml",
@@ -1414,15 +865,6 @@
       "promotion": "£18.50 - More Card Price",
       "saving": 5.75,
       "link": "https://groceries.morrisons.com/products/johnnie-walker-red-label-blended-scotch-whisky/105631458"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "BuzzBallz Biggies Tequila Rita 1.75L",
-      "price": "£23.50",
-      "promotion": "£18.00 Clubcard Price",
-      "saving": 5.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323009802"
     },
     {
       "store": "Morrisons",
@@ -1497,15 +939,6 @@
       "link": "https://www.tesco.com/shop/en-GB/products/330743433"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "RUM DON PAPA BAROKO 40% 0,7L TUBA",
-      "price": "£36.50",
-      "promotion": "£31.00 Clubcard Price",
-      "saving": 5.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/325040250"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Sailor Jerry Spiced Rum",
@@ -1524,15 +957,6 @@
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "The Kraken Black Spiced Rum - Roast Coffee 700ml",
-      "price": "£26.50",
-      "promotion": "£21.00 Clubcard Price",
-      "saving": 5.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/311934986"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "WKD Vibe Blue Raspberry Creamy Liqueur 500ml",
@@ -1545,9 +969,9 @@
       "store": "Asda",
       "category": "spirits",
       "title": "Johnnie Walker Red Label Blended Scotch Whisky 40% vol 70cl",
-      "price": "£18.74",
-      "promotion": "Now £18.74, Was £24.17",
-      "saving": 5.43,
+      "price": "£18.75",
+      "promotion": "Now £18.75, Was £24.17",
+      "saving": 5.42,
       "link": "https://www.asda.com/groceries/product/x/x/1192452"
     },
     {
@@ -1587,15 +1011,6 @@
       "link": "https://groceries.morrisons.com/products/cantine-di-ora-barolo-docg/114302218"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Disaronno Liqueur 500ml",
-      "price": "£18.75",
-      "promotion": "£13.50 Clubcard Price",
-      "saving": 5.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/255250290"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Exceptional by ASDA Exceptional by  Amarone 75cl",
@@ -1603,24 +1018,6 @@
       "promotion": "Buy 6 save 25%",
       "saving": 5.25,
       "link": "https://www.asda.com/groceries/product/x/x/9018625"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Madri Excepcional Premium Lager Beer Can 10 x 440ml",
-      "price": "£15.25",
-      "promotion": "£10.00 Save 1/3 Clubcard Price",
-      "saving": 5.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/311229404"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Asahi Super Dry Beer Lager Bottles 12x330ml",
-      "price": "£19.00",
-      "promotion": "£14.00 Save 25% Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/314695468"
     },
     {
       "store": "Asda",
@@ -1632,15 +1029,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7325237"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Au Vodka Blue Raspberry 70Cl",
-      "price": "£34.00",
-      "promotion": "£29.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/310178908"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Au Vodka Blue Raspberry Flavour ",
@@ -1648,42 +1036,6 @@
       "promotion": "£29.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/au-vodka-blue-raspberry-flavour/111914500"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Au Vodka Flavoured Spirit - Strawberry Burst 70cl",
-      "price": "£34.00",
-      "promotion": "£29.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/317536814"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Au Vodka Pink Lemonade 70Cl",
-      "price": "£34.00",
-      "promotion": "£29.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/314107112"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Balvenie Stories, The Week of Peat 14 year old Whisky and Chocolates Hamper 70cl 48.3 abv",
-      "price": "£129.95",
-      "promotion": "£124.95 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/325839880?seller=trn:tesco:seller:uuid:009a7572-5b0a-4b76-8d54-7c27c6b198a1"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Balvenie Stories, The Week of Peat 14 year old Whisky And Dark Sea Salt Charbonnel Chocolates Box 70cl 48.3 abv",
-      "price": "£119.95",
-      "promotion": "£114.95 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/325839924?seller=trn:tesco:seller:uuid:009a7572-5b0a-4b76-8d54-7c27c6b198a1"
     },
     {
       "store": "Morrisons",
@@ -1704,15 +1056,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9145802"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Glayva Tangerine & Honeyspiced Whisky Liqueur 50cl",
-      "price": "£20.50",
-      "promotion": "£15.50 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/255250186"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Jim Beam Pineapple ",
@@ -1729,15 +1072,6 @@
       "promotion": "Now £15.50, Was £20.50",
       "saving": 5.0,
       "link": "https://www.asda.com/groceries/product/x/x/9296738"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Metaxa 5* Gift Box Spirit 700 ml",
-      "price": "£22.00",
-      "promotion": "£17.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/325062710"
     },
     {
       "store": "Morrisons",
@@ -1767,24 +1101,6 @@
       "link": "https://groceries.morrisons.com/products/peroni-nastro-azzuro-bottles-12-x-330ml/112617195"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "St Remy XO French Brandy 70cl",
-      "price": "£25.00",
-      "promotion": "£20.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/315975887"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Three Barrels Rare Old French Brandy VSOP 70cl",
-      "price": "£21.00",
-      "promotion": "£16.00 Clubcard Price",
-      "saving": 5.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/286116028"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Tia Maria",
@@ -1792,15 +1108,6 @@
       "promotion": "£12.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/tia-maria/101537616"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carling Original Lager Beer Can 18 x 440ml",
-      "price": "£15.99",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 4.99,
-      "link": "https://www.tesco.com/shop/en-GB/products/295220887"
     },
     {
       "store": "Asda",
@@ -1830,24 +1137,6 @@
       "link": "https://groceries.morrisons.com/products/domaine-de-chezatte-sancerre-2022/114346448"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Birra Moretti Premium Lager Beer Bottle 12x330ml",
-      "price": "£17.75",
-      "promotion": "£13.00 Save 25% Clubcard Price",
-      "saving": 4.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/290773107"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Fundador Fine Brandy Sherry Cask 1L",
-      "price": "£23.50",
-      "promotion": "£18.75 Clubcard Price",
-      "saving": 4.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/306493143"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Fundador Fine Brandy Sherry Cask 1L",
@@ -1855,33 +1144,6 @@
       "promotion": "£19.00 - More Card Price",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/fundador-fine-brandy-sherry-cask-1l/115064725"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Jim Beam Kentucky Straight Bourbon Whiskey 1L",
-      "price": "£28.25",
-      "promotion": "£23.50 Clubcard Price",
-      "saving": 4.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/260622528"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "JJ  London Dry Gin 37.5% 1L",
-      "price": "£23.75",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/321541001"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "JJ Pink Gin 37.5% 1L",
-      "price": "£23.75",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/321547525"
     },
     {
       "store": "Asda",
@@ -1918,15 +1180,6 @@
       "promotion": "£13.00 - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/baileys-salted-caramel-irish-cream-liqueur-abv-17-50cl/113334031"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bushmills Irish Whiskey 70cl",
-      "price": "£23.50",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/251773944"
     },
     {
       "store": "Asda",
@@ -2008,15 +1261,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/old-mout-mango-and-passionfruit-cider-10x330ml/115074860"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "San Miguel Especial 15x440ml",
-      "price": "£18.50",
-      "promotion": "£14.00 Clubcard Price",
-      "saving": 4.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/322533107"
     },
     {
       "store": "Morrisons",
@@ -2109,15 +1353,6 @@
       "link": "https://www.tesco.com/shop/en-GB/products/264417662"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Gordon's Special Dry London Gin Bottle 37.5% Vol 1L",
-      "price": "£22.75",
-      "promotion": "£18.50 Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/257546202"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Heineken Original Premium Lager Beer 5% ABV Bottles 12x330ml",
@@ -2125,15 +1360,6 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 4.25,
       "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-bottles-12x330ml/101561819"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Kahlúa The Original Coffee Liqueur 70cl",
-      "price": "£17.00",
-      "promotion": "£12.75 Save 25% Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/309203397"
     },
     {
       "store": "Morrisons",
@@ -2163,15 +1389,6 @@
       "link": "https://groceries.morrisons.com/products/magners-original-cider-cans/104802825"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Modelo Especial Beer 12 x 355ml",
-      "price": "£18.25",
-      "promotion": "£14.00 Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/322429266"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Sancerre ",
@@ -2179,24 +1396,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.25,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-sancerre/110311897"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Olmeca Altos Plata Tequila 700ml",
-      "price": "£26.75",
-      "promotion": "£22.50 Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/295702818"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Smirnoff No.21 Red Label Vodka Bottle 37.5% Vol 1L",
-      "price": "£22.75",
-      "promotion": "£18.50 Clubcard Price",
-      "saving": 4.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/255248898"
     },
     {
       "store": "Asda",
@@ -2217,33 +1416,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9295666"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Absolut Citron Vodka 70Cl",
-      "price": "£23.00",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/251783327"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Absolut Swedish Vodka 70Cl",
-      "price": "£23.00",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/256838452"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Baileys Original Irish Cream Liqueur Bottle 17% Vol 70Cl",
-      "price": "£17.25",
-      "promotion": "£13.25 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/255249776"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Ballantine's Finest Blended Scotch Whisky 70cl",
@@ -2251,15 +1423,6 @@
       "promotion": "Now £19.00, Was £23.00",
       "saving": 4.0,
       "link": "https://www.asda.com/groceries/product/x/x/4612502"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Bardinet VSOP Finest Brandy 100cl",
-      "price": "£23.00",
-      "promotion": "£19.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/290225452"
     },
     {
       "store": "Morrisons",
@@ -2298,15 +1461,6 @@
       "link": "https://groceries.morrisons.com/products/brewdog-punk-ipa-10x330ml/115974024"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Budweiser Lager 18 X 440Ml",
-      "price": "£19.00",
-      "promotion": "£15.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/309743575"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Ciroc Strawberry Limonade 70cl",
@@ -2332,15 +1486,6 @@
       "promotion": "Now £15.50, Was £19.50",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/cointreau-triple-sec-orange-liqueur/102510095"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Corona Extra La Cerveza Mas Fina 10x440ml",
-      "price": "£14.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323910408"
     },
     {
       "store": "Morrisons",
@@ -2379,15 +1524,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5596983"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "MADRI Excepcional Premium Lager Beer Can 15 x 440ml",
-      "price": "£19.00",
-      "promotion": "£15.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/321536808"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Block Series 011 Cotes De Provence Ste Victoire",
@@ -2404,15 +1540,6 @@
       "promotion": "Now £23.50, Was £27.50",
       "saving": 4.0,
       "link": "https://www.asda.com/groceries/product/x/x/9239159"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Mythos Premium Greek Lager Beer Can 10x440ml",
-      "price": "£14.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 4.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323911079"
     },
     {
       "store": "Morrisons",
@@ -2460,15 +1587,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9088705"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Stella Artois Lager 18X440ml",
-      "price": "£17.89",
-      "promotion": "£14.00 Clubcard Price",
-      "saving": 3.89,
-      "link": "https://www.tesco.com/shop/en-GB/products/307345928"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Chateau Lavigniere 2020 St Emilion Grand Cru ",
@@ -2485,15 +1603,6 @@
       "promotion": "Buy 6 save 25%",
       "saving": 3.81,
       "link": "https://www.asda.com/groceries/product/x/x/9259755"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "White Claw Hard Seltzer Variety Pack 8 x 330ml",
-      "price": "£13.80",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 3.8,
-      "link": "https://www.tesco.com/shop/en-GB/products/308479238"
     },
     {
       "store": "Asda",
@@ -2622,15 +1731,6 @@
       "link": "https://www.tesco.com/shop/en-GB/products/325039789"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Captain Morgan Original Spiced Gold & Pepsi Max 6 X 250ML",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316791443"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Carling Black Label Premium Lager Beer Cans 10 x 440ml",
@@ -2638,69 +1738,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/carling-black-label-premium-lager-beer-cans-10-x-440ml/115980521"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Desperados Tequila Flavoured Lager Beer Bottle 12x250ml",
-      "price": "£16.50",
-      "promotion": "£13.00 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/300542631"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Fris Vodka 700Ml",
-      "price": "£18.00",
-      "promotion": "£14.50 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/309207963"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Gordon's & Diet Tonic  6x250ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316443608"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Gordon's & Tonic 6x250ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316801364"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Gordon's Pink Gin & Tonic Original 6x250ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316788407"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Gordon's Spritz Elderflower and Citrus 750ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/324103320"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Gordon's Spritz Watermelon and Berry 750ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323877349"
     },
     {
       "store": "Morrisons",
@@ -2730,15 +1767,6 @@
       "link": "https://groceries.morrisons.com/products/john-smith-s-10-extra-smooth-cans/113740953"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Jose Cuervo Especial Silver 70Cl",
-      "price": "£23.00",
-      "promotion": "£19.50 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/290642522"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Kopparberg Cider Variety Pack 12x330ml",
@@ -2766,24 +1794,6 @@
       "link": "https://groceries.morrisons.com/products/old-mout-pineapple-raspberry-cider-cans/110470193"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Beer Lager Can 10x330ml",
-      "price": "£14.00",
-      "promotion": "£10.50 Save 25% Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/321344776"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Pimm's & Lemonade 6x250ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316807283"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Sierra Tequila Blanco ",
@@ -2791,15 +1801,6 @@
       "promotion": "£14.00 - More Card Price",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/sierra-tequila-blanco/115396789"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sol Original Beer 12x330ml",
-      "price": "£12.50",
-      "promotion": "£9.00 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/302274379"
     },
     {
       "store": "Morrisons",
@@ -2856,15 +1857,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9041728"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Aperol Spritz 4x20cl",
-      "price": "£13.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 3.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/321666885"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Faustino Reserva",
@@ -2881,15 +1873,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/freixenet-brut-royal-75cl/115026374"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Heineken Lager Beer Bottle 12x330ml",
-      "price": "£14.25",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 3.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/302301516"
     },
     {
       "store": "Morrisons",
@@ -2926,15 +1909,6 @@
       "promotion": "Buy 6 save 25%",
       "saving": 3.25,
       "link": "https://www.asda.com/groceries/product/x/x/9093924"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Strongbow Dark Fruit Cider Can 10x440ml",
-      "price": "£13.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 3.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/278653665"
     },
     {
       "store": "Morrisons",
@@ -3054,15 +2028,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7294558"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Birra Moretti Sale Di Mare Lager Beer 10x330ml",
-      "price": "£14.00",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323322989"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Birrificio Angelo Poretti Premium Italian Lager 12 x 440ml",
@@ -3079,15 +2044,6 @@
       "promotion": "Now £20.00, Was £23.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/874056"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "BrewDog Hazy Jane 10x330ml",
-      "price": "£14.00",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323869647"
     },
     {
       "store": "Morrisons",
@@ -3153,24 +2109,6 @@
       "link": "https://groceries.morrisons.com/products/carlsberg-export-lager-beer-cans/107317286"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Coors Lager Beer 10 x 440ml",
-      "price": "£10.00",
-      "promotion": "£7.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/322664919"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 10X440ml",
-      "price": "£13.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/315069497"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 10x440ml",
@@ -3214,24 +2152,6 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/doom-bar-amber-ale-beer-cans/111810188"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "EFES The Mediterranean Beer 10x330ml",
-      "price": "£13.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/324433856"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Estrella Galicia Premium Spanish Lager 10x440ml Cans",
-      "price": "£15.00",
-      "promotion": "£12.00 Clubcard Price",
-      "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/322452053"
     },
     {
       "store": "Asda",
@@ -3468,13 +2388,31 @@
       "link": "https://groceries.morrisons.com/products/sol-lager-15x330ml/115868213"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Stella Artois Belgium Premium Lager Beer 12 x 330ml",
-      "price": "£13.00",
-      "promotion": "£10.00 Clubcard Price",
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sourz Cherry Liqueur",
+      "price": "£11.75",
+      "promotion": "£8.75 - More Card Price",
       "saving": 3.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/307340375"
+      "link": "https://groceries.morrisons.com/products/sourz-cherry-liqueur/108599131"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sourz Green Apple Liqueur  70cl",
+      "price": "£11.75",
+      "promotion": "£8.75 - More Card Price",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/sourz-green-apple-liqueur-70cl/101527670"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Sourz Lemon & Lime ",
+      "price": "£11.75",
+      "promotion": "£8.75 - More Card Price",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/sourz-lemon-lime/115460154"
     },
     {
       "store": "Asda",
@@ -3522,15 +2460,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9347757"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Foster's Lager Beer Can 18x440ml",
-      "price": "£12.99",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.99,
-      "link": "https://www.tesco.com/shop/en-GB/products/313732035"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Antica Sambuca with Raspberry Flavour Liqueur 70cl",
@@ -3547,15 +2476,6 @@
       "promotion": "Now £10.00, Was £12.97",
       "saving": 2.97,
       "link": "https://www.asda.com/groceries/product/x/x/9244331"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Strongbow Original Cider Can 18x440ml",
-      "price": "£13.95",
-      "promotion": "£11.00 Clubcard Price",
-      "saving": 2.95,
-      "link": "https://www.tesco.com/shop/en-GB/products/305964763"
     },
     {
       "store": "Asda",
@@ -3585,51 +2505,6 @@
       "link": "https://groceries.morrisons.com/products/ramos-family-reserva-tinto/115033582"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Angelo Poretti Premium Italian Lager Beer Can 10x440ml",
-      "price": "£12.75",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/320791190"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Archers Peach Schnapps 70cl",
-      "price": "£14.00",
-      "promotion": "£11.25 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/265638116"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Fireball Cinnamon Liqueur With Whiskey 6x5cl.",
-      "price": "£10.25",
-      "promotion": "£7.50 Save 25% Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/322760546"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Grant's Triple Wood Blended Scotch Whisky 1 Litre",
-      "price": "£23.25",
-      "promotion": "£20.50 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/255248190"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Harveys The Bristol Cream Solera Sherry 75cl",
-      "price": "£14.00",
-      "promotion": "£11.25 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/257467883"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Medium Apple Cider Cans ",
@@ -3637,33 +2512,6 @@
       "promotion": "Now £9, Was £11.75",
       "saving": 2.75,
       "link": "https://groceries.morrisons.com/products/inch-s-medium-apple-cider-cans/111740271"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Cider Berry Variety Pack 10 x 330ml",
-      "price": "£12.00",
-      "promotion": "£9.25 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323654550"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Kopparberg Strawberry Variety Pack 10 X 330Ml",
-      "price": "£12.00",
-      "promotion": "£9.25 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/313942247"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Kopparberg Summer Punch 12x330ml CAN",
-      "price": "£12.00",
-      "promotion": "£9.25 Clubcard Price",
-      "saving": 2.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/315735956"
     },
     {
       "store": "Morrisons",
@@ -3810,15 +2658,6 @@
       "link": "https://groceries.morrisons.com/products/wkd-blue-10-x-330ml/115031659"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Corona Extra 12X330ml",
-      "price": "£12.59",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.59,
-      "link": "https://www.tesco.com/shop/en-GB/products/274360096"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "BrewDog Triple Hazy New England IPA 440ml",
@@ -3864,15 +2703,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/1767911"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Amarula Original Cream Liqueur 70cl",
-      "price": "£13.75",
-      "promotion": "£11.25 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/250714435"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "ASDA Extra Special English Sparkling Brut",
@@ -3907,24 +2737,6 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/birra-moretti-lager-beer-cans/112386315"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "BrewDog Cold Beer 10 x 440ml",
-      "price": "£9.50",
-      "promotion": "£7.00 Save 25% Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316063948"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "BrewDog Mixed Pack 10x330ml",
-      "price": "£14.00",
-      "promotion": "£11.50 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323915461"
     },
     {
       "store": "Asda",
@@ -3990,33 +2802,6 @@
       "link": "https://groceries.morrisons.com/products/gordon-s-premium-pink-spirit-drink/114218104"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henry Westons Vintage Cider 6X500ml Bottle",
-      "price": "£12.00",
-      "promotion": "£9.50 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/289347337"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Inch's Cloudy Apple Cider Can 10x440ml",
-      "price": "£11.50",
-      "promotion": "£9.00 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/321219188"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Inch's Medium Apple Cider Can 10x440ml",
-      "price": "£11.50",
-      "promotion": "£9.00 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/308088770"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jose Cuervo Especial Reposado Tequila ",
@@ -4024,15 +2809,6 @@
       "promotion": "£20.00 - More Card Price",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/jose-cuervo-especial-reposado-tequila/114089550"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kronenbourg 1664 Lager Beer Can 15x440ml",
-      "price": "£15.50",
-      "promotion": "£13.00 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/302305570"
     },
     {
       "store": "Morrisons",
@@ -4179,33 +2955,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/6056627"
     },
     {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tanqueray London Dry Gin 70Cl",
-      "price": "£23.00",
-      "promotion": "£20.50 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/314314431"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Tequila Rose Strawberry Cream Liqueur 6x5cl",
-      "price": "£10.00",
-      "promotion": "£7.50 Save 25% Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/322544135"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "The Famous Grouse Finest Blended Scotch Whisky 70cl",
-      "price": "£18.50",
-      "promotion": "£16.00 Clubcard Price",
-      "saving": 2.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/256521498"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Valle Rojo Tempranillo 1.5l",
@@ -4249,15 +2998,6 @@
       "promotion": "Now £14.00, Was £16.46",
       "saving": 2.46,
       "link": "https://www.asda.com/groceries/product/x/x/7698840"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Au Vodka Party Pack 8 x 330ml",
-      "price": "£17.45",
-      "promotion": "£15.00 Clubcard Price",
-      "saving": 2.45,
-      "link": "https://www.tesco.com/shop/en-GB/products/315390809"
     },
     {
       "store": "Asda",
@@ -4321,15 +3061,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.44,
       "link": "https://groceries.morrisons.com/products/piccini-memoro-red/106543417"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "John Smiths Extra Smooth 10X440ml",
-      "price": "£12.00",
-      "promotion": "£9.60 Clubcard Price",
-      "saving": 2.4,
-      "link": "https://www.tesco.com/shop/en-GB/products/263928911"
     },
     {
       "store": "Morrisons",
@@ -4458,24 +3189,6 @@
       "link": "https://groceries.morrisons.com/products/baker-street-white-blend/114479654"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Boddingtons 10x440ml",
-      "price": "£10.25",
-      "promotion": "£8.00 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/300228819"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Budweiser Lager Beer 12 X 300Ml",
-      "price": "£12.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/310174596"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Exceptional by ASDA Exceptional by  Sicilian Reserve Red 75cl",
@@ -4510,15 +3223,6 @@
       "promotion": "£11.50 - More Card Price",
       "saving": 2.25,
       "link": "https://groceries.morrisons.com/products/harveys-bristol-cream-sherry/101574599"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kronenbourg 1664 Blanc Premium Lager Beer 12x330ml",
-      "price": "£16.25",
-      "promotion": "£14.00 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/315751026"
     },
     {
       "store": "Asda",
@@ -4638,24 +3342,6 @@
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-minervois-blanc/115483014"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Session Hen Beer 10x440 ml",
-      "price": "£11.50",
-      "promotion": "£9.25 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/321026865"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Olmeca Altos Tequila Strawberry Margarita Ready to Serve Cocktail 750mL",
-      "price": "£15.50",
-      "promotion": "£13.25 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/318184122"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Piccini Memŏro Rosso D'Italia 75cl",
@@ -4681,24 +3367,6 @@
       "promotion": "Buy 6 save 25%",
       "saving": 2.25,
       "link": "https://www.asda.com/groceries/product/x/x/9351291"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Sierra Tequila Reposado 50cl",
-      "price": "£17.75",
-      "promotion": "£15.50 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/325066988"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Smirnoff Ice Original Vodka Mixed Drink Can 4% Vol 10x250ml",
-      "price": "£12.25",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/313002548"
     },
     {
       "store": "Asda",
@@ -4935,33 +3603,6 @@
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottles-12x300ml/109710137"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Camden Hells Lager 10x330ml",
-      "price": "£12.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323921793"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Camden Pale Ale 10x330ml",
-      "price": "£12.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323922008"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carling Black Label Premium British Lager 10 x 440ml",
-      "price": "£12.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323853124"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Carling Original Lager Beer Cans",
@@ -4969,24 +3610,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/carling-original-lager-beer-cans/104723043"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carlsberg Danish Pilsner Lager Beer 18 x 440ml",
-      "price": "£12.00",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/303759382"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Chambord Black Raspberry Liqueur 20 cL",
-      "price": "£8.50",
-      "promotion": "£6.50 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/265390344"
     },
     {
       "store": "Asda",
@@ -5032,15 +3655,6 @@
       "promotion": "Any 2 for £20",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9035428"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Damm Lemon Beer 10 x 330ml",
-      "price": "£10.00",
-      "promotion": "£8.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323930753"
     },
     {
       "store": "Asda",
@@ -5115,15 +3729,6 @@
       "link": "https://groceries.morrisons.com/products/inzuzo-chenin-blanc/115498187"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Peach 10x330ml",
-      "price": "£15.50",
-      "promotion": "£13.50 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323509844"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "La Vieille Ferme 1.5L",
@@ -5131,15 +3736,6 @@
       "promotion": "Now £14.00, Was £16.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9295951"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Leffe Blonde Beer 12 X 330 Ml",
-      "price": "£17.00",
-      "promotion": "£15.00 Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/313508707"
     },
     {
       "store": "Asda",
@@ -5286,15 +3882,6 @@
       "link": "https://groceries.morrisons.com/products/torres-vina-sol/101574370"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Westons Old Rosie Cloudy Cider 2.25L",
-      "price": "£8.00",
-      "promotion": "£6.00 Save 25% Clubcard Price",
-      "saving": 2.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/315334221"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Zalze Bush Vine Chenin Blanc     ",
@@ -5329,15 +3916,6 @@
       "promotion": "Any 5 for £10",
       "saving": 1.97,
       "link": "https://www.asda.com/groceries/product/x/x/9345539"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Gold Cider 10 x 440ml",
-      "price": "£11.25",
-      "promotion": "£9.30 Clubcard Price",
-      "saving": 1.95,
-      "link": "https://www.tesco.com/shop/en-GB/products/277258576"
     },
     {
       "store": "Asda",
@@ -5385,15 +3963,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9332742"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Juicy Apple Cider 10x440ml",
-      "price": "£11.25",
-      "promotion": "£9.35 Clubcard Price",
-      "saving": 1.9,
-      "link": "https://www.tesco.com/shop/en-GB/products/317638763"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "ASDA Extra Special Carménère",
@@ -5414,7 +3983,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "ASDA Extra Special Dão Denominação De Origem Controlada 75cl",
+      "title": "ASDA Extra Special Exceptional by  Dão 75cl",
       "price": "£7.50",
       "promotion": "Buy 6 save 25%",
       "saving": 1.88,
@@ -5556,6 +4125,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/6063979"
     },
     {
+      "store": "Tesco",
+      "category": "other",
+      "title": "Bacardi Carta Blanca 70Cl",
+      "price": "£17.50",
+      "promotion": "£15.75 Clubcard Price",
+      "saving": 1.75,
+      "link": "https://www.tesco.com/shop/en-GB/products/256563839"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Belorante Pecorino 750ml",
@@ -5572,15 +4150,6 @@
       "promotion": "Buy 2 for £17",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/boddingtons/113370657"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carling Original Lager Beer 10 x 440ml",
-      "price": "£11.00",
-      "promotion": "£9.25 Clubcard Price",
-      "saving": 1.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/253607419"
     },
     {
       "store": "Asda",
@@ -5608,15 +4177,6 @@
       "promotion": "Any 5 for £10",
       "saving": 1.75,
       "link": "https://www.asda.com/groceries/product/x/x/9342702"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Mango Cider 4 x 330ml",
-      "price": "£5.75",
-      "promotion": "£4.00 Clubcard Price",
-      "saving": 1.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323660317"
     },
     {
       "store": "Morrisons",
@@ -5698,15 +4258,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/vocation-brewery-crush-hour-hazy-4-6-4x330ml/113471714"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Vocation Crush Hour Hazy Pale 4X330ml",
-      "price": "£7.40",
-      "promotion": "£5.65 Clubcard Price",
-      "saving": 1.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/312988436"
     },
     {
       "store": "Morrisons",
@@ -5943,15 +4494,6 @@
       "link": "https://groceries.morrisons.com/products/desperados-mojito-beer-330ml/115939683"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Estrella Damm Lager 4x440ml",
-      "price": "£7.00",
-      "promotion": "£5.50 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/315840382"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Estrella Galicia 4X440ML",
@@ -5959,15 +4501,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-4x440ml/115988944"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Fentimans Ginger Beer 4 X 275Ml",
-      "price": "£5.00",
-      "promotion": "£3.50 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/313847216"
     },
     {
       "store": "Morrisons",
@@ -5997,15 +4530,6 @@
       "link": "https://groceries.morrisons.com/products/kirkstall-brewery-virtuous-session-ipa/112218899"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Magners Original Cider 18X440ml",
-      "price": "£13.00",
-      "promotion": "£11.50 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/275503278"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Masso Antico Primitivo 0.75L",
@@ -6031,15 +4555,6 @@
       "promotion": "Now £5, Was £6.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/mello-peach-passionfruit/115736317"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Modelo Especial Cerveza 4x440ml",
-      "price": "£7.50",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323856576"
     },
     {
       "store": "Morrisons",
@@ -6076,24 +4591,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/northern-monk-timothy-taylors-northern-rising-stout/114290464"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Beer Lager Bottles 4x330ml",
-      "price": "£7.50",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/312342573"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Wild Berries Premium Fruit Cider Can 10 x 330ml",
-      "price": "£10.25",
-      "promotion": "£8.75 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/321224947"
     },
     {
       "store": "Morrisons",
@@ -6148,15 +4645,6 @@
       "promotion": "Now £10.50, Was £12.00",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9258070"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "WKD Original Alcoholic Mix Blue 4 x 275ml",
-      "price": "£5.75",
-      "promotion": "£4.25 Save 25% Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/252638240"
     },
     {
       "store": "Asda",
@@ -6267,24 +4755,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9237366"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brew Dog Elvis Juice Grapefruit Ipa 4X330ml",
-      "price": "£6.45",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 1.45,
-      "link": "https://www.tesco.com/shop/en-GB/products/294127619"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brewdog Punk Ipa 4X330ml",
-      "price": "£6.45",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 1.45,
-      "link": "https://www.tesco.com/shop/en-GB/products/307141547"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Cruzcampo Sevilla Lager Beer Cans 4 x 440ml",
@@ -6330,24 +4800,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/4046058"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "BrewDog Hazy Jane Tropical New England IPA 4x330ml",
-      "price": "£6.40",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 1.4,
-      "link": "https://www.tesco.com/shop/en-GB/products/323660761"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Heineken Lager Beer Can 6x330ml",
-      "price": "£7.65",
-      "promotion": "£6.25 Clubcard Price",
-      "saving": 1.4,
-      "link": "https://www.tesco.com/shop/en-GB/products/255218744"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Staropramen",
@@ -6391,15 +4843,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.35,
       "link": "https://groceries.morrisons.com/products/brooklyn-pulp-art-hazy-ipa-4x330ml/115101135"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Foster's Proper Shandy 10 x 440ml",
-      "price": "£9.35",
-      "promotion": "£8.00 Clubcard Price",
-      "saving": 1.35,
-      "link": "https://www.tesco.com/shop/en-GB/products/315968755"
     },
     {
       "store": "Morrisons",
@@ -6483,24 +4926,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9047346"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Beavertown Gamma Ray American Pale Ale 4X330ml",
-      "price": "£7.30",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/308858274"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Beavertown Lunar Haze Hazy IPA 4X330ml",
-      "price": "£7.30",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/311271180"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Beavertown Neck Oil Session IPA 4 x 330ml",
@@ -6508,15 +4933,6 @@
       "promotion": "Now £6.00, Was £7.30",
       "saving": 1.3,
       "link": "https://www.asda.com/groceries/product/x/x/9064096"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Beavertown Neck Oil Session Ipa 4X330ml",
-      "price": "£7.30",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/308838966"
     },
     {
       "store": "Morrisons",
@@ -6562,15 +4978,6 @@
       "promotion": "Any 5 for £10",
       "saving": 1.26,
       "link": "https://www.asda.com/groceries/product/x/x/9252630"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Asahi Super Dry 4x440ml",
-      "price": "£7.75",
-      "promotion": "£6.50 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/323423887"
     },
     {
       "store": "Morrisons",
@@ -6645,24 +5052,6 @@
       "link": "https://groceries.morrisons.com/products/corona-cans/113264942"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Full Circle Brew Co Oddballs Foundation Hippy Jungle Pale Ale 4x330ml",
-      "price": "£7.25",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/323925322"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hawkstone Session Lager 4x330ml",
-      "price": "£8.50",
-      "promotion": "£7.25 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/323784948"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Jack Daniel's Tennessee Honey 35 cL",
@@ -6690,33 +5079,6 @@
       "link": "https://groceries.morrisons.com/products/kirin-ichiban-japanese-premium-beer-4x440ml/115232952"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Crisp Apple Premium Cider 4x440ml",
-      "price": "£5.50",
-      "promotion": "£4.25 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/323930309"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider - Cherry 4 x 330ml",
-      "price": "£5.25",
-      "promotion": "£4.00 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/306930698"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kronenbourg 1664 Lager Beer 10 x 440ml",
-      "price": "£10.75",
-      "promotion": "£9.50 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/268766472"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Siren Broken Dream Nitro Breakfast Stout 440ml",
@@ -6733,15 +5095,6 @@
       "promotion": "£10.25 - More Card Price",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/the-famous-grouse-blended-scotch-whisky/101538336"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Vocation Brewery Life&Death Ipa 4X330ml Can",
-      "price": "£7.40",
-      "promotion": "£6.15 Clubcard Price",
-      "saving": 1.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/301840870"
     },
     {
       "store": "Morrisons",
@@ -6796,15 +5149,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 1.23,
       "link": "https://groceries.morrisons.com/products/birra-moretti-sale-di-mare/113805526"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Birra Moretti Sale Di Mare Lager Beer 660ml",
-      "price": "£3.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 1.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/315589040"
     },
     {
       "store": "Morrisons",
@@ -7122,15 +5466,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9099344"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Corona Extra 4X330ml",
-      "price": "£6.10",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 1.1,
-      "link": "https://www.tesco.com/shop/en-GB/products/274347579"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Jameson Ginger & Lime ",
@@ -7201,15 +5536,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.1,
       "link": "https://groceries.morrisons.com/products/the-drinks-bureau-spicy-margarita-shaker/115456534"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Tiny Rebel Clwb Tropica Tropical IPA 4 x 330ml",
-      "price": "£6.85",
-      "promotion": "£5.75 Clubcard Price",
-      "saving": 1.1,
-      "link": "https://www.tesco.com/shop/en-GB/products/311679280"
     },
     {
       "store": "Asda",
@@ -7581,15 +5907,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9233814"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Birra Moretti Premium Lager Beer Can 4x440ml",
-      "price": "£7.50",
-      "promotion": "£6.50 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/313759424"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Brew York Coney Hazy Session IPA 440ml",
@@ -7624,15 +5941,6 @@
       "promotion": "Now £7.00, Was £8.00",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/6691358"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Budweiser Budvar Czech Lager 4x440ml.",
-      "price": "£6.50",
-      "promotion": "£5.50 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323650145"
     },
     {
       "store": "Asda",
@@ -7678,33 +5986,6 @@
       "promotion": "Now £6.50, Was £7.50",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9172321"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 4X440ml",
-      "price": "£6.50",
-      "promotion": "£5.50 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/315051517"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Orange Beer 4x440ml",
-      "price": "£5.50",
-      "promotion": "£4.50 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323492176"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Days Brewing Lager 4x330ml",
-      "price": "£5.00",
-      "promotion": "£4.00 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323656409"
     },
     {
       "store": "Morrisons",
@@ -7770,15 +6051,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9345595"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Kirin Ichiban 4x440ml",
-      "price": "£7.25",
-      "promotion": "£6.25 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323861523"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Kirkstall Three Swords ",
@@ -7786,24 +6058,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/kirkstall-three-swords/112530823"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Kopparberg Mixed Fruit Can 4X330ml",
-      "price": "£5.75",
-      "promotion": "£4.75 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/289300600"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Strawberry & Lime Cider 4X330ml Can",
-      "price": "£5.75",
-      "promotion": "£4.75 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/275399014"
     },
     {
       "store": "Asda",
@@ -7914,24 +6168,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9235828"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Mythos Premium Greek Lager Beer Can 4x440ml",
-      "price": "£6.00",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323915035"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Northern Monk Beyond Bold New World IPA 4x330ml",
-      "price": "£6.75",
-      "promotion": "£5.75 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/322836285"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Northern Monk Faith Hazy Pale Ale 440ml",
@@ -7957,15 +6193,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/old-speckled-hen-4x500ml/113013705"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Ossett Brewery White Rat Hoppy Pale Ale 4X330ml",
-      "price": "£6.50",
-      "promotion": "£5.50 Clubcard Price",
-      "saving": 1.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/323869221"
     },
     {
       "store": "Morrisons",
@@ -8114,7 +6341,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Engine Organic Italian Gin Tonic 237ml",
+      "title": "Engine Italian Gin Tonic 237ml",
       "price": "£2.64",
       "promotion": "Any 3 for £5",
       "saving": 0.97,
@@ -8364,15 +6591,6 @@
       "link": "https://groceries.morrisons.com/products/whitley-neill-yuzu-strawberry-gin-lemonad-250ml/115965751"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Asahi Super Dry 620Ml",
-      "price": "£3.10",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.93,
-      "link": "https://www.tesco.com/shop/en-GB/products/314842750"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Asahi Super Dry Lager Beer Bottle",
@@ -8382,15 +6600,6 @@
       "link": "https://groceries.morrisons.com/products/asahi-super-dry-lager-beer-bottle/113168053"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Aspall Premier Cru Cyder Bottle 500ml",
-      "price": "£3.10",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.93,
-      "link": "https://www.tesco.com/shop/en-GB/products/257810454"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Desperados Original Beer Lager Bottles 3 x 330ml",
@@ -8398,24 +6607,6 @@
       "promotion": "Any 2 for £10",
       "saving": 0.93,
       "link": "https://www.asda.com/groceries/product/x/x/4057561"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Modelo Especial 620ml",
-      "price": "£3.10",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.93,
-      "link": "https://www.tesco.com/shop/en-GB/products/322442848"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Lager Beer 620Ml",
-      "price": "£3.10",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.93,
-      "link": "https://www.tesco.com/shop/en-GB/products/312576097"
     },
     {
       "store": "Morrisons",
@@ -8488,15 +6679,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.92,
       "link": "https://groceries.morrisons.com/products/fuller-s-london-pride-amber-ale-large-bottle/101558530"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Greene King Abbot Reserve 500Ml",
-      "price": "£2.80",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.92,
-      "link": "https://www.tesco.com/shop/en-GB/products/267193309"
     },
     {
       "store": "Morrisons",
@@ -8607,15 +6789,6 @@
       "link": "https://groceries.morrisons.com/products/sharp-s-atlantic-pale-ale/107615603"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sharp's Atlantic Pale Ale Bottle 500ml",
-      "price": "£2.80",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.92,
-      "link": "https://www.tesco.com/shop/en-GB/products/321762102"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Sharp's Doom Bar Amber Ale ",
@@ -8623,15 +6796,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.92,
       "link": "https://groceries.morrisons.com/products/sharp-s-doom-bar-amber-ale/101584447"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sharp's Doom Bar Amber Ale 500ml",
-      "price": "£2.80",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.92,
-      "link": "https://www.tesco.com/shop/en-GB/products/323904318"
     },
     {
       "store": "Morrisons",
@@ -8805,15 +6969,6 @@
       "link": "https://groceries.morrisons.com/products/smirnoff-raspberry-crush-lemonade-cocktail-can-250ml/112613995"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Staropramen Premium Czech Style Pilsner Lager Beer 4 x 440ml",
-      "price": "£6.65",
-      "promotion": "£5.75 Clubcard Price",
-      "saving": 0.9,
-      "link": "https://www.tesco.com/shop/en-GB/products/317761938"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "White Claw Hard Seltzer Black Cherry",
@@ -8929,15 +7084,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.85,
       "link": "https://groceries.morrisons.com/products/captain-morgan-original-spiced-gold-cola-5-vol-330ml-ready-to-drink-can/109798087"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Desperados Tequila Flavoured Lager Beer Bottle 3x330ml",
-      "price": "£6.10",
-      "promotion": "£5.25 Clubcard Price",
-      "saving": 0.85,
-      "link": "https://www.tesco.com/shop/en-GB/products/273901806"
     },
     {
       "store": "Morrisons",
@@ -9093,15 +7239,6 @@
       "link": "https://groceries.morrisons.com/products/rattler-strawberry-lime-cider/113608805"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Shipyard American IPA Ale Beer Bottle 4X440ml",
-      "price": "£5.85",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 0.85,
-      "link": "https://www.tesco.com/shop/en-GB/products/310175163"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Tanqueray Flor De Sevilla Gin & Tonic 6.5% vol 250ml",
@@ -9174,15 +7311,6 @@
       "link": "https://groceries.morrisons.com/products/thatchers-vintage-cider/113302144"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Tiny Rebel Cloud Control Juicy NEIPA 4x330ml",
-      "price": "£6.85",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 0.85,
-      "link": "https://www.tesco.com/shop/en-GB/products/323862303"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Birrificio Angelo Poretti 4 x 568ml",
@@ -9201,15 +7329,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7346759"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Aspall Draught Cyder Bottle 500ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/262597364"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Birra Moretti Lager Beer Bottle",
@@ -9219,24 +7338,6 @@
       "link": "https://groceries.morrisons.com/products/birra-moretti-lager-beer-bottle/101567241"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Birra Moretti Premium Lager Beer Bottle 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/258288808"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carling Black Label Premium Lager British 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/323910846"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Echo Falls Summer Berries Spritz Fruit Fusion Can 250ml",
@@ -9244,24 +7345,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.83,
       "link": "https://www.asda.com/groceries/product/x/x/9294385"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "EFES Pilsener Mediterranean Slow Brew 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/325046852"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Inch's Reserve Premium Apple Cider 500ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/323666806"
     },
     {
       "store": "Asda",
@@ -9300,15 +7383,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9341535"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Mahou Cerveza Especial Madrid 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/323862827"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Modelo 620ML",
@@ -9316,15 +7390,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.83,
       "link": "https://groceries.morrisons.com/products/modelo-620ml/115988400"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Mythos Premium Greek Lager Beer Bottle 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/323924628"
     },
     {
       "store": "Morrisons",
@@ -9397,24 +7462,6 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 0.8,
       "link": "https://groceries.morrisons.com/products/au-vodka-ultra-strawberry-burst-500ml/115418247"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brewdog Lost Lager 4X440ml",
-      "price": "£5.80",
-      "promotion": "£5.00 Clubcard Price",
-      "saving": 0.8,
-      "link": "https://www.tesco.com/shop/en-GB/products/308115727"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Budweiser 4X300ml",
-      "price": "£5.30",
-      "promotion": "£4.50 Clubcard Price",
-      "saving": 0.8,
-      "link": "https://www.tesco.com/shop/en-GB/products/270947780"
     },
     {
       "store": "Asda",
@@ -9532,24 +7579,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.79,
       "link": "https://www.asda.com/groceries/product/x/x/7624931"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Super Bock Lager 66Cl",
-      "price": "£2.95",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.78,
-      "link": "https://www.tesco.com/shop/en-GB/products/311690530"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Fuller's London Pride Amber Ale Bottle 500ml",
-      "price": "£2.65",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.77,
-      "link": "https://www.tesco.com/shop/en-GB/products/252007906"
     },
     {
       "store": "Asda",
@@ -9903,51 +7932,6 @@
       "link": "https://groceries.morrisons.com/products/henry-westons-medium-dry-vintage-cider-bottle-500ml/101527240"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Lime 4x330ml",
-      "price": "£6.75",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323852920"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Mango 4x330ml",
-      "price": "£6.75",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323858516"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Peach 4x330ml",
-      "price": "£6.75",
-      "promotion": "£6.00 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/314929366"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Sweet Vintage Mixed Fruit Cider 500ml",
-      "price": "£3.50",
-      "promotion": "£2.75 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323658315"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Sweet Vintage Strawberry & Lime Cider 500ml",
-      "price": "£3.50",
-      "promotion": "£2.75 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323787485"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "korev lager 660ml",
@@ -10029,15 +8013,6 @@
       "link": "https://groceries.morrisons.com/products/old-mout-pineapple-raspberry-cider-bottle/110470222"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Proper Job Cornish Ipa 4 X 440Ml",
-      "price": "£6.60",
-      "promotion": "£5.85 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/305986604"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Red Stripe Jamaica Lager Beer Can 4.7% ABV 4x440ml",
@@ -10110,15 +8085,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/628708"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Showerings Triple Vintage Cider 375ml",
-      "price": "£3.50",
-      "promotion": "£2.75 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/323785417"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Smirnoff Ice Raspberry 4% vol Ready To Drink Premix ",
@@ -10162,15 +8128,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/stella-artois-unfiltered-can/113059076"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Haze Cider 4X440ml Can",
-      "price": "£5.35",
-      "promotion": "£4.60 Clubcard Price",
-      "saving": 0.75,
-      "link": "https://www.tesco.com/shop/en-GB/products/288514389"
     },
     {
       "store": "Asda",
@@ -10234,15 +8191,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.73,
       "link": "https://groceries.morrisons.com/products/singha-630ml/114838776"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Singha Thai Lager 630Ml",
-      "price": "£2.90",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.73,
-      "link": "https://www.tesco.com/shop/en-GB/products/260340251"
     },
     {
       "store": "Asda",
@@ -10317,15 +8265,6 @@
       "link": "https://groceries.morrisons.com/products/dead-man-s-fingers-golden-rum-light-cola/115455929"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henry Westons British Vintage Cider 750Ml",
-      "price": "£3.00",
-      "promotion": "£2.30 Clubcard Price",
-      "saving": 0.7,
-      "link": "https://www.tesco.com/shop/en-GB/products/315469948"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Kopparberg Pear Vintage (ABV 7%)",
@@ -10380,15 +8319,6 @@
       "link": "https://groceries.morrisons.com/products/san-miguel-4-pack/114736024"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "San Miguel Especial Lager Beer Can 4x440ml",
-      "price": "£5.95",
-      "promotion": "£5.25 Clubcard Price",
-      "saving": 0.7,
-      "link": "https://www.tesco.com/shop/en-GB/products/282645306"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "White Claw Watermelon ",
@@ -10405,15 +8335,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.68,
       "link": "https://groceries.morrisons.com/products/cobra-premium-lager/110474813"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 660Ml",
-      "price": "£2.85",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.68,
-      "link": "https://www.tesco.com/shop/en-GB/products/314848283"
     },
     {
       "store": "Morrisons",
@@ -10495,15 +8416,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.68,
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottle-660ml/112386180"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Madri Excepcional Premium Lager Beer Bottle 660ml",
-      "price": "£2.85",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.68,
-      "link": "https://www.tesco.com/shop/en-GB/products/311204059"
     },
     {
       "store": "Morrisons",
@@ -10776,15 +8688,6 @@
       "link": "https://groceries.morrisons.com/products/newcastle-brown-ale-bottle/101570299"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Oakham Ales Citra 500Ml",
-      "price": "£2.55",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.67,
-      "link": "https://www.tesco.com/shop/en-GB/products/279750807"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Old Midnight Hen Ale ",
@@ -10884,15 +8787,6 @@
       "link": "https://groceries.morrisons.com/products/theakston-old-peculier/101533050"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Theakstons Old Peculier 500Ml",
-      "price": "£2.55",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.67,
-      "link": "https://www.tesco.com/shop/en-GB/products/251113004"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Theakstons XB",
@@ -10972,24 +8866,6 @@
       "promotion": "Any 2 for £10",
       "saving": 0.66,
       "link": "https://www.asda.com/groceries/product/x/x/9087832"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Badger Tangle Foot Traditional Golden Ale 4 X 440Ml",
-      "price": "£6.10",
-      "promotion": "£5.45 Clubcard Price",
-      "saving": 0.65,
-      "link": "https://www.tesco.com/shop/en-GB/products/305962978"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carling Black Label Premium Lager British 4x568ml",
-      "price": "£6.15",
-      "promotion": "£5.50 Clubcard Price",
-      "saving": 0.65,
-      "link": "https://www.tesco.com/shop/en-GB/products/323852235"
     },
     {
       "store": "Asda",
@@ -11082,15 +8958,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/963923"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Salt Jute Session IPA 4 x 330ml",
-      "price": "£6.35",
-      "promotion": "£5.70 Clubcard Price",
-      "saving": 0.65,
-      "link": "https://www.tesco.com/shop/en-GB/products/307159285"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Thatchers Blood Orange Cider 500ml",
@@ -11136,24 +9003,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/6926998"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cornish Rattler Apple Cider 500Ml Bottle",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/262019572"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Corona Extra Lager 620Ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/308097897"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Delirium Belgian Strong Beer 330ml",
@@ -11161,60 +9010,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.63,
       "link": "https://www.asda.com/groceries/product/x/x/9244313"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Estrella Damm Beer 660Ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/280543652"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Healeys Cornish Rattler Cyder - Peach 500ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/311679216"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Healeys Rattler Cornish Pineapple Cyder 500ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/304788760"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Henry Westons Signature Vintage 6.8% 500Ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/302274017"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Inch's Medium Apple Cider Bottle 500ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/308109827"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Keo Beer 630ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/271384222"
     },
     {
       "store": "Morrisons",
@@ -11233,42 +9028,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.63,
       "link": "https://groceries.morrisons.com/products/spaten-lager-500-ml/115026770"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Staropramen Premium Czech Style Pilsner Lager Beer Bottle  660ml",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/273320825"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Erdinger Dunkel Wheat Beer Bottle 500ml",
-      "price": "£2.50",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.62,
-      "link": "https://www.tesco.com/shop/en-GB/products/271028403"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Erdinger Weissbier Wheat Beer Bottle 500ml",
-      "price": "£2.50",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.62,
-      "link": "https://www.tesco.com/shop/en-GB/products/251821197"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hobgoblin Amber Ale Beer Bottle 500ml",
-      "price": "£2.50",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.62,
-      "link": "https://www.tesco.com/shop/en-GB/products/321329225"
     },
     {
       "store": "Morrisons",
@@ -11296,15 +9055,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.62,
       "link": "https://groceries.morrisons.com/products/wainwright-golden-ale-beer/101584341"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Wainwright The Golden Beer Ale Bottle 500ml",
-      "price": "£2.50",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.62,
-      "link": "https://www.tesco.com/shop/en-GB/products/264019091"
     },
     {
       "store": "Morrisons",
@@ -11388,15 +9138,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9087145"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Adnams  Southwold Ghost Ship Session IPA 500ml",
-      "price": "£1.60",
-      "promotion": "£1.00 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/322990694"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Bacardi & Coca-Cola 250ml Pre-Mixed Can",
@@ -11413,15 +9154,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/bacardi-rum-and-cola-premix-rum-cocktail/110887116"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Brewgooder Goood Beer 4 x 330ml",
-      "price": "£5.55",
-      "promotion": "£4.95 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/322759157"
     },
     {
       "store": "Asda",
@@ -11487,15 +9219,6 @@
       "link": "https://groceries.morrisons.com/products/magners-original-cider-bottle/101535231"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Session Hen Beer 500ml",
-      "price": "£1.60",
-      "promotion": "£1.00 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/317871572"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Smithwick's Red Ale 500ml Bottle",
@@ -11521,15 +9244,6 @@
       "promotion": "£5.15 - More Card Price",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/strongbow-strawberry/114616031"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Strongbow Strawberry Cider - 4x440ml",
-      "price": "£5.85",
-      "promotion": "£5.25 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/316422607"
     },
     {
       "store": "Morrisons",
@@ -11613,15 +9327,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5091399"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Angioletti Riserva Italian cider 500ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/315953300"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "BOMBAY SAPPHIRE Gin & Tonic Premix Cocktail, 25cl",
@@ -11629,15 +9334,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.58,
       "link": "https://www.asda.com/groceries/product/x/x/6639063"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Carabao Lager 620ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/323795722"
     },
     {
       "store": "Asda",
@@ -11658,60 +9354,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/6371744"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Innis & Gunn Original 330Ml",
-      "price": "£2.45",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/257815529"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Kopparberg Pear 500Ml Bottle",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/260554787"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider - Mixed Fruit 500ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/264079462"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider - Strawberry & Lime 500ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/266667686"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider Crisp Apple 500ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/323773610"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Krombacher Pils 660Ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/299789795"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Krombacher Pils 660ml",
@@ -11719,42 +9361,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.58,
       "link": "https://groceries.morrisons.com/products/krombacher-pils-660ml/109414881"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Pulpt Flare Superior South West Cider 500Ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/309178731"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sheppys Oak Matured Cider 500Ml Bottle",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/268773428"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Shipyard American IPA Ale Beer Bottle 500ml",
-      "price": "£2.45",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/289531326"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Timothy Taylors Landlord Pale 500Ml",
-      "price": "£2.45",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/257054657"
     },
     {
       "store": "Asda",
@@ -11937,15 +9543,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/3867157"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Inch's Cloudy Apple Cider Can 4x440ml",
-      "price": "£5.25",
-      "promotion": "£4.70 Clubcard Price",
-      "saving": 0.55,
-      "link": "https://www.tesco.com/shop/en-GB/products/321051765"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Maxim Brewery Premium Brown Ale 500ml",
@@ -12018,15 +9615,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5795779"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "WKD Cherry Ice 700ml",
-      "price": "£3.50",
-      "promotion": "£2.95 Clubcard Price",
-      "saving": 0.55,
-      "link": "https://www.tesco.com/shop/en-GB/products/320970462"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Wold Top Brewery Scarborough Fair Strong, Well Hopped IPA 500ml",
@@ -12090,15 +9678,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9374633"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Galipette Cidre Brut 500ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/317652492"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Guinness Original Extra Stout Beer 4.2% vol 500ml",
@@ -12106,33 +9685,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.53,
       "link": "https://www.asda.com/groceries/product/x/x/5154324"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Gwynt Y Ddraig Black Dragon 500Ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/262593126"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henney's Autumn Gold Cider 500Ml Bottle",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/292340398"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henney's Frome Valley Cider 500Ml Bottle",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/251916333"
     },
     {
       "store": "Asda",
@@ -12151,42 +9703,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.53,
       "link": "https://www.asda.com/groceries/product/x/x/5758281"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Mout Cider Berries & Cherries Bottle 500ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/283274639"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Mout Cider Kiwi & Lime Bottle 500ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/283274426"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Mout Cider Mango and Passionfruit Bottle 500ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/321112521"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Mout Cider Pineapple & Raspberry Bottle 500ml",
-      "price": "£2.70",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.53,
-      "link": "https://www.tesco.com/shop/en-GB/products/303191793"
     },
     {
       "store": "Asda",
@@ -12232,15 +9748,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.53,
       "link": "https://www.asda.com/groceries/product/x/x/3429002"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hobgoblin King Goblin Ale Beer Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.52,
-      "link": "https://www.tesco.com/shop/en-GB/products/270972772"
     },
     {
       "store": "Asda",
@@ -12378,24 +9885,6 @@
       "link": "https://groceries.morrisons.com/products/gwynt-y-ddraig-welsh-black-dragon-cider-500ml/101538344"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hawkstone Cider 500ml",
-      "price": "£3.00",
-      "promotion": "£2.50 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323876794"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hawkstone Hedgerow Blackberry and Blackcurrant Cider 500ml",
-      "price": "£3.25",
-      "promotion": "£2.75 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323657420"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Hobgoblin Session IPA Ale Beer Bottle",
@@ -12439,15 +9928,6 @@
       "promotion": "Now £6, Was £6.50",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/kronenbourg-1664-4x568ml/113779680"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Magners Apple Cider 4X440ml",
-      "price": "£4.85",
-      "promotion": "£4.35 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/309169517"
     },
     {
       "store": "Morrisons",
@@ -12531,15 +10011,6 @@
       "link": "https://groceries.morrisons.com/products/shipyard-session-apa-ale-beer-bottle/114404581"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Sol Cerveza Original de Mexico 4x330ml",
-      "price": "£4.50",
-      "promotion": "£4.00 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323501357"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "St Austell Proper Job IPA 0.5%",
@@ -12558,15 +10029,6 @@
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans/111538719"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Thatchers Blood Orange Zero Sweet and Juicy 4x440ml",
-      "price": "£4.00",
-      "promotion": "£3.50 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323507881"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Thatchers Haze Somerset Cider 4 x 440ml",
@@ -12583,15 +10045,6 @@
       "promotion": "Now £4, Was £4.50",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/thatchers-juicy-apple-cider/114095722"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Thatchers Zero 4x440ml",
-      "price": "£4.00",
-      "promotion": "£3.50 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/316432466"
     },
     {
       "store": "Morrisons",
@@ -12720,60 +10173,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5137623"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Abbot Ale 500Ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/257521151"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Adnams Broadside Ale 500Ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/250621372"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Badger Fursty Ferret 500Ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/250053638"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Badger Golden Champion 500Ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/251443235"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Badger Iron Hart Pale Ale 500ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/323508655"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg  Premium Cider Sweet Vintage Pear 500ml CAN",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/315854354"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "La Chouffe La  - Belgian Blonde 330ml",
@@ -12781,60 +10180,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.48,
       "link": "https://www.asda.com/groceries/product/x/x/7320221"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Pulpt Melba White Peach & Scottish Raspberry Cider 500ml.",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/315473257"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Blood Orange Cider 500Ml",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/310099541"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Katy Cider 500Ml Bottle",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/253110315"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Thatchers Vintage Cider 500Ml Bottle",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/271084370"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Warsteiner Premium German Lager Beer Bottle 660ml",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/291116568"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Whitstable Bay Pale Ale 500Ml",
-      "price": "£2.35",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/279725314"
     },
     {
       "store": "Asda",
@@ -13044,15 +10389,6 @@
       "link": "https://groceries.morrisons.com/products/strongbow-original-cider-cans/111039274"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Angelo Poretti Premium Italian Lager Beer Bottle 660ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/311259351"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Bavaria Holland Premium Beer 660ml",
@@ -13069,15 +10405,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.43,
       "link": "https://groceries.morrisons.com/products/birrificio-angelo-poretti-italian-lager-beer-bottle/112386809"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Budweiser 660Ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/265214134"
     },
     {
       "store": "Morrisons",
@@ -13098,15 +10425,6 @@
       "link": "https://groceries.morrisons.com/products/furstenberg-prem-lager/101555996"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Heineken Lager Beer Bottle 650ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/255218992"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Heineken Original Premium Lager Beer 5% ABV Large Bottle 650ml",
@@ -13116,15 +10434,6 @@
       "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-large-bottle-650ml/101576931"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kingfisher Premium Lager 650Ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/314428135"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Pilsner Urquell",
@@ -13132,15 +10441,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.43,
       "link": "https://groceries.morrisons.com/products/pilsner-urquell/101584324"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "San Miguel  620ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/321667837"
     },
     {
       "store": "Morrisons",
@@ -13161,15 +10461,6 @@
       "link": "https://groceries.morrisons.com/products/st-austell-brewery-korev-cornish-lager-abv-4-8/109830198"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Stella Artois Lager Beer 660Ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/307755374"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Stella Artois Premium Lager Beer Bottle",
@@ -13177,24 +10468,6 @@
       "promotion": "Buy 3 for £6.50",
       "saving": 0.43,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottle/111538647"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Sxollie Granny Smith Cider 500Ml",
-      "price": "£2.60",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.43,
-      "link": "https://www.tesco.com/shop/en-GB/products/309190531"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Adnams Ghost Ship 500Ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.42,
-      "link": "https://www.tesco.com/shop/en-GB/products/273614795"
     },
     {
       "store": "Morrisons",
@@ -13404,24 +10677,6 @@
       "link": "https://groceries.morrisons.com/products/morland-s-old-golden-hen-bottle/103949112"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Old Crafty Hen 500Ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.42,
-      "link": "https://www.tesco.com/shop/en-GB/products/259591645"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Old Golden Hen 500Ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.42,
-      "link": "https://www.tesco.com/shop/en-GB/products/270952928"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Old Jock      ",
@@ -13429,15 +10684,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/old-jock/106822660"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Old Speckled Hen Pale Ale 500Ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.42,
-      "link": "https://www.tesco.com/shop/en-GB/products/313848048"
     },
     {
       "store": "Morrisons",
@@ -13483,15 +10729,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/st-austell-tribute/101584480"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "St Austell Tribute 500Ml",
-      "price": "£2.30",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.42,
-      "link": "https://www.tesco.com/shop/en-GB/products/261387643"
     },
     {
       "store": "Morrisons",
@@ -13582,15 +10819,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/wye-valley-hpa-beer-bottle/107713596"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Absolut Cocktails Espresso Martini 200ml",
-      "price": "£2.08",
-      "promotion": "Any 3 for £5",
-      "saving": 0.41,
-      "link": "https://www.asda.com/groceries/product/x/x/7617850"
     },
     {
       "store": "Asda",
@@ -13699,33 +10927,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.4,
       "link": "https://www.asda.com/groceries/product/x/x/7057992"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Bavaria 5% 660ml Bottle",
-      "price": "£2.55",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.38,
-      "link": "https://www.tesco.com/shop/en-GB/products/321783601"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Fruli Strawberry Beer 330Ml",
-      "price": "£2.25",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.38,
-      "link": "https://www.tesco.com/shop/en-GB/products/273675497"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Tyskie Polish Beer Lager Bottle 650ml",
-      "price": "£2.55",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.38,
-      "link": "https://www.tesco.com/shop/en-GB/products/290696187"
     },
     {
       "store": "Asda",
@@ -13971,15 +11172,6 @@
       "link": "https://groceries.morrisons.com/products/ice-club-classic-ice-cubes/112398551"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Knights Vintage Herefordshire Cider 500ml",
-      "price": "£1.80",
-      "promotion": "£1.50 Clubcard Price",
-      "saving": 0.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/320406740"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Malibu Cocktail Strawberry Daiquiri Sparkling 250ml",
@@ -14050,24 +11242,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.3,
       "link": "https://www.asda.com/groceries/product/x/x/7268768"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Tesco Apple Cider 4 x 440ml Cans",
-      "price": "£2.55",
-      "promotion": "£2.25 Clubcard Price",
-      "saving": 0.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/256595496"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Tesco Pear Cider 4 x 440ml Cans",
-      "price": "£2.55",
-      "promotion": "£2.25 Clubcard Price",
-      "saving": 0.3,
-      "link": "https://www.tesco.com/shop/en-GB/products/275465339"
     },
     {
       "store": "Asda",
@@ -14349,69 +11523,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5148286"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Beavertown Cosmic Drop Berry Fruit Lager 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/323916840"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Beavertown Cosmic Drop Tropical Fruit Lager 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/323866938"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Jubel Beer - Grapefruit 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/314838963"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Jubel Beer - Peach 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/314934837"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Lemon 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/315973777"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Lime 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/323874214"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "JUBEL Beer cut with Mango 330ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/321031962"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Kopparberg Premium Cider Spiced Apple 500ml",
@@ -14457,15 +11568,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9227822"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "McEwan's Champion Ale Beer Bottle 500ml",
-      "price": "£2.10",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/250906669"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Ossett Brewery Ossett Blonde Session Blonde 500ml",
@@ -14473,51 +11575,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.23,
       "link": "https://groceries.morrisons.com/products/ossett-brewery-ossett-blonde-session-blonde-500ml/115101160"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Mango and Raspberry Premium Fruit Cider Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/321224901"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Pineapple-Kiwi Premium Swedish Fruit Cider 500ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/323655745"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Premium Swedish Cider - Peach-Raspberry 500ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/316055630"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Premium Swedish Cider - Wild Berries 500ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/268732702"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Strawberry and Lime Premium Fruit Cider Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.23,
-      "link": "https://www.tesco.com/shop/en-GB/products/321113249"
     },
     {
       "store": "Asda",
@@ -14545,15 +11602,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.19,
       "link": "https://www.asda.com/groceries/product/x/x/4957821"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Henry Westons Vintage Cider 500Ml Bottle",
-      "price": "£2.35",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.18,
-      "link": "https://www.tesco.com/shop/en-GB/products/251325796"
     },
     {
       "store": "Asda",
@@ -14608,15 +11656,6 @@
       "promotion": "Now £2.85, Was £2.98",
       "saving": 0.13,
       "link": "https://www.asda.com/groceries/product/x/x/6944594"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Bishops Finger Kentish Strong Ale 500Ml",
-      "price": "£2.00",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.12,
-      "link": "https://www.tesco.com/shop/en-GB/products/313956542"
     },
     {
       "store": "Morrisons",
@@ -14689,15 +11728,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.07,
       "link": "https://www.asda.com/groceries/product/x/x/7458386"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "St Austell Proper Job Ale 500Ml",
-      "price": "£1.95",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.07,
-      "link": "https://www.tesco.com/shop/en-GB/products/264792757"
     },
     {
       "store": "Asda",
