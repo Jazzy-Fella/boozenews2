@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T08:09:45.611203+00:00",
-  "total": 1627,
+  "updated": "2026-05-04T08:39:16.238102+00:00",
+  "total": 1655,
   "deals": [
     {
       "store": "Tesco",
@@ -91,15 +91,6 @@
       "promotion": "£29.00 - More Card Price",
       "saving": 13.5,
       "link": "https://groceries.morrisons.com/products/bushmills-12-year-old-single-malt-irish-whiskey/115456876"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Pimm's The Original No.1 Cup Bottle 25% Vol 1L",
-      "price": "£23.50",
-      "promotion": "£10.00 Better than Half Price Clubcard Price",
-      "saving": 13.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/255250422"
     },
     {
       "store": "Asda",
@@ -1471,6 +1462,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Kraken Black Spiced Rum ",
+      "price": "£26.50",
+      "promotion": "Now £21, Was £26.50",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/kraken-black-spiced-rum/106753431"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Les Cles De La Tour ",
       "price": "£22.00",
@@ -1495,6 +1495,15 @@
       "promotion": "£19.50 Clubcard Price",
       "saving": 5.5,
       "link": "https://www.tesco.com/shop/en-GB/products/330743433"
+    },
+    {
+      "store": "Tesco",
+      "category": "other",
+      "title": "Pimm'sThe Original No.1 Cup Bottle 25% Vol 70cl",
+      "price": "£19.50",
+      "promotion": "£14.00 Clubcard Price",
+      "saving": 5.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/255250399"
     },
     {
       "store": "Tesco",
@@ -2008,6 +2017,15 @@
       "promotion": "Buy 2 for £17",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/old-mout-mango-and-passionfruit-cider-10x330ml/115074860"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Olmeca Altos 100% Agave Plata Tequila 70cl",
+      "price": "£27.00",
+      "promotion": "Now £22.50, Was £27",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/olmeca-altos-100-agave-plata-tequila-70cl/109637347"
     },
     {
       "store": "Tesco",
@@ -3911,6 +3929,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Au Vodka Party Pack ",
+      "price": "£17.50",
+      "promotion": "£15.00 - More Card Price",
+      "saving": 2.5,
+      "link": "https://groceries.morrisons.com/products/au-vodka-party-pack/113758168"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Aviation American Gin ",
       "price": "£30.50",
       "promotion": "£28.00 - More Card Price",
@@ -4809,6 +4836,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/7068356"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Guinness Foreign Extra Stout 4 x 325ml",
+      "price": "£8.15",
+      "promotion": "£6.00 Save 25% Clubcard Price",
+      "saving": 2.15,
+      "link": "https://www.tesco.com/shop/en-GB/products/271232852"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Casillero Del Diablo Jammy Red Devil ",
@@ -5635,6 +5671,15 @@
       "promotion": "£4.00 Clubcard Price",
       "saving": 1.75,
       "link": "https://www.tesco.com/shop/en-GB/products/323660317"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "La Mora Maremma Toscana Rosso 750ml",
+      "price": "£7.00",
+      "promotion": "Buy 6 save 25%",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9020644"
     },
     {
       "store": "Morrisons",
@@ -6546,6 +6591,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9090355"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wray & Nephew White Overproof Rum 200Ml",
+      "price": "£11.50",
+      "promotion": "£10.20 Clubcard Price",
+      "saving": 1.3,
+      "link": "https://www.tesco.com/shop/en-GB/products/290922329"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Beavertown Gamma Ray American Pale Ale 440ml",
@@ -6960,6 +7014,15 @@
       "link": "https://groceries.morrisons.com/products/buzzballz-pornstar-martini-cocktails-200ml/115322211"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Stella Artois Gluten Free Lager 4X330ml",
+      "price": "£6.00",
+      "promotion": "£4.80 Clubcard Price",
+      "saving": 1.2,
+      "link": "https://www.tesco.com/shop/en-GB/products/307160075"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tanqueray Flor de Sevilla Gin and Tonic 6.5% vol Premix Can",
@@ -6978,6 +7041,15 @@
       "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-and-tonic-6-5-vol-premix-can/111765946"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wray & Nephew Rum Cream 200Ml",
+      "price": "£4.50",
+      "promotion": "£3.30 Save 25% Clubcard Price",
+      "saving": 1.2,
+      "link": "https://www.tesco.com/shop/en-GB/products/279751357"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Aspall Premier Cru Cyder 500ml Bottle",
@@ -6985,6 +7057,15 @@
       "promotion": "Any 4 for £7",
       "saving": 1.15,
       "link": "https://www.asda.com/groceries/product/x/x/6402290"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Guinness Nigerian Foreign Extra Stout 600Ml",
+      "price": "£4.50",
+      "promotion": "£3.35 Save 25% Clubcard Price",
+      "saving": 1.15,
+      "link": "https://www.tesco.com/shop/en-GB/products/266402526"
     },
     {
       "store": "Asda",
@@ -7194,6 +7275,24 @@
       "link": "https://groceries.morrisons.com/products/the-drinks-bureau-spicy-margarita-shaker/115456534"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wha Gwan Melon Cherry Rum Tonic 16.7% 200ml",
+      "price": "£4.00",
+      "promotion": "£2.90 Clubcard Price",
+      "saving": 1.1,
+      "link": "https://www.tesco.com/shop/en-GB/products/321675044"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wha Gwan Pineapple Coconut Rum Tonic 16.7% 200ml",
+      "price": "£4.00",
+      "promotion": "£2.90 Clubcard Price",
+      "saving": 1.1,
+      "link": "https://www.tesco.com/shop/en-GB/products/321771638"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "ASDA Collab Collection Salt Double IPA 440ml",
@@ -7237,6 +7336,15 @@
       "promotion": "Any 3 for £5",
       "saving": 1.05,
       "link": "https://www.asda.com/groceries/product/x/x/9099341"
+    },
+    {
+      "store": "Tesco",
+      "category": "other",
+      "title": "ORIJIN SPIRIT MIXED DRINK WITH AFRICAN HERB & FRUIT EXTRACTS 600ML",
+      "price": "£3.85",
+      "promotion": "£2.80 Clubcard Price",
+      "saving": 1.05,
+      "link": "https://www.tesco.com/shop/en-GB/products/322331749"
     },
     {
       "store": "Asda",
@@ -8319,6 +8427,15 @@
       "link": "https://groceries.morrisons.com/products/moth-strawberry-daquiri-125ml/115964310"
     },
     {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wha Gwan Rum Cream 200ml",
+      "price": "£4.75",
+      "promotion": "£3.80 Clubcard Price",
+      "saving": 0.95,
+      "link": "https://www.tesco.com/shop/en-GB/products/317058717"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Whitley Neill Rhubarb Gin & Ginger Ale 250ML",
@@ -8776,6 +8893,15 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.9,
       "link": "https://groceries.morrisons.com/products/smirnoff-raspberry-crush-lemonade-cocktail-can-250ml/112613995"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Star Finest Lager Beer Bottle 600Ml",
+      "price": "£3.35",
+      "promotion": "£2.45 Save 25% Clubcard Price",
+      "saving": 0.9,
+      "link": "https://www.tesco.com/shop/en-GB/products/271233678"
     },
     {
       "store": "Tesco",
@@ -9426,6 +9552,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/6927008"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hobgoblin Amber Ale Beer Can 4x568ml",
+      "price": "£6.15",
+      "promotion": "£5.35 Clubcard Price",
+      "saving": 0.8,
+      "link": "https://www.tesco.com/shop/en-GB/products/321221651"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Medium Apple Cider Bottle",
@@ -9496,6 +9631,15 @@
       "promotion": "Buy 3 for £6",
       "saving": 0.8,
       "link": "https://groceries.morrisons.com/products/rattler-original-cornish-cyder/113353558"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Wha Gwan Melon Cherry Mixed with Rum 330ml",
+      "price": "£3.10",
+      "promotion": "£2.30 Save 25% Clubcard Price",
+      "saving": 0.8,
+      "link": "https://www.tesco.com/shop/en-GB/products/317048127"
     },
     {
       "store": "Asda",
@@ -10155,6 +10299,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/598759"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Tusker Kenyan Lager 500Ml",
+      "price": "£2.80",
+      "promotion": "£2.05 Save 25% Clubcard Price",
+      "saving": 0.75,
+      "link": "https://www.tesco.com/shop/en-GB/products/272429768"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "WKD Blue 700ml",
@@ -10263,6 +10416,15 @@
       "link": "https://groceries.morrisons.com/products/bacardi-mojito-premix-rum-cocktail-can-250ml/111124321"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Brewdog Gluten Free Punk IPA 4 x 330ml",
+      "price": "£5.35",
+      "promotion": "£4.65 Clubcard Price",
+      "saving": 0.7,
+      "link": "https://www.tesco.com/shop/en-GB/products/311279868"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Captain Morgan Original Spiced Gold and Pepsi MAX® Ready to Drink 330ml 5% vol can",
@@ -10360,6 +10522,15 @@
       "promotion": "£5.25 Clubcard Price",
       "saving": 0.7,
       "link": "https://www.tesco.com/shop/en-GB/products/282645306"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Supermalt Ginger Beer 4X330ml",
+      "price": "£3.50",
+      "promotion": "£2.80 Clubcard Price",
+      "saving": 0.7,
+      "link": "https://www.tesco.com/shop/en-GB/products/304780313"
     },
     {
       "store": "Morrisons",
@@ -11453,6 +11624,15 @@
     {
       "store": "Tesco",
       "category": "beer",
+      "title": "Old Jamaica Ginger Beer Regular 2L",
+      "price": "£2.20",
+      "promotion": "£1.60 Clubcard Price",
+      "saving": 0.6,
+      "link": "https://www.tesco.com/shop/en-GB/products/313966081"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
       "title": "Old Session Hen Beer 500ml",
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
@@ -12144,6 +12324,15 @@
       "link": "https://www.tesco.com/shop/en-GB/products/321112521"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Old Mout Cider Pineapple & Raspberry Bottle 500ml",
+      "price": "£2.70",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.53,
+      "link": "https://www.tesco.com/shop/en-GB/products/303191793"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Saltaire Brewery Blonde 500ml",
@@ -12270,6 +12459,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/6936172"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Bundaberg Ginger Beer 375Ml",
+      "price": "£1.75",
+      "promotion": "£1.25 Clubcard Price",
+      "saving": 0.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/305828804"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Bundaberg Root Beer 375Ml",
+      "price": "£1.75",
+      "promotion": "£1.25 Clubcard Price",
+      "saving": 0.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/305835529"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Camerons the Original Strongarm Ruby Ale 500ml",
@@ -12349,6 +12556,15 @@
       "promotion": "£2.75 Clubcard Price",
       "saving": 0.5,
       "link": "https://www.tesco.com/shop/en-GB/products/323657420"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hobgoblin Session IPA Ale Beer 4 x 440ml",
+      "price": "£4.40",
+      "promotion": "£3.90 Clubcard Price",
+      "saving": 0.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/315056544"
     },
     {
       "store": "Morrisons",
@@ -12839,15 +13055,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "La Mora Maremma Toscana Rosso 750ml",
-      "price": "£7.00",
-      "promotion": "Now £7.00, Was £7.47",
-      "saving": 0.47,
-      "link": "https://www.asda.com/groceries/product/x/x/9020644"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "La P'tite Pierre 75cl",
       "price": "£6.50",
       "promotion": "Now £6.50, Was £6.97",
@@ -12916,6 +13123,15 @@
       "promotion": "Any 3 for £5",
       "saving": 0.45,
       "link": "https://www.asda.com/groceries/product/x/x/6104989"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Greene King Ipa Gluten Free 500Ml",
+      "price": "£2.10",
+      "promotion": "£1.65 Clubcard Price",
+      "saving": 0.45,
+      "link": "https://www.tesco.com/shop/en-GB/products/295432095"
     },
     {
       "store": "Asda",
@@ -13593,6 +13809,24 @@
       "link": "https://groceries.morrisons.com/products/au-vodka-pink-lemonade-330ml/115023667"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Carib Caribbean Lager 330Ml",
+      "price": "£1.70",
+      "promotion": "£1.30 Clubcard Price",
+      "saving": 0.4,
+      "link": "https://www.tesco.com/shop/en-GB/products/266317057"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Dragon Stout 284ml",
+      "price": "£2.00",
+      "promotion": "£1.60 Clubcard Price",
+      "saving": 0.4,
+      "link": "https://www.tesco.com/shop/en-GB/products/259903883"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Gordon's Morello Cherry Distilled Gin 70cl",
@@ -13627,6 +13861,24 @@
       "promotion": "Any 2 for £10",
       "saving": 0.4,
       "link": "https://www.asda.com/groceries/product/x/x/5792312"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Old Speckled Hen Gluten Free English Pale Ale 500Ml",
+      "price": "£2.00",
+      "promotion": "£1.60 Clubcard Price",
+      "saving": 0.4,
+      "link": "https://www.tesco.com/shop/en-GB/products/313943459"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Shandy Carib Sorrel 275Ml",
+      "price": "£1.65",
+      "promotion": "£1.25 Clubcard Price",
+      "saving": 0.4,
+      "link": "https://www.tesco.com/shop/en-GB/products/301413368"
     },
     {
       "store": "Asda",
