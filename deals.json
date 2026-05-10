@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T08:05:12.335977+00:00",
-  "total": 1549,
+  "updated": "2026-05-10T08:18:37.150179+00:00",
+  "total": 1550,
   "deals": [
     {
       "store": "Asda",
@@ -1578,6 +1578,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/4803811"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "WKD Vibe Blue Raspberry Creamy Liqueur 500ml",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £13.47",
+      "saving": 5.47,
+      "link": "https://www.asda.com/groceries/product/x/x/9096705"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "JJ Pink Gin ",
@@ -1940,15 +1949,6 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Birra Moretti Birra  Premium Beer Lager Bottles 12 x 330ml",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £17.64",
-      "saving": 4.64,
-      "link": "https://www.asda.com/groceries/product/x/x/9241407"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
       "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
       "price": "£12.00",
       "promotion": "Now £12.00, Was £16.60",
@@ -2134,6 +2134,15 @@
       "promotion": "£27.00 - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/wray-nephew-overproof-white-rum/113051744"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Birra Moretti Birra  Premium Beer Lager Bottles 12 x 330ml",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £17.47",
+      "saving": 4.47,
+      "link": "https://www.asda.com/groceries/product/x/x/9241407"
     },
     {
       "store": "Asda",
@@ -5655,15 +5664,6 @@
       "link": "https://www.tesco.com/shop/en-GB/products/312221590"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Rekorderlig Wild Berries Premium Fruit Cider Can 10 x 330ml",
-      "price": "£10.25",
-      "promotion": "£8.75 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/321224947"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Sharps Atlantic",
@@ -6742,6 +6742,15 @@
       "promotion": "£5.00 Clubcard Price",
       "saving": 1.1,
       "link": "https://www.tesco.com/shop/en-GB/products/274347579"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Hawkstone Premium Lager 4x330ml",
+      "price": "£8.60",
+      "promotion": "£7.50 Clubcard Price",
+      "saving": 1.1,
+      "link": "https://www.tesco.com/shop/en-GB/products/322831814"
     },
     {
       "store": "Morrisons",
