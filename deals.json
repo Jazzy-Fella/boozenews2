@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-14T08:47:11.132831+00:00",
-  "total": 1601,
+  "updated": "2026-05-15T08:58:07.978419+00:00",
+  "total": 1602,
   "deals": [
     {
       "store": "Asda",
@@ -19,6 +19,15 @@
       "promotion": "£27.00 Clubcard Price",
       "saving": 20.0,
       "link": "https://www.tesco.com/shop/en-GB/products/285694951"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Cardhu Gold Reserve Single Malt Scotch Whisky, 40% vol, 70cl",
+      "price": "£30.00",
+      "promotion": "Now £30.00, Was £49.50",
+      "saving": 19.5,
+      "link": "https://www.asda.com/groceries/product/x/x/4781138"
     },
     {
       "store": "Tesco",
@@ -687,6 +696,15 @@
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-gin/114035480"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Estrella Galicia Premium Spanish Lager Bottles 12 x 330ml",
+      "price": "£18.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 8.0,
+      "link": "https://groceries.morrisons.com/products/estrella-galicia-premium-spanish-lager-bottles-12-x-330ml/115679560"
+    },
+    {
       "store": "Tesco",
       "category": "spirits",
       "title": "Glen Moray Twisted Vine Single Malt Scotch Whisky 70cl",
@@ -995,7 +1013,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Pimm's Original No. 1 Cup Gin Based Liqueur 25% vol 1L Bottle",
+      "title": "Pimm's Original No. 1 Cup Gin Based Liqueur 22% vol 1L Bottle",
       "price": "£17.00",
       "promotion": "Now £17.00, Was £24.00",
       "saving": 7.0,
@@ -1036,6 +1054,33 @@
       "promotion": "Now £20, Was £27",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/three-barrels-brandy-1l/107044927"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Apple Whiskey 70 cL",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £25.47",
+      "saving": 6.97,
+      "link": "https://www.asda.com/groceries/product/x/x/6639061"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Jack Daniel's Tennessee Fire 70 cL",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £25.47",
+      "saving": 6.97,
+      "link": "https://www.asda.com/groceries/product/x/x/5391316"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Jack Daniel's Tennessee Honey 70 cL",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £25.47",
+      "saving": 6.97,
+      "link": "https://www.asda.com/groceries/product/x/x/4045605"
     },
     {
       "store": "Asda",
@@ -2768,15 +2813,6 @@
     {
       "store": "Tesco",
       "category": "other",
-      "title": "Gordon's Spritz Elderflower and Citrus 750ml",
-      "price": "£10.50",
-      "promotion": "£7.00 Save 1/3 Clubcard Price",
-      "saving": 3.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/324103320"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
       "title": "Gordon's Spritz Watermelon and Berry 750ml",
       "price": "£10.50",
       "promotion": "£7.00 Save 1/3 Clubcard Price",
@@ -3556,6 +3592,15 @@
       "promotion": "Now £11.50, Was £14.50",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/passoa-passion-fruit-liqueur/101556788"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Peroni Zero Bottle",
+      "price": "£13.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/peroni-zero-bottle/114119448"
     },
     {
       "store": "Morrisons",
@@ -5293,15 +5338,6 @@
       "promotion": "Now £10.00, Was £12.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/7486061"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
-      "price": "£14.00",
-      "promotion": "Now £14.00, Was £16.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Morrisons",
@@ -8285,6 +8321,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Thatchers Juicy Apple Cider 10x440ml",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £9.97",
+      "saving": 0.97,
+      "link": "https://www.asda.com/groceries/product/x/x/9190593"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Asahi Super Dry Beer 620ml Bottle",
       "price": "£2.95",
       "promotion": "Any 5 for £10",
@@ -8713,33 +8758,6 @@
       "promotion": "Any 5 for £10",
       "saving": 0.9,
       "link": "https://www.asda.com/groceries/product/x/x/6151786"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Fever-Tree Light Mediterranean Tonic",
-      "price": "£2.40",
-      "promotion": "Buy 2 for £3",
-      "saving": 0.9,
-      "link": "https://groceries.morrisons.com/products/fever-tree-light-mediterranean-tonic/109707982"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Fever-Tree Refreshingly Light Indian Tonic Water",
-      "price": "£2.40",
-      "promotion": "Buy 2 for £3",
-      "saving": 0.9,
-      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-indian-tonic-water/107268808"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Fever-Tree Refreshingly Light Sicilian Lemonade",
-      "price": "£2.40",
-      "promotion": "Buy 2 for £3",
-      "saving": 0.9,
-      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-sicilian-lemonade/109694940"
     },
     {
       "store": "Morrisons",
@@ -10200,6 +10218,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/9037432"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Pulpt Flare Superior South West Cider 500Ml",
+      "price": "£2.90",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.73,
+      "link": "https://www.tesco.com/shop/en-GB/products/309178731"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Pulpt Melba White Peach & Scottish Raspberry Cider 500ml.",
+      "price": "£2.90",
+      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
+      "saving": 0.73,
+      "link": "https://www.tesco.com/shop/en-GB/products/315473257"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Singha 630ml",
@@ -10211,7 +10247,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "White Claw Hard Seltzer Black Cherry 330ml",
+      "title": "White Claw Black Cherry Hard Seltzer 330ml",
       "price": "£2.40",
       "promotion": "Any 3 for £5",
       "saving": 0.73,
@@ -11480,15 +11516,6 @@
     {
       "store": "Tesco",
       "category": "beer",
-      "title": "Bass Pale Ale 500ml",
-      "price": "£1.60",
-      "promotion": "£1.00 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/323873296"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
       "title": "Brewgooder Goood Beer 4 x 330ml",
       "price": "£5.55",
       "promotion": "£4.95 Clubcard Price",
@@ -11845,15 +11872,6 @@
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.58,
       "link": "https://www.tesco.com/shop/en-GB/products/303191793"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Pulpt Flare Superior South West Cider 500Ml",
-      "price": "£2.75",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/309178731"
     },
     {
       "store": "Tesco",
@@ -12781,15 +12799,6 @@
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.48,
       "link": "https://www.tesco.com/shop/en-GB/products/313848048"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Pulpt Melba White Peach & Scottish Raspberry Cider 500ml.",
-      "price": "£2.65",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.48,
-      "link": "https://www.tesco.com/shop/en-GB/products/315473257"
     },
     {
       "store": "Asda",
