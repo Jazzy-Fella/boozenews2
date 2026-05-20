@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T09:59:09.457874+00:00",
-  "total": 1677,
+  "updated": "2026-05-20T09:48:14.966439+00:00",
+  "total": 1674,
   "deals": [
     {
       "store": "Tesco",
@@ -741,6 +741,15 @@
       "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-1l/113139543"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Tanqueray London Dry Gin 1L",
+      "price": "£29.50",
+      "promotion": "Now £20, Was £29.50",
+      "saving": 9.5,
+      "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-1l/113139543"
+    },
+    {
       "store": "Tesco",
       "category": "spirits",
       "title": "Toki Suntory Whisky Blended Japanese Whisky 70cl",
@@ -1011,6 +1020,15 @@
       "link": "https://groceries.morrisons.com/products/whitley-neill-gin-japanese-yuzu-white-strawberry-70cl/115067264"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Baileys Original Irish Cream Liqueur 1L",
+      "price": "£23.00",
+      "promotion": "Now £14.50, Was £23",
+      "saving": 8.5,
+      "link": "https://groceries.morrisons.com/products/baileys-original-irish-cream-liqueur-1l/101525367"
+    },
+    {
       "store": "Tesco",
       "category": "spirits",
       "title": "Ciroc Ultra Premium Vodka Bottle 40% Vol 70Cl",
@@ -1112,20 +1130,20 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Ciroc Cîroc Ultra-Premium Vodka 40% vol 70cl",
-      "price": "£31.50",
-      "promotion": "Now £31.50, Was £39.50",
-      "saving": 8.0,
-      "link": "https://www.asda.com/groceries/product/x/x/4712874"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
       "title": "Ciroc Red Berry Vodka 37.5% vol 70cl",
       "price": "£31.50",
       "promotion": "Now £31.50, Was £39.50",
       "saving": 8.0,
       "link": "https://www.asda.com/groceries/product/x/x/9234971"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Ciroc Ultra-Premium Vodka 40% vol 70cl",
+      "price": "£31.50",
+      "promotion": "Now £31.50, Was £39.50",
+      "saving": 8.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4712874"
     },
     {
       "store": "Asda",
@@ -1162,15 +1180,6 @@
       "promotion": "Now £22, Was £30",
       "saving": 8.0,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-gin/114035480"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Estrella Galicia Premium Spanish Lager Bottles 12 x 330ml",
-      "price": "£18.00",
-      "promotion": "Buy 3 for £30 - Online Exclusive",
-      "saving": 8.0,
-      "link": "https://groceries.morrisons.com/products/estrella-galicia-premium-spanish-lager-bottles-12-x-330ml/115679560"
     },
     {
       "store": "Morrisons",
@@ -1823,11 +1832,11 @@
     {
       "store": "Tesco",
       "category": "spirits",
-      "title": "UKIYO Tokyo Dry Japanese Gin 700ml",
+      "title": "Ukiyo Japanese Blossom Gin 70cl",
       "price": "£32.50",
       "promotion": "£26.50 Clubcard Price",
       "saving": 6.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/315963426"
+      "link": "https://www.tesco.com/shop/en-GB/products/315845624"
     },
     {
       "store": "Tesco",
@@ -3119,15 +3128,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Bottles ",
-      "price": "£12.50",
-      "promotion": "Buy 2 for £17",
-      "saving": 4.0,
-      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles/111586201"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Stella Artois Premium Lager Beer Cans 10 x 440ml",
       "price": "£12.50",
       "promotion": "Buy 2 for £17",
@@ -3855,15 +3855,6 @@
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-cans-10-x-440ml/109710225"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Cans 10 x 440ml",
-      "price": "£11.50",
-      "promotion": "Buy 2 for £17",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-cans-10-x-440ml/109710225"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Campo Viejo Reserva 75cl",
@@ -4465,15 +4456,6 @@
       "promotion": "£11.00 Clubcard Price",
       "saving": 2.95,
       "link": "https://www.tesco.com/shop/en-GB/products/305964763"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Bottles 18x330ml",
-      "price": "£15.00",
-      "promotion": "Now £15.00, Was £17.94",
-      "saving": 2.94,
-      "link": "https://www.asda.com/groceries/product/x/x/9288018"
     },
     {
       "store": "Asda",
@@ -6093,6 +6075,15 @@
       "price": "£7.00",
       "promotion": "Now £7.00, Was £9.00",
       "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6975022"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "La Vieille 750ml",
+      "price": "£7.00",
+      "promotion": "Now £7.00, Was £9.00",
+      "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/6975020"
     },
     {
@@ -6544,15 +6535,6 @@
       "promotion": "Any 5 for £10",
       "saving": 1.75,
       "link": "https://www.asda.com/groceries/product/x/x/9342702"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "La Vieille 750ml",
-      "price": "£7.00",
-      "promotion": "Buy 6 save 25%",
-      "saving": 1.75,
-      "link": "https://www.asda.com/groceries/product/x/x/6975022"
     },
     {
       "store": "Morrisons",
@@ -7057,6 +7039,15 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/northern-monk-timothy-taylors-northern-rising-stout/114290464"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Porta 6 1.5L",
+      "price": "£13.25",
+      "promotion": "Now £13.25, Was £14.75",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9091393"
     },
     {
       "store": "Morrisons",
@@ -7664,7 +7655,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Gordon's Gordon’s Special Dry London Gin 37.5% vol 1L",
+      "title": "Gordon's Special Dry London Gin 37.5% vol 1L",
       "price": "£18.50",
       "promotion": "Now £18.50, Was £19.74",
       "saving": 1.24,
@@ -9491,6 +9482,33 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Fever-Tree Light Mediterranean Tonic",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3",
+      "saving": 0.9,
+      "link": "https://groceries.morrisons.com/products/fever-tree-light-mediterranean-tonic/109707982"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Fever-Tree Refreshingly Light Indian Tonic Water",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3",
+      "saving": 0.9,
+      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-indian-tonic-water/107268808"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Fever-Tree Refreshingly Light Sicilian Lemonade",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3",
+      "saving": 0.9,
+      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-sicilian-lemonade/109694940"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Funkin Nitro Cocktails Strawberry Daiquiri ",
       "price": "£2.40",
       "promotion": "Buy 8 for £12 - Online Exclusive",
@@ -9631,15 +9649,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.88,
       "link": "https://groceries.morrisons.com/products/exeter-brewery-avocet-500ml/115980942"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Guinness Original Stout Beer Bottle 4.2% Vol 500ml",
-      "price": "£2.75",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.88,
-      "link": "https://www.tesco.com/shop/en-GB/products/255238490"
     },
     {
       "store": "Morrisons",
@@ -10803,15 +10812,6 @@
       "link": "https://groceries.morrisons.com/products/southern-comfort-lemonade-lime-abv-5/109752847"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans 4x568ml",
-      "price": "£6.00",
-      "promotion": "Now £6.00, Was £6.75",
-      "saving": 0.75,
-      "link": "https://www.asda.com/groceries/product/x/x/6879968"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Stella Artois Unfiltered Can ",
@@ -11928,15 +11928,6 @@
       "link": "https://groceries.morrisons.com/products/hobgoblin-gold-ale-beer-bottle/113278691"
     },
     {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Hobgoblin Stout Beer 500ml",
-      "price": "£2.50",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.62,
-      "link": "https://www.tesco.com/shop/en-GB/products/314938931"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Marston's Pedigree Pale Ale Beer Bottle",
@@ -12277,15 +12268,6 @@
       "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
       "saving": 0.58,
       "link": "https://www.tesco.com/shop/en-GB/products/323508655"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Badger Master Stoat Coffee Stout 500ml",
-      "price": "£2.45",
-      "promotion": "Any 4 for £7.50 Clubcard Price - Selected Beers 250ml - 500ml",
-      "saving": 0.58,
-      "link": "https://www.tesco.com/shop/en-GB/products/314948809"
     },
     {
       "store": "Asda",
@@ -13096,15 +13078,6 @@
       "promotion": "Buy 3 for £6",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/sandford-orchards-wilde-cherry/113899593"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Schweppes Slimline Tonic Water ",
-      "price": "£1.90",
-      "promotion": "Now £1.40, Was £1.90",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/schweppes-slimline-tonic-water/100159422"
     },
     {
       "store": "Morrisons",
