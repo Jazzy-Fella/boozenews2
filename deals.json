@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21T09:56:20.572984+00:00",
-  "total": 1662,
+  "updated": "2026-05-22T09:41:24.218898+00:00",
+  "total": 1664,
   "deals": [
     {
       "store": "Tesco",
@@ -37,15 +37,6 @@
       "promotion": "£28.00 Clubcard Price",
       "saving": 20.5,
       "link": "https://www.tesco.com/shop/en-GB/products/287424762"
-    },
-    {
-      "store": "Tesco",
-      "category": "spirits",
-      "title": "Cardhu Gold Reserve Single Malt Scotch Whisky Bottle 40% Vol 70Cl",
-      "price": "£47.00",
-      "promotion": "£27.00 Clubcard Price",
-      "saving": 20.0,
-      "link": "https://www.tesco.com/shop/en-GB/products/285694951"
     },
     {
       "store": "Asda",
@@ -1048,15 +1039,6 @@
     },
     {
       "store": "Tesco",
-      "category": "spirits",
-      "title": "Baileys Original Irish Cream Liqueur Bottle 17% Vol 1L",
-      "price": "£22.75",
-      "promotion": "£14.50 Clubcard Price",
-      "saving": 8.25,
-      "link": "https://www.tesco.com/shop/en-GB/products/255249782"
-    },
-    {
-      "store": "Tesco",
       "category": "beer",
       "title": "Birra Moretti Lager Beer 18 x 330ml",
       "price": "£26.25",
@@ -1894,15 +1876,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Kraken Black Spiced Rum ",
-      "price": "£26.50",
-      "promotion": "Now £21, Was £26.50",
-      "saving": 5.5,
-      "link": "https://groceries.morrisons.com/products/kraken-black-spiced-rum/106753431"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Les Cles De La Tour ",
       "price": "£22.00",
@@ -2089,6 +2062,24 @@
       "promotion": "Buy 6 save 25%",
       "saving": 5.25,
       "link": "https://www.asda.com/groceries/product/x/x/9018625"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Greenalls Original London Dry Gin 1 Litre",
+      "price": "£23.75",
+      "promotion": "£18.50 Clubcard Price",
+      "saving": 5.25,
+      "link": "https://www.tesco.com/shop/en-GB/products/257430575"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Greenalls Wild Berry Pink Gin 1 Litre",
+      "price": "£23.75",
+      "promotion": "£18.50 Clubcard Price",
+      "saving": 5.25,
+      "link": "https://www.tesco.com/shop/en-GB/products/302142018"
     },
     {
       "store": "Asda",
@@ -2476,6 +2467,15 @@
       "promotion": "Buy 6 save 25%",
       "saving": 4.5,
       "link": "https://www.asda.com/groceries/product/x/x/9181189"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Glen Moray Single Malt Scotch Whisky",
+      "price": "£25.50",
+      "promotion": "Now £21, Was £25.50",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/glen-moray-single-malt-scotch-whisky/101545237"
     },
     {
       "store": "Tesco",
@@ -5934,6 +5934,15 @@
       "link": "https://groceries.morrisons.com/products/gordon-s-lemon-meringue-35-vol-70cl/115319880"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Gros Manseng Vin Orange 75cl",
+      "price": "£8.00",
+      "promotion": "Buy 6 save 25%",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7624871"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Heineken Original Premium Lager Beer 5% ABV Cans 10x440ml",
@@ -6247,6 +6256,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 1.88,
       "link": "https://groceries.morrisons.com/products/la-p-tite-pierre-white/113816735"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Mucho Más 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/9093195"
     },
     {
       "store": "Morrisons",
@@ -7345,6 +7363,15 @@
       "promotion": "£5.50 Clubcard Price",
       "saving": 1.25,
       "link": "https://www.tesco.com/shop/en-GB/products/321215365"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Beavertown Cosmic Drop Tropical Fruit Lager 4x330ml",
+      "price": "£6.75",
+      "promotion": "£5.50 Clubcard Price",
+      "saving": 1.25,
+      "link": "https://www.tesco.com/shop/en-GB/products/323849124"
     },
     {
       "store": "Asda",
@@ -9975,15 +10002,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9341535"
     },
     {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Mahou Cerveza Especial Madrid 660ml",
-      "price": "£3.00",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.83,
-      "link": "https://www.tesco.com/shop/en-GB/products/323862827"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Modelo 620ML",
@@ -10778,7 +10796,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Carlsberg Danish Pilsner Lager Beer Cans 4 x 568ml",
+      "title": "Carlsberg Danish Pilsner 568ml",
       "price": "£4.00",
       "promotion": "Now £4.00, Was £4.74",
       "saving": 0.74,
@@ -11674,15 +11692,6 @@
       "promotion": "Any 2 for £10",
       "saving": 0.64,
       "link": "https://www.asda.com/groceries/product/x/x/6926998"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Cornish Rattler Apple Cider 500Ml Bottle",
-      "price": "£2.80",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.63,
-      "link": "https://www.tesco.com/shop/en-GB/products/262019572"
     },
     {
       "store": "Asda",
@@ -14545,6 +14554,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.25,
       "link": "https://www.asda.com/groceries/product/x/x/5148286"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Stella Artois Premium Gluten Free Lager Beer Bottles 4x330ml",
+      "price": "£5.24",
+      "promotion": "Now £5.24, Was £5.48",
+      "saving": 0.24,
+      "link": "https://www.asda.com/groceries/product/x/x/6205047"
     },
     {
       "store": "Tesco",
