@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T10:07:13.655826+00:00",
-  "total": 1641,
+  "updated": "2026-06-05T10:04:40.216621+00:00",
+  "total": 1659,
   "deals": [
     {
       "store": "Tesco",
@@ -541,6 +541,15 @@
       "promotion": "Now £24.50, Was £37",
       "saving": 12.5,
       "link": "https://groceries.morrisons.com/products/laphroaig-islay-single-malt-scotch-whisky/106861626"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Laphroaig Oak Select Islay Single Malt Scotch Whisky 700ml",
+      "price": "£24.50",
+      "promotion": "Now £24.50, Was £37.00",
+      "saving": 12.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9052035"
     },
     {
       "store": "Morrisons",
@@ -1633,6 +1642,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Aber Falls Madeira Cask Single Malt Welsh Whisky 700ml",
+      "price": "£32.00",
+      "promotion": "Now £25, Was £32 - Online Exclusive",
+      "saving": 7.0,
+      "link": "https://groceries.morrisons.com/products/aber-falls-madeira-cask-single-malt-welsh-whisky-700ml/115987714"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Ableforth's Bathtub Gin",
       "price": "£33.00",
@@ -1945,6 +1963,15 @@
       "promotion": "Now £20, Was £26.50",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/the-kraken-black-cherry-madagascan-vanilla-rum/113049185"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Apple Whiskey 70 cL",
+      "price": "£19.00",
+      "promotion": "Now £19.00, Was £25.47",
+      "saving": 6.47,
+      "link": "https://www.asda.com/groceries/product/x/x/6639061"
     },
     {
       "store": "Asda",
@@ -2273,7 +2300,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Plymouth Gin Original Strength 70cl",
+      "title": "Plymouth The Original Strength English Gin 70cl",
       "price": "£22.00",
       "promotion": "Now £22.00, Was £27.50",
       "saving": 5.5,
@@ -2449,15 +2476,6 @@
       "promotion": "£13.00 Clubcard Price",
       "saving": 5.0,
       "link": "https://www.tesco.com/shop/en-GB/products/278480235"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Asahi Super Dry Beer Pack 12 x 330ml Bottles",
-      "price": "£14.50",
-      "promotion": "Now £14.50, Was £19.50",
-      "saving": 5.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9355697"
     },
     {
       "store": "Morrisons",
@@ -3027,6 +3045,15 @@
       "link": "https://groceries.morrisons.com/products/courvoisier-vsop-cognac/101543215"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Aber Falls Welsh Gin 700ml",
+      "price": "£20.00",
+      "promotion": "Now £16, Was £20 - Online Exclusive",
+      "saving": 4.0,
+      "link": "https://groceries.morrisons.com/products/aber-falls-welsh-gin-700ml/115987685"
+    },
+    {
       "store": "Tesco",
       "category": "spirits",
       "title": "Absolut Raspberri Vodka 70Cl",
@@ -3468,6 +3495,15 @@
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-toro/115238887"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Malibu Original White Rum with Coconut Flavour 70cl",
+      "price": "£12.50",
+      "promotion": "Now £12.50, Was £16.16",
+      "saving": 3.66,
+      "link": "https://www.asda.com/groceries/product/x/x/9063775"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Albarino",
@@ -3745,6 +3781,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-cider-cans-10x440ml/105689916"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tanqueray London Dry Gin 41.3% vol 70cl Bottle",
+      "price": "£19.50",
+      "promotion": "Now £19.50, Was £23.00",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7745108"
     },
     {
       "store": "Morrisons",
@@ -4114,15 +4159,6 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/7637074"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Desperados Tequila Lager Beer Bottles",
-      "price": "£16.00",
-      "promotion": "Now £13, Was £16",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/desperados-tequila-lager-beer-bottles/108935852"
     },
     {
       "store": "Morrisons",
@@ -5772,6 +5808,15 @@
       "link": "https://groceries.morrisons.com/products/smirnoff-red-label-vodka/101547582"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Ice Ice Original 4% vol Ready To Drink 10x250ml Can",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £12.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7486061"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Soberano 5 Spanish Brandy   ",
@@ -5860,15 +5905,6 @@
       "promotion": "Now £13.25, Was £15.20",
       "saving": 1.95,
       "link": "https://www.asda.com/groceries/product/x/x/9095835"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Olmeca Altos Margarita Strawberry 750ml",
-      "price": "£13.25",
-      "promotion": "Now £13.25, Was £15.20",
-      "saving": 1.95,
-      "link": "https://www.asda.com/groceries/product/x/x/9228736"
     },
     {
       "store": "Tesco",
@@ -6718,6 +6754,24 @@
     },
     {
       "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Mango & Passionfruit Twist Flavoured Spirit Drink 35% vol 70cl",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £18.50",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9129835"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Miami Peach 35% vol 70cl",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £18.50",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9237773"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "The Garden Brewery Pomalo Imperial Hazelnut & Toffee Stout 440ml",
       "price": "£3.50",
@@ -7502,11 +7556,38 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Buzzballz England Pip Pip Punch 20cl",
+      "price": "£4.20",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 1.2,
+      "link": "https://groceries.morrisons.com/products/buzzballz-england-pip-pip-punch-20cl/116064031"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "BuzzBallz Pornstar Martini Cocktails 200ml",
       "price": "£4.20",
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 1.2,
       "link": "https://groceries.morrisons.com/products/buzzballz-pornstar-martini-cocktails-200ml/115322211"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Buzzballz World Cup Goaaaaaal-Melon 20Cl",
+      "price": "£4.20",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 1.2,
+      "link": "https://groceries.morrisons.com/products/buzzballz-world-cup-goaaaaaal-melon-20cl/116064102"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Mahou 660ml",
+      "price": "£3.20",
+      "promotion": "Buy 4 for £8",
+      "saving": 1.2,
+      "link": "https://groceries.morrisons.com/products/mahou-660ml/114766346"
     },
     {
       "store": "Tesco",
@@ -8247,6 +8328,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9294389"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Buzzballz Berry Cherry Limeade 20cl",
+      "price": "£4.00",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/buzzballz-berry-cherry-limeade-20cl/115808026"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "BuzzBallz Choc Tease Cocktails 200ml",
@@ -8254,6 +8344,15 @@
       "promotion": "Now £3.00, Was £4.00",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9230527"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Buzzballz Cran Blaster 20cl",
+      "price": "£4.00",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/buzzballz-cran-blaster-20cl/116008670"
     },
     {
       "store": "Asda",
@@ -12029,6 +12128,15 @@
     {
       "store": "Tesco",
       "category": "beer",
+      "title": "Old Jamaica Ginger Beer Regular 2L",
+      "price": "£2.20",
+      "promotion": "£1.60 Clubcard Price",
+      "saving": 0.6,
+      "link": "https://www.tesco.com/shop/en-GB/products/313966081"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
       "title": "Old Session Hen Beer 500ml",
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
@@ -12720,6 +12828,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9095334"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Asahi Super Dry Beer Pack 12 x 330ml Bottles",
+      "price": "£14.00",
+      "promotion": "Now £14.00, Was £14.50",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9355697"
+    },
+    {
       "store": "Tesco",
       "category": "beer",
       "title": "BrewDog Cold Beer 4 x 440ml",
@@ -12747,6 +12864,24 @@
       "link": "https://groceries.morrisons.com/products/budweiser-budvar-beer-bottle/101532823"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Buzzballz Chilli Mango 20cl",
+      "price": "£3.50",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.5,
+      "link": "https://groceries.morrisons.com/products/buzzballz-chilli-mango-20cl/114474802"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Buzzballz Choc Tease 20cl",
+      "price": "£3.50",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.5,
+      "link": "https://groceries.morrisons.com/products/buzzballz-choc-tease-20cl/114474853"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "BuzzBallz Lime 'Rita Margarita Cocktail 200ml",
@@ -12772,6 +12907,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/7621882"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Captain Morgan Original Spiced Gold and Pepsi MAX® Pre-mix 6x250ml 5% vol can",
+      "price": "£7.00",
+      "promotion": "Now £7.00, Was £7.50",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9184044"
     },
     {
       "store": "Asda",
@@ -12871,15 +13015,6 @@
       "promotion": "Any 5 for £10",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/7735875"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Laphroaig Oak Select Islay Single Malt Scotch Whisky 700ml",
-      "price": "£24.50",
-      "promotion": "Now £24.50, Was £25.00",
-      "saving": 0.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9052035"
     },
     {
       "store": "Morrisons",
@@ -14052,6 +14187,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/4433551"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "SERVED Margarita Cocktail 8% ABV",
+      "price": "£3.30",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.3,
+      "link": "https://groceries.morrisons.com/products/served-margarita-cocktail-8-abv/113566828"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Smirnoff No. 21 Vodka and Diet Cola Ready to Drink 5% vol 250ml",
@@ -14338,6 +14482,24 @@
       "promotion": "Now £16.50, Was £16.75",
       "saving": 0.25,
       "link": "https://www.asda.com/groceries/product/x/x/2974432"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Smirnoff Crush Lemon & Lime 440ml",
+      "price": "£3.25",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.25,
+      "link": "https://groceries.morrisons.com/products/smirnoff-crush-lemon-lime-440ml/116075506"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Smirnoff Crush Mango And Peach 440ml",
+      "price": "£3.25",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.25,
+      "link": "https://groceries.morrisons.com/products/smirnoff-crush-mango-and-peach-440ml/116075493"
     },
     {
       "store": "Asda",
