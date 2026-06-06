@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T10:04:40.216621+00:00",
-  "total": 1659,
+  "updated": "2026-06-06T08:43:04.996732+00:00",
+  "total": 1657,
   "deals": [
     {
       "store": "Tesco",
@@ -361,6 +361,15 @@
       "promotion": "£28.50 Clubcard Price",
       "saving": 13.5,
       "link": "https://www.tesco.com/shop/en-GB/products/257477018"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Tamnavulin Speyside Single Malt Scotch Whisky - Port Cask Edition 70cl",
+      "price": "£36.50",
+      "promotion": "£23.00 Clubcard Price",
+      "saving": 13.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/317647683"
     },
     {
       "store": "Morrisons",
@@ -6539,15 +6548,6 @@
     {
       "store": "Tesco",
       "category": "beer",
-      "title": "Budweiser Lager 10 X 440Ml",
-      "price": "£11.50",
-      "promotion": "£10.00 Clubcard Price",
-      "saving": 1.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/309761639"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
       "title": "Bundaberg Ginger Beer 4 X 375Ml",
       "price": "£6.50",
       "promotion": "£5.00 Clubcard Price",
@@ -7624,15 +7624,6 @@
       "promotion": "Any 4 for £7",
       "saving": 1.15,
       "link": "https://www.asda.com/groceries/product/x/x/6402290"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Guinness Nigerian Foreign Extra Stout 600Ml",
-      "price": "£4.50",
-      "promotion": "£3.35 Save 25% Clubcard Price",
-      "saving": 1.15,
-      "link": "https://www.tesco.com/shop/en-GB/products/266402526"
     },
     {
       "store": "Tesco",
@@ -14185,15 +14176,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.3,
       "link": "https://www.asda.com/groceries/product/x/x/4433551"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "SERVED Margarita Cocktail 8% ABV",
-      "price": "£3.30",
-      "promotion": "Buy 4 for £12 - Online Exclusive",
-      "saving": 0.3,
-      "link": "https://groceries.morrisons.com/products/served-margarita-cocktail-8-abv/113566828"
     },
     {
       "store": "Asda",
