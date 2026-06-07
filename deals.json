@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T08:43:04.996732+00:00",
-  "total": 1657,
+  "updated": "2026-06-07T09:27:17.934662+00:00",
+  "total": 1666,
   "deals": [
     {
       "store": "Tesco",
@@ -28,6 +28,15 @@
       "promotion": "Now £28.00, Was £49.45",
       "saving": 21.45,
       "link": "https://www.asda.com/groceries/product/x/x/4995035"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Dalwhinnie Winter's Gold Single Malt Whisky Bottle 43% Vol 70Cl",
+      "price": "£46.50",
+      "promotion": "£26.00 Clubcard Price",
+      "saving": 20.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/290873041"
     },
     {
       "store": "Morrisons",
@@ -3855,6 +3864,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/9041728"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Beavertown Pillow Hazy DIPA 440ml",
+      "price": "£4.00",
+      "promotion": "Any 4 for 3",
+      "saving": 3.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9339652"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Beavertown Rumble West Coast DIPA 440ml",
+      "price": "£4.00",
+      "promotion": "Any 4 for 3",
+      "saving": 3.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9340692"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Hendrick's Grand Cabaret Gin ",
@@ -3862,6 +3889,15 @@
       "promotion": "Save 10% - More Card Price",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/hendrick-s-grand-cabaret-gin/113798371"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Lervig Tasty Juice Double Dry-Hopped IPA 500ml",
+      "price": "£4.00",
+      "promotion": "Any 4 for 3",
+      "saving": 3.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9355894"
     },
     {
       "store": "Morrisons",
@@ -3907,6 +3943,15 @@
       "promotion": "£20.50 Clubcard Price",
       "saving": 3.25,
       "link": "https://www.tesco.com/shop/en-GB/products/255247939"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Northern Monk Black Hole Stellar Imperial Stout 440ml",
+      "price": "£3.97",
+      "promotion": "Any 4 for 3",
+      "saving": 3.22,
+      "link": "https://www.asda.com/groceries/product/x/x/9323216"
     },
     {
       "store": "Tesco",
@@ -5224,6 +5269,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Siren Playlist Hazy IPA 440ml",
+      "price": "£3.04",
+      "promotion": "Any 4 for 3",
+      "saving": 2.29,
+      "link": "https://www.asda.com/groceries/product/x/x/9244133"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Elton John Zero Alcohol Blanc de Blancs 75cl",
       "price": "£7.75",
@@ -5419,6 +5473,15 @@
       "promotion": "Now £8.00, Was £10.05",
       "saving": 2.05,
       "link": "https://www.asda.com/groceries/product/x/x/3866010"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Northern Monk Faith Hazy Pale Ale 440ml",
+      "price": "£2.76",
+      "promotion": "Any 4 for 3",
+      "saving": 2.01,
+      "link": "https://www.asda.com/groceries/product/x/x/9104547"
     },
     {
       "store": "Asda",
@@ -6544,6 +6607,15 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/budweiser-budvar-original-lager-4x440ml/114011306"
+    },
+    {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Budweiser Lager 10 X 440Ml",
+      "price": "£11.50",
+      "promotion": "£10.00 Clubcard Price",
+      "saving": 1.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/309761639"
     },
     {
       "store": "Tesco",
@@ -10832,6 +10904,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Kirkstall Spokane West Coast IPA 330ml",
+      "price": "£1.50",
+      "promotion": "Any 4 for 3",
+      "saving": 0.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9261107"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "korev lager 660ml",
       "price": "£2.75",
       "promotion": "Any 5 for £10",
@@ -11017,6 +11098,24 @@
       "promotion": "Any 4 for £7",
       "saving": 0.75,
       "link": "https://www.asda.com/groceries/product/x/x/628708"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Siren Lumina Session IPA 330ml",
+      "price": "£1.50",
+      "promotion": "Any 4 for 3",
+      "saving": 0.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9260287"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Siren Recurring Dream Breakfast Stout 330ml",
+      "price": "£1.50",
+      "promotion": "Any 4 for 3",
+      "saving": 0.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9259735"
     },
     {
       "store": "Morrisons",
@@ -12119,15 +12218,6 @@
     {
       "store": "Tesco",
       "category": "beer",
-      "title": "Old Jamaica Ginger Beer Regular 2L",
-      "price": "£2.20",
-      "promotion": "£1.60 Clubcard Price",
-      "saving": 0.6,
-      "link": "https://www.tesco.com/shop/en-GB/products/313966081"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
       "title": "Old Session Hen Beer 500ml",
       "price": "£1.60",
       "promotion": "£1.00 Clubcard Price",
@@ -13078,15 +13168,6 @@
       "promotion": "Buy 3 for £6",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/sandford-orchards-wilde-cherry/113899593"
-    },
-    {
-      "store": "Tesco",
-      "category": "other",
-      "title": "Thatchers Blood Orange Zero Sweet and Juicy 4x440ml",
-      "price": "£4.00",
-      "promotion": "£3.50 Clubcard Price",
-      "saving": 0.5,
-      "link": "https://www.tesco.com/shop/en-GB/products/323507881"
     },
     {
       "store": "Asda",
