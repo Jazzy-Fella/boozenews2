@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T09:27:15.477292+00:00",
-  "total": 1697,
+  "updated": "2026-06-14T09:48:18.833460+00:00",
+  "total": 1699,
   "deals": [
     {
       "store": "Tesco",
@@ -1972,6 +1972,15 @@
       "promotion": "Now £18.50, Was £25",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/gordon-s-london-dry-gin-1l/101557705"
+    },
+    {
+      "store": "Tesco",
+      "category": "spirits",
+      "title": "Hennessy Vs Cognac 700Ml",
+      "price": "£38.50",
+      "promotion": "£32.00 Clubcard Price",
+      "saving": 6.5,
+      "link": "https://www.tesco.com/shop/en-GB/products/252238483"
     },
     {
       "store": "Tesco",
@@ -4485,6 +4494,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9228009"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Faustino Rivero Ulecia Reserva, Utiel Requena ",
+      "price": "£12.00",
+      "promotion": "Buy 6 Save 25% - More Card Price",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/faustino-rivero-ulecia-reserva-utiel-requena/116060064"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Foster's Beer Lager Cans 18 x 440ml",
@@ -5743,6 +5761,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.38,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-chianti-superiore/114182754"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons The Best White Douro Godelho ",
+      "price": "£9.50",
+      "promotion": "Buy 6 Save 25% - More Card Price",
+      "saving": 2.38,
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-white-douro-godelho/115964379"
     },
     {
       "store": "Asda",
@@ -11397,6 +11424,15 @@
       "link": "https://groceries.morrisons.com/products/sangre-de-toro-0/115480809"
     },
     {
+      "store": "Tesco",
+      "category": "beer",
+      "title": "Sapporo Premium Beer 650Ml",
+      "price": "£3.75",
+      "promotion": "£3.00 Clubcard Price",
+      "saving": 0.75,
+      "link": "https://www.tesco.com/shop/en-GB/products/268761483"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Served Espresso Martini 125ml",
@@ -11710,15 +11746,6 @@
       "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
       "saving": 0.68,
       "link": "https://www.tesco.com/shop/en-GB/products/264079462"
-    },
-    {
-      "store": "Tesco",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider - Strawberry & Lime 500ml",
-      "price": "£2.85",
-      "promotion": "Any 3 for £6.50 Clubcard Price - Selected Beers 330ml - 660ml",
-      "saving": 0.68,
-      "link": "https://www.tesco.com/shop/en-GB/products/266667686"
     },
     {
       "store": "Tesco",
@@ -14059,15 +14086,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/greene-king-abbot-ale-bottle-50cl/101544904"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Ruby Ale Beer Bottle",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-ruby-ale-beer-bottle/113298149"
     },
     {
       "store": "Morrisons",
