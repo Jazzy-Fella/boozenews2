@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T12:31:26.202051+00:00",
-  "total": 1367,
+  "updated": "2026-06-16T11:24:55.325435+00:00",
+  "total": 1366,
   "deals": [
     {
       "store": "Morrisons",
@@ -599,6 +599,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "The Woodsman Blended Scotch Whisky ",
+      "price": "£30.00",
+      "promotion": "£20.00 - More Card Price",
+      "saving": 10.0,
+      "link": "https://groceries.morrisons.com/products/the-woodsman-blended-scotch-whisky/111555261"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Whitley Neill Elderflower & Korean Pear Gin ",
       "price": "£30.00",
       "promotion": "Now £20, Was £30",
@@ -703,15 +712,6 @@
       "promotion": "Now £25, Was £34.50",
       "saving": 9.5,
       "link": "https://groceries.morrisons.com/products/roku-japanese-craft-gin-70cl/110733336"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "The Woodsman Blended Scotch Whisky ",
-      "price": "£29.50",
-      "promotion": "£20.00 - More Card Price",
-      "saving": 9.5,
-      "link": "https://groceries.morrisons.com/products/the-woodsman-blended-scotch-whisky/111555261"
     },
     {
       "store": "Asda",
@@ -6844,15 +6844,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Hawkstone Black 4x440ml",
-      "price": "£8.50",
-      "promotion": "Now £7.50, Was £8.50",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/hawkstone-black-4x440ml/115981751"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Hawkstone Premium Lager 4x330ml",
       "price": "£8.50",
@@ -10795,6 +10786,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "VK Mixed Pack A Selection of Vodka Mix Drinks 10 x 275ml",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £8.50",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9031131"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Warsteiner Premium Beer 0,66l",
       "price": "£2.50",
@@ -10900,15 +10900,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.48,
       "link": "https://www.asda.com/groceries/product/x/x/7320221"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "BACARDÍ Spiced Premium Rum Spirit Drink, 100cl",
-      "price": "£19.50",
-      "promotion": "Now £19.50, Was £19.97",
-      "saving": 0.47,
-      "link": "https://www.asda.com/groceries/product/x/x/6519686"
     },
     {
       "store": "Asda",
