@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T10:48:41.230657+00:00",
-  "total": 1361,
+  "updated": "2026-06-20T09:29:13.427124+00:00",
+  "total": 1363,
   "deals": [
     {
       "store": "Morrisons",
@@ -2665,15 +2665,6 @@
       "promotion": "Buy 2 for £19.66",
       "saving": 3.17,
       "link": "https://groceries.morrisons.com/products/cruzcampo-sevilla-lager-beer-cans-10-x-440ml/113551651"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Desperados Original Beer Lager Bottles 12 x 250ml",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £16.17",
-      "saving": 3.17,
-      "link": "https://www.asda.com/groceries/product/x/x/5768312"
     },
     {
       "store": "Asda",
@@ -5367,6 +5358,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9118375"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "ASDA Fino Sherry 75cl",
+      "price": "£7.25",
+      "promotion": "Now £7.25, Was £8.75",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7174222"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Beavertown Gamma Ray 4x330ml Cans",
@@ -5950,6 +5950,15 @@
       "promotion": "Now £12.00, Was £13.25",
       "saving": 1.25,
       "link": "https://www.asda.com/groceries/product/x/x/9095298"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Whiskey 35 cL",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £13.25",
+      "saving": 1.25,
+      "link": "https://www.asda.com/groceries/product/x/x/451049"
     },
     {
       "store": "Asda",
@@ -6627,6 +6636,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9357554"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Desperados Original Beer Lager Bottles 12 x 250ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £13.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5768312"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Desperados Tequila Lager Beer Bottles 3x330ml",
@@ -7021,6 +7039,15 @@
       "promotion": "Now £1.50, Was £2.50",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/saltaire-brewery-golden-boot-pale-ale-500ml/116100273"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "San Miguel Premium Lager  Beer Bottles 12x330ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £13.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9240369"
     },
     {
       "store": "Morrisons",
@@ -10436,11 +10463,11 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Hawkstone Zero Lager 4 X 330Ml",
-      "price": "£7.00",
-      "promotion": "Now £6.50, Was £7",
+      "title": "Hawkstone Cider 500ml",
+      "price": "£3.00",
+      "promotion": "Now £2.50, Was £3",
       "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/hawkstone-zero-lager-4-x-330ml/115981726"
+      "link": "https://groceries.morrisons.com/products/hawkstone-cider-500ml/115251985"
     },
     {
       "store": "Morrisons",
@@ -10832,7 +10859,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Suntory Peach Vodka, Soda & Shochu Ready To Drink Can 330ml",
+      "title": "Suntory Peach Vodka, Soda & Shochu Pre- Mixed Ready To Drink Can 330ml",
       "price": "£2.13",
       "promotion": "Any 3 for £5",
       "saving": 0.46,
@@ -11899,15 +11926,6 @@
       "promotion": "Any 2 for £10",
       "saving": 0.23,
       "link": "https://www.asda.com/groceries/product/x/x/9244436"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Bass Pale Ale 500ml",
-      "price": "£1.97",
-      "promotion": "Any 4 for £7",
-      "saving": 0.22,
-      "link": "https://www.asda.com/groceries/product/x/x/9263712"
     },
     {
       "store": "Asda",
