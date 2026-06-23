@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T12:17:58.639541+00:00",
+  "updated": "2026-06-23T09:55:42.430520+00:00",
   "total": 1358,
   "deals": [
     {
@@ -1261,15 +1261,6 @@
       "promotion": "Now £20.00, Was £26.00",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/1652853"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "John Smith's 18 Extra Smooth Cans 18 x 440ml",
-      "price": "£18.00",
-      "promotion": "Now £12, Was £18",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/john-smith-s-18-extra-smooth-cans-18-x-440ml/113741041"
     },
     {
       "store": "Asda",
@@ -2980,6 +2971,15 @@
       "promotion": "Any 4 for 3",
       "saving": 2.97,
       "link": "https://www.asda.com/groceries/product/x/x/9332742"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Heineken Original Premium Lager Beer 5% ABV Cans 15x440ml",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £15.95",
+      "saving": 2.95,
+      "link": "https://www.asda.com/groceries/product/x/x/6078580"
     },
     {
       "store": "Asda",
