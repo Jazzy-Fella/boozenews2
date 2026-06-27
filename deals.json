@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T09:40:25.731339+00:00",
-  "total": 1311,
+  "updated": "2026-06-27T08:45:19.960730+00:00",
+  "total": 1313,
   "deals": [
     {
       "store": "Asda",
@@ -2955,6 +2955,15 @@
       "link": "https://groceries.morrisons.com/products/el-galipote-spiced-rum-70cl/115064451"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Foster's Beer Lager Cans 24 x 440ml",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £15.50",
+      "saving": 2.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9359660"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jose Cuervo Especial Reposado Tequila ",
@@ -3929,15 +3938,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
-      "price": "£8.00",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7008196"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Zinfandel 18.7cl",
       "price": "£2.75",
       "promotion": "Any 4 for 3",
@@ -4321,6 +4321,15 @@
       "promotion": "Now £7.97, Was £9.75",
       "saving": 1.78,
       "link": "https://www.asda.com/groceries/product/x/x/6679992"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
+      "price": "£7.07",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.77,
+      "link": "https://www.asda.com/groceries/product/x/x/7008196"
     },
     {
       "store": "Asda",
@@ -10819,6 +10828,15 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
       "link": "https://groceries.morrisons.com/products/wye-valley-hpa-beer-bottle/107713596"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Absolut Cocktails Espresso Martini 200ml",
+      "price": "£2.08",
+      "promotion": "Any 3 for £5",
+      "saving": 0.41,
+      "link": "https://www.asda.com/groceries/product/x/x/7617850"
     },
     {
       "store": "Asda",
