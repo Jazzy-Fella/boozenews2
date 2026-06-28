@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T08:45:19.960730+00:00",
-  "total": 1313,
+  "updated": "2026-06-28T09:21:23.745375+00:00",
+  "total": 1315,
   "deals": [
     {
       "store": "Asda",
@@ -3938,6 +3938,15 @@
     {
       "store": "Asda",
       "category": "other",
+      "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
+      "price": "£8.00",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7008196"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
       "title": "Exceptional by ASDA Zinfandel 18.7cl",
       "price": "£2.75",
       "promotion": "Any 4 for 3",
@@ -4314,6 +4323,15 @@
       "link": "https://groceries.morrisons.com/products/estrella-damm-can-4x440ml/113731301"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Sharp's Doom Bar Exceptional Amber Ale 4x500ml",
+      "price": "£6.80",
+      "promotion": "Buy 2 for £10",
+      "saving": 1.8,
+      "link": "https://groceries.morrisons.com/products/sharp-s-doom-bar-exceptional-amber-ale-4x500ml/109829883"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Stowford Press Crisp Apple Cider 10 x 440ml",
@@ -4321,15 +4339,6 @@
       "promotion": "Now £7.97, Was £9.75",
       "saving": 1.78,
       "link": "https://www.asda.com/groceries/product/x/x/6679992"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
-      "price": "£7.07",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 1.77,
-      "link": "https://www.asda.com/groceries/product/x/x/7008196"
     },
     {
       "store": "Asda",
@@ -4546,6 +4555,15 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/northern-monk-timothy-taylors-northern-rising-stout-4x440ml/114290464"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Sharps Atlantic",
+      "price": "£6.75",
+      "promotion": "Buy 2 for £10",
+      "saving": 1.75,
+      "link": "https://groceries.morrisons.com/products/sharps-atlantic/112524271"
     },
     {
       "store": "Asda",
