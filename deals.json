@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T09:24:55.411693+00:00",
-  "total": 1252,
+  "updated": "2026-07-03T09:29:08.465586+00:00",
+  "total": 1259,
   "deals": [
     {
       "store": "Asda",
@@ -28,6 +28,15 @@
       "promotion": "£26.00 - More Card Price",
       "saving": 15.0,
       "link": "https://groceries.morrisons.com/products/the-singleton-single-malt-whisky-malt-masters-selection-abv-40/109823326"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Jura Rum Cask Scotch Whisky ",
+      "price": "£40.50",
+      "promotion": "Now £26, Was £40.50",
+      "saving": 14.5,
+      "link": "https://groceries.morrisons.com/products/jura-rum-cask-scotch-whisky/112614445"
     },
     {
       "store": "Asda",
@@ -91,6 +100,15 @@
       "promotion": "£28.00 - More Card Price",
       "saving": 12.75,
       "link": "https://groceries.morrisons.com/products/jura-12-year-single-malt-scotch-whiskey-70cl/115539938"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Jura Bourbon Cask Scotch Whisky ",
+      "price": "£35.50",
+      "promotion": "Now £23, Was £35.50",
+      "saving": 12.5,
+      "link": "https://groceries.morrisons.com/products/jura-bourbon-cask-scotch-whisky/113040682"
     },
     {
       "store": "Asda",
@@ -190,6 +208,15 @@
       "promotion": "£30.50 - More Card Price",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/laphroaig-islay-single-malt-scotch-whisky-10-year-old/110772554"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Old Pulteney Harbour Single Malt Scotch Whisky 70CL",
+      "price": "£35.00",
+      "promotion": "£23.50 - More Card Price",
+      "saving": 11.5,
+      "link": "https://groceries.morrisons.com/products/old-pulteney-harbour-single-malt-scotch-whisky-70cl/115957363"
     },
     {
       "store": "Morrisons",
@@ -536,6 +563,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Edinburgh Gin Raspberry Gin",
+      "price": "£30.00",
+      "promotion": "£22.00 - More Card Price",
+      "saving": 8.0,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-gin/114035480"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Nemiroff De Luxe Vodka ",
       "price": "£28.00",
       "promotion": "£20.00 - More Card Price",
@@ -687,6 +723,15 @@
       "link": "https://groceries.morrisons.com/products/caorunn-blood-orange-gin/115067539"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Hendrick's Gin 70cl",
+      "price": "£27.50",
+      "promotion": "Now £27.50, Was £34.00",
+      "saving": 6.5,
+      "link": "https://www.asda.com/groceries/product/x/x/2601675"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Jack Daniel's Tennessee Blackberry 70CL",
@@ -770,6 +815,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Edinburgh Gin Rhubarb & Ginger Liqueur",
+      "price": "£17.50",
+      "promotion": "£11.50 - More Card Price",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-rhubarb-ginger-liqueur/109177627"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Hendrick's Gin (Abv 41.4%)   70cl",
       "price": "£33.50",
       "promotion": "£27.50 - More Card Price",
@@ -820,6 +874,15 @@
       "promotion": "Now £23.00, Was £29.00",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/7410584"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Edinburgh Gin Raspberry Liqueur ",
+      "price": "£17.25",
+      "promotion": "£11.50 - More Card Price",
+      "saving": 5.75,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-liqueur/109177686"
     },
     {
       "store": "Asda",
@@ -919,6 +982,15 @@
       "promotion": "£12.00 - More Card Price",
       "saving": 5.5,
       "link": "https://groceries.morrisons.com/products/kahlua-coffee-liqueur/111876321"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Langs Spiced Rum 70CL",
+      "price": "£27.00",
+      "promotion": "£21.50 - More Card Price",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/langs-spiced-rum-70cl/115060433"
     },
     {
       "store": "Morrisons",
@@ -1900,15 +1972,6 @@
       "promotion": "Now £14, Was £17.25 - Online Exclusive",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-10x440ml-5-abv/116040055"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Strongbow Original Cider Cans 18 x 440ml",
-      "price": "£14.25",
-      "promotion": "Now £11, was £14.25 - Online Exclusive",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/strongbow-original-cider-cans-18-x-440ml/111039231"
     },
     {
       "store": "Asda",
@@ -3380,15 +3443,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "ASDA Extra Special Exceptional by  Soave Superiore 75cl",
-      "price": "£8.00",
-      "promotion": "Any 3 for £18",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/5036250"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "ASDA Extra Special Extra Special Passion Fruit Martini 70cl",
       "price": "£6.00",
       "promotion": "Now £6.00, Was £8.00",
@@ -3459,15 +3513,6 @@
       "link": "https://groceries.morrisons.com/products/corona-extra-premium-lager-beer-cans-10-x-330ml/111433141"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Orange Lager Beer 4X440ML",
-      "price": "£6.50",
-      "promotion": "Now £4.50, Was £6.50",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/cruzcampo-sevilla-orange-lager-beer-4x440ml/115868109"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Exceptional by ASDA Chablis 75cl",
@@ -3511,6 +3556,15 @@
       "promotion": "Any 3 for £18",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/7008196"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Soave Superiore 75cl",
+      "price": "£8.00",
+      "promotion": "Any 3 for £18",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5036250"
     },
     {
       "store": "Asda",
@@ -7212,6 +7266,15 @@
       "link": "https://groceries.morrisons.com/products/spaten-lager-500-ml/115026770"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "The London Essence Co. Indian Tonic Water Cans",
+      "price": "£3.80",
+      "promotion": "Now £3, Was £3.80",
+      "saving": 0.8,
+      "link": "https://groceries.morrisons.com/products/the-london-essence-co-indian-tonic-water-cans/111550478"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "MOTH : Piña Colada 200ml",
@@ -8725,12 +8788,12 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Strongbow Strawberry 4z440ml",
+      "category": "beer",
+      "title": "Strongbow Strawberry Cider 4x440ml",
       "price": "£5.75",
       "promotion": "£5.15 - More Card Price",
       "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/strongbow-strawberry-4z440ml/114616031"
+      "link": "https://groceries.morrisons.com/products/strongbow-strawberry-cider-4x440ml/114616031"
     },
     {
       "store": "Morrisons",
