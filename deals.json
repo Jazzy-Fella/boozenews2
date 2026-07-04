@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T09:29:08.465586+00:00",
-  "total": 1259,
+  "updated": "2026-07-04T08:46:23.904438+00:00",
+  "total": 1260,
   "deals": [
     {
       "store": "Asda",
@@ -579,6 +579,15 @@
       "link": "https://groceries.morrisons.com/products/nemiroff-de-luxe-vodka/114207253"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 18x440ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £17.94",
+      "saving": 7.94,
+      "link": "https://www.asda.com/groceries/product/x/x/9221259"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Chapel Down Brut",
@@ -1144,6 +1153,15 @@
       "promotion": "£26.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/monkey-shoulder-blended-malt-whisky/101530369"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
+      "price": "£15.00",
+      "promotion": "Now £15.00, Was £20.00",
+      "saving": 5.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Morrisons",
@@ -1900,15 +1918,6 @@
       "promotion": "Now £19.00, Was £22.37",
       "saving": 3.37,
       "link": "https://www.asda.com/groceries/product/x/x/7314222"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
-      "price": "£20.00",
-      "promotion": "Now £20.00, Was £23.35",
-      "saving": 3.35,
-      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Asda",
@@ -2939,7 +2948,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Blood Orange Cider 10 x 330ml",
+      "title": "Thatchers Blood Orange Fruit Cider 10 x 330ml",
       "price": "£9.00",
       "promotion": "Now £9.00, Was £11.47",
       "saving": 2.47,
@@ -4622,7 +4631,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Haze Somerset Cider 10 x 440ml",
+      "title": "Thatchers Haze Apple Cider 10 x 440ml",
       "price": "£9.00",
       "promotion": "Now £9.00, Was £10.47",
       "saving": 1.47,
@@ -6584,6 +6593,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "White Claw Hard Seltzer Green Apple 330ml",
+      "price": "£2.40",
+      "promotion": "Buy 8 for £12 - Online Exclusive",
+      "saving": 0.9,
+      "link": "https://groceries.morrisons.com/products/white-claw-hard-seltzer-green-apple-330ml/114703257"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "White Claw Strawberry Can",
       "price": "£2.40",
       "promotion": "Buy 8 for £12 - Online Exclusive",
@@ -7367,7 +7385,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Jack Daniel's and Coca-Cola 330ml Pre-Mixed Can",
+      "title": "Jack Daniel's Perfectly Mixed with Coca-Cola 330ml",
       "price": "£2.43",
       "promotion": "Any 3 for £5",
       "saving": 0.76,
@@ -7376,7 +7394,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Jack Daniel's and Coca-Cola Zero 330ml Pre-Mixed Can",
+      "title": "Jack Daniel's Perfectly Mixed with Coca-Cola 330ml",
       "price": "£2.43",
       "promotion": "Any 3 for £5",
       "saving": 0.76,
@@ -7817,7 +7835,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Apple and Blackcurrant Cider 4 x 440ml",
+      "title": "Thatchers Apple and Blackcurrant Fruit Cider 4 x 440ml",
       "price": "£5.00",
       "promotion": "Now £5.00, Was £5.74",
       "saving": 0.74,
@@ -8456,7 +8474,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Katy Somerset Cider 500ml",
+      "title": "Thatchers Katy Apple Cider 500ml",
       "price": "£2.40",
       "promotion": "Any 4 for £7",
       "saving": 0.65,
@@ -9372,15 +9390,6 @@
       "link": "https://groceries.morrisons.com/products/erdinger-weissbier-wheat-beer-bottle/101549182"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Fullers Griffin Gold Ale  3.4% Abv 500ml",
-      "price": "£1.50",
-      "promotion": "Now £1, Was £1.50",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/fullers-griffin-gold-ale-3-4-abv-500ml/116048567"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Gordon's London Dry Gin & Tonic 5% vol 250ml Can",
@@ -9536,7 +9545,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Gold Somerset Cider 4 x 440ml",
+      "title": "Thatchers Gold Apple Cider 4 x 440ml",
       "price": "£4.47",
       "promotion": "Now £4.47, Was £4.97",
       "saving": 0.5,
