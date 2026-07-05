@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T08:46:23.904438+00:00",
+  "updated": "2026-07-05T09:15:43.166315+00:00",
   "total": 1260,
   "deals": [
     {
@@ -487,6 +487,15 @@
       "promotion": "£28.00 - More Card Price",
       "saving": 8.5,
       "link": "https://groceries.morrisons.com/products/bunnahabhain-stiuireadair-single-malt-scotch-whisky/110139177"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
+      "price": "£15.00",
+      "promotion": "Now £15.00, Was £23.35",
+      "saving": 8.35,
+      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Asda",
@@ -1153,15 +1162,6 @@
       "promotion": "£26.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/monkey-shoulder-blended-malt-whisky/101530369"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
-      "price": "£15.00",
-      "promotion": "Now £15.00, Was £20.00",
-      "saving": 5.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Morrisons",
