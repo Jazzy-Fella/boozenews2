@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T09:15:43.166315+00:00",
-  "total": 1260,
+  "updated": "2026-07-06T10:51:29.222081+00:00",
+  "total": 1261,
   "deals": [
     {
       "store": "Asda",
@@ -244,15 +244,6 @@
       "promotion": "Now £24.50, Was £35.00",
       "saving": 10.5,
       "link": "https://www.asda.com/groceries/product/x/x/9007963"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Pimm's Original No. 1 Cup Gin Based Liqueur  ",
-      "price": "£24.50",
-      "promotion": "Now £14, Was £24.50",
-      "saving": 10.5,
-      "link": "https://groceries.morrisons.com/products/pimm-s-original-no-1-cup-gin-based-liqueur/101574732"
     },
     {
       "store": "Morrisons",
@@ -676,6 +667,15 @@
       "promotion": "£19.50 - More Card Price",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/ballantine-s-finest-blended-scotch-whisky/107346917"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bathtub Gin 700ml",
+      "price": "£26.00",
+      "promotion": "Now £26.00, Was £33.00",
+      "saving": 7.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7685473"
     },
     {
       "store": "Asda",
@@ -6166,6 +6166,15 @@
       "promotion": "Any 2 for £10",
       "saving": 0.94,
       "link": "https://www.asda.com/groceries/product/x/x/9339246"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Strongbow Original Cider Cans 10 x 440ml",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £8.94",
+      "saving": 0.94,
+      "link": "https://www.asda.com/groceries/product/x/x/7294566"
     },
     {
       "store": "Morrisons",
