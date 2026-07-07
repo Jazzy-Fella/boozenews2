@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T10:51:29.222081+00:00",
-  "total": 1261,
+  "updated": "2026-07-07T09:53:40.762711+00:00",
+  "total": 1260,
   "deals": [
     {
       "store": "Asda",
@@ -577,15 +577,6 @@
       "promotion": "£20.00 - More Card Price",
       "saving": 8.0,
       "link": "https://groceries.morrisons.com/products/nemiroff-de-luxe-vodka/114207253"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 18x440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £17.94",
-      "saving": 7.94,
-      "link": "https://www.asda.com/groceries/product/x/x/9221259"
     },
     {
       "store": "Morrisons",
@@ -4612,15 +4603,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Torres Vina Sol",
-      "price": "£8.00",
-      "promotion": "£6.50 - More Card Price",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/torres-vina-sol/101574370"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Wainwright Golden Ale Beer 4x500ml",
       "price": "£6.50",
@@ -5896,6 +5878,15 @@
       "promotion": "Now £6.50, Was £7.50",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9114692"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Torres Vina Sol",
+      "price": "£8.00",
+      "promotion": "Buy 2 For £14 - More Card Price",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/torres-vina-sol/101574370"
     },
     {
       "store": "Asda",
