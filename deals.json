@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T09:47:21.893421+00:00",
-  "total": 1326,
+  "updated": "2026-07-11T08:05:44.781390+00:00",
+  "total": 1327,
   "deals": [
     {
       "store": "Morrisons",
@@ -950,7 +950,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Gordon's Special Dry London Gin 37.5% vol 1L",
+      "title": "Gordon's Gordon’s Special Dry London Gin 37.5% vol 1L",
       "price": "£18.50",
       "promotion": "Now £18.50, Was £24.00",
       "saving": 5.5,
@@ -1171,6 +1171,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-020-vacqueyras/115275987"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
+      "price": "£15.00",
+      "promotion": "Now £15.00, Was £20.00",
+      "saving": 5.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Asda",
@@ -2341,6 +2350,15 @@
       "promotion": "Any 2 for £19.66",
       "saving": 3.17,
       "link": "https://www.asda.com/groceries/product/x/x/9347757"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Comte De Saint Emmanuel",
+      "price": "£12.50",
+      "promotion": "Buy 6 Save 25% - More Card Price",
+      "saving": 3.12,
+      "link": "https://groceries.morrisons.com/products/comte-de-saint-emmanuel/111405748"
     },
     {
       "store": "Morrisons",
@@ -5529,6 +5547,15 @@
       "link": "https://groceries.morrisons.com/products/ciroc-red-berry-sparkling-vodka-drink-5-vol-250ml-can/115225613"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Daura Damm Gluten Free Cans 5.4% Abv  4 x 330ml",
+      "price": "£6.50",
+      "promotion": "Now £5.20, Was £6.50",
+      "saving": 1.3,
+      "link": "https://groceries.morrisons.com/products/daura-damm-gluten-free-cans-5-4-abv-4-x-330ml/116051862"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "The Famous Grouse Blended Scotch Whisky 350ml",
@@ -5689,15 +5716,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 1.23,
       "link": "https://groceries.morrisons.com/products/dartmoor-jail-ale-4-8/108655041"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Evan Evans CWRW Bitter",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/evan-evans-cwrw-bitter/108144006"
     },
     {
       "store": "Morrisons",
@@ -6229,15 +6247,6 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9357554"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Daura Damm Gluten Free Cans 5.4% Abv  4 x 330ml",
-      "price": "£6.50",
-      "promotion": "Now £5.50, Was £6.50",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/daura-damm-gluten-free-cans-5-4-abv-4-x-330ml/116051862"
     },
     {
       "store": "Asda",
@@ -11352,6 +11361,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/2541483"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Budweiser Zero 0% Beer 4 x 330 Bottles",
+      "price": "£3.75",
+      "promotion": "Now £3.50, Was £3.75",
+      "saving": 0.25,
+      "link": "https://groceries.morrisons.com/products/budweiser-zero-0-beer-4-x-330-bottles/111113606"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Crumpton Oaks Cider Co Mighty Refreshing Apple Medium Cider 568ml",
@@ -11557,15 +11575,6 @@
       "promotion": "Now £2.75, Was £2.98",
       "saving": 0.23,
       "link": "https://www.asda.com/groceries/product/x/x/6944594"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Bass Pale Ale 500ml",
-      "price": "£1.97",
-      "promotion": "Any 4 for £7",
-      "saving": 0.22,
-      "link": "https://www.asda.com/groceries/product/x/x/9263712"
     },
     {
       "store": "Asda",
