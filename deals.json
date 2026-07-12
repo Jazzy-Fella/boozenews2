@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T08:05:44.781390+00:00",
-  "total": 1327,
+  "updated": "2026-07-12T08:26:55.556956+00:00",
+  "total": 1326,
   "deals": [
     {
       "store": "Morrisons",
@@ -861,7 +861,7 @@
       "store": "Morrisons",
       "category": "other",
       "title": "Peroni Nastro Azzurro 5% Abv",
-      "price": "£32.00",
+      "price": "£26.00",
       "promotion": "Now £26, Was £32 - Online Exclusive",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-5-abv/116040178"
@@ -2089,15 +2089,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-montagne-st-emilion/113773675"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Peroni Nastro Azzurro 10x440ml 5% Abv",
-      "price": "£17.25",
-      "promotion": "Now £14, Was £17.25 - Online Exclusive",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-10x440ml-5-abv/116040055"
     },
     {
       "store": "Morrisons",
