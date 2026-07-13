@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T08:26:55.556956+00:00",
-  "total": 1326,
+  "updated": "2026-07-13T09:39:33.723859+00:00",
+  "total": 1324,
   "deals": [
     {
       "store": "Morrisons",
@@ -577,15 +577,6 @@
       "promotion": "£20.00 - More Card Price",
       "saving": 8.0,
       "link": "https://groceries.morrisons.com/products/nemiroff-de-luxe-vodka/114207253"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 18x440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £17.94",
-      "saving": 7.94,
-      "link": "https://www.asda.com/groceries/product/x/x/9221259"
     },
     {
       "store": "Morrisons",
@@ -3385,15 +3376,6 @@
       "promotion": "Buy 2 for £10",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/tiny-rebel-clwb-tropica-4x330ml/113449488"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Valle Rojo Tempranillo 1.5l",
-      "price": "£16.00",
-      "promotion": "Now £13.50, Was £16",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/valle-rojo-tempranillo-1-5l/115173489"
     },
     {
       "store": "Morrisons",
@@ -6494,6 +6476,15 @@
     {
       "store": "Morrisons",
       "category": "beer",
+      "title": "Strongbow Original Cider Cans 4x440ml",
+      "price": "£5.00",
+      "promotion": "Now £4, Was £5",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/strongbow-original-cider-cans-4x440ml/111039274"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
       "title": "Thatchers Blood Orange Cider Cans 4x440ml",
       "price": "£6.00",
       "promotion": "Now £5, Was £6",
@@ -8392,6 +8383,24 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Strongbow Dark Fruit Cider Cans 4x440ml",
+      "price": "£5.75",
+      "promotion": "Now £5, Was £5.75",
+      "saving": 0.75,
+      "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-cider-cans-4x440ml/105687814"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Strongbow Strawberry Cider 4x440ml",
+      "price": "£5.75",
+      "promotion": "Now £5, Was £5.75",
+      "saving": 0.75,
+      "link": "https://groceries.morrisons.com/products/strongbow-strawberry-cider-4x440ml/114616031"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Vina Sol Original 0% ",
       "price": "£4.25",
@@ -9388,24 +9397,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottle/111538647"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Strongbow Dark Fruit Cider Cans 4x440ml",
-      "price": "£5.75",
-      "promotion": "£5.15 - More Card Price",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-cider-cans-4x440ml/105687814"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Strongbow Strawberry Cider 4x440ml",
-      "price": "£5.75",
-      "promotion": "£5.15 - More Card Price",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/strongbow-strawberry-cider-4x440ml/114616031"
     },
     {
       "store": "Morrisons",
@@ -10468,15 +10459,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.45,
       "link": "https://www.asda.com/groceries/product/x/x/7379487"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Strongbow Original Cider Cans 4x440ml",
-      "price": "£5.00",
-      "promotion": "£4.55 - More Card Price",
-      "saving": 0.45,
-      "link": "https://groceries.morrisons.com/products/strongbow-original-cider-cans-4x440ml/111039274"
     },
     {
       "store": "Morrisons",
