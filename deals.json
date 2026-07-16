@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T08:25:17.737139+00:00",
-  "total": 1361,
+  "updated": "2026-07-16T08:24:26.160470+00:00",
+  "total": 1357,
   "deals": [
     {
       "store": "Morrisons",
@@ -28,15 +28,6 @@
       "promotion": "Now £26, Was £40",
       "saving": 14.0,
       "link": "https://groceries.morrisons.com/products/loch-lomond-aged-10-years-single-malt-scotch-whisky/111135338"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Pimm's Original No. 1 Cup Gin Based Liqueur 22% vol 1L Bottle",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £24.00",
-      "saving": 14.0,
-      "link": "https://www.asda.com/groceries/product/x/x/3184240"
     },
     {
       "store": "Asda",
@@ -703,6 +694,15 @@
       "promotion": "Now £12.00, Was £18.75",
       "saving": 6.75,
       "link": "https://www.asda.com/groceries/product/x/x/6029646"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Birrificio Angelo Poretti Premium Italian Lager 18 x 440ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £18.50",
+      "saving": 6.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
       "store": "Asda",
@@ -1534,15 +1534,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Mahou Lager Beer Cans 10 x 440ml",
-      "price": "£15.00",
-      "promotion": "Now £11, Was £15",
-      "saving": 4.0,
-      "link": "https://groceries.morrisons.com/products/mahou-lager-beer-cans-10-x-440ml/115423265"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Block Series 011 Cotes De Provence Ste Victoire",
       "price": "£16.00",
@@ -1828,15 +1819,6 @@
       "promotion": "Now £10.50, Was £14",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/archers-schnapps/101535311"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Birrificio Angelo Poretti Premium Italian Lager 18 x 440ml",
-      "price": "£12.00",
-      "promotion": "Now £12.00, Was £15.50",
-      "saving": 3.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
       "store": "Morrisons",
@@ -4480,7 +4462,7 @@
       "category": "other",
       "title": "Exceptional by ASDA Languedoc 75cl",
       "price": "£8.00",
-      "promotion": "Any 3 for £18",
+      "promotion": "Buy 6 Save 25%",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9007525"
     },
@@ -4489,7 +4471,7 @@
       "category": "other",
       "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
       "price": "£8.00",
-      "promotion": "Any 3 for £18",
+      "promotion": "Buy 6 Save 25%",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/7008196"
     },
@@ -4498,7 +4480,7 @@
       "category": "other",
       "title": "Exceptional by ASDA Soave Superiore 75cl",
       "price": "£8.00",
-      "promotion": "Any 3 for £18",
+      "promotion": "Buy 6 Save 25%",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/5036250"
     },
@@ -4827,6 +4809,69 @@
       "link": "https://www.asda.com/groceries/product/x/x/9020641"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/7524601"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Douro 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/4017632"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Dão 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/9118375"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Grillo 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/9238589"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional By Asda Palacio De Vivero Rueda Verdejo 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/3860450"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Primitivo 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/9258255"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Zinfandel 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.88,
+      "link": "https://www.asda.com/groceries/product/x/x/9181075"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Firstcape Special Cuvee Chenin Blanc 75CL",
@@ -5014,6 +5059,33 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-4x440ml/115988944"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Fiano Terre Siciliane I.G.T 75cl",
+      "price": "£7.00",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/7106331"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Old Bush Vine Chenin Blanc 75cl",
+      "price": "£7.00",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9181084"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Old Vine Garnacha 75cl",
+      "price": "£7.00",
+      "promotion": "Buy 6 Save 25%",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/6701422"
     },
     {
       "store": "Morrisons",
@@ -5509,69 +5581,6 @@
       "promotion": "Now £15.00, Was £16.50",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9295666"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/7524601"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Douro 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/4017632"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Dão 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9118375"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Grillo 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9238589"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional By Asda Palacio De Vivero Rueda Verdejo 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/3860450"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Primitivo 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9258255"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Zinfandel 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9181075"
     },
     {
       "store": "Morrisons",
@@ -6670,33 +6679,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-lager-620ml/115934276"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Fiano Terre Siciliane I.G.T 75cl",
-      "price": "£7.00",
-      "promotion": "Any 3 for £18",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7106331"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Old Bush Vine Chenin Blanc 75cl",
-      "price": "£7.00",
-      "promotion": "Any 3 for £18",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9181084"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Old Vine Garnacha 75cl",
-      "price": "£7.00",
-      "promotion": "Any 3 for £18",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/6701422"
     },
     {
       "store": "Morrisons",
@@ -10704,15 +10686,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/2251"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "La P'tite Pierre 75cl",
-      "price": "£6.50",
-      "promotion": "Now £6.50, Was £6.97",
-      "saving": 0.47,
-      "link": "https://www.asda.com/groceries/product/x/x/9093921"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Smithwicks Red Ale ",
@@ -11998,15 +11971,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.21,
       "link": "https://www.asda.com/groceries/product/x/x/9227822"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Lambrini Lightly Sparkling Original 125cl",
-      "price": "£3.30",
-      "promotion": "Now £3.30, Was £3.50",
-      "saving": 0.2,
-      "link": "https://www.asda.com/groceries/product/x/x/7390155"
     },
     {
       "store": "Asda",
