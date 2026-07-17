@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T08:24:26.160470+00:00",
-  "total": 1357,
+  "updated": "2026-07-17T08:20:30.949405+00:00",
+  "total": 1359,
   "deals": [
     {
       "store": "Morrisons",
@@ -694,15 +694,6 @@
       "promotion": "Now £12.00, Was £18.75",
       "saving": 6.75,
       "link": "https://www.asda.com/groceries/product/x/x/6029646"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Birrificio Angelo Poretti Premium Italian Lager 18 x 440ml",
-      "price": "£12.00",
-      "promotion": "Now £12.00, Was £18.50",
-      "saving": 6.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
       "store": "Asda",
@@ -1540,6 +1531,24 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-011-cotes-de-provence-ste-victoire/115210260"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Olmeca Altos Margarita Tequila Ready to Serve   75cl",
+      "price": "£16.75",
+      "promotion": "Now £12.75, Was £16.75",
+      "saving": 4.0,
+      "link": "https://groceries.morrisons.com/products/olmeca-altos-margarita-tequila-ready-to-serve-75cl/113781211"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Olmeca Altos Strawberry Margarita 75cl",
+      "price": "£16.75",
+      "promotion": "Now £12.75, Was £16.75",
+      "saving": 4.0,
+      "link": "https://groceries.morrisons.com/products/olmeca-altos-strawberry-margarita-75cl/115023501"
     },
     {
       "store": "Morrisons",
@@ -5671,6 +5680,15 @@
       "promotion": "Any 4 for 3",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9104004"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Old Pulteney Harbour Single Malt Scotch Whisky 70CL",
+      "price": "£25.00",
+      "promotion": "Now £23.50, Was £25",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/old-pulteney-harbour-single-malt-scotch-whisky-70cl/115957363"
     },
     {
       "store": "Morrisons",
