@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T08:20:30.949405+00:00",
-  "total": 1359,
+  "updated": "2026-07-18T08:02:37.794129+00:00",
+  "total": 1360,
   "deals": [
     {
       "store": "Morrisons",
@@ -482,7 +482,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Disaronno Velvet Liqueur 500ml",
+      "title": "Disaronno Velvet Amaretto Cream Liqueur 500ml",
       "price": "£10.00",
       "promotion": "Now £10.00, Was £18.00",
       "saving": 8.0,
@@ -697,6 +697,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Birrificio Angelo Poretti Premium Italian Lager 18 x 440ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £18.50",
+      "saving": 6.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9351414"
+    },
+    {
+      "store": "Asda",
       "category": "spirits",
       "title": "Hendrick's Gin 70cl",
       "price": "£27.50",
@@ -770,7 +779,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Tia Maria Cold Brew Coffee Liqueur 700 ml",
+      "title": "Tia Maria Cold Brew Coffee Liqueur 700ml",
       "price": "£12.00",
       "promotion": "Now £12.00, Was £18.25",
       "saving": 6.25,
@@ -896,7 +905,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Gordon's Gordon’s Special Dry London Gin 37.5% vol 1L",
+      "title": "Gordon's Special Dry London Gin 37.5% vol 1L",
       "price": "£18.50",
       "promotion": "Now £18.50, Was £24.00",
       "saving": 5.5,
@@ -1855,6 +1864,15 @@
       "promotion": "£14.00 - More Card Price",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/cockburn-s-lbv/114301768"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Corona Extra Premium Lager Beer Cans 10x440ml",
+      "price": "£11.00",
+      "promotion": "Now £11.00, Was £14.50",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9294100"
     },
     {
       "store": "Morrisons",
@@ -9433,15 +9451,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.65,
       "link": "https://www.asda.com/groceries/product/x/x/9087829"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Gordon's Spritz Edition Morello Cherry Gin 37.5% vol 70cl",
-      "price": "£16.00",
-      "promotion": "Now £16.00, Was £16.65",
-      "saving": 0.65,
-      "link": "https://www.asda.com/groceries/product/x/x/7524855"
     },
     {
       "store": "Asda",
