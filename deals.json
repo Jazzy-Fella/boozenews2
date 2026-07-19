@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T08:02:37.794129+00:00",
-  "total": 1360,
+  "updated": "2026-07-19T08:28:06.105171+00:00",
+  "total": 1362,
   "deals": [
     {
       "store": "Morrisons",
@@ -1651,6 +1651,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "San Miguel Premium Lager Beer Cans 10x440ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £13.95",
+      "saving": 3.95,
+      "link": "https://www.asda.com/groceries/product/x/x/9259928"
+    },
+    {
+      "store": "Asda",
       "category": "spirits",
       "title": "Vermouth Bianco 100cl",
       "price": "£8.32",
@@ -2440,6 +2449,15 @@
       "promotion": "Now £15.00, Was £18.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/7351215"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Beavertown Neck Oil Session IPA 15 x 330ml",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £20.00",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9340789"
     },
     {
       "store": "Asda",
