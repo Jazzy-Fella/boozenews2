@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T09:27:14.433003+00:00",
-  "total": 1271,
+  "updated": "2026-07-21T08:38:53.134993+00:00",
+  "total": 1275,
   "deals": [
     {
       "store": "Morrisons",
@@ -678,6 +678,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Edinburgh Gin Small Batch Distilled ",
+      "price": "£28.50",
+      "promotion": "Now £22, Was £28.50",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-small-batch-distilled/115405841"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Hendrick's Gin 70cl",
@@ -1027,6 +1036,15 @@
       "promotion": "£7.50 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/comte-de-saint-emmanuel/111405748"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Edinburgh Gin Elderflower Liqueur (Abv 20%)",
+      "price": "£16.50",
+      "promotion": "Now £11.50, Was £16.50",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-elderflower-liqueur-abv-20/109640781"
     },
     {
       "store": "Asda",
@@ -3641,20 +3659,20 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "ASDA Extra Special Extra Special Passion Fruit Martini 70cl",
-      "price": "£6.00",
-      "promotion": "Now £6.00, Was £8.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7144588"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "ASDA Extra Special Margarita 70cl",
       "price": "£6.00",
       "promotion": "Now £6.00, Was £8.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/7144586"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "ASDA Extra Special Passion Fruit Martini 70cl",
+      "price": "£6.00",
+      "promotion": "Now £6.00, Was £8.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7144588"
     },
     {
       "store": "Morrisons",
@@ -5644,6 +5662,15 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.1,
       "link": "https://groceries.morrisons.com/products/the-drinks-bureau-spicy-margarita-shaker/115456534"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Victoria Malaga Lager 4.4% Abv  660ml",
+      "price": "£3.10",
+      "promotion": "Buy 4 for £8",
+      "saving": 1.1,
+      "link": "https://groceries.morrisons.com/products/victoria-malaga-lager-4-4-abv-660ml/116074511"
     },
     {
       "store": "Morrisons",
@@ -9046,6 +9073,15 @@
       "promotion": "Buy 3 for £6",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/thatchers-somerset-haze/107693193"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Thatchers Somerset Haze Cider Cans 4x440ml",
+      "price": "£5.25",
+      "promotion": "Now £4.65, Was £5.25",
+      "saving": 0.6,
+      "link": "https://groceries.morrisons.com/products/thatchers-somerset-haze-cider-cans-4x440ml/108145885"
     },
     {
       "store": "Asda",
