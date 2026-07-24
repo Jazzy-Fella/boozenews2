@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:39:58.330627+00:00",
+  "updated": "2026-07-24T08:35:42.241780+00:00",
   "total": 1269,
   "deals": [
     {
@@ -1930,6 +1930,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Passoa Passion Fruit Liqueur",
+      "price": "£14.50",
+      "promotion": "Now £11, Was £14.50",
+      "saving": 3.5,
+      "link": "https://groceries.morrisons.com/products/passoa-passion-fruit-liqueur/101556788"
+    },
+    {
+      "store": "Morrisons",
       "category": "beer",
       "title": "Strongbow Dark Fruit Cider Cans 10x440ml",
       "price": "£13.50",
@@ -2134,15 +2143,6 @@
       "promotion": "Now £17.00, Was £20.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/9340789"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Birra Moretti Premium Beer Lager Bottles 12 x 330ml",
-      "price": "£13.00",
-      "promotion": "Any 2 for £20",
-      "saving": 3.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9241407"
     },
     {
       "store": "Asda",
