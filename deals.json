@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T08:35:14.590286+00:00",
-  "total": 1269,
+  "updated": "2026-07-27T10:02:47.344342+00:00",
+  "total": 1268,
   "deals": [
     {
       "store": "Morrisons",
@@ -680,11 +680,38 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Bell's Original Blended Scotch Whisky 1L",
+      "price": "£25.00",
+      "promotion": "Now £18.50, Was £25",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/bell-s-original-blended-scotch-whisky-1l/101537392"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Captain Morgan Spiced Gold Rum Based Spirit Drink   1L",
+      "price": "£25.00",
+      "promotion": "Now £18.50, Was £25",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/captain-morgan-spiced-gold-rum-based-spirit-drink-1l/101584261"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Edinburgh Gin Small Batch Distilled ",
       "price": "£28.50",
       "promotion": "Now £22, Was £28.50",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-small-batch-distilled/115405841"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Gordon's London Dry Gin   1L",
+      "price": "£25.00",
+      "promotion": "Now £18.50, Was £25",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/gordon-s-london-dry-gin-1l/101557705"
     },
     {
       "store": "Asda",
@@ -820,6 +847,15 @@
       "promotion": "Now £26, Was £32 - Online Exclusive",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-5-abv/116040178"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Smirnoff No. 21 Vodka Red Label 1L",
+      "price": "£24.50",
+      "promotion": "Now £18.50, Was £24.50",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/smirnoff-no-21-vodka-red-label-1l/101557043"
     },
     {
       "store": "Morrisons",
@@ -3378,15 +3414,6 @@
       "link": "https://groceries.morrisons.com/products/sierra-nevada-california-ipa-cans-abv-4-2-4x330ml/110236145"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Stella Artois 0% 4X440ML",
-      "price": "£5.75",
-      "promotion": "No & Low: Buy any 2 for £7",
-      "saving": 2.25,
-      "link": "https://groceries.morrisons.com/products/stella-artois-0-4x440ml/115679711"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "ASDA Collab Collection Salt Double IPA 440ml",
@@ -5176,15 +5203,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/clawtails-strawberry-cosmo-can/115949726"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Corona Cero 0% Lager Beer Bottles 4 x 330ml",
-      "price": "£4.75",
-      "promotion": "No & Low: Buy any 2 for £7",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/corona-cero-0-lager-beer-bottles-4-x-330ml/112386403"
     },
     {
       "store": "Morrisons",
@@ -7961,15 +7979,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Sangre De Toro 0%",
-      "price": "£4.25",
-      "promotion": "No & Low: Buy any 2 for £7",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/sangre-de-toro-0/115480809"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Served Espresso Martini 125ml",
       "price": "£3.75",
       "promotion": "Buy 4 for £12 - Online Exclusive",
@@ -8047,15 +8056,6 @@
       "promotion": "Now £5, Was £5.75",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/strongbow-strawberry-cider-4x440ml/114616031"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Vina Sol Original 0% ",
-      "price": "£4.25",
-      "promotion": "No & Low: Buy any 2 for £7",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/vina-sol-original-0/115481043"
     },
     {
       "store": "Morrisons",
@@ -9730,15 +9730,6 @@
       "promotion": "Now £4.47, Was £4.97",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/7293470"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Thatchers Zero Cider 4x440ml",
-      "price": "£4.00",
-      "promotion": "No & Low: Buy any 2 for £7",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/thatchers-zero-cider-4x440ml/113789458"
     },
     {
       "store": "Morrisons",
