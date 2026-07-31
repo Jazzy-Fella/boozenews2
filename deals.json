@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T08:38:29.992658+00:00",
+  "updated": "2026-07-31T09:10:29.815798+00:00",
   "total": 1260,
   "deals": [
     {
@@ -1956,6 +1956,15 @@
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-douro-reserva/113721832"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Screaming Devil Côtes de Provence 75cl",
+      "price": "£10.00",
+      "promotion": "Any 3 for £20",
+      "saving": 3.33,
+      "link": "https://www.asda.com/groceries/product/x/x/9093924"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Beaujolais    75cl",
@@ -1963,15 +1972,6 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.3,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-beaujolais-75cl/114564411"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Screaming Devil Côtes de Provence 75cl",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £13.27",
-      "saving": 3.27,
-      "link": "https://www.asda.com/groceries/product/x/x/9093924"
     },
     {
       "store": "Asda",
@@ -2107,6 +2107,15 @@
       "promotion": "Now £9.50, Was £12.60",
       "saving": 3.1,
       "link": "https://groceries.morrisons.com/products/wkd-blue-10-x-330ml/115031659"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Côtes de Provence Notre-Dame des Anges 75cl",
+      "price": "£9.75",
+      "promotion": "Any 3 for £20",
+      "saving": 3.08,
+      "link": "https://www.asda.com/groceries/product/x/x/9093210"
     },
     {
       "store": "Morrisons",
@@ -3227,15 +3236,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Elton John Zero Alcohol Blanc de Blancs 75cl",
-      "price": "£7.75",
-      "promotion": "Now £7.75, Was £10.00",
-      "saving": 2.25,
-      "link": "https://www.asda.com/groceries/product/x/x/9354512"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Fleurs de Prairie Lubéron 187ml",
       "price": "£3.00",
       "promotion": "Any 4 for 3",
@@ -3655,15 +3655,6 @@
       "promotion": "Any 4 for 3",
       "saving": 2.01,
       "link": "https://www.asda.com/groceries/product/x/x/9104547"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "19 Crimes Chard 750ml",
-      "price": "£7.75",
-      "promotion": "Now £7.75, Was £9.75",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/6063979"
     },
     {
       "store": "Asda",
@@ -4748,15 +4739,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Porta 6 750ml",
-      "price": "£7.00",
-      "promotion": "Now £7.00, Was £8.50",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9184266"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Smirnoff Mango & Passionfruit Twist Flavoured Spirit Drink 35% vol 70cl",
       "price": "£17.00",
       "promotion": "Now £17.00, Was £18.50",
@@ -4924,6 +4906,15 @@
       "promotion": "£4.50 - More Card Price",
       "saving": 1.35,
       "link": "https://groceries.morrisons.com/products/smirnoff-ice-original-4-cans-4x250ml/112813461"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Azul Marinho Alvarinho 750ml",
+      "price": "£8.00",
+      "promotion": "Any 3 for £20",
+      "saving": 1.33,
+      "link": "https://www.asda.com/groceries/product/x/x/9065842"
     },
     {
       "store": "Asda",
@@ -5547,6 +5538,24 @@
       "link": "https://groceries.morrisons.com/products/victoria-malaga-lager-4-4-abv-660ml/116074511"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "19 Crimes Chard 750ml",
+      "price": "£7.75",
+      "promotion": "Any 3 for £20",
+      "saving": 1.08,
+      "link": "https://www.asda.com/groceries/product/x/x/6063979"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Elton John Zero Alcohol Blanc de Blancs 75cl",
+      "price": "£7.75",
+      "promotion": "Any 3 for £20",
+      "saving": 1.08,
+      "link": "https://www.asda.com/groceries/product/x/x/9354512"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Kronenbourg 1664 Blanc 600ml",
@@ -5608,15 +5617,6 @@
       "promotion": "Buy 3 for £6",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/aspall-draught-cyder-bottle/101553149"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Azul Marinho Alvarinho 750ml",
-      "price": "£8.00",
-      "promotion": "Now £8.00, Was £9.00",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9065842"
     },
     {
       "store": "Morrisons",
@@ -7570,15 +7570,6 @@
       "promotion": "Any 3 for £5",
       "saving": 0.75,
       "link": "https://www.asda.com/groceries/product/x/x/7284419"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Côtes de Provence Notre-Dame des Anges 75cl",
-      "price": "£9.75",
-      "promotion": "Now £9.75, Was £10.50",
-      "saving": 0.75,
-      "link": "https://www.asda.com/groceries/product/x/x/9093210"
     },
     {
       "store": "Asda",
@@ -10549,6 +10540,15 @@
       "promotion": "Yorkshire Day: Save 10% - More Card Price",
       "saving": 0.33,
       "link": "https://groceries.morrisons.com/products/kirkstall-brewery-flamango-hazy-mango-pale/114361470"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Porta 6 750ml",
+      "price": "£7.00",
+      "promotion": "Any 3 for £20",
+      "saving": 0.33,
+      "link": "https://www.asda.com/groceries/product/x/x/9184266"
     },
     {
       "store": "Morrisons",
