@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T09:57:42.972759+00:00",
-  "total": 1155,
+  "updated": "2026-08-04T08:48:29.348443+00:00",
+  "total": 1186,
   "deals": [
     {
       "store": "Morrisons",
@@ -28,6 +28,15 @@
       "promotion": "Now £26, Was £40",
       "saving": 14.0,
       "link": "https://groceries.morrisons.com/products/loch-lomond-aged-10-years-single-malt-scotch-whisky/111135338"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jura Rum Cask Edition Single Malt Scotch Whisky 70cl",
+      "price": "£28.00",
+      "promotion": "Now £28.00, Was £40.88",
+      "saving": 12.88,
+      "link": "https://www.asda.com/groceries/product/x/x/7268854"
     },
     {
       "store": "Morrisons",
@@ -66,6 +75,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/6149224"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Gentleman Jack Tennessee Whiskey 70 cL",
+      "price": "£23.00",
+      "promotion": "Now £23.00, Was £35.00",
+      "saving": 12.0,
+      "link": "https://www.asda.com/groceries/product/x/x/3184345"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tamnavulin Malt Whisky    ",
@@ -73,6 +91,15 @@
       "promotion": "Now £23, Was £35",
       "saving": 12.0,
       "link": "https://groceries.morrisons.com/products/tamnavulin-malt-whisky/108434521"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Glenlivet 12 Year Old Single Malt Scotch Whisky 70cl",
+      "price": "£32.50",
+      "promotion": "Now £32.50, Was £44.50",
+      "saving": 12.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6701500"
     },
     {
       "store": "Morrisons",
@@ -118,6 +145,24 @@
       "promotion": "Now £20, Was £31",
       "saving": 11.0,
       "link": "https://groceries.morrisons.com/products/warner-s-london-dry-gin-70cl/115846997"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Laphroaig 10 Year Old Islay Single Malt Scotch Whisky 70cl",
+      "price": "£30.50",
+      "promotion": "Now £30.50, Was £41.37",
+      "saving": 10.87,
+      "link": "https://www.asda.com/groceries/product/x/x/9052032"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Grey Goose Premium French Vodka, 70cl",
+      "price": "£32.00",
+      "promotion": "Now £32.00, Was £42.00",
+      "saving": 10.0,
+      "link": "https://www.asda.com/groceries/product/x/x/3184347"
     },
     {
       "store": "Morrisons",
@@ -257,11 +302,38 @@
     {
       "store": "Asda",
       "category": "spirits",
+      "title": "Remy Martin VSOP Cognac Fine Champagne 70cl",
+      "price": "£36.00",
+      "promotion": "Now £36.00, Was £45.00",
+      "saving": 9.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6835956"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tanqueray Flor De Sevilla Gin 41.3% vol 70cl",
+      "price": "£20.50",
+      "promotion": "Now £20.50, Was £29.50",
+      "saving": 9.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6082911"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
       "title": "Penderyn Single Malt Welsh Whisky Legend 70cl",
       "price": "£25.00",
       "promotion": "Now £25.00, Was £33.98",
       "saving": 8.98,
       "link": "https://www.asda.com/groceries/product/x/x/9037258"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Courvoisier VSOP Cognac 70cl",
+      "price": "£31.00",
+      "promotion": "Now £31.00, Was £39.97",
+      "saving": 8.97,
+      "link": "https://www.asda.com/groceries/product/x/x/7317253"
     },
     {
       "store": "Morrisons",
@@ -354,6 +426,33 @@
       "link": "https://groceries.morrisons.com/products/ableforth-s-bathtub-gin/113183042"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Buffalo Trace Kentucky Straight Bourbon Whiskey 70cl",
+      "price": "£19.00",
+      "promotion": "Now £19.00, Was £27.00",
+      "saving": 8.0,
+      "link": "https://www.asda.com/groceries/product/x/x/3190961"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Ciroc Cîroc Ultra-Premium Vodka 40% vol 70cl",
+      "price": "£31.50",
+      "promotion": "Now £31.50, Was £39.50",
+      "saving": 8.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4712874"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Courvoisier VS Cognac 70cl",
+      "price": "£26.00",
+      "promotion": "Now £26.00, Was £34.00",
+      "saving": 8.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7317249"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Edinburgh Gin Rhubarb & Ginger Gin",
@@ -390,6 +489,24 @@
       "link": "https://groceries.morrisons.com/products/bankhall-single-malt-whisky/113800012"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Chivas Blended Scotch Whisky 70cl",
+      "price": "£23.50",
+      "promotion": "Now £23.50, Was £31.00",
+      "saving": 7.5,
+      "link": "https://www.asda.com/groceries/product/x/x/482988"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Martell VS Fine Cognac 70cl",
+      "price": "£26.50",
+      "promotion": "Now £26.50, Was £34.00",
+      "saving": 7.5,
+      "link": "https://www.asda.com/groceries/product/x/x/1883"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Olmeca Altos Reposado Tequila 70CL",
@@ -406,6 +523,15 @@
       "promotion": "Now £23.50, Was £31.00",
       "saving": 7.5,
       "link": "https://www.asda.com/groceries/product/x/x/9056617"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Aperol Alcoholic Aperitif 70cl",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £17.00",
+      "saving": 7.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4422112"
     },
     {
       "store": "Morrisons",
@@ -481,21 +607,21 @@
     },
     {
       "store": "Asda",
-      "category": "spirits",
-      "title": "Tanqueray Flor De Sevilla Gin 41.3% vol 70cl",
-      "price": "£22.50",
-      "promotion": "Now £22.50, Was £29.50",
-      "saving": 7.0,
-      "link": "https://www.asda.com/groceries/product/x/x/6082911"
-    },
-    {
-      "store": "Asda",
       "category": "other",
       "title": "Three Barrels 1L",
       "price": "£20.00",
       "promotion": "Now £20.00, Was £27.00",
       "saving": 7.0,
       "link": "https://www.asda.com/groceries/product/x/x/4803813"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tanqueray No. TEN Gin 47.3% vol 70cl",
+      "price": "£28.50",
+      "promotion": "Now £28.50, Was £35.46",
+      "saving": 6.96,
+      "link": "https://www.asda.com/groceries/product/x/x/3379642"
     },
     {
       "store": "Morrisons",
@@ -550,15 +676,6 @@
       "promotion": "Now £17, Was £23.50",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/kahlua-coffee-liqueur-1l/114218761"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans  18 x 440ml",
-      "price": "£13.00",
-      "promotion": "Now £13, Was £19.50",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
     },
     {
       "store": "Asda",
@@ -703,6 +820,15 @@
       "promotion": "Now £18.50, Was £24.00",
       "saving": 5.5,
       "link": "https://www.asda.com/groceries/product/x/x/4559481"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Glayva Tangerine & Honeyspiced Whisky Liqueur 50cl",
+      "price": "£15.50",
+      "promotion": "Now £15.50, Was £21.00",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/1784"
     },
     {
       "store": "Asda",
@@ -877,6 +1003,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Olmeca Altos 100% Agave Reposado Tequila 70cl",
+      "price": "£22.00",
+      "promotion": "Now £22.00, Was £26.97",
+      "saving": 4.97,
+      "link": "https://www.asda.com/groceries/product/x/x/9095961"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Madri Excepcional Premium Lager Beer Can 10 x 440ml",
       "price": "£10.00",
@@ -1029,6 +1164,24 @@
       "link": "https://groceries.morrisons.com/products/staropramen-pilsner-lager-beer-cans/114973185"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tarquin's Cornish Dry Gin 50cl",
+      "price": "£22.50",
+      "promotion": "Now £22.50, Was £27.00",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7410578"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tarquin's Rhubarb & Raspberry Gin 50cl",
+      "price": "£22.50",
+      "promotion": "Now £22.50, Was £27.00",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7410580"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Bardinet French Brandy VSOP 1L",
@@ -1092,6 +1245,33 @@
       "link": "https://groceries.morrisons.com/products/piccini-collezione-privata-toscana-igt/114257912"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Famous Grouse Blender's Edition Smoky Black Blended Scotch Whisky 700ml",
+      "price": "£17.50",
+      "promotion": "Now £17.50, Was £21.75",
+      "saving": 4.25,
+      "link": "https://www.asda.com/groceries/product/x/x/5414005"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Coors Lager Beer Bottle 18 x 330ml",
+      "price": "£11.00",
+      "promotion": "Now £11.00, Was £15.05",
+      "saving": 4.05,
+      "link": "https://www.asda.com/groceries/product/x/x/9253709"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bankhall British Single Malt Whisky 70cl",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £20.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9112733"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "BrewDog Abstrakt Vodka",
@@ -1144,6 +1324,15 @@
       "promotion": "Now £15.50, Was £19.50",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/cointreau-triple-sec-orange-liqueur/102510095"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Disaronno Originale Amaretto Liqueur 1L",
+      "price": "£23.00",
+      "promotion": "Now £23.00, Was £27.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4781222"
     },
     {
       "store": "Asda",
@@ -1281,6 +1470,15 @@
       "link": "https://groceries.morrisons.com/products/stoli-premium-vodka/113037985"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tia Maria Cold Brew Coffee Liqueur 1L",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £21.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/1814333"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tullamore Dew Irish Whiskey",
@@ -1407,6 +1605,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/6926984"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Absolut Vanilia - Vanilla Flavoured Vodka 70cl",
+      "price": "£19.50",
+      "promotion": "Now £19.50, Was £23.00",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7314220"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Absolut Vanilia Vanilla Flavoured Swedish Vodka 70CL",
@@ -1459,6 +1666,15 @@
       "promotion": "Buy 2 for £17",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/carling-black-label-premium-lager-beer-cans-10-x-440ml/115980521"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Corona Extra Premium Lager Beer Cans 10x440ml",
+      "price": "£11.00",
+      "promotion": "Now £11.00, Was £14.50",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9294100"
     },
     {
       "store": "Morrisons",
@@ -1612,6 +1828,15 @@
       "promotion": "Buy 2 for £17",
       "saving": 3.18,
       "link": "https://groceries.morrisons.com/products/carlsberg-pilsner-3-4-abv-12-x-440ml/116048621"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Aperol Aperitivo 100cl",
+      "price": "£18.00",
+      "promotion": "Now £18.00, Was £21.14",
+      "saving": 3.14,
+      "link": "https://www.asda.com/groceries/product/x/x/6701476"
     },
     {
       "store": "Morrisons",
@@ -1868,15 +2093,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "San Miguel 10x440ml",
-      "price": "£13.00",
-      "promotion": "Buy 3 for £30 - Online Exclusive",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/san-miguel-10x440ml/114736315"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "San Pellegrino Marsala Superiore Garibaldi Dolce 75cl",
       "price": "£13.25",
       "promotion": "£10.25 - More Card Price",
@@ -2107,6 +2323,15 @@
       "promotion": "Now £14.75, Was £17.50",
       "saving": 2.75,
       "link": "https://groceries.morrisons.com/products/lamb-s-the-caribbean-spirit-pineapple-rum/111765840"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Villa Cardea Limoncello 70cl",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £12.75",
+      "saving": 2.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9094968"
     },
     {
       "store": "Asda",
@@ -2408,11 +2633,29 @@
     {
       "store": "Asda",
       "category": "spirits",
+      "title": "Absolut Wild Berri Berry Flavoured Swedish Vodka 70cl",
+      "price": "£19.50",
+      "promotion": "Now £19.50, Was £21.96",
+      "saving": 2.46,
+      "link": "https://www.asda.com/groceries/product/x/x/7617846"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
       "title": "Sierra Tequila Blanco 500ml",
       "price": "£14.00",
       "promotion": "Now £14.00, Was £16.46",
       "saving": 2.46,
       "link": "https://www.asda.com/groceries/product/x/x/7698838"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Sierra Tequila Reposado 500ml",
+      "price": "£14.00",
+      "promotion": "Now £14.00, Was £16.46",
+      "saving": 2.46,
+      "link": "https://www.asda.com/groceries/product/x/x/7698840"
     },
     {
       "store": "Asda",
@@ -2902,6 +3145,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Bell's Original Blended Scotch Whisky 40% vol 35cl Bottle",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £11.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/2735138"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Birra Moretti Premium Lager Beer Can 10x330ml",
       "price": "£12.00",
@@ -2998,6 +3250,15 @@
       "promotion": "Now £8.75, Was £10.75",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/480356"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Gordon's London Dry Gin 37.7% vol 35cl",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £11.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/1962"
     },
     {
       "store": "Morrisons",
@@ -3538,6 +3799,15 @@
       "promotion": "£15.00 - More Card Price",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/19-crimes-red-blend-1-5l/111346557"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "ASDA Fino Sherry 75cl",
+      "price": "£7.25",
+      "promotion": "Now £7.25, Was £8.75",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7174222"
     },
     {
       "store": "Morrisons",
@@ -4675,6 +4945,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Greene King IPA India Pale Ale 10 x 440ml",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £9.03",
+      "saving": 1.03,
+      "link": "https://www.asda.com/groceries/product/x/x/9086626"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Vocation Crush Hour Everyday Hazy Pale 4 x 330ml",
       "price": "£6.02",
@@ -4834,15 +5113,6 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9357554"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Coors Lager Beer Bottle 18 x 330ml",
-      "price": "£11.00",
-      "promotion": "Any 2 for £20",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9253709"
     },
     {
       "store": "Morrisons",
@@ -5257,6 +5527,15 @@
       "promotion": "Any 2 for £10",
       "saving": 0.97,
       "link": "https://www.asda.com/groceries/product/x/x/9087175"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Lamb's Pineapple Rum Spirit Drink 100cl",
+      "price": "£19.00",
+      "promotion": "Now £19.00, Was £19.97",
+      "saving": 0.97,
+      "link": "https://www.asda.com/groceries/product/x/x/9047070"
     },
     {
       "store": "Asda",
