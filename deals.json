@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T08:47:01.405493+00:00",
-  "total": 1215,
+  "updated": "2026-08-07T07:26:07.254233+00:00",
+  "total": 1220,
   "deals": [
     {
       "store": "Morrisons",
@@ -172,6 +172,15 @@
       "promotion": "Now £30.50, Was £42",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/laphroaig-islay-single-malt-scotch-whisky-10-year-old/110772554"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Carlsberg Pilsner ",
+      "price": "£24.00",
+      "promotion": "Now £13, Was £24",
+      "saving": 11.0,
+      "link": "https://groceries.morrisons.com/products/carlsberg-pilsner/115109233"
     },
     {
       "store": "Morrisons",
@@ -598,15 +607,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Birra Moretti Lager Beer Bottles 12 x 330ml",
-      "price": "£18.25",
-      "promotion": "Now £11, Was £18.25 - Online Exclusive",
-      "saving": 7.25,
-      "link": "https://groceries.morrisons.com/products/birra-moretti-lager-beer-bottles-12-x-330ml/108144209"
-    },
-    {
-      "store": "Morrisons",
       "category": "spirits",
       "title": "Brecon Botanicals Gin   70cl",
       "price": "£27.75",
@@ -814,6 +814,24 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "BuzzBallz Biggies Lime 'Rita Margarita Cocktail 1.75L",
+      "price": "£23.00",
+      "promotion": "Now £17, Was £23",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/buzzballz-biggies-lime-rita-margarita-cocktail-1-75l/115456243"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "BuzzBallz Biggies Strawberry 'Rita Margarita Cocktail 1.75L",
+      "price": "£23.00",
+      "promotion": "Now £17, Was £23",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/buzzballz-biggies-strawberry-rita-margarita-cocktail-1-75l/115456500"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Disaronno Originale Amaretto",
       "price": "£19.50",
@@ -982,6 +1000,15 @@
       "promotion": "Now £18.50, Was £24.00",
       "saving": 5.5,
       "link": "https://www.asda.com/groceries/product/x/x/2230"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Jim Beam Black Cherry Kentucky Bourbon Whiskey  70cl",
+      "price": "£21.00",
+      "promotion": "Now £15.50, Was £21",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/jim-beam-black-cherry-kentucky-bourbon-whiskey-70cl/111882667"
     },
     {
       "store": "Morrisons",
@@ -1338,7 +1365,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tanqueray London Dry Gin 1L",
-      "price": "£30.00",
+      "price": "£24.50",
       "promotion": "Now £20, Was £24.50",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-1l/113139543"
@@ -2075,7 +2102,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Birrificio Angelo Poretti Premium Italian Lager 12 x 440ml",
+      "title": "Birrificio Angelo Poretti Premium Italian Lager Beer Cans 12 x 440ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
       "saving": 3.0,
@@ -2849,6 +2876,15 @@
     {
       "store": "Morrisons",
       "category": "beer",
+      "title": "Vocation Brewery Life & Death Ipa 4x330ml",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £10",
+      "saving": 2.5,
+      "link": "https://groceries.morrisons.com/products/vocation-brewery-life-death-ipa-4x330ml/111009366"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
       "title": "Vocation Hop  Skip & Juice Hazy Pale Ale 4x330ml",
       "price": "£7.50",
       "promotion": "Buy 2 for £10",
@@ -3385,6 +3421,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/birrificio-angelo-poretti-italian-lager-cans-10x440ml/114435205"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Blue Moon Belgian White Belgian-Style Wheat Ale 4x330ml",
+      "price": "£7.00",
+      "promotion": "Buy 2 for £10",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/blue-moon-belgian-white-belgian-style-wheat-ale-4x330ml/109830382"
     },
     {
       "store": "Morrisons",
@@ -3956,15 +4001,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Brooklyn Pulp Art Hazy IPA 4x330ml",
-      "price": "£6.60",
-      "promotion": "Buy 2 for £10",
-      "saving": 1.6,
-      "link": "https://groceries.morrisons.com/products/brooklyn-pulp-art-hazy-ipa-4x330ml/115101135"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Menabrea Italian Alpine Birra Lager 4x440ml",
       "price": "£6.60",
       "promotion": "Buy 2 for £10",
@@ -4024,15 +4060,6 @@
       "promotion": "£15.00 - More Card Price",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/19-crimes-red-blend-1-5l/111346557"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "ASDA Fino Sherry 75cl",
-      "price": "£7.25",
-      "promotion": "Now £7.25, Was £8.75",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/7174222"
     },
     {
       "store": "Morrisons",
@@ -4186,15 +4213,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/desperados-mojito-beer-330ml/115939683"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/7524601"
     },
     {
       "store": "Asda",
@@ -4557,6 +4575,15 @@
       "link": "https://groceries.morrisons.com/products/kopparberg-pear-cider-4x330ml/113043883"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "St Austell Brewery Tribute Cornish Pale Ale 4x500ml",
+      "price": "£6.35",
+      "promotion": "Buy 2 for £10",
+      "saving": 1.35,
+      "link": "https://groceries.morrisons.com/products/st-austell-brewery-tribute-cornish-pale-ale-4x500ml/110842663"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Azul Marinho Alvarinho 750ml",
@@ -4618,6 +4645,15 @@
       "promotion": "Now £18.50, Was £19.77",
       "saving": 1.27,
       "link": "https://www.asda.com/groceries/product/x/x/7619884"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Abbot Ale Cans 4x500ml",
+      "price": "£6.25",
+      "promotion": "Buy 2 for £10",
+      "saving": 1.25,
+      "link": "https://groceries.morrisons.com/products/abbot-ale-cans-4x500ml/101576703"
     },
     {
       "store": "Morrisons",
@@ -7502,7 +7538,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Shepherd Neame 1698 Bottled Conditioned Strong Ale 500ml",
+      "title": "Shepherd Neame Kentish Strong Ale 500ml",
       "price": "£2.50",
       "promotion": "Any 4 for £7",
       "saving": 0.75,
@@ -8400,6 +8436,15 @@
       "link": "https://groceries.morrisons.com/products/furstenberg-prem-lager/101555996"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Gordon's Premium Pink Gin Based Flavoured Spirit Drink 35% vol 70cl",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £16.60",
+      "saving": 0.6,
+      "link": "https://www.asda.com/groceries/product/x/x/9186413"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Heineken Original Premium Lager Beer 5% ABV Large Bottle 650ml",
@@ -8506,6 +8551,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottle/111538647"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Strongbow Original Apple Cider Can 4.5% ABV 4x440ml",
+      "price": "£4.00",
+      "promotion": "Now £4.00, Was £4.60",
+      "saving": 0.6,
+      "link": "https://www.asda.com/groceries/product/x/x/6740634"
     },
     {
       "store": "Morrisons",
@@ -9397,15 +9451,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.46,
       "link": "https://www.asda.com/groceries/product/x/x/1109231"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Strongbow Original Apple Cider Can 4.5% ABV 4x440ml",
-      "price": "£4.00",
-      "promotion": "Now £4.00, Was £4.46",
-      "saving": 0.46,
-      "link": "https://www.asda.com/groceries/product/x/x/6740634"
     },
     {
       "store": "Asda",
