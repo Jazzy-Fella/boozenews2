@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T07:26:07.254233+00:00",
-  "total": 1220,
+  "updated": "2026-08-08T07:02:55.134428+00:00",
+  "total": 1222,
   "deals": [
     {
       "store": "Morrisons",
@@ -1396,15 +1396,6 @@
       "promotion": "£27.00 - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/wray-nephew-overproof-white-rum/113051744"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Absolut Blue Original Swedish Vodka 70CL",
-      "price": "£23.75",
-      "promotion": "Now £19.50, Was £23.75",
-      "saving": 4.25,
-      "link": "https://groceries.morrisons.com/products/absolut-blue-original-swedish-vodka-70cl/101541973"
     },
     {
       "store": "Morrisons",
@@ -4062,6 +4053,15 @@
       "link": "https://groceries.morrisons.com/products/19-crimes-red-blend-1-5l/111346557"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "ASDA Fino Sherry 75cl",
+      "price": "£7.25",
+      "promotion": "Now £7.25, Was £8.75",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7174222"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Bardinet Grenadine Syrup",
@@ -4213,6 +4213,15 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/desperados-mojito-beer-330ml/115939683"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
+      "price": "£7.50",
+      "promotion": "Any 3 for £18",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7524601"
     },
     {
       "store": "Asda",
@@ -7417,6 +7426,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/krombacher-pils-660ml/109414881"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Louis Jadot Mâcon-Villages",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £12.75",
+      "saving": 0.75,
+      "link": "https://www.asda.com/groceries/product/x/x/5059799"
     },
     {
       "store": "Morrisons",
