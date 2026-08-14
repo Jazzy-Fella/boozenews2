@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T07:43:17.517786+00:00",
-  "total": 1213,
+  "updated": "2026-08-14T07:40:49.787889+00:00",
+  "total": 1212,
   "deals": [
     {
       "store": "Morrisons",
@@ -1056,15 +1056,6 @@
       "link": "https://groceries.morrisons.com/products/the-drinks-bureau-spicy-margarita-party-box-1-5l/115478987"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Coors Lager Beer Bottle 18 x 330ml",
-      "price": "£15.05",
-      "promotion": "Any 2 for £20",
-      "saving": 5.05,
-      "link": "https://www.asda.com/groceries/product/x/x/9253709"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Aperol Aperitivo",
@@ -1603,15 +1594,6 @@
       "promotion": "Now £8.00, Was £11.75",
       "saving": 3.75,
       "link": "https://www.asda.com/groceries/product/x/x/915781"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Sourz Cherry Sweet & Sour Liqueur 70cl",
-      "price": "£8.00",
-      "promotion": "Now £8.00, Was £11.75",
-      "saving": 3.75,
-      "link": "https://www.asda.com/groceries/product/x/x/2078562"
     },
     {
       "store": "Morrisons",
@@ -3180,24 +3162,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9352001"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "ASDA Extra Special Margarita 70cl",
-      "price": "£6.00",
-      "promotion": "Now £6.00, Was £8.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7144586"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "ASDA Extra Special Passion Fruit Martini 70cl",
-      "price": "£6.00",
-      "promotion": "Now £6.00, Was £8.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7144588"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Aspall Crisp Apple Premium Cyder 10x330ml Can",
@@ -4078,6 +4042,15 @@
       "promotion": "Any 3 for £18",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9181075"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Fireball Cinnamon Whisky Liqueur 70cl",
+      "price": "£15.00",
+      "promotion": "Now £15.00, Was £16.50",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7422651"
     },
     {
       "store": "Morrisons",
@@ -5248,6 +5221,15 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9357554"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Coors Lager Beer Bottle 18 x 330ml",
+      "price": "£11.00",
+      "promotion": "Any 2 for £20",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9253709"
     },
     {
       "store": "Morrisons",
@@ -9199,6 +9181,15 @@
       "promotion": "Now £4.47, Was £4.97",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/5354411"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Thatchers Zero Apple Cider 4 x 440ml",
+      "price": "£3.47",
+      "promotion": "Now £3.47, Was £3.97",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9106692"
     },
     {
       "store": "Morrisons",
