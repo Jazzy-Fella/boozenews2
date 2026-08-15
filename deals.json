@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T07:40:49.787889+00:00",
-  "total": 1212,
+  "updated": "2026-08-15T06:49:05.664618+00:00",
+  "total": 1215,
   "deals": [
     {
       "store": "Morrisons",
@@ -1201,6 +1201,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Absolut Raspberri Raspberry Flavoured Vodka 70CL",
+      "price": "£23.50",
+      "promotion": "£19.00 - More Card Price",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/absolut-raspberri-raspberry-flavoured-vodka-70cl/112393312"
+    },
+    {
+      "store": "Morrisons",
       "category": "beer",
       "title": "BrewDog Lost Lager 10x440ml",
       "price": "£13.50",
@@ -1225,6 +1234,15 @@
       "promotion": "Now £18.50, Was £23",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/lamb-s-white-rum/115066923"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Primora Primitivo Puglia 75CL",
+      "price": "£12.00",
+      "promotion": "£7.50 - More Card Price",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/primora-primitivo-puglia-75cl/115498056"
     },
     {
       "store": "Morrisons",
@@ -1270,6 +1288,15 @@
       "promotion": "£27.00 - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/wray-nephew-overproof-white-rum/113051744"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Absolut Tabasco 700ml",
+      "price": "£23.25",
+      "promotion": "£19.00 - More Card Price",
+      "saving": 4.25,
+      "link": "https://groceries.morrisons.com/products/absolut-tabasco-700ml/115874605"
     },
     {
       "store": "Morrisons",
@@ -1594,6 +1621,15 @@
       "promotion": "Now £8.00, Was £11.75",
       "saving": 3.75,
       "link": "https://www.asda.com/groceries/product/x/x/915781"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Sourz Cherry Sweet & Sour Liqueur 70cl",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £11.75",
+      "saving": 3.75,
+      "link": "https://www.asda.com/groceries/product/x/x/2078562"
     },
     {
       "store": "Morrisons",
@@ -4618,15 +4654,6 @@
       "promotion": "£8.50 - More Card Price",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-alvarinho/112615641"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Primitivo ",
-      "price": "£9.25",
-      "promotion": "£8.00 - More Card Price",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-primitivo/108239654"
     },
     {
       "store": "Morrisons",
