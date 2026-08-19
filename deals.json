@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T06:54:03.697033+00:00",
-  "total": 1273,
+  "updated": "2026-08-19T06:59:55.895817+00:00",
+  "total": 1275,
   "deals": [
     {
       "store": "Morrisons",
@@ -1057,24 +1057,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "The Drinks Bureau Party Box Passion Fruit Martini 1.5L",
-      "price": "£15.15",
-      "promotion": "Now £10, Was £15.15",
-      "saving": 5.15,
-      "link": "https://groceries.morrisons.com/products/the-drinks-bureau-party-box-passion-fruit-martini-1-5l/115117410"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "The Drinks Bureau Spicy Margarita Party Box  1.5L",
-      "price": "£15.15",
-      "promotion": "Now £10, Was £15.15",
-      "saving": 5.15,
-      "link": "https://groceries.morrisons.com/products/the-drinks-bureau-spicy-margarita-party-box-1-5l/115478987"
-    },
-    {
-      "store": "Morrisons",
       "category": "spirits",
       "title": "Aperol Aperitivo",
       "price": "£18.00",
@@ -1153,15 +1135,6 @@
       "promotion": "£22.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/olmeca-altos-100-agave-plata-tequila-70cl/109637347"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "The Drinks Bureau Party Box Strawberry Daiquiri 1.5L",
-      "price": "£15.00",
-      "promotion": "Now £10, Was £15",
-      "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/the-drinks-bureau-party-box-strawberry-daiquiri-1-5l/115117444"
     },
     {
       "store": "Morrisons",
@@ -3997,6 +3970,15 @@
       "promotion": "Now £15.00, Was £17.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9122251"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Soave Superiore 75cl",
+      "price": "£8.00",
+      "promotion": "Any 3 for £18",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5036250"
     },
     {
       "store": "Asda",
@@ -8582,15 +8564,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Fever-Tree Refreshingly Light Indian Tonic Water",
-      "price": "£2.40",
-      "promotion": "Buy 2 for £3.50",
-      "saving": 0.65,
-      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-indian-tonic-water/107268808"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Fever-Tree Refreshingly Light Sicilian Lemonade",
       "price": "£2.40",
       "promotion": "Buy 2 for £3.50",
@@ -10975,6 +10948,42 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Ossett Brewery Barghest Stout 500ml",
+      "price": "£2.00",
+      "promotion": "Any 4 for £7",
+      "saving": 0.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9342523"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Ossett Brewery Excelsius Dry Hopped Pale 500ml",
+      "price": "£2.00",
+      "promotion": "Any 4 for £7",
+      "saving": 0.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9342121"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Ossett Brewery Session Blonde 500ml",
+      "price": "£2.00",
+      "promotion": "Any 4 for £7",
+      "saving": 0.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9329351"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Ossett Brewery Silver King American Pale 500ml",
+      "price": "£2.00",
+      "promotion": "Any 4 for £7",
+      "saving": 0.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9338954"
+    },
+    {
+      "store": "Asda",
       "category": "spirits",
       "title": "Sailor Jerry The Original Spiced Caribbean Rum 70cl",
       "price": "£16.50",
@@ -11053,6 +11062,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.25,
       "link": "https://www.asda.com/groceries/product/x/x/4057336"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "White Rat Nitro Hoppy Pale 500ml",
+      "price": "£2.00",
+      "promotion": "Any 4 for £7",
+      "saving": 0.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9337467"
     },
     {
       "store": "Asda",
