@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T06:59:55.895817+00:00",
-  "total": 1275,
+  "updated": "2026-08-20T06:56:51.104207+00:00",
+  "total": 1271,
   "deals": [
     {
       "store": "Morrisons",
@@ -626,6 +626,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Jack Daniel's Tennessee Whiskey",
+      "price": "£27.00",
+      "promotion": "Now £20, Was £27",
+      "saving": 7.0,
+      "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey/101526984"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Jack Daniel's Tennessee Whiskey Honey ",
       "price": "£25.50",
       "promotion": "Now £18.50, Was £25.50",
@@ -649,6 +658,15 @@
       "promotion": "Now £20, Was £27",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/three-barrels-brandy-1l/107044927"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tanqueray No. TEN Gin 47.3% vol 70cl",
+      "price": "£28.50",
+      "promotion": "Now £28.50, Was £35.46",
+      "saving": 6.96,
+      "link": "https://www.asda.com/groceries/product/x/x/3379642"
     },
     {
       "store": "Morrisons",
@@ -941,6 +959,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Le Relais Du Roi Blanc 2025  75cl",
+      "price": "£13.00",
+      "promotion": "£7.50 - More Card Price",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/le-relais-du-roi-blanc-2025-75cl/116070764"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Les Cles De La Tour ",
       "price": "£22.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -1144,15 +1171,6 @@
       "promotion": "£17.00 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/tia-maria-liqueur/101556737"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Madri Excepcional Premium Lager Beer Can 10 x 440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £14.93",
-      "saving": 4.93,
-      "link": "https://www.asda.com/groceries/product/x/x/7320205"
     },
     {
       "store": "Morrisons",
@@ -3721,6 +3739,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Exceptional by ASDA Pistachio & Milk Chocolate Flavour Cream Liqueur 70cl",
+      "price": "£6.00",
+      "promotion": "Now £6.00, Was £8.16",
+      "saving": 2.16,
+      "link": "https://www.asda.com/groceries/product/x/x/9296832"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Beavertown Cosmic Drop Tropical Lager with Tropical Fruit 440ml",
       "price": "£2.88",
@@ -3947,15 +3974,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Languedoc 75cl",
-      "price": "£8.00",
-      "promotion": "Any 3 for £18",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9007525"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Montepulciano D'abruzzo 75cl",
       "price": "£8.00",
       "promotion": "Any 3 for £18",
@@ -3970,15 +3988,6 @@
       "promotion": "Now £15.00, Was £17.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9122251"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Soave Superiore 75cl",
-      "price": "£8.00",
-      "promotion": "Any 3 for £18",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/5036250"
     },
     {
       "store": "Asda",
@@ -4667,15 +4676,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/7524601"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Douro 75cl",
       "price": "£7.50",
       "promotion": "Any 3 for £18",
@@ -4690,24 +4690,6 @@
       "promotion": "Any 3 for £18",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9118375"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Grillo 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9238589"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional By Asda Palacio De Vivero Rueda Verdejo 75cl",
-      "price": "£7.50",
-      "promotion": "Any 3 for £18",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/3860450"
     },
     {
       "store": "Asda",
@@ -5896,15 +5878,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-lager-620ml/115934276"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Fiano Terre Siciliane I.G.T 75cl",
-      "price": "£7.00",
-      "promotion": "Any 3 for £18",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7106331"
     },
     {
       "store": "Asda",
@@ -7966,15 +7939,6 @@
       "promotion": "Now £6.00, Was £6.74",
       "saving": 0.74,
       "link": "https://www.asda.com/groceries/product/x/x/9235738"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Funkin Nitro Cocktails Passion Fruit Martini Sharing Pack 8 x 200ml",
-      "price": "£12.00",
-      "promotion": "Now £12.00, Was £12.74",
-      "saving": 0.74,
-      "link": "https://www.asda.com/groceries/product/x/x/7608159"
     },
     {
       "store": "Asda",
