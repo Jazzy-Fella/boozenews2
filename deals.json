@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T06:56:51.104207+00:00",
-  "total": 1271,
+  "updated": "2026-08-21T06:56:48.895481+00:00",
+  "total": 1276,
   "deals": [
     {
       "store": "Morrisons",
@@ -4676,6 +4676,15 @@
     {
       "store": "Asda",
       "category": "other",
+      "title": "Exceptional by ASDA Côtes De Gascogne 75cl",
+      "price": "£7.50",
+      "promotion": "Any 3 for £18",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7524601"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
       "title": "Exceptional by ASDA Douro 75cl",
       "price": "£7.50",
       "promotion": "Any 3 for £18",
@@ -4690,6 +4699,24 @@
       "promotion": "Any 3 for £18",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9118375"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Grillo 75cl",
+      "price": "£7.50",
+      "promotion": "Any 3 for £18",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9238589"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional By Asda Palacio De Vivero Rueda Verdejo 75cl",
+      "price": "£7.50",
+      "promotion": "Any 3 for £18",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/3860450"
     },
     {
       "store": "Asda",
@@ -5878,6 +5905,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-lager-620ml/115934276"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Fiano Terre Siciliane I.G.T 75cl",
+      "price": "£7.00",
+      "promotion": "Any 3 for £18",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7106331"
     },
     {
       "store": "Asda",
@@ -7939,6 +7975,15 @@
       "promotion": "Now £6.00, Was £6.74",
       "saving": 0.74,
       "link": "https://www.asda.com/groceries/product/x/x/9235738"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Funkin Nitro Cocktails Passion Fruit Martini Sharing Pack 8 x 200ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £12.74",
+      "saving": 0.74,
+      "link": "https://www.asda.com/groceries/product/x/x/7608159"
     },
     {
       "store": "Asda",
@@ -11057,11 +11102,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Ossett Brewery Ossett Blonde Session Blonde 500ml",
+      "title": "Ossett Brewery Ossett Blonde Session Blonde 440ml",
       "price": "£2.10",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.23,
-      "link": "https://groceries.morrisons.com/products/ossett-brewery-ossett-blonde-session-blonde-500ml/115101160"
+      "link": "https://groceries.morrisons.com/products/ossett-brewery-ossett-blonde-session-blonde-440ml/115101160"
     },
     {
       "store": "Asda",
