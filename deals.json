@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T06:56:48.895481+00:00",
-  "total": 1276,
+  "updated": "2026-08-22T06:50:18.240056+00:00",
+  "total": 1267,
   "deals": [
     {
       "store": "Morrisons",
@@ -1336,15 +1336,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Heineken Original Premium Lager Beer 5% ABV Bottles 12x330ml",
-      "price": "£14.25",
-      "promotion": "Buy 3 for £30 - Online Exclusive",
-      "saving": 4.25,
-      "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-bottles-12x330ml/101561819"
-    },
-    {
-      "store": "Morrisons",
       "category": "spirits",
       "title": "Lamb's Black Spiced Rum 70CL",
       "price": "£19.00",
@@ -1947,15 +1938,6 @@
       "link": "https://groceries.morrisons.com/products/relais-du-roi-principaute-d-orange-rouge/114293235"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Thatchers Blood Orange Fruit Cider (ABV 4%) 10x330ml",
-      "price": "£12.25",
-      "promotion": "Now £9, Was £12.25",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/thatchers-blood-orange-fruit-cider-abv-4-10x330ml/113295790"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Gordon's Premium Pink Gin Based Flavoured Spirit Drink 35% vol 1L Bottle",
@@ -2127,15 +2109,6 @@
       "link": "https://groceries.morrisons.com/products/brewdog-black-heart-8x440ml/113371431"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brewdog Hazy Jane New England Ipa  10X330ML",
-      "price": "£14.00",
-      "promotion": "Now £11, Was £14",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/brewdog-hazy-jane-new-england-ipa-10x330ml/115974059"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Budweiser Lager Beer Bottles 15x300ml",
@@ -2269,15 +2242,6 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/6451696"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Henry Westons Vintage Oak Aged Herefordshire Cider Bottles  6 x 500ml",
-      "price": "£12.00",
-      "promotion": "Now £9, Was £12",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/henry-westons-vintage-oak-aged-herefordshire-cider-bottles-6-x-500ml/106005889"
     },
     {
       "store": "Morrisons",
@@ -3937,30 +3901,12 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Boddingtons 18x440ml Cans",
-      "price": "£13.00",
-      "promotion": "Now £11, Was £13",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/boddingtons-18x440ml-cans/113643934"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Budweiser Lager Beer Bottles  20 x 300ml",
       "price": "£17.00",
       "promotion": "Now £15, Was £17 - Online Exclusive",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottles-20-x-300ml/109710161"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Bottles 12x300ml",
-      "price": "£12.00",
-      "promotion": "Now £10, Was £12",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottles-12x300ml/109710137"
     },
     {
       "store": "Asda",
@@ -5963,6 +5909,15 @@
     {
       "store": "Morrisons",
       "category": "beer",
+      "title": "Heineken Original Premium Lager Beer 5% ABV Bottles 12x330ml",
+      "price": "£11.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-bottles-12x330ml/101561819"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
       "title": "Inch's Cloudy Cider 4x440ml",
       "price": "£5.75",
       "promotion": "Now £4.75, Was £5.75",
@@ -7340,7 +7295,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Shepherd Neame Classic Collection India Pale Ale 500ml",
+      "title": "Shepherd Neame India Pale Ale 500ml",
       "price": "£2.56",
       "promotion": "Any 4 for £7",
       "saving": 0.81,
@@ -8596,42 +8551,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.65,
       "link": "https://www.asda.com/groceries/product/x/x/1146032"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Old Mout Cider Berries & Cherries Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 4 for £7",
-      "saving": 0.65,
-      "link": "https://www.asda.com/groceries/product/x/x/4733462"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Old Mout Cider Kiwi & Lime Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 4 for £7",
-      "saving": 0.65,
-      "link": "https://www.asda.com/groceries/product/x/x/4733458"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Old Mout Cider Pineapple & Raspberry Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 4 for £7",
-      "saving": 0.65,
-      "link": "https://www.asda.com/groceries/product/x/x/6402256"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Old Mout Mango & Passionfruit Bottle 500ml",
-      "price": "£2.40",
-      "promotion": "Any 4 for £7",
-      "saving": 0.65,
-      "link": "https://www.asda.com/groceries/product/x/x/9234206"
     },
     {
       "store": "Asda",
