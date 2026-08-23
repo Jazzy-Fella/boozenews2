@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T06:50:18.240056+00:00",
-  "total": 1267,
+  "updated": "2026-08-23T06:51:29.430188+00:00",
+  "total": 1269,
   "deals": [
     {
       "store": "Morrisons",
@@ -568,6 +568,15 @@
       "promotion": "Now £20.50, Was £27.75",
       "saving": 7.25,
       "link": "https://groceries.morrisons.com/products/brecon-botanicals-gin-70cl/106861765"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Aperol Alcoholic Aperitif 70cl",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £17.00",
+      "saving": 7.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4422112"
     },
     {
       "store": "Morrisons",
@@ -4078,6 +4087,15 @@
       "promotion": "Now £9.00, Was £11.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9342394"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Raspberry Crush Flavoured Spirit Drink 35% vol 35cl",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £11.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9349960"
     },
     {
       "store": "Morrisons",
