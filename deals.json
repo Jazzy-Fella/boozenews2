@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T06:51:29.430188+00:00",
-  "total": 1269,
+  "updated": "2026-08-24T07:09:53.938369+00:00",
+  "total": 1266,
   "deals": [
     {
       "store": "Morrisons",
@@ -372,15 +372,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/1527016"
     },
     {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bombay Sapphire London Dry Gin 1L",
-      "price": "£31.00",
-      "promotion": "Now £22, Was £31",
-      "saving": 9.0,
-      "link": "https://groceries.morrisons.com/products/bombay-sapphire-london-dry-gin-1l/101547574"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Tanqueray Flor De Sevilla Gin 41.3% vol 70cl",
@@ -568,15 +559,6 @@
       "promotion": "Now £20.50, Was £27.75",
       "saving": 7.25,
       "link": "https://groceries.morrisons.com/products/brecon-botanicals-gin-70cl/106861765"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Aperol Alcoholic Aperitif 70cl",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £17.00",
-      "saving": 7.0,
-      "link": "https://www.asda.com/groceries/product/x/x/4422112"
     },
     {
       "store": "Morrisons",
@@ -3349,15 +3331,6 @@
       "promotion": "Any 4 for 3",
       "saving": 2.29,
       "link": "https://www.asda.com/groceries/product/x/x/9244133"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Baker Street Red Blend ",
-      "price": "£9.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 2.25,
-      "link": "https://groceries.morrisons.com/products/baker-street-red-blend/114465359"
     },
     {
       "store": "Asda",
@@ -6753,6 +6726,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/451049"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Whiskey Blended with Apple Liqueur 35 cL",
+      "price": "£12.35",
+      "promotion": "Now £12.35, Was £13.25",
+      "saving": 0.9,
+      "link": "https://www.asda.com/groceries/product/x/x/9345678"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Pimm's No.1 and Lemonade Ready to Drink premix 5.4% vol   250ml",
@@ -8848,15 +8830,6 @@
       "promotion": "Now £4.00, Was £4.60",
       "saving": 0.6,
       "link": "https://www.asda.com/groceries/product/x/x/4454279"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Maldon Sea Salt",
-      "price": "£2.85",
-      "promotion": "Now £2.25, Was £2.85",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/maldon-sea-salt/100398811"
     },
     {
       "store": "Morrisons",
