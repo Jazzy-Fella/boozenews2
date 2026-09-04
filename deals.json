@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T11:00:19.531212+00:00",
-  "total": 1173,
+  "updated": "2026-09-04T11:01:21.131207+00:00",
+  "total": 1174,
   "deals": [
     {
       "store": "Morrisons",
@@ -8191,6 +8191,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.65,
       "link": "https://www.asda.com/groceries/product/x/x/9087829"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Guinness Extra Foreign Stout Beer 7.5%",
+      "price": "£8.15",
+      "promotion": "Now £7.50, Was £8.15",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/guinness-extra-foreign-stout-beer-7-5/111001874"
     },
     {
       "store": "Asda",
