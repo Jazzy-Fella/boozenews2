@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T11:01:21.131207+00:00",
-  "total": 1174,
+  "updated": "2026-09-05T10:23:12.521608+00:00",
+  "total": 1175,
   "deals": [
     {
       "store": "Morrisons",
@@ -154,6 +154,15 @@
       "promotion": "Now £23.00, Was £35.00",
       "saving": 12.0,
       "link": "https://www.asda.com/groceries/product/x/x/5789848"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tamnavulin Speyside Single Malt Scotch Whisky Sherry Cask Edition 70cl",
+      "price": "£24.50",
+      "promotion": "Now £24.50, Was £36.50",
+      "saving": 12.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9239355"
     },
     {
       "store": "Morrisons",
@@ -9140,7 +9149,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Black Sheep Ale 500ml",
+      "title": "Black Sheep The Original Ale 500ml",
       "price": "£2.24",
       "promotion": "Any 4 for £7",
       "saving": 0.49,
