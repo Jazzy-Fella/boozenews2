@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T10:23:12.521608+00:00",
-  "total": 1175,
+  "updated": "2026-09-06T10:42:05.863384+00:00",
+  "total": 1187,
   "deals": [
     {
       "store": "Morrisons",
@@ -1036,6 +1036,15 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 5.1,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-sancerre/110311897"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Estrella Galicia 10 X 440Ml",
+      "price": "£15.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/estrella-galicia-10-x-440ml/116006172"
     },
     {
       "store": "Morrisons",
@@ -2821,6 +2830,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Full Circle Magical Bike Ride Hazy Pale Ale 4 x 330ml",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £10",
+      "saving": 2.5,
+      "link": "https://groceries.morrisons.com/products/full-circle-magical-bike-ride-hazy-pale-ale-4-x-330ml/116136410"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Gordon's Premium Pink Spirit Drink ",
       "price": "£19.50",
@@ -3207,6 +3225,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9026231"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Full Circle Oddballs Hippy Jungle Pale Ale 4 x 330ml",
+      "price": "£7.25",
+      "promotion": "Buy 2 for £10",
+      "saving": 2.25,
+      "link": "https://groceries.morrisons.com/products/full-circle-oddballs-hippy-jungle-pale-ale-4-x-330ml/116136321"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Funkin Elderflower Spritz 330ml",
@@ -3259,6 +3286,24 @@
       "promotion": "£10.50 - More Card Price",
       "saving": 2.25,
       "link": "https://groceries.morrisons.com/products/martini-rosso-vermouth-aperitivo/109191883"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons Hugo Spritz 75cl",
+      "price": "£6.00",
+      "promotion": "Buy 2 for £7.50",
+      "saving": 2.25,
+      "link": "https://groceries.morrisons.com/products/morrisons-hugo-spritz-75cl/115931841"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons Limited Edition Mai Tai Cocktail 75cl",
+      "price": "£6.00",
+      "promotion": "Buy 2 for £7.50",
+      "saving": 2.25,
+      "link": "https://groceries.morrisons.com/products/morrisons-limited-edition-mai-tai-cocktail-75cl/115429632"
     },
     {
       "store": "Morrisons",
@@ -3655,6 +3700,15 @@
       "promotion": "Now £8.75, Was £10.75",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/5721736"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "19 Crimes The Banished",
+      "price": "£11.00",
+      "promotion": "£9.00 - More Card Price",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/19-crimes-the-banished/113438252"
     },
     {
       "store": "Morrisons",
@@ -5520,6 +5574,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/7707533"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "19 Crimes Calimocho Cola 750ml",
+      "price": "£8.50",
+      "promotion": "£7.50 - More Card Price",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-cola-750ml/115972539"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "19 Crimes Calimocho Lemonade 750ml",
+      "price": "£8.50",
+      "promotion": "£7.50 - More Card Price",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-lemonade-750ml/115973136"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Adnams Ghost Ship Pale Ale 4.1% 4x440ml Cans",
@@ -6643,6 +6715,15 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.88,
       "link": "https://groceries.morrisons.com/products/double-ghost-ipa-500ml-abv-5-2/114186430"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Excelsius Nitro Dry Hopped Pale Ale 5%  500ml",
+      "price": "£2.75",
+      "promotion": "Buy 4 for £7.50",
+      "saving": 0.88,
+      "link": "https://groceries.morrisons.com/products/excelsius-nitro-dry-hopped-pale-ale-5-500ml/116136444"
     },
     {
       "store": "Morrisons",
@@ -8312,6 +8393,24 @@
     {
       "store": "Morrisons",
       "category": "beer",
+      "title": "Tomos Watkin Dragons Keep Ipa 500ml",
+      "price": "£2.50",
+      "promotion": "Buy 4 for £7.50",
+      "saving": 0.62,
+      "link": "https://groceries.morrisons.com/products/tomos-watkin-dragons-keep-ipa-500ml/116136268"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Tomos Watkin Tallyman Pale Ale 500ml",
+      "price": "£2.50",
+      "promotion": "Buy 4 for £7.50",
+      "saving": 0.62,
+      "link": "https://groceries.morrisons.com/products/tomos-watkin-tallyman-pale-ale-500ml/116136479"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
       "title": "Wainwright Golden Ale Beer",
       "price": "£2.50",
       "promotion": "Buy 4 for £7.50",
@@ -9775,6 +9874,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.4,
       "link": "https://groceries.morrisons.com/products/jubel-grapefruit-330ml/116109665"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Jubel Lemon 330ml",
+      "price": "£2.40",
+      "promotion": "Buy 4 for £8",
+      "saving": 0.4,
+      "link": "https://groceries.morrisons.com/products/jubel-lemon-330ml/116109788"
     },
     {
       "store": "Morrisons",
