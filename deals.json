@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T10:42:05.863384+00:00",
-  "total": 1187,
+  "updated": "2026-09-07T12:09:45.548346+00:00",
+  "total": 1193,
   "deals": [
     {
       "store": "Morrisons",
@@ -3765,6 +3765,15 @@
       "link": "https://groceries.morrisons.com/products/dopo-nero-red-blend/115858891"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Elton John Blanc De Blancs 0% 75cl",
+      "price": "£10.00",
+      "promotion": "£8.00 - More Card Price",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/elton-john-blanc-de-blancs-0-75cl/116100695"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Exceptional by ASDA Côte De Beaune Villages 75cl",
@@ -3817,6 +3826,15 @@
       "promotion": "£10.00 - More Card Price",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/laurent-delaunay-les-grappillages-fleurie/114833764"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Mionetto Orange Spritz 0% 75cl",
+      "price": "£9.00",
+      "promotion": "£7.00 - More Card Price",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/mionetto-orange-spritz-0-75cl/116106430"
     },
     {
       "store": "Morrisons",
@@ -4350,6 +4368,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9370458"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "19 Crimes Zero Red Blend 75cl",
+      "price": "£7.50",
+      "promotion": "£6.00 - More Card Price",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/19-crimes-zero-red-blend-75cl/116106843"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "ASDA Extra Special Château Leboscq Médoc 75cl",
@@ -4424,6 +4451,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Campaneo Old Vines Garnacha",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £12",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/campaneo-old-vines-garnacha/113425865"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Casillero Del Diablo Jammy Red Devil ",
       "price": "£8.50",
       "promotion": "£7.00 - More Card Price",
@@ -4483,6 +4519,15 @@
       "promotion": "Now £15.00, Was £16.50",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/7422651"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Firstcape Special Cuvee Chenin Blanc 75CL",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £12",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/firstcape-special-cuvee-chenin-blanc-75cl/115448294"
     },
     {
       "store": "Morrisons",
@@ -6997,6 +7042,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Kopparberg With Strawberry & Lime Cider Cans 4x330ml",
+      "price": "£5.85",
+      "promotion": "Now £5, Was £5.85",
+      "saving": 0.85,
+      "link": "https://groceries.morrisons.com/products/kopparberg-with-strawberry-lime-cider-cans-4x330ml/108930701"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Kronenbourg 1664 660ml",
       "price": "£2.85",
@@ -7642,6 +7696,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/old-mout-pineapple-raspberry-cider-bottle/110470222"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Piccini Memoro Rosso 187ml",
+      "price": "£3.00",
+      "promotion": "Buy 4 for £9",
+      "saving": 0.75,
+      "link": "https://groceries.morrisons.com/products/piccini-memoro-rosso-187ml/116106270"
     },
     {
       "store": "Morrisons",
@@ -9100,15 +9163,6 @@
       "promotion": "Any 5 for £10",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/7735875"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "McGuigan Black Label Red",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £9",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/mcguigan-black-label-red/105535669"
     },
     {
       "store": "Morrisons",
