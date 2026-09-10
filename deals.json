@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T11:05:53.638660+00:00",
-  "total": 1208,
+  "updated": "2026-09-10T11:01:57.232931+00:00",
+  "total": 1192,
   "deals": [
     {
       "store": "Morrisons",
@@ -39,15 +39,6 @@
       "link": "https://groceries.morrisons.com/products/dalwhinnie-winters-gold-single-malt-scotch-whisky/107616921"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Jura 14 Year Old Single Malt Scotch Whisky 70cl",
-      "price": "£30.50",
-      "promotion": "Now £30.50, Was £45.50",
-      "saving": 15.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7268856"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Loch Lomond Aged 10 Years Single Malt Scotch Whisky ",
@@ -55,15 +46,6 @@
       "promotion": "Now £26, Was £40",
       "saving": 14.0,
       "link": "https://groceries.morrisons.com/products/loch-lomond-aged-10-years-single-malt-scotch-whisky/111135338"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Johnnie Walker Black Ruby Blended Scotch Whisky 40% vol 70cl",
-      "price": "£26.50",
-      "promotion": "Now £26.50, Was £39.40",
-      "saving": 12.9,
-      "link": "https://www.asda.com/groceries/product/x/x/9329401"
     },
     {
       "store": "Morrisons",
@@ -248,15 +230,6 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Wild Turkey 101 Kentucky Bourbon Whiskey 70cl",
-      "price": "£25.00",
-      "promotion": "Now £25.00, Was £36.00",
-      "saving": 11.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7514253"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
       "title": "Maker's Mark Kentucky Straight Bourbon Whisky 70cl",
       "price": "£24.50",
       "promotion": "Now £24.50, Was £35.00",
@@ -406,15 +379,6 @@
       "promotion": "Now £20, Was £29.75",
       "saving": 9.75,
       "link": "https://groceries.morrisons.com/products/whitley-neill-gin-japanese-yuzu-white-strawberry-70cl/115067264"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Woodford Reserve Kentucky Straight Bourbon Whiskey 70 cL",
-      "price": "£28.00",
-      "promotion": "Now £28.00, Was £37.75",
-      "saving": 9.75,
-      "link": "https://www.asda.com/groceries/product/x/x/2681441"
     },
     {
       "store": "Morrisons",
@@ -1048,15 +1012,6 @@
     },
     {
       "store": "Asda",
-      "category": "other",
-      "title": "Guinness ™ NitroSurge™ Device - Easy to Use - Portable - Re-chargeable - Use with NitroSurge™ Cans",
-      "price": "£25.00",
-      "promotion": "Now £25.00, Was £30.00",
-      "saving": 5.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7473625"
-    },
-    {
-      "store": "Asda",
       "category": "spirits",
       "title": "Jim Beam Pineapple Kentucky Bourbon Whiskey 70cl",
       "price": "£15.50",
@@ -1119,15 +1074,6 @@
       "link": "https://groceries.morrisons.com/products/tia-maria-liqueur/101556737"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Madri Excepcional Premium Lager Beer Can 10 x 440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £14.93",
-      "saving": 4.93,
-      "link": "https://www.asda.com/groceries/product/x/x/7320205"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Block Series 011 Cotes De Provence Ste Victoire",
@@ -1147,15 +1093,6 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Bottles 24x300ml",
-      "price": "£14.00",
-      "promotion": "Now £14.00, Was £18.75",
-      "saving": 4.75,
-      "link": "https://www.asda.com/groceries/product/x/x/6029646"
-    },
-    {
-      "store": "Asda",
       "category": "other",
       "title": "Estrella Damm Barcelona 10 x 44cl",
       "price": "£12.00",
@@ -1171,15 +1108,6 @@
       "promotion": "Now £19.50, Was £24.25",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/johnnie-walker-red-label-blended-scotch-whisky/105631458"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Olmeca Altos Altos 100% Agave Plata Tequila 70cl",
-      "price": "£22.00",
-      "promotion": "Now £22.00, Was £26.75",
-      "saving": 4.75,
-      "link": "https://www.asda.com/groceries/product/x/x/9024795"
     },
     {
       "store": "Morrisons",
@@ -1399,15 +1327,6 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
-      "title": "San Miguel Premium Lager Beer Cans 10x440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £13.95",
-      "saving": 3.95,
-      "link": "https://www.asda.com/groceries/product/x/x/9259928"
-    },
-    {
-      "store": "Asda",
       "category": "spirits",
       "title": "Vermouth Bianco 100cl",
       "price": "£8.32",
@@ -1513,15 +1432,6 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.67,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-toro/115238887"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £16.60",
-      "saving": 3.6,
-      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Morrisons",
@@ -2309,15 +2219,6 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "San Miguel Premium Lager Beer Bottles 18x330ml",
-      "price": "£15.00",
-      "promotion": "Now £15.00, Was £18.00",
-      "saving": 3.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9307069"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
       "title": "Sol Beer Original Mexican Lager 3.4% ABV Bottle 15x330ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
@@ -2602,6 +2503,15 @@
       "promotion": "Now £13.00, Was £15.73",
       "saving": 2.73,
       "link": "https://www.asda.com/groceries/product/x/x/9175862"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Freixenet Asti 75cl",
+      "price": "£7.77",
+      "promotion": "Now £7.77, Was £10.47",
+      "saving": 2.7,
+      "link": "https://www.asda.com/groceries/product/x/x/9234284"
     },
     {
       "store": "Morrisons",
@@ -3271,15 +3181,6 @@
     },
     {
       "store": "Asda",
-      "category": "other",
-      "title": "Villa Maria Sparkling Cuvée Brut",
-      "price": "£11.00",
-      "promotion": "Now £11.00, Was £13.27",
-      "saving": 2.27,
-      "link": "https://www.asda.com/groceries/product/x/x/9095637"
-    },
-    {
-      "store": "Asda",
       "category": "spirits",
       "title": "Aperol Spritz To Go Alcoholic Aperitif 250ml",
       "price": "£3.00",
@@ -3848,15 +3749,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Côte De Beaune Villages 75cl",
-      "price": "£18.00",
-      "promotion": "Now £18.00, Was £20.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7439347"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Zinfandel 18.7cl",
       "price": "£2.75",
       "promotion": "ANY 4 FOR 3",
@@ -4393,15 +4285,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.62,
       "link": "https://www.asda.com/groceries/product/x/x/6944608"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Beavertown Cosmic Drop Lager with Tropical Fruit 4 x 330ml",
-      "price": "£5.50",
-      "promotion": "Now £5.50, Was £7.10",
-      "saving": 1.6,
-      "link": "https://www.asda.com/groceries/product/x/x/9341922"
     },
     {
       "store": "Morrisons",
@@ -5979,15 +5862,6 @@
       "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-12-x-440ml/115868416"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Fuller's London Pride Outstanding Amber Ale 10 x 440ml",
-      "price": "£11.50",
-      "promotion": "Now £11.50, Was £12.50",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9343361"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Reserve Cider   500ml",
@@ -6193,15 +6067,6 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/moth-strawberry-daquiri-125ml/115964310"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Murphy's Draught Irish Stout 4% ABV Multipack Beer Cans 10x440ml",
-      "price": "£11.00",
-      "promotion": "Any 2 for £20",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9235828"
     },
     {
       "store": "Morrisons",
@@ -8641,15 +8506,6 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/bacardi-rum-and-cola-premix-rum-cocktail/110887116"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Bavaria Holland Premium Beer 660ml",
-      "price": "£2.60",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/bavaria-holland-premium-beer-660ml/115429991"
     },
     {
       "store": "Morrisons",
