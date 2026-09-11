@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T11:01:57.232931+00:00",
+  "updated": "2026-09-11T11:00:16.863426+00:00",
   "total": 1192,
   "deals": [
     {
@@ -1093,6 +1093,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Budweiser Lager Beer Bottles 24x300ml",
+      "price": "£14.00",
+      "promotion": "Now £14.00, Was £18.75",
+      "saving": 4.75,
+      "link": "https://www.asda.com/groceries/product/x/x/6029646"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Estrella Damm Barcelona 10 x 44cl",
       "price": "£12.00",
@@ -1432,6 +1441,15 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.67,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-toro/115238887"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £16.60",
+      "saving": 3.6,
+      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Morrisons",
@@ -8436,15 +8454,6 @@
       "link": "https://groceries.morrisons.com/products/adnams-broadside-500ml-6-abv/116032063"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Marston's Pedigree Pale Ale Beer Bottle",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/marston-s-pedigree-pale-ale-beer-bottle/105193953"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Thornbridge Jaipur India Pale Ale 500ml",
@@ -8461,15 +8470,6 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.62,
       "link": "https://groceries.morrisons.com/products/tomos-watkin-tallyman-pale-ale-500ml/116136479"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wainwright Golden Ale Beer",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/wainwright-golden-ale-beer/101584341"
     },
     {
       "store": "Asda",
@@ -9329,7 +9329,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "San Miguel Premium Larger Beer Bottle 620ml",
+      "title": "San Miguel Premium Lager Beer Bottle 620ml",
       "price": "£2.48",
       "promotion": "Any 5 for £10",
       "saving": 0.48,
