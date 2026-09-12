@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T11:00:16.863426+00:00",
-  "total": 1192,
+  "updated": "2026-09-12T10:28:50.961304+00:00",
+  "total": 1201,
   "deals": [
     {
       "store": "Morrisons",
@@ -777,6 +777,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/1814335"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Corona Extra Premium Lager Beer Bottles 12x330ml",
+      "price": "£16.00",
+      "promotion": "Any 2 for £20",
+      "saving": 6.0,
+      "link": "https://www.asda.com/groceries/product/x/x/4001260"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jameson Triple Distilled Blended Irish Whiskey 70cl",
@@ -1072,6 +1081,15 @@
       "promotion": "Now £17, Was £22",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/tia-maria-liqueur/101556737"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "San Miguel Premium Lager  Beer Bottles 12x330ml",
+      "price": "£14.87",
+      "promotion": "Any 2 for £20",
+      "saving": 4.87,
+      "link": "https://www.asda.com/groceries/product/x/x/9240369"
     },
     {
       "store": "Morrisons",
@@ -1508,7 +1526,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Absolut Tabasco Chili Pepper Flavoured Vodka 700ml",
+      "title": "Absolut Tabasco Chilli Pepper Flavoured Vodka 38% ABV 70cl",
       "price": "£19.50",
       "promotion": "Now £19.50, Was £23.00",
       "saving": 3.5,
@@ -1648,6 +1666,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles-12x284ml/111586201"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Bottles 12x330ml",
+      "price": "£13.50",
+      "promotion": "Any 2 for £20",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9237818"
     },
     {
       "store": "Morrisons",
@@ -2451,6 +2478,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9352145"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "BrewDog Mix Pack 8 x 330ml",
+      "price": "£12.77",
+      "promotion": "Any 2 for £20",
+      "saving": 2.77,
+      "link": "https://www.asda.com/groceries/product/x/x/6228885"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Chinon",
@@ -2516,7 +2552,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Chablis 75cl",
+      "title": "Exceptional by ASDA Exceptional by  Chablis Vin de Bourgogne 75cl",
       "price": "£13.00",
       "promotion": "Now £13.00, Was £15.73",
       "saving": 2.73,
@@ -4890,6 +4926,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9007501"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Henry Westons Vintage Cider 6x500ml",
+      "price": "£11.36",
+      "promotion": "Any 2 for £20",
+      "saving": 1.36,
+      "link": "https://www.asda.com/groceries/product/x/x/5755242"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Smirnoff Ice Original 4% Cans 4x250ml",
@@ -5827,6 +5872,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Bottle 12x330ml",
+      "price": "£11.00",
+      "promotion": "Any 2 for £20",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9035428"
+    },
+    {
+      "store": "Asda",
       "category": "spirits",
       "title": "Dead Man's Fingers Golden Spiced Rum Spirit Drink 1L",
       "price": "£18.00",
@@ -5905,6 +5959,24 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/johnnie-walker-scotch-whisky-lemonade-250ml/116047020"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Kopparberg Premium Cider with Mixed Fruit 10 x 330ml",
+      "price": "£11.00",
+      "promotion": "Any 2 for £20",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/3866012"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Kopparberg Premium Cider with Strawberry & Lime 10 x 330ml",
+      "price": "£11.00",
+      "promotion": "Any 2 for £20",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/3866014"
     },
     {
       "store": "Asda",
@@ -6085,6 +6157,15 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/moth-strawberry-daquiri-125ml/115964310"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Murphy's Draught Irish Stout 4% ABV Multipack Beer Cans 10x440ml",
+      "price": "£11.00",
+      "promotion": "Any 2 for £20",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9235828"
     },
     {
       "store": "Morrisons",
