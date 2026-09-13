@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T10:28:50.961304+00:00",
-  "total": 1201,
+  "updated": "2026-09-13T11:31:45.436610+00:00",
+  "total": 1200,
   "deals": [
     {
       "store": "Morrisons",
@@ -1459,15 +1459,6 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.67,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-toro/115238887"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
-      "price": "£13.00",
-      "promotion": "Now £13.00, Was £16.60",
-      "saving": 3.6,
-      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Morrisons",
