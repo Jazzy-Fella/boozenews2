@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T11:31:45.436610+00:00",
-  "total": 1200,
+  "updated": "2026-09-14T12:25:56.941979+00:00",
+  "total": 1210,
   "deals": [
     {
       "store": "Morrisons",
@@ -689,6 +689,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Baileys Salted Caramel Irish Cream Liqueur (ABV 17%) 50CL",
+      "price": "£17.50",
+      "promotion": "Now £11, Was £17.50",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/baileys-salted-caramel-irish-cream-liqueur-abv-17-50cl/113334031"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Bell's Original Blended Scotch Whisky 1L",
       "price": "£25.00",
       "promotion": "Now £18.50, Was £25",
@@ -784,6 +793,15 @@
       "promotion": "Any 2 for £20",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/4001260"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Disaronno Originale Amaretto",
+      "price": "£19.50",
+      "promotion": "Now £13.50, Was £19.50",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/disaronno-originale-amaretto/101564534"
     },
     {
       "store": "Morrisons",
@@ -1336,6 +1354,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sierra Tequila Reposado ",
+      "price": "£18.00",
+      "promotion": "Now £14, Was £18",
+      "saving": 4.0,
+      "link": "https://groceries.morrisons.com/products/sierra-tequila-reposado/115396965"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Stella Artois 0% 10X440ML",
       "price": "£12.00",
@@ -1408,6 +1435,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Campari Bitters",
+      "price": "£19.75",
+      "promotion": "Now £16, Was £19.75",
+      "saving": 3.75,
+      "link": "https://groceries.morrisons.com/products/campari-bitters/101535400"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Estrella Damm Cans 10x330ml",
       "price": "£13.75",
@@ -1459,6 +1495,15 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.67,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-toro/115238887"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
+      "price": "£13.00",
+      "promotion": "Now £13.00, Was £16.60",
+      "saving": 3.6,
+      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Morrisons",
@@ -1580,6 +1625,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Cointreau Triple Sec Orange Liqueur",
+      "price": "£19.50",
+      "promotion": "Now £16, Was £19.50",
+      "saving": 3.5,
+      "link": "https://groceries.morrisons.com/products/cointreau-triple-sec-orange-liqueur/102510095"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "El Jimador Tequila Reposado",
       "price": "£27.00",
       "promotion": "Now £23.50, Was £27",
@@ -1639,6 +1693,15 @@
       "promotion": "Now £7.00, Was £10.50",
       "saving": 3.5,
       "link": "https://www.asda.com/groceries/product/x/x/9237333"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sierra Tequila Blanco ",
+      "price": "£17.50",
+      "promotion": "Now £14, Was £17.50",
+      "saving": 3.5,
+      "link": "https://groceries.morrisons.com/products/sierra-tequila-blanco/115396789"
     },
     {
       "store": "Morrisons",
@@ -4397,6 +4460,24 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "19 Crimes Calimocho Cola 750ml",
+      "price": "£8.50",
+      "promotion": "£7.00 - More Card Price",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-cola-750ml/115972539"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "19 Crimes Calimocho Lemonade 750ml",
+      "price": "£8.50",
+      "promotion": "£7.00 - More Card Price",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-lemonade-750ml/115973136"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "19 Crimes Zero Red Blend 75cl",
       "price": "£7.50",
       "promotion": "£6.00 - More Card Price",
@@ -5716,24 +5797,6 @@
       "promotion": "Any 2 for £10",
       "saving": 1.02,
       "link": "https://www.asda.com/groceries/product/x/x/7707533"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "19 Crimes Calimocho Cola 750ml",
-      "price": "£8.50",
-      "promotion": "£7.50 - More Card Price",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-cola-750ml/115972539"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "19 Crimes Calimocho Lemonade 750ml",
-      "price": "£8.50",
-      "promotion": "£7.50 - More Card Price",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/19-crimes-calimocho-lemonade-750ml/115973136"
     },
     {
       "store": "Asda",
@@ -8452,6 +8515,33 @@
       "promotion": "Any 4 for £7",
       "saving": 0.65,
       "link": "https://www.asda.com/groceries/product/x/x/9087829"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Fever-Tree Light Mediterranean Tonic",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3.50",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/fever-tree-light-mediterranean-tonic/109707982"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Fever-Tree Refreshingly Light Indian Tonic Water",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3.50",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-indian-tonic-water/107268808"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Fever-Tree Refreshingly Light Sicilian Lemonade",
+      "price": "£2.40",
+      "promotion": "Buy 2 for £3.50",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-sicilian-lemonade/109694940"
     },
     {
       "store": "Asda",
