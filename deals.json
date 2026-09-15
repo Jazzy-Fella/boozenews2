@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T12:25:56.941979+00:00",
-  "total": 1210,
+  "updated": "2026-09-15T11:30:37.385983+00:00",
+  "total": 1221,
   "deals": [
     {
       "store": "Morrisons",
@@ -392,6 +392,24 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Glenfiddich Fire & Cane Malt Whisky",
+      "price": "£47.50",
+      "promotion": "Save 20%, was £47.50",
+      "saving": 9.5,
+      "link": "https://groceries.morrisons.com/products/glenfiddich-fire-cane-malt-whisky/113040738"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Bruichladdich Classic Laddie Malt Whisky",
+      "price": "£46.50",
+      "promotion": "Save 20%, was £46.50",
+      "saving": 9.3,
+      "link": "https://groceries.morrisons.com/products/bruichladdich-classic-laddie-malt-whisky/112634278"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Glenfiddich 15 Year Old Single Malt Scotch Whisky ",
       "price": "£53.50",
       "promotion": "Now £44.50, Was £53.50",
@@ -563,6 +581,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Cotswolds Dry Gin (Abv 46%)",
+      "price": "£38.50",
+      "promotion": "Save 20%, was £38.50",
+      "saving": 7.7,
+      "link": "https://groceries.morrisons.com/products/cotswolds-dry-gin-abv-46/113346614"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Disaronno Originale 1L",
       "price": "£27.00",
       "promotion": "Now £19.50, Was £27",
@@ -676,6 +703,15 @@
       "promotion": "Now £20.50, Was £27.50",
       "saving": 7.0,
       "link": "https://www.asda.com/groceries/product/x/x/9047064"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Edinburgh Gin Christmas Gin ",
+      "price": "£34.50",
+      "promotion": "Save 20%, was £34.50",
+      "saving": 6.9,
+      "link": "https://groceries.morrisons.com/products/edinburgh-gin-christmas-gin/114208871"
     },
     {
       "store": "Morrisons",
@@ -806,20 +842,29 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "Dutch Barn Orchard Vodka ",
+      "price": "£30.00",
+      "promotion": "Save 20%, was £30",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/dutch-barn-orchard-vodka/112820521"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Glen Moray Twisted Vine Single Malt Scotch Whisky",
+      "price": "£30.00",
+      "promotion": "Save 20%, was £30",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/glen-moray-twisted-vine-single-malt-scotch-whisky/113041941"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Jameson Triple Distilled Blended Irish Whiskey 70cl",
       "price": "£27.00",
       "promotion": "Now £21, Was £27",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/jameson-triple-distilled-blended-irish-whiskey-70cl/101549764"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Jim Beam Kentucky Straight Bourbon Whiskey 70cl.",
-      "price": "£15.50",
-      "promotion": "Now £15.50, Was £21.50",
-      "saving": 6.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9047061"
     },
     {
       "store": "Asda",
@@ -948,6 +993,15 @@
       "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-1l/113139543"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Tarquin's Cornish Dry Gin ",
+      "price": "£27.50",
+      "promotion": "Save 20%, was £27.50",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/tarquin-s-cornish-dry-gin/111358937"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Three Barrels 70cl",
@@ -1003,12 +1057,12 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 018 Salnes Albarino ",
-      "price": "£18.00",
-      "promotion": "Buy 3 Save 30% - More Card Price",
-      "saving": 5.4,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino/115233808"
+      "category": "spirits",
+      "title": "Langs Pineapple Rum",
+      "price": "£26.50",
+      "promotion": "Save 20%, was £26.50",
+      "saving": 5.3,
+      "link": "https://groceries.morrisons.com/products/langs-pineapple-rum/114032983"
     },
     {
       "store": "Morrisons",
@@ -1018,6 +1072,15 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 5.1,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-sancerre/110311897"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Bloom Passionfruit & Vanilla Blossom Gin",
+      "price": "£25.00",
+      "promotion": "Save 20%, was £25",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/bloom-passionfruit-vanilla-blossom-gin/111689040"
     },
     {
       "store": "Morrisons",
@@ -1522,6 +1585,15 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.6,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-005-douro-godelho-75cl/115013485"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons The Best Block Series 018 Salnes Albarino ",
+      "price": "£18.00",
+      "promotion": "Save 20%, was £18",
+      "saving": 3.6,
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino/115233808"
     },
     {
       "store": "Morrisons",
@@ -2820,6 +2892,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9244280"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Freixenet Brut Royal 75CL",
+      "price": "£13.00",
+      "promotion": "Save 20%, was £13",
+      "saving": 2.6,
+      "link": "https://groceries.morrisons.com/products/freixenet-brut-royal-75cl/115026374"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Fierce Beer Plume Hazy IPA 440ml",
@@ -3839,6 +3920,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Ctzn White Blend   75cl",
+      "price": "£10.00",
+      "promotion": "Save 20%, was £10",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/ctzn-white-blend-75cl/114723813"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Dopo Nero Red Blend ",
       "price": "£10.00",
       "promotion": "£8.00 - More Card Price",
@@ -4692,15 +4782,6 @@
       "link": "https://groceries.morrisons.com/products/la-vieille-ferme/101527135"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "Le Cellier de Saint Louis Coteaux Varois en Provence 75cl",
-      "price": "£7.50",
-      "promotion": "Now £7.50, Was £9.00",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/6171537"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Leffe Blonde Beer Bottles 4x330ml",
@@ -4906,6 +4987,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.4,
       "link": "https://groceries.morrisons.com/products/birra-moretti-sale-di-mare/113805526"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Donovan's Speculoos Caramelised Biscuit Country Cream ",
+      "price": "£7.00",
+      "promotion": "Save 20%, was £7",
+      "saving": 1.4,
+      "link": "https://groceries.morrisons.com/products/donovan-s-speculoos-caramelised-biscuit-country-cream/115479138"
     },
     {
       "store": "Asda",
@@ -9136,6 +9226,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.52,
       "link": "https://www.asda.com/groceries/product/x/x/3429000"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "BrewDog Shore Leave",
+      "price": "£2.55",
+      "promotion": "Save 20%, was £2.55",
+      "saving": 0.51,
+      "link": "https://groceries.morrisons.com/products/brewdog-shore-leave/113371465"
     },
     {
       "store": "Asda",
