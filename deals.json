@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T11:16:54.543172+00:00",
-  "total": 1226,
+  "updated": "2026-09-17T11:24:52.587108+00:00",
+  "total": 1225,
   "deals": [
     {
       "store": "Morrisons",
@@ -491,11 +491,11 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Dead Man's Fingers Spiced Rum ",
+      "title": "Dead Man's Fingers Spiced Rum 70cl",
       "price": "£26.00",
       "promotion": "Now £17.50, Was £26",
       "saving": 8.5,
-      "link": "https://groceries.morrisons.com/products/dead-man-s-fingers-spiced-rum/110772087"
+      "link": "https://groceries.morrisons.com/products/dead-man-s-fingers-spiced-rum-70cl/110772087"
     },
     {
       "store": "Asda",
@@ -2039,15 +2039,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "MOTH Espresso Martini 125ml",
-      "price": "£4.00",
-      "promotion": "ANY 4 FOR 3",
-      "saving": 3.25,
-      "link": "https://www.asda.com/groceries/product/x/x/9112901"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "MOTH Margarita 125ml",
       "price": "£4.00",
       "promotion": "ANY 4 FOR 3",
@@ -2080,6 +2071,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 3.25,
       "link": "https://www.asda.com/groceries/product/x/x/9344715"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "MOTH: Espresso Martini 125ml",
+      "price": "£4.00",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9112901"
     },
     {
       "store": "Morrisons",
@@ -2129,11 +2129,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Gavi ",
+      "title": "Morrisons The Best Gavi 75cl",
       "price": "£10.25",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.08,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-gavi/105266286"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-gavi-75cl/105266286"
     },
     {
       "store": "Asda",
@@ -2390,11 +2390,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Dao Red",
+      "title": "Morrisons The Best Dao Red 75cl",
       "price": "£10.00",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-dao-red/112605645"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-dao-red-75cl/112605645"
     },
     {
       "store": "Morrisons",
@@ -2570,20 +2570,20 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Barbera D'Asti ",
+      "title": "Morrisons The Best Barbera D'Asti 75cl",
       "price": "£9.75",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.92,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-barbera-d-asti/105267211"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-barbera-d-asti-75cl/105267211"
     },
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Cotes du Rhone Villages",
+      "title": "Morrisons The Best Cotes du Rhone Villages 75cl",
       "price": "£9.75",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.92,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-cotes-du-rhone-villages/105689035"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-cotes-du-rhone-villages-75cl/105689035"
     },
     {
       "store": "Asda",
@@ -2759,11 +2759,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Chenin Blanc",
+      "title": "Morrisons The Best Chenin Blanc 75cl",
       "price": "£9.00",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.7,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chenin-blanc/105294324"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chenin-blanc-75cl/105294324"
     },
     {
       "store": "Morrisons",
@@ -2894,11 +2894,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Pecorino",
+      "title": "Morrisons The Best Pecorino 75cl",
       "price": "£8.75",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.62,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-pecorino/108119978"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-pecorino-75cl/108119978"
     },
     {
       "store": "Morrisons",
@@ -2912,11 +2912,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Verdicchio ",
+      "title": "Morrisons The Best Verdicchio 75cl",
       "price": "£8.75",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.62,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-verdicchio/106216213"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-verdicchio-75cl/106216213"
     },
     {
       "store": "Asda",
@@ -3326,11 +3326,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Soave Classico",
+      "title": "Morrisons The Best Soave Classico 75cl",
       "price": "£8.00",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.4,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-soave-classico/105719880"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-soave-classico-75cl/105719880"
     },
     {
       "store": "Asda",
@@ -5378,11 +5378,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Douro Red ",
+      "title": "Morrisons The Best Douro Red 75cl",
       "price": "£9.75",
       "promotion": "£8.50 - More Card Price",
       "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-douro-red/106516734"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-douro-red-75cl/106516734"
     },
     {
       "store": "Morrisons",
@@ -6132,13 +6132,13 @@
       "link": "https://groceries.morrisons.com/products/desperados-tequila-lager-beer-bottles-3x330ml/101556622"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Drop Bear Beer Co. Peach Cut Lager 4x330ml",
-      "price": "£5.00",
-      "promotion": "Now £4, Was £5",
+      "store": "Asda",
+      "category": "other",
+      "title": "Estrella Damm 0.0 4x440",
+      "price": "£4.00",
+      "promotion": "Now £4.00, Was £5.00",
       "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/drop-bear-beer-co-peach-cut-lager-4x330ml/115663023"
+      "link": "https://www.asda.com/groceries/product/x/x/9352776"
     },
     {
       "store": "Morrisons",
@@ -6305,7 +6305,7 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Moth Espresso Martini 125ML",
+      "title": "Moth Espresso Martini 125ml",
       "price": "£4.00",
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 1.0,
@@ -8690,7 +8690,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Old Mout Cider Spiced Clementine & Cranberry Can 500ml",
+      "title": "Old Mout Cider Spiced Clementine & Cranberry 500ml",
       "price": "£2.40",
       "promotion": "Any 4 for £7",
       "saving": 0.65,
@@ -9282,15 +9282,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/3429000"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "BrewDog Shore Leave",
-      "price": "£2.55",
-      "promotion": "Save 20%, was £2.55",
-      "saving": 0.51,
-      "link": "https://groceries.morrisons.com/products/brewdog-shore-leave/113371465"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Budweiser Lager Beer Bottle 660ml",
@@ -9397,15 +9388,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/gwynt-y-ddraig-welsh-black-dragon-cider-500ml/101538344"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Session IPA Ale Beer Cans 4x440ml",
-      "price": "£4.50",
-      "promotion": "Now £4, Was £4.50",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-session-ipa-ale-beer-cans-4x440ml/113405231"
     },
     {
       "store": "Asda",
@@ -10355,6 +10337,15 @@
     {
       "store": "Asda",
       "category": "spirits",
+      "title": "ASDA McKendrick's Blended Scotch Whisky 3 Years Old 70cl",
+      "price": "£13.23",
+      "promotion": "Now £13.23, Was £13.50",
+      "saving": 0.27,
+      "link": "https://www.asda.com/groceries/product/x/x/2933697"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
       "title": "JJ Whitley Pink Gin 1 Litre",
       "price": "£19.50",
       "promotion": "Now £19.50, Was £19.77",
@@ -10634,7 +10625,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Timothy Taylor's Landlord The Classic Pale Ale 500ml",
+      "title": "Timothy Taylor's Landlord Ale 500ml",
       "price": "£2.00",
       "promotion": "Any 4 for £7",
       "saving": 0.25,
