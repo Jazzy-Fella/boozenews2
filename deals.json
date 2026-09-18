@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T11:24:52.587108+00:00",
-  "total": 1225,
+  "updated": "2026-09-18T10:58:29.060474+00:00",
+  "total": 1235,
   "deals": [
     {
       "store": "Morrisons",
@@ -210,15 +210,6 @@
       "link": "https://groceries.morrisons.com/products/tamnavulin-sherry-cask-single-malt-scotch-whisky/111659431"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "The Ardmore Legacy Single Malt Scotch Whisky 70cl",
-      "price": "£22.00",
-      "promotion": "Now £22.00, Was £33.00",
-      "saving": 11.0,
-      "link": "https://www.asda.com/groceries/product/x/x/4994880"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Warner's London Dry Gin 70cl",
@@ -361,15 +352,6 @@
       "promotion": "Now £28, Was £38",
       "saving": 10.0,
       "link": "https://groceries.morrisons.com/products/woodford-reserve-bourbon-whisky/108225236"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Jack Daniel's Single Barrel Select Tennessee Whiskey 70 cL",
-      "price": "£36.00",
-      "promotion": "Now £36.00, Was £45.97",
-      "saving": 9.97,
-      "link": "https://www.asda.com/groceries/product/x/x/5005338"
     },
     {
       "store": "Morrisons",
@@ -1535,11 +1517,11 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Morrisons The Best Valpolicella Ripasso",
+      "title": "Morrisons The Best Valpolicella Ripasso 75cl",
       "price": "£12.75",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.83,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-valpolicella-ripasso/105339561"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-valpolicella-ripasso-75cl/105339561"
     },
     {
       "store": "Morrisons",
@@ -2010,6 +1992,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9340692"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Brewdog Krush 440ml",
+      "price": "£4.00",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9340407"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Cockburns Special Reserve",
@@ -2399,11 +2390,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Gruner Veltliner",
+      "title": "Morrisons The Best Gruner Veltliner 75cl",
       "price": "£10.00",
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-gruner-veltliner/106472591"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-gruner-veltliner-75cl/106472591"
     },
     {
       "store": "Morrisons",
@@ -3286,15 +3277,6 @@
       "promotion": "Buy 3 Save 30% - More Card Price",
       "saving": 2.48,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-organic-montepulciano-d-abruzzo-75cl/111806120"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Exceptional by ASDA Crémant D'Alsace Brut 75cl",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £12.46",
-      "saving": 2.46,
-      "link": "https://www.asda.com/groceries/product/x/x/7313852"
     },
     {
       "store": "Asda",
@@ -4352,6 +4334,33 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Asquith Break the Cycle Session IPA 440ml",
+      "price": "£2.50",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9356994"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Asquith Craft Hazy 440ml",
+      "price": "£2.50",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9363558"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Asquith Craft NEIPA 440ml",
+      "price": "£2.50",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 1.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9360668"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "BrewDog Punk IPA Post Modern Classic 440ml",
       "price": "£2.50",
       "promotion": "ANY 4 FOR 3",
@@ -5007,6 +5016,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/7328259"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Antica Sambuca with Liquorice Flavour Liqueur 70cl",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £17.46",
+      "saving": 1.46,
+      "link": "https://www.asda.com/groceries/product/x/x/2863515"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "BrewDog Elvis Juice Grapefruit Infused IPA 4x330ml",
@@ -5014,6 +5032,15 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.45,
       "link": "https://groceries.morrisons.com/products/brewdog-elvis-juice-grapefruit-infused-ipa-4x330ml/108901986"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Sandford Orchards Vintage The General Mighty Vat-Aged Cider 500ml",
+      "price": "£3.20",
+      "promotion": "Any 4 for £7",
+      "saving": 1.45,
+      "link": "https://www.asda.com/groceries/product/x/x/9409034"
     },
     {
       "store": "Asda",
@@ -5675,11 +5702,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Buzzballz Berry Cherry Limeade 20cl",
+      "title": "Buzzballz Berry Cherry Limeade 200ml",
       "price": "£4.20",
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 1.2,
-      "link": "https://groceries.morrisons.com/products/buzzballz-berry-cherry-limeade-20cl/115808026"
+      "link": "https://groceries.morrisons.com/products/buzzballz-berry-cherry-limeade-200ml/115808026"
     },
     {
       "store": "Morrisons",
@@ -5779,6 +5806,24 @@
       "promotion": "Any 4 for £7",
       "saving": 1.15,
       "link": "https://www.asda.com/groceries/product/x/x/6402290"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Twice Brewed Sycamore Gap Bitter 500ml",
+      "price": "£2.89",
+      "promotion": "Any 4 for £7",
+      "saving": 1.14,
+      "link": "https://www.asda.com/groceries/product/x/x/9409274"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Twice Brewed Sycamore Gap Pale Ale 500ml",
+      "price": "£2.89",
+      "promotion": "Any 4 for £7",
+      "saving": 1.14,
+      "link": "https://www.asda.com/groceries/product/x/x/9405723"
     },
     {
       "store": "Morrisons",
@@ -6042,6 +6087,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/9369588"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Bear Cider 500ml",
+      "price": "£2.75",
+      "promotion": "Any 4 for £7",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9394980"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Bearry Cider 500ml",
+      "price": "£2.75",
+      "promotion": "Any 4 for £7",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9386988"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Birra Moretti Lager Beer Bottle",
@@ -6067,6 +6130,15 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/black-sheep-ale-4x440ml/104668460"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Brewdog Palm Break null 4x330",
+      "price": "£6.00",
+      "promotion": "Any 2 for £10",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9342396"
     },
     {
       "store": "Asda",
@@ -6472,6 +6544,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 0.99,
       "link": "https://www.asda.com/groceries/product/x/x/7618657"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Sandford Orchards Devon Red Supreme Cider 500ml",
+      "price": "£2.73",
+      "promotion": "Any 4 for £7",
+      "saving": 0.98,
+      "link": "https://www.asda.com/groceries/product/x/x/9407127"
     },
     {
       "store": "Asda",
@@ -7899,7 +7980,7 @@
       "store": "Morrisons",
       "category": "beer",
       "title": "Greene King IPA 10x440ml",
-      "price": "£8.75",
+      "price": "£10.00",
       "promotion": "Now £8, Was £8.75",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/greene-king-ipa-10x440ml/114885901"
@@ -8173,6 +8254,15 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/wkd-pineapple-ice-700ml/116107344"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Sandford Orchards Wild Cherry Fruit Cider 500ml",
+      "price": "£2.48",
+      "promotion": "Any 4 for £7",
+      "saving": 0.73,
+      "link": "https://www.asda.com/groceries/product/x/x/9409221"
     },
     {
       "store": "Asda",
