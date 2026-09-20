@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T10:42:15.998915+00:00",
-  "total": 1239,
+  "updated": "2026-09-20T11:04:43.902248+00:00",
+  "total": 1240,
   "deals": [
     {
       "store": "Morrisons",
@@ -5585,6 +5585,15 @@
     {
       "store": "Asda",
       "category": "other",
+      "title": "Smirnoff Raspberry Crush & Lemonade 5% vol Ready To Drink Premix 250ml Can",
+      "price": "£1.98",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 1.23,
+      "link": "https://www.asda.com/groceries/product/x/x/7268768"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
       "title": "Breezer Orange, 27.5cl",
       "price": "£1.97",
       "promotion": "ANY 4 FOR 3",
@@ -5707,15 +5716,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.22,
       "link": "https://www.asda.com/groceries/product/x/x/5096653"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Smirnoff Raspberry Crush & Lemonade 5% vol Ready To Drink Premix 250ml Can",
-      "price": "£1.97",
-      "promotion": "ANY 4 FOR 3",
-      "saving": 1.22,
-      "link": "https://www.asda.com/groceries/product/x/x/7268768"
     },
     {
       "store": "Asda",
@@ -6022,6 +6022,15 @@
       "promotion": "Buy 8 for £12 - Online Exclusive",
       "saving": 1.1,
       "link": "https://groceries.morrisons.com/products/jameson-ginger-lime-can/115455671"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Skinny Premium Lager 4 x 330ml",
+      "price": "£5.50",
+      "promotion": "Now £4.40, Was £5.50",
+      "saving": 1.1,
+      "link": "https://groceries.morrisons.com/products/skinny-premium-lager-4-x-330ml/115339194"
     },
     {
       "store": "Morrisons",
