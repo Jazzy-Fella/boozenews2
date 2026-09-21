@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T11:04:43.902248+00:00",
-  "total": 1240,
+  "updated": "2026-09-21T12:32:24.240400+00:00",
+  "total": 1239,
   "deals": [
     {
       "store": "Morrisons",
@@ -374,15 +374,6 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Glenfiddich Fire & Cane Malt Whisky",
-      "price": "£47.50",
-      "promotion": "Save 20%, was £47.50",
-      "saving": 9.5,
-      "link": "https://groceries.morrisons.com/products/glenfiddich-fire-cane-malt-whisky/113040738"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "Bruichladdich Classic Laddie Malt Whisky",
       "price": "£46.50",
       "promotion": "Save 20%, was £46.50",
@@ -721,15 +712,6 @@
       "promotion": "Now £11, Was £17.50",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/baileys-salted-caramel-irish-cream-liqueur-abv-17-50cl/113334031"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bell's Original Blended Scotch Whisky 1L",
-      "price": "£25.00",
-      "promotion": "Now £18.50, Was £25",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/bell-s-original-blended-scotch-whisky-1l/101537392"
     },
     {
       "store": "Morrisons",
@@ -5585,15 +5567,6 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Smirnoff Raspberry Crush & Lemonade 5% vol Ready To Drink Premix 250ml Can",
-      "price": "£1.98",
-      "promotion": "ANY 4 FOR 3",
-      "saving": 1.23,
-      "link": "https://www.asda.com/groceries/product/x/x/7268768"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Breezer Orange, 27.5cl",
       "price": "£1.97",
       "promotion": "ANY 4 FOR 3",
@@ -5716,6 +5689,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.22,
       "link": "https://www.asda.com/groceries/product/x/x/5096653"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Raspberry Crush & Lemonade 5% vol Ready To Drink Premix 250ml Can",
+      "price": "£1.97",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 1.22,
+      "link": "https://www.asda.com/groceries/product/x/x/7268768"
     },
     {
       "store": "Asda",
@@ -6215,7 +6197,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Brooklyn Brewery Limited Edition the Stonewall Inn Session IPA 4 x 330ml",
+      "title": "Brooklyn Brewery Brooklyn Stonewall Inn IPA Ale Cans 4 x 330ml",
       "price": "£6.00",
       "promotion": "Any 2 for £10",
       "saving": 1.0,
@@ -10459,6 +10441,15 @@
       "promotion": "Any 3 For £20",
       "saving": 0.33,
       "link": "https://www.asda.com/groceries/product/x/x/6701422"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Magners The Original Irish Cider 4 x 440ml",
+      "price": "£4.30",
+      "promotion": "Now £4.30, Was £4.60",
+      "saving": 0.3,
+      "link": "https://www.asda.com/groceries/product/x/x/4454279"
     },
     {
       "store": "Asda",
