@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T11:29:59.210049+00:00",
-  "total": 1209,
+  "updated": "2026-09-25T11:35:45.302085+00:00",
+  "total": 1204,
   "deals": [
     {
       "store": "Asda",
@@ -187,7 +187,7 @@
       "category": "spirits",
       "title": "Chivas Regal Extra Aged 13 Years Blended Scotch Whisky",
       "price": "£37.00",
-      "promotion": "Now £25.50, Was £37",
+      "promotion": "£25.50 - More Card Price",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/chivas-regal-extra-aged-13-years-blended-scotch-whisky/113041917"
     },
@@ -556,7 +556,7 @@
       "category": "other",
       "title": "Ableforth's Bathtub Gin",
       "price": "£33.00",
-      "promotion": "Now £26, Was £33",
+      "promotion": "£26.00 - More Card Price",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/ableforth-s-bathtub-gin/113183042"
     },
@@ -673,7 +673,7 @@
       "category": "spirits",
       "title": "Jack Daniel's Tennessee Whiskey Apple ",
       "price": "£25.50",
-      "promotion": "Now £19, Was £25.50",
+      "promotion": "£19.00 - More Card Price",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey-apple/111096746"
     },
@@ -820,15 +820,6 @@
       "promotion": "Now £11.50, Was £17.50",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-rhubarb-ginger-liqueur/109177627"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Glen Moray Twisted Vine Single Malt Scotch Whisky",
-      "price": "£30.00",
-      "promotion": "Save 20%, was £30",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/glen-moray-twisted-vine-single-malt-scotch-whisky/113041941"
     },
     {
       "store": "Morrisons",
@@ -1546,7 +1537,7 @@
       "category": "spirits",
       "title": "Pernod Aniseed Liqueur",
       "price": "£24.00",
-      "promotion": "Now £20.25, Was £24",
+      "promotion": "£20.25 - More Card Price",
       "saving": 3.75,
       "link": "https://groceries.morrisons.com/products/pernod-aniseed-liqueur/101568658"
     },
@@ -2228,7 +2219,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Sol Beer Original Mexican Lager 3.4% ABV Bottle 15x330ml",
+      "title": "Sol Beer Original Mexican Lager 3.4% ABV Beer Bottles 15 x 330ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
       "saving": 3.0,
@@ -2611,15 +2602,6 @@
       "promotion": "Buy 2 for £18",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-cans-10-x-440ml/109710225"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Carling Original Lager Beer Can 10 x 440ml",
-      "price": "£8.50",
-      "promotion": "Now £8.50, Was £11.00",
-      "saving": 2.5,
-      "link": "https://www.asda.com/groceries/product/x/x/6681894"
     },
     {
       "store": "Asda",
@@ -4161,6 +4143,15 @@
       "link": "https://groceries.morrisons.com/products/bud-light-18x440ml-cans/113371289"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Campaneo Old Vines Garnacha",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £12",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/campaneo-old-vines-garnacha/113425865"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Captain Morgan Original Spiced Gold and Pepsi MAX® Pre-mix 6x250ml 5% vol can",
@@ -4249,6 +4240,15 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/estrella-galicia-4x440ml/115988944"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Firstcape Special Cuvee Chenin Blanc 75CL",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £12",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/firstcape-special-cuvee-chenin-blanc-75cl/115448294"
     },
     {
       "store": "Morrisons",
@@ -5547,15 +5547,6 @@
       "link": "https://groceries.morrisons.com/products/asahi-super-dry-lager-beer-bottle/113168053"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA Triple Distilled Vodka 1 Litre",
-      "price": "£17.40",
-      "promotion": "Now £17.40, Was £18.50",
-      "saving": 1.1,
-      "link": "https://www.asda.com/groceries/product/x/x/1374"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Cloudy Cider 4x440ml",
@@ -5941,6 +5932,15 @@
       "promotion": "Any 2 for £20",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/3866014"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Kronenbourg 1664 Biere Beer Lager Cans 10 x 440ml",
+      "price": "£11.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/kronenbourg-1664-biere-beer-lager-cans-10-x-440ml/113898398"
     },
     {
       "store": "Morrisons",
@@ -9975,15 +9975,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/4698600"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA London Dry Gin 1 Litre",
-      "price": "£18.10",
-      "promotion": "Now £18.10, Was £18.50",
-      "saving": 0.4,
-      "link": "https://www.asda.com/groceries/product/x/x/1190897"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Au Vodka Black Grape Soda Can 330m",
@@ -10175,15 +10166,6 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "ASDA McKendrick's Blended Scotch Whisky 3 Years Old 70cl",
-      "price": "£13.23",
-      "promotion": "Now £13.23, Was £13.50",
-      "saving": 0.27,
-      "link": "https://www.asda.com/groceries/product/x/x/2933697"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
       "title": "JJ Whitley Pink Gin 1 Litre",
       "price": "£19.50",
       "promotion": "Now £19.50, Was £19.77",
@@ -10252,15 +10234,6 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 0.25,
       "link": "https://groceries.morrisons.com/products/aperol-spritz-ready-to-go-can/115964491"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA Superior White Rum 1 Litre",
-      "price": "£18.25",
-      "promotion": "Now £18.25, Was £18.50",
-      "saving": 0.25,
-      "link": "https://www.asda.com/groceries/product/x/x/1795"
     },
     {
       "store": "Asda",
@@ -10714,15 +10687,6 @@
     },
     {
       "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA McKendrick's Blended Scotch Whisky 3 Years Old 1 Litre",
-      "price": "£18.87",
-      "promotion": "Now £18.87, Was £19.00",
-      "saving": 0.13,
-      "link": "https://www.asda.com/groceries/product/x/x/2933700"
-    },
-    {
-      "store": "Asda",
       "category": "beer",
       "title": "Old Speckled Hen English Pale Ale 4 x 500ml",
       "price": "£5.69",
@@ -10855,15 +10819,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.03,
       "link": "https://www.asda.com/groceries/product/x/x/628879"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA McKendrick's Blended Scotch Whisky 3 Years Old 35cl",
-      "price": "£7.24",
-      "promotion": "Now £7.24, Was £7.25",
-      "saving": 0.01,
-      "link": "https://www.asda.com/groceries/product/x/x/2933695"
     },
     {
       "store": "Asda",
