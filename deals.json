@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T11:35:45.302085+00:00",
-  "total": 1204,
+  "updated": "2026-09-26T11:10:32.134540+00:00",
+  "total": 1202,
   "deals": [
     {
       "store": "Asda",
@@ -370,33 +370,6 @@
       "promotion": "Now £25.00, Was £34.00",
       "saving": 9.0,
       "link": "https://www.asda.com/groceries/product/x/x/5221614"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Whitley Neill Black Cherry Gin",
-      "price": "£30.00",
-      "promotion": "£21.00 - More Card Price",
-      "saving": 9.0,
-      "link": "https://groceries.morrisons.com/products/whitley-neill-black-cherry-gin/113041888"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Whitley Neill Handcrafted Dry Raspberry Gin",
-      "price": "£30.00",
-      "promotion": "£21.00 - More Card Price",
-      "saving": 9.0,
-      "link": "https://groceries.morrisons.com/products/whitley-neill-handcrafted-dry-raspberry-gin/113212368"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Whitley Neill Blood Orange Gin",
-      "price": "£29.75",
-      "promotion": "£21.00 - More Card Price",
-      "saving": 8.75,
-      "link": "https://groceries.morrisons.com/products/whitley-neill-blood-orange-gin/113211533"
     },
     {
       "store": "Morrisons",
@@ -1299,15 +1272,6 @@
       "link": "https://groceries.morrisons.com/products/staropramen-pilsner-lager-beer-cans/114973185"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Gordon's Premium Pink Gin Based Flavoured Spirit Drink 35% vol 1L Bottle",
-      "price": "£22.75",
-      "promotion": "Now £22.75, Was £27.00",
-      "saving": 4.25,
-      "link": "https://www.asda.com/groceries/product/x/x/9184097"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Heineken Original Premium Lager Beer 5% ABV Bottles 12x330ml",
@@ -2084,7 +2048,7 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Desperados Original Beer Lager Cans 10 x 330ml",
+      "title": "Desperados Original Beer Lager 5.9% ABV Cans 10 x 330ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
       "saving": 3.0,
@@ -2161,6 +2125,15 @@
       "promotion": "Now £12.00, Was £15.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/9359241"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Kopparberg Duo-Flavour Pack Premium Cider 12 x 330ml",
+      "price": "£13.00",
+      "promotion": "Any 2 for £20",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9394737"
     },
     {
       "store": "Asda",
@@ -4386,15 +4359,6 @@
       "link": "https://groceries.morrisons.com/products/newcastle-brown-ale-cans-4x550ml/101525682"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "Nice Sparkling White 200ml",
-      "price": "£2.25",
-      "promotion": "ANY 4 FOR 3",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9104004"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Northern Monk Faith 4x330ml",
@@ -4935,6 +4899,15 @@
       "link": "https://groceries.morrisons.com/products/cuba-azul-alvarinho/113159464"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Gordon's Premium Pink Gin Based Flavoured Spirit Drink 35% vol 1L Bottle",
+      "price": "£21.50",
+      "promotion": "Now £21.50, Was £22.75",
+      "saving": 1.25,
+      "link": "https://www.asda.com/groceries/product/x/x/9184097"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Kirin Ichiban Japanese Premium Beer 4x440ml",
@@ -5207,7 +5180,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Old Mout Cider Gin Cocktail Raspberry & Rhubarb Can 330ml",
+      "title": "Old Mout Cider Gin Cocktail Raspberry & Rhubarb 6% Alc Can 330ml",
       "price": "£1.97",
       "promotion": "ANY 4 FOR 3",
       "saving": 1.22,
@@ -5216,7 +5189,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Old Mout Cider Vodka Cocktail Passionfruit & Lime Can 330ml",
+      "title": "Old Mout Cider Vodka Cocktail Passionfruit & Lime 6% Alc Can 330ml",
       "price": "£1.97",
       "promotion": "ANY 4 FOR 3",
       "saving": 1.22,
@@ -5545,6 +5518,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.1,
       "link": "https://groceries.morrisons.com/products/asahi-super-dry-lager-beer-bottle/113168053"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Desperados Original Beer Lager 5.9% ABV Bottles 3 x 330ml",
+      "price": "£6.10",
+      "promotion": "Any 2 for £10",
+      "saving": 1.1,
+      "link": "https://www.asda.com/groceries/product/x/x/4057561"
     },
     {
       "store": "Morrisons",
@@ -7987,15 +7969,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Kopparberg Strawberry Gin & Lemonade ",
-      "price": "£2.20",
-      "promotion": "Buy 8 for £12 - Online Exclusive",
-      "saving": 0.7,
-      "link": "https://groceries.morrisons.com/products/kopparberg-strawberry-gin-lemonade/110644982"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Kopparberg Vintage Sweet Apple Cider 500ml",
       "price": "£2.70",
@@ -8479,6 +8452,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.65,
       "link": "https://www.asda.com/groceries/product/x/x/2156392"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Veltins Pilsener 500Ml",
+      "price": "£2.65",
+      "promotion": "Buy 4 for £8",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/veltins-pilsener-500ml/116285351"
     },
     {
       "store": "Asda",
