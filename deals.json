@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T12:33:16.711972+00:00",
-  "total": 1249,
+  "updated": "2026-09-30T12:20:58.086152+00:00",
+  "total": 1127,
   "deals": [
     {
       "store": "Asda",
@@ -158,11 +158,11 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Johnnie Walker Black Label 12 YO Blended Scotch Whisky  ",
+      "title": "Johnnie Walker Black Label 12 YO Blended Scotch Whisky 1L",
       "price": "£36.00",
       "promotion": "Now £24, Was £36",
       "saving": 12.0,
-      "link": "https://groceries.morrisons.com/products/johnnie-walker-black-label-12-yo-blended-scotch-whisky/102888426"
+      "link": "https://groceries.morrisons.com/products/johnnie-walker-black-label-12-yo-blended-scotch-whisky-1l/102888426"
     },
     {
       "store": "Morrisons",
@@ -318,6 +318,24 @@
       "link": "https://groceries.morrisons.com/products/the-woodsman-blended-scotch-whisky/111555261"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Whitley Neill Black Cherry Gin",
+      "price": "£30.00",
+      "promotion": "£20.00 - More Card Price",
+      "saving": 10.0,
+      "link": "https://groceries.morrisons.com/products/whitley-neill-black-cherry-gin/113041888"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Whitley Neill Handcrafted Dry Raspberry Gin",
+      "price": "£30.00",
+      "promotion": "£20.00 - More Card Price",
+      "saving": 10.0,
+      "link": "https://groceries.morrisons.com/products/whitley-neill-handcrafted-dry-raspberry-gin/113212368"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Haig Club Club Clubman Single Grain Scotch Whisky 40% vol 70cl Bottle",
@@ -328,9 +346,18 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "Whitley Neill Blood Orange Gin",
+      "price": "£29.75",
+      "promotion": "£20.00 - More Card Price",
+      "saving": 9.75,
+      "link": "https://groceries.morrisons.com/products/whitley-neill-blood-orange-gin/113211533"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Bankhall Single Malt Whisky ",
-      "price": "£25.50",
+      "price": "£16.00",
       "promotion": "Now £16, Was £25.50",
       "saving": 9.5,
       "link": "https://groceries.morrisons.com/products/bankhall-single-malt-whisky/113800012"
@@ -508,6 +535,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "Plymouth The Original Strength English Gin",
+      "price": "£29.50",
+      "promotion": "£22.00 - More Card Price",
+      "saving": 7.5,
+      "link": "https://groceries.morrisons.com/products/plymouth-the-original-strength-english-gin/101574484"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Sipsmith London Dry Gin (Abv 41.6%)   70cl",
       "price": "£31.00",
@@ -562,18 +598,9 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Plymouth The Original Strength English Gin",
-      "price": "£29.50",
-      "promotion": "£22.50 - More Card Price",
-      "saving": 7.0,
-      "link": "https://groceries.morrisons.com/products/plymouth-the-original-strength-english-gin/101574484"
-    },
-    {
-      "store": "Morrisons",
       "category": "spirits",
       "title": "Three Barrels Brandy 1L",
-      "price": "£27.00",
+      "price": "£20.00",
       "promotion": "Now £20, Was £27",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/three-barrels-brandy-1l/107044927"
@@ -690,7 +717,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Bacardi Carta Blanca Superior White Rum 1L",
-      "price": "£25.50",
+      "price": "£19.50",
       "promotion": "Now £19.50, Was £25.50",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/bacardi-carta-blanca-superior-white-rum-1l/101550917"
@@ -762,7 +789,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jim Beam Kentucky Straight Bourbon Whiskey ",
-      "price": "£28.00",
+      "price": "£22.00",
       "promotion": "Now £22, Was £28",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/jim-beam-kentucky-straight-bourbon-whiskey/103994511"
@@ -861,10 +888,28 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Bacardi Spiced Premium Rum Spirit Drink",
-      "price": "£25.00",
+      "price": "£19.50",
       "promotion": "Now £19.50, Was £25",
       "saving": 5.5,
       "link": "https://groceries.morrisons.com/products/bacardi-spiced-premium-rum-spirit-drink/110620729"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bell's Original Blended Scotch Whisky 40% vol 1L Bottle",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £24.00",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/1397"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Captain Morgan Original Spiced Gold 35% vol 1L",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £24.00",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/4559481"
     },
     {
       "store": "Asda",
@@ -904,6 +949,24 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "Gordon's Premium Pink Spirit Drink ",
+      "price": "£27.00",
+      "promotion": "£21.50 - More Card Price",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/gordon-s-premium-pink-spirit-drink/114205338"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Gordon's Special Dry London Gin 37.5% vol 1L",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £24.00",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/2230"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Langs Spiced Rum 70CL",
       "price": "£27.00",
@@ -919,6 +982,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 5.5,
       "link": "https://groceries.morrisons.com/products/les-cles-de-la-tour/114352434"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Smirnoff Red Label Vodka 37.5% vol 1L",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £24.00",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/1363"
     },
     {
       "store": "Asda",
@@ -973,6 +1045,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 5.25,
       "link": "https://groceries.morrisons.com/products/magners-original-cider-cans-18x440ml/104802825"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Absolut Raspberri Raspberry Flavoured Vodka 70CL",
+      "price": "£23.50",
+      "promotion": "£18.50 - More Card Price",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/absolut-raspberri-raspberry-flavoured-vodka-70cl/112393312"
     },
     {
       "store": "Morrisons",
@@ -1135,6 +1216,15 @@
       "promotion": "Now £19, Was £23.75",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/absolut-blue-original-swedish-vodka-70cl/101541973"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Absolut Tabasco 700ml",
+      "price": "£23.25",
+      "promotion": "£18.50 - More Card Price",
+      "saving": 4.75,
+      "link": "https://groceries.morrisons.com/products/absolut-tabasco-700ml/115874605"
     },
     {
       "store": "Morrisons",
@@ -1311,7 +1401,7 @@
       "store": "Morrisons",
       "category": "beer",
       "title": "Foster's Lager Beer Can  18 x 440ml",
-      "price": "£13.00",
+      "price": "£10.00",
       "promotion": "Now £8.97, Was £13",
       "saving": 4.03,
       "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-18-x-440ml/115868627"
@@ -1472,15 +1562,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Absolut Tabasco 700ml",
-      "price": "£23.25",
-      "promotion": "£19.50 - More Card Price",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/absolut-tabasco-700ml/115874605"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Beefeater Blood Orange Flavoured Gin",
       "price": "£19.75",
       "promotion": "Now £16, Was £19.75",
@@ -1612,6 +1693,15 @@
       "promotion": "£23.50 - More Card Price",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/el-jimador-tequila-reposado/113040981"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Faustino Rivero Ulecia Reserva, Utiel Requena ",
+      "price": "£12.00",
+      "promotion": "£8.50 - More Card Price",
+      "saving": 3.5,
+      "link": "https://groceries.morrisons.com/products/faustino-rivero-ulecia-reserva-utiel-requena/116060064"
     },
     {
       "store": "Morrisons",
@@ -2368,6 +2458,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/old-mout-pineapple-raspberry-cider-cans-10x330ml/110470193"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Peroni Nastro Azzurro Bottled Beer Lager Bottles 4x330ml",
+      "price": "£6.00",
+      "promotion": "Now £4.50, Was £7.50",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-bottled-beer-lager-bottles-4x330ml/112616889"
     },
     {
       "store": "Morrisons",
@@ -5205,15 +5304,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/3552692"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Batemans Xxxb Bitter      ",
-      "price": "£3.25",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.38,
-      "link": "https://groceries.morrisons.com/products/batemans-xxxb-bitter/101584703"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Desperados Red Berries Guarana Fruit Beer 5.9% ABV Single Can 330ml",
@@ -5221,15 +5311,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.38,
       "link": "https://www.asda.com/groceries/product/x/x/9374633"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hook Norton Brewery Old Hooky Beer Bottle ",
-      "price": "£3.25",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.38,
-      "link": "https://groceries.morrisons.com/products/hook-norton-brewery-old-hooky-beer-bottle/110434993"
     },
     {
       "store": "Asda",
@@ -5592,51 +5673,6 @@
       "link": "https://groceries.morrisons.com/products/theakston-old-peculier-ale-4x440ml/111820301"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Dartmoor Jail Ale 4.8%",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/dartmoor-jail-ale-4-8/108655041"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Exmoor Gold Ale",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/exmoor-gold-ale/103304218"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Exmoor Stag Bittler 500ml",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/exmoor-stag-bittler-500ml/111034254"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "J.W. Lees Moonraker",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/j-w-lees-moonraker/101578987"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Robinsons Old Tom Premium Ale",
-      "price": "£3.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.23,
-      "link": "https://groceries.morrisons.com/products/robinsons-old-tom-premium-ale/103304411"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Smirnoff Miami Peach & Lemonade Ready to Drink 5% vol 250ml",
@@ -5995,78 +6031,6 @@
       "promotion": "Now £8.00, Was £9.13",
       "saving": 1.13,
       "link": "https://www.asda.com/groceries/product/x/x/9065842"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Glamorgan Jemima's Pitchfork",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/glamorgan-jemima-s-pitchfork/108930091"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Glamorgan Welsh Pale Ale ",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/glamorgan-welsh-pale-ale/106819161"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Kite Cwrw Gorslas Kite Cwrw Gorslas Amber Bitter Ale ",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/kite-cwrw-gorslas-kite-cwrw-gorslas-amber-bitter-ale/106819209"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Oakham Inferno Ale 500ml",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/oakham-inferno-ale-500ml/105281056"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Otter Ale ",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/otter-ale/108928169"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Otter Bright Pale Beer  ",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/otter-bright-pale-beer/108928089"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Salcombe Brewery Shingle Bay Golden Ale 500ml",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/salcombe-brewery-shingle-bay-golden-ale-500ml/111935116"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Timothy Taylor's Landlord Dark Ale ",
-      "price": "£3.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 1.12,
-      "link": "https://groceries.morrisons.com/products/timothy-taylor-s-landlord-dark-ale/111340227"
     },
     {
       "store": "Morrisons",
@@ -6960,168 +6924,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9339246"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Badger Tangle Foot Golden Ale",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/badger-tangle-foot-golden-ale/101554547"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Butcombe Original Beer Bottle",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/butcombe-original-beer-bottle/108848610"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Clogwyn Gold 4%",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/clogwyn-gold-4/107164902"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Dartmoor Legend Ale (Abv 4.4%)",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/dartmoor-legend-ale-abv-4-4/108929920"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Felinfoel Double Dragon Welsh Ale  ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/felinfoel-double-dragon-welsh-ale/103304980"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Fuller's London Pride Amber Ale Large Bottle",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/fuller-s-london-pride-amber-ale-large-bottle/101558530"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Ilkley Pale Ale",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/ilkley-pale-ale/103243654"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "India Pale Ale ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/india-pale-ale/105300851"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Kirkstall Brewery Three Swords Extra Pale Ale (Abv 4.5%)",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/kirkstall-brewery-three-swords-extra-pale-ale-abv-4-5/110259582"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Leffe Blonde ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/leffe-blonde/114500767"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Purple Moose Calon Lan",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/purple-moose-calon-lan/113399425"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Rudgate Jorvik Flaxen Blonde Ale",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/rudgate-jorvik-flaxen-blonde-ale/108206414"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Saltaire Brewery Citra ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/saltaire-brewery-citra/110726831"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Saltaire Cascade Pale",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/saltaire-cascade-pale/103243347"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Saltaire South Island Pale ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/saltaire-south-island-pale/108930197"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Sharp's Atlantic Pale Ale ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/sharp-s-atlantic-pale-ale/107615603"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Sharp's Doom Bar Amber Ale ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/sharp-s-doom-bar-amber-ale/101584447"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Theakston Peculier IPA",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/theakston-peculier-ipa/113397770"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Wold Top Alpine Pale 500ml",
@@ -7129,15 +6931,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.92,
       "link": "https://www.asda.com/groceries/product/x/x/9366646"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wold Top Yorkshire Wold Gold Beer ",
-      "price": "£2.80",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/wold-top-yorkshire-wold-gold-beer/108145412"
     },
     {
       "store": "Asda",
@@ -7374,60 +7167,6 @@
       "link": "https://groceries.morrisons.com/products/white-claw-hard-seltzer-black-cherry/113182816"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Badger Iron Hart Pale Ale 500ML",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/badger-iron-hart-pale-ale-500ml/115981144"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Double Ghost IPA 500ml (Abv 5.2%)",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/double-ghost-ipa-500ml-abv-5-2/114186430"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Exeter Brewery Avocet 500ML",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/exeter-brewery-avocet-500ml/115980942"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Oakham Citra Beer Bottle 500ml",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/oakham-citra-beer-bottle-500ml/106738901"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Oakham Krush ",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/oakham-krush/115980555"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Otter Amber 500ML",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/otter-amber-500ml/115980731"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Peroni Nastro Azzurro Italian Beer 620ml Bottle",
@@ -7435,42 +7174,6 @@
       "promotion": "Any 5 for £10",
       "saving": 0.88,
       "link": "https://www.asda.com/groceries/product/x/x/7419193"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Salcombe Brewery Co. Devon Amber ",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/salcombe-brewery-co-devon-amber/111924610"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Salcombe Brewery Co. Lifesaver ",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/salcombe-brewery-co-lifesaver/111936881"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Salcombe Brewery Co. Seahorse Amber Ale 500g",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/salcombe-brewery-co-seahorse-amber-ale-500g/112318048"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Salcombe Brewery Gold ",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.88,
-      "link": "https://groceries.morrisons.com/products/salcombe-brewery-gold/112654156"
     },
     {
       "store": "Asda",
@@ -8517,321 +8220,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9078711"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "1698 Celebration Ale ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/1698-celebration-ale/102328040"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Arran Blonde 5%",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/arran-blonde-5/107616981"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Badger Fursty Ferret Amber Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/badger-fursty-ferret-amber-ale/101568332"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Badger Golden Champion Golden Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/badger-golden-champion-golden-ale/109925381"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Badger The Cranborne Poacher Ruby Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/badger-the-cranborne-poacher-ruby-ale/101530140"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Belhaven Black",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/belhaven-black/104975785"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Black Sheep Best Bitter 500ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/black-sheep-best-bitter-500ml/115081154"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Black Sheep Riggwelter Strong Yorkshire Ale Bottle",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/black-sheep-riggwelter-strong-yorkshire-ale-bottle/101577984"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Butcombe Rare Breed Pale Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/butcombe-rare-breed-pale-ale/113397711"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Butty Bach Ale 500ml  ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/butty-bach-ale-500ml/106800559"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Cairngorm Brewery Bothy Beer 500ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewery-bothy-beer-500ml/114864085"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Cairngorm Brewing Company Cairngorm Ipa",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewing-company-cairngorm-ipa/110877196"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Double Maxim Premium Brown Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/double-maxim-premium-brown-ale/101558396"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Five Points Best",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/five-points-best/113398211"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Fullers Black Cab Stout ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/fullers-black-cab-stout/104839468"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Guinness Original Extra Stout Beer 4.2% vol Bottle",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/guinness-original-extra-stout-beer-4-2-vol-bottle/101570811"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Guinness West Indies Porter Beer 6% vol Bottle 550ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/guinness-west-indies-porter-beer-6-vol-bottle-550ml/106801121"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Harviestoun Brewery Bitter & Twisted Golden Ale 500ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/harviestoun-brewery-bitter-twisted-golden-ale-500ml/115103018"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Harviestoun Schiehallion Craft Brewed Lager",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/harviestoun-schiehallion-craft-brewed-lager/101565561"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin IPA Ale Beer Bottle",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-ipa-ale-beer-bottle/113222751"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Isle Of Skye Brewing Co. Skye Red",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/isle-of-skye-brewing-co-skye-red/109489330"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Old Midnight Hen Ale ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/old-midnight-hen-ale/113949731"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Orkney Dark Island 4.6%",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/orkney-dark-island-4-6/101584421"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Purity Brewing Co. Mad Goose Pale Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/purity-brewing-co-mad-goose-pale-ale/108160760"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Robinsons Brewery Iron Maiden Trooper Premium British Beer Bottle 50cl",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/robinsons-brewery-iron-maiden-trooper-premium-british-beer-bottle-50cl/105680428"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Saltaire Blonde Premium Ale ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/saltaire-blonde-premium-ale/103957446"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "St. Peter's Best Bitter Bottle",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/st-peter-s-best-bitter-bottle/112579969"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Stewart Brewing Edinburgh Gold Golden Ale (Abv 4.8%)",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/stewart-brewing-edinburgh-gold-golden-ale-abv-4-8/109564205"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Stewart Brewing Hollyrood Pale Ale (Abv 5%)",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/stewart-brewing-hollyrood-pale-ale-abv-5/109564133"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Theakstons XB Ale 500ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/theakstons-xb-ale-500ml/101550589"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Thornbridge Jaipur India Pale Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/thornbridge-jaipur-india-pale-ale/112887603"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Whitstable Bay Pale Ale Bottle 500ml",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/whitstable-bay-pale-ale-bottle-500ml/106192784"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Williams Bros. Talking Head American Pale Ale",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/williams-bros-talking-head-american-pale-ale/111826323"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Williams Bros. Tin Man Tropical Ipa",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/williams-bros-tin-man-tropical-ipa/111826374"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Woodforde's Wherry Amber Ale ",
-      "price": "£2.55",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/woodforde-s-wherry-amber-ale/109791221"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Duvel Original - Belgian Strong Blond Beer 330ml",
@@ -8940,51 +8328,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9244313"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Abbot Reserve Ale 500ml ",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/abbot-reserve-ale-500ml/101543944"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Adnams Broadside 500Ml 6% Abv",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/adnams-broadside-500ml-6-abv/116032063"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Bass 500ML",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/bass-500ml/115981312"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Gold Ale Beer Bottle 500ml",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-gold-ale-beer-bottle-500ml/113278691"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Marston's Pedigree Pale Ale Beer Bottle",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/marston-s-pedigree-pale-ale-beer-bottle/105193953"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Thornbridge Jaipur India Pale Ale 500ml",
@@ -8992,24 +8335,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.62,
       "link": "https://www.asda.com/groceries/product/x/x/7624931"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Tomos Watkin Tallyman Pale Ale 500ml",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/tomos-watkin-tallyman-pale-ale-500ml/116136479"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wainwright Golden Ale Beer",
-      "price": "£2.50",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.62,
-      "link": "https://groceries.morrisons.com/products/wainwright-golden-ale-beer/101584341"
     },
     {
       "store": "Asda",
@@ -9237,15 +8562,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9247400"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Shipyard American IPA Ale Beer",
-      "price": "£2.45",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.58,
-      "link": "https://groceries.morrisons.com/products/shipyard-american-ipa-ale-beer/108153287"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Wadworth 6X Original Ale 500ml",
@@ -9354,15 +8670,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/3351382"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Adnams Southwold Bitter 500Ml 3.4% Abv",
-      "price": "£2.40",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.52,
-      "link": "https://groceries.morrisons.com/products/adnams-southwold-bitter-500ml-3-4-abv/116031853"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Angry Orchard Crisp Cider 500ml",
@@ -9442,15 +8749,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.52,
       "link": "https://www.asda.com/groceries/product/x/x/3867157"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "King Goblin Ale Beer 550ml",
-      "price": "£2.40",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.52,
-      "link": "https://groceries.morrisons.com/products/king-goblin-ale-beer-550ml/101528859"
     },
     {
       "store": "Asda",
@@ -10038,87 +9336,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7379487"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Adnams Ghost Ship 500Ml 4.1% Abv",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/adnams-ghost-ship-500ml-4-1-abv/116031731"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Birds & Bees 4.3%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/birds-bees-4-3/104277071"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Bishop's Finger Strong Ale",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/bishop-s-finger-strong-ale/113088571"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Black Sheep Ale Bottle",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/black-sheep-ale-bottle/101575145"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Black Sheep Brewery Milk Stout ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/black-sheep-brewery-milk-stout/110495593"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Caesar Augustus 4.1%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/caesar-augustus-4-1/105499899"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Cairngorm Brewery Cairngorm Gold ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewery-cairngorm-gold/108559560"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Cairngorm Brewery Trade Winds ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewery-trade-winds/108558831"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Cairngorm Brewery Wildcat 5.1%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewery-wildcat-5-1/108558786"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Camerons the Original Strongarm Ruby Ale 500ml",
@@ -10126,15 +9343,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.42,
       "link": "https://www.asda.com/groceries/product/x/x/7621882"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Deuchars Ipa 500Ml 4.4% ABV",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/deuchars-ipa-500ml-4-4-abv/101563865"
     },
     {
       "store": "Asda",
@@ -10146,24 +9354,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7749034"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Fraoch Heather Ale 5%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/fraoch-heather-ale-5/101570889"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Greene King Abbot Ale Bottle 50cl",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/greene-king-abbot-ale-bottle-50cl/101544904"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Holdens Golden Glow 500ml",
@@ -10171,69 +9361,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.42,
       "link": "https://www.asda.com/groceries/product/x/x/3867155"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Jarl Ale 3.8%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/jarl-ale-3-8/104423551"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Keltek Brewery Beheaded Strong Ale 500ml",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/keltek-brewery-beheaded-strong-ale-500ml/110258854"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Keltek Brewery Engine House Best Bitter (Abv 4%) 500ml",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/keltek-brewery-engine-house-best-bitter-abv-4-500ml/109788428"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Keltek Brewery Grim Reaper Premium Cornish Ale 500ml",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/keltek-brewery-grim-reaper-premium-cornish-ale-500ml/110258889"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Keltek Heart Of Kernow Pale Ale 500ml",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/keltek-heart-of-kernow-pale-ale-500ml/111338354"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Marstons Old Empire IPA Ale",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/marstons-old-empire-ipa-ale/101534651"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Moorhouse's Blond Witch (Abv 4.4%)",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/moorhouse-s-blond-witch-abv-4-4/109949738"
     },
     {
       "store": "Asda",
@@ -10245,42 +9372,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5758281"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Morland's Old Crafty Hen Vintage Ale Bottle 50cl",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/morland-s-old-crafty-hen-vintage-ale-bottle-50cl/101527055"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Old Jock      ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/old-jock/106822660"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Old Speckled Hen Old Speckled Hen Ale Bottle ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/old-speckled-hen-old-speckled-hen-ale-bottle/113013684"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Scottish Joker Ipa 5%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/scottish-joker-ipa-5/105499928"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Shipyard American IPA Ale Beer Bottle 500ml",
@@ -10290,87 +9381,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5091399"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Spitfire Premium Ale Bottle",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/spitfire-premium-ale-bottle/113088467"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "St Austell Tribute",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/st-austell-tribute/101584480"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "St Peters Plum Porter (ABV 5%) ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/st-peters-plum-porter-abv-5/109469347"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Theakston Salted Caramel Porter 500Ml (Abv 4.2%)",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/theakston-salted-caramel-porter-500ml-abv-4-2/115955288"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Titanic Dark Strong Plum Porter (Abv 4.9%)",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/titanic-dark-strong-plum-porter-abv-4-9/109471586"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Woodforde's Bure Gold 4.3%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/woodforde-s-bure-gold-4-3/113604134"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Woodforde's Nog (Abv 4.6%)",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/woodforde-s-nog-abv-4-6/113573446"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Woodforde's Volt Ipa 4.5%",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/woodforde-s-volt-ipa-4-5/113604433"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Woodfordes Nelsons Revenge",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/woodfordes-nelsons-revenge/109798116"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Wye Valley Brewery HPA Hereford Pale Ale 500ml",
@@ -10378,15 +9388,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.42,
       "link": "https://www.asda.com/groceries/product/x/x/3429002"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wye Valley HPA Beer Bottle ",
-      "price": "£2.30",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.42,
-      "link": "https://groceries.morrisons.com/products/wye-valley-hpa-beer-bottle/107713596"
     },
     {
       "store": "Asda",
@@ -10603,15 +9604,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.27,
       "link": "https://www.asda.com/groceries/product/x/x/4419421"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Theakston Old Peculier",
-      "price": "£2.15",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.27,
-      "link": "https://groceries.morrisons.com/products/theakston-old-peculier/101533050"
     },
     {
       "store": "Asda",
@@ -10875,24 +9867,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5148286"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Crabbies Ginger Beer ",
-      "price": "£2.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.23,
-      "link": "https://groceries.morrisons.com/products/crabbies-ginger-beer/113977707"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Ossett Brewery Ossett Blonde Session Blonde 440ml",
-      "price": "£2.10",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.23,
-      "link": "https://groceries.morrisons.com/products/ossett-brewery-ossett-blonde-session-blonde-440ml/115101160"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Schofferhofer Grapefruit 4 x 500ml",
@@ -11100,69 +10074,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9004920"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Cairngorm Brewery Lochan Ale 500ML",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/cairngorm-brewery-lochan-ale-500ml/115981347"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Excelsius Nitro Dry Hopped Pale Ale 5%  500ml",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/excelsius-nitro-dry-hopped-pale-ale-5-500ml/116136444"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "McEwan's Champion Premium Ale Beer Bottle 50cl",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/mcewan-s-champion-premium-ale-beer-bottle-50cl/101526634"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Newcastle Brown Ale Bottle",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/newcastle-brown-ale-bottle/101570299"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Timothy Taylor's Landlord Strong Pale Ale Bottle",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/timothy-taylor-s-landlord-strong-pale-ale-bottle/101568009"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Tomos Watkin Dragons Keep Ipa 500ml",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/tomos-watkin-dragons-keep-ipa-500ml/116136268"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "White Rat Hoppy 4% Pale Ale 440ml",
-      "price": "£2.00",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.12,
-      "link": "https://groceries.morrisons.com/products/white-rat-hoppy-4-pale-ale-440ml/115098394"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Ossett Brewery Ossett Blonde Session Blonde 440ml",
@@ -11197,15 +10108,6 @@
       "promotion": "Now £1.48, Was £1.55",
       "saving": 0.07,
       "link": "https://www.asda.com/groceries/product/x/x/4417617"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "St Austell Proper Job IPA",
-      "price": "£1.95",
-      "promotion": "Buy 4 for £7.50",
-      "saving": 0.07,
-      "link": "https://groceries.morrisons.com/products/st-austell-proper-job-ipa/106806281"
     },
     {
       "store": "Asda",
