@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T12:53:56.196274+00:00",
-  "total": 1263,
+  "updated": "2026-10-02T12:17:13.431606+00:00",
+  "total": 1272,
   "deals": [
     {
       "store": "Asda",
@@ -46,15 +46,6 @@
       "promotion": "£26.00 - More Card Price",
       "saving": 14.5,
       "link": "https://groceries.morrisons.com/products/jura-rum-cask-scotch-whisky/112614445"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Woodford Reserve Bourbon Whisky   ",
-      "price": "£38.00",
-      "promotion": "£23.50 - More Card Price",
-      "saving": 14.5,
-      "link": "https://groceries.morrisons.com/products/woodford-reserve-bourbon-whisky/108225236"
     },
     {
       "store": "Asda",
@@ -181,6 +172,15 @@
       "promotion": "Now £25, Was £36.50",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/brockmans-premium-gin-abv-40-70cl/109934739"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Bushmills Malt 16 Year Old 70cl",
+      "price": "£76.50",
+      "promotion": "Now £65, Was £76.50 - Online Exclusive",
+      "saving": 11.5,
+      "link": "https://groceries.morrisons.com/products/bushmills-malt-16-year-old-70cl/116160591"
     },
     {
       "store": "Morrisons",
@@ -336,6 +336,15 @@
       "link": "https://groceries.morrisons.com/products/whitley-neill-handcrafted-dry-raspberry-gin/113212368"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Woodford Reserve Bourbon Whisky   ",
+      "price": "£38.00",
+      "promotion": "£28.00 - More Card Price",
+      "saving": 10.0,
+      "link": "https://groceries.morrisons.com/products/woodford-reserve-bourbon-whisky/108225236"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Haig Club Club Clubman Single Grain Scotch Whisky 40% vol 70cl Bottle",
@@ -372,6 +381,15 @@
       "link": "https://groceries.morrisons.com/products/aberlour-12-year-old-speyside-single-malt-scotch-whisky/107348066"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "1800 Reposado Tequila 38% Abv  70cl",
+      "price": "£38.00",
+      "promotion": "Now £29, Was £38 - Online Exclusive",
+      "saving": 9.0,
+      "link": "https://groceries.morrisons.com/products/1800-reposado-tequila-38-abv-70cl/116160381"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Engine Organic Italian Gin 700ml",
@@ -388,6 +406,15 @@
       "promotion": "Now £25.00, Was £34.00",
       "saving": 9.0,
       "link": "https://www.asda.com/groceries/product/x/x/5221614"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "1800 Anejo Tequila 38% Abv  70cl",
+      "price": "£48.60",
+      "promotion": "Now £40, Was £48.60 - Online Exclusive",
+      "saving": 8.6,
+      "link": "https://groceries.morrisons.com/products/1800-anejo-tequila-38-abv-70cl/116160410"
     },
     {
       "store": "Morrisons",
@@ -453,6 +480,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/4811917"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "1800 Coconut Tequila 35% Abv   70cl",
+      "price": "£38.00",
+      "promotion": "Now £30, Was £38 - Online Exclusive",
+      "saving": 8.0,
+      "link": "https://groceries.morrisons.com/products/1800-coconut-tequila-35-abv-70cl/116160508"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Baileys Original Irish Cream Liqueur 17% vol 1L",
@@ -505,6 +541,15 @@
       "promotion": "£22.00 - More Card Price",
       "saving": 8.0,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-gin/114035480"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Kraken Rum 40% Abv  1L",
+      "price": "£37.00",
+      "promotion": "Now £29, Was £37 - Online Exclusive",
+      "saving": 8.0,
+      "link": "https://groceries.morrisons.com/products/kraken-rum-40-abv-1l/116160444"
     },
     {
       "store": "Morrisons",
@@ -571,6 +616,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "1800 Silver Tequila 38% Abv  70cl",
+      "price": "£35.00",
+      "promotion": "Now £28, Was £35 - Online Exclusive",
+      "saving": 7.0,
+      "link": "https://groceries.morrisons.com/products/1800-silver-tequila-38-abv-70cl/116160567"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Ableforth's Bathtub Gin",
       "price": "£33.00",
@@ -604,6 +658,15 @@
       "promotion": "Now £20, Was £27",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey/101526984"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Sexton 40% Abv  70cl",
+      "price": "£32.00",
+      "promotion": "Now £25, Was £32 - Online Exclusive",
+      "saving": 7.0,
+      "link": "https://groceries.morrisons.com/products/sexton-40-abv-70cl/116160292"
     },
     {
       "store": "Morrisons",
@@ -1004,11 +1067,29 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Maestro Dobel Humito 40% Abv  70cl",
+      "price": "£59.40",
+      "promotion": "Now £54, Was £59.40 - Online Exclusive",
+      "saving": 5.4,
+      "link": "https://groceries.morrisons.com/products/maestro-dobel-humito-40-abv-70cl/116160313"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Morrisons The Best Amarone ",
       "price": "£21.50",
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 5.38,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-amarone/108120039"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Maestro Dobel Diamante 40% Abv  70cl",
+      "price": "£54.30",
+      "promotion": "Now £49, Was £54.30 - Online Exclusive",
+      "saving": 5.3,
+      "link": "https://groceries.morrisons.com/products/maestro-dobel-diamante-40-abv-70cl/116160532"
     },
     {
       "store": "Morrisons",
@@ -1319,11 +1400,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Block Series 018 Salnes Albarino ",
+      "title": "Morrisons The Best Block Series 018 Salnes Albarino 75cl",
       "price": "£18.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.5,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino/115233808"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino-75cl/115233808"
     },
     {
       "store": "Morrisons",
@@ -1675,15 +1756,6 @@
       "promotion": "Now £16, Was £19.50",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/cointreau-triple-sec-orange-liqueur-50cl/102510095"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "El Jimador Tequila Reposado",
-      "price": "£27.00",
-      "promotion": "£23.50 - More Card Price",
-      "saving": 3.5,
-      "link": "https://groceries.morrisons.com/products/el-jimador-tequila-reposado/113040981"
     },
     {
       "store": "Morrisons",
@@ -5122,6 +5194,15 @@
       "promotion": "Now £17.00, Was £18.50",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9129835"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Smirnoff Miami Peach 35% vol 70cl",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £18.50",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9237773"
     },
     {
       "store": "Morrisons",
