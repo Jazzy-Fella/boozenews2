@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T12:17:13.431606+00:00",
-  "total": 1272,
+  "updated": "2026-10-03T11:27:26.268288+00:00",
+  "total": 1268,
   "deals": [
     {
       "store": "Asda",
@@ -365,15 +365,6 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Bankhall Single Malt Whisky ",
-      "price": "£16.00",
-      "promotion": "Now £16, Was £25.50",
-      "saving": 9.5,
-      "link": "https://groceries.morrisons.com/products/bankhall-single-malt-whisky/113800012"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "Aberlour 12 Year Old Speyside Single Malt Scotch Whisky ",
       "price": "£41.75",
       "promotion": "Now £32.50, Was £41.75",
@@ -671,15 +662,6 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Three Barrels Brandy 1L",
-      "price": "£20.00",
-      "promotion": "Now £20, Was £27",
-      "saving": 7.0,
-      "link": "https://groceries.morrisons.com/products/three-barrels-brandy-1l/107044927"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "Baileys Salted Caramel Irish Cream Liqueur (ABV 17%) 50CL",
       "price": "£17.50",
       "promotion": "Now £11, Was £17.50",
@@ -777,15 +759,6 @@
       "link": "https://groceries.morrisons.com/products/desperados-original-beer-lager-bottles-12-x-250ml/115377351"
     },
     {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bacardi Carta Blanca Superior White Rum 1L",
-      "price": "£19.50",
-      "promotion": "Now £19.50, Was £25.50",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/bacardi-carta-blanca-superior-white-rum-1l/101550917"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Baileys Original Irish Cream Liqueur 17% vol 70cl",
@@ -847,15 +820,6 @@
       "promotion": "Now £11.50, Was £17.50",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-rhubarb-ginger-liqueur/109177627"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Jim Beam Kentucky Straight Bourbon Whiskey ",
-      "price": "£22.00",
-      "promotion": "Now £22, Was £28",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/jim-beam-kentucky-straight-bourbon-whiskey/103994511"
     },
     {
       "store": "Asda",
@@ -937,15 +901,6 @@
       "promotion": "Now £14.00, Was £19.50",
       "saving": 5.5,
       "link": "https://www.asda.com/groceries/product/x/x/9355697"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bacardi Spiced Premium Rum Spirit Drink",
-      "price": "£19.50",
-      "promotion": "Now £19.50, Was £25",
-      "saving": 5.5,
-      "link": "https://groceries.morrisons.com/products/bacardi-spiced-premium-rum-spirit-drink/110620729"
     },
     {
       "store": "Asda",
@@ -1156,6 +1111,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "spirits",
+      "title": "Goat Scottish Oat Vodka ",
+      "price": "£30.00",
+      "promotion": "£25.00 - More Card Price",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/goat-scottish-oat-vodka/115064514"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Guinness NitroSurge Device - Use with NitroSurge Cans",
       "price": "£30.00",
@@ -1319,7 +1283,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Absolut Original Swedish Vodka 70cl",
+      "title": "Absolut Original Swedish Vodka 40% ABV 70cl",
       "price": "£18.50",
       "promotion": "Now £18.50, Was £23.00",
       "saving": 4.5,
@@ -3353,11 +3317,20 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Alvarinho",
+      "title": "Kopparberg Crisp Apple 10 X 440Ml",
+      "price": "£11.45",
+      "promotion": "Buy 2 for £18",
+      "saving": 2.45,
+      "link": "https://groceries.morrisons.com/products/kopparberg-crisp-apple-10-x-440ml/115981005"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons The Best Alvarinho 75cl",
       "price": "£9.75",
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.44,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-alvarinho/112615641"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-alvarinho-75cl/112615641"
     },
     {
       "store": "Morrisons",
@@ -3443,11 +3416,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Chianti Superiore ",
+      "title": "Morrisons The Best Chianti Superiore 75cl",
       "price": "£9.50",
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.38,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chianti-superiore/114182754"
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chianti-superiore-75cl/114182754"
     },
     {
       "store": "Morrisons",
@@ -6652,15 +6625,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/kirkstall-three-swords-4x440ml/112530823"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Kopparberg Premium Cider Variety Pack 10 x 330ml",
-      "price": "£7.00",
-      "promotion": "Now £7.00, Was £8.00",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9104535"
     },
     {
       "store": "Asda",
