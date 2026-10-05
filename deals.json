@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T12:08:39.850011+00:00",
-  "total": 1266,
+  "updated": "2026-10-05T14:14:42.922661+00:00",
+  "total": 1284,
   "deals": [
     {
       "store": "Asda",
@@ -73,6 +73,15 @@
       "promotion": "Now £21.50, Was £35",
       "saving": 13.5,
       "link": "https://groceries.morrisons.com/products/auchentoshan-american-oak-single-scotch-malt-whisky/106758451"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bushmills Single Malt Irish Whiskey 70cl",
+      "price": "£29.00",
+      "promotion": "Now £29.00, Was £42.50",
+      "saving": 13.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9298631"
     },
     {
       "store": "Asda",
@@ -444,15 +453,6 @@
       "link": "https://groceries.morrisons.com/products/roku-japanese-craft-gin-70cl/110733336"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Cans 18x440ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £18.27",
-      "saving": 8.27,
-      "link": "https://www.asda.com/groceries/product/x/x/9221259"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Malfy Rosa Pink Grapefruit Flavoured Gin",
@@ -723,6 +723,15 @@
       "link": "https://groceries.morrisons.com/products/jameson-triple-triple-blended-irish-whiskey-abv-40-70cl/114889418"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Cans  18 x 440ml",
+      "price": "£19.50",
+      "promotion": "Now £13, Was £19.50",
+      "saving": 6.5,
+      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Jack Daniel's Tennessee Apple Whiskey 70 cL",
@@ -748,6 +757,15 @@
       "promotion": "Now £19.00, Was £25.47",
       "saving": 6.47,
       "link": "https://www.asda.com/groceries/product/x/x/4045605"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bushmills Single Malt Irish Whiskey Aged 10 Years 700ml",
+      "price": "£30.00",
+      "promotion": "Now £30.00, Was £36.37",
+      "saving": 6.37,
+      "link": "https://www.asda.com/groceries/product/x/x/5608639"
     },
     {
       "store": "Morrisons",
@@ -913,12 +931,30 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Bushmills The Original Irish Whiskey 1000ml",
+      "price": "£26.00",
+      "promotion": "Now £26.00, Was £31.50",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/5608629"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Captain Morgan Original Spiced Gold 35% vol 1L",
       "price": "£18.50",
       "promotion": "Now £18.50, Was £24.00",
       "saving": 5.5,
       "link": "https://www.asda.com/groceries/product/x/x/4559481"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Corona Extra Premium Lager Beer Bottles 18 x 330ml",
+      "price": "£20.50",
+      "promotion": "Now £15, Was £20.50",
+      "saving": 5.5,
+      "link": "https://groceries.morrisons.com/products/corona-extra-premium-lager-beer-bottles-18-x-330ml/108723809"
     },
     {
       "store": "Asda",
@@ -1099,15 +1135,6 @@
       "promotion": "£29.50 - More Card Price",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/glaswegin-london-dry-gin/112906771"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Glenfiddich 12 Year Old Single Malt Scotch Whisky ",
-      "price": "£23.50",
-      "promotion": "Now £18.50, Was £23.50",
-      "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/glenfiddich-12-year-old-single-malt-scotch-whisky/101549158"
     },
     {
       "store": "Morrisons",
@@ -1308,6 +1335,15 @@
       "link": "https://groceries.morrisons.com/products/brewdog-lost-lager-10x440ml/112146371"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Bushmills Irish Whiskey 70cl",
+      "price": "£19.00",
+      "promotion": "Now £19.00, Was £23.50",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/5560636"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Cockburn's LBV",
@@ -1369,6 +1405,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino-75cl/115233808"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Moët & Chandon Impérial Brut 37.5cl",
+      "price": "£23.00",
+      "promotion": "Now £23.00, Was £27.50",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9239159"
     },
     {
       "store": "Morrisons",
@@ -6330,6 +6375,15 @@
       "link": "https://groceries.morrisons.com/products/williams-bros-double-joker-dipa-440ml/114869345"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Healeys Cornwall Rattler Cornish Cloudy Cyder 8 x 330ml",
+      "price": "£12.09",
+      "promotion": "Now £12.09, Was £13.14",
+      "saving": 1.05,
+      "link": "https://www.asda.com/groceries/product/x/x/9031576"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Kronenbourg 1664 Blanc 600ml",
@@ -6472,6 +6526,15 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9386988"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Beaujoulais Villages La Camensarde",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £10.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7278427"
     },
     {
       "store": "Morrisons",
@@ -9237,6 +9300,15 @@
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottle/109710073"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Busby Estate Jammy The Red 1.5 Litres",
+      "price": "£11.40",
+      "promotion": "Now £11.40, Was £12.00",
+      "saving": 0.6,
+      "link": "https://www.asda.com/groceries/product/x/x/9354220"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Cherry Hooch Can",
@@ -9433,6 +9505,15 @@
       "promotion": "Any 2 for £10",
       "saving": 0.57,
       "link": "https://www.asda.com/groceries/product/x/x/9087832"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "St Austell Tribute Pale Ale 4x500ml",
+      "price": "£4.98",
+      "promotion": "Now £4.98, Was £5.54",
+      "saving": 0.56,
+      "link": "https://www.asda.com/groceries/product/x/x/6672143"
     },
     {
       "store": "Morrisons",
@@ -9760,6 +9841,15 @@
     },
     {
       "store": "Asda",
+      "category": "other",
+      "title": "Calafia Moscatel 75cl",
+      "price": "£6.75",
+      "promotion": "Now £6.75, Was £7.25",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/4669734"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Carlsberg Special Brew Strong Lager Beer Cans 4 x 440ml",
       "price": "£9.00",
@@ -9813,6 +9903,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9099362"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Gros Manseng Vin Orange 75cl",
+      "price": "£8.25",
+      "promotion": "Now £8.25, Was £8.75",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7624871"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Gwynt Y Ddraig Welsh Black Dragon Cider   500ml",
@@ -9849,6 +9948,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/7735875"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Le Soleil Medium Dry Finest Perry 3 Litre",
+      "price": "£7.50",
+      "promotion": "Now £7.50, Was £8.00",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/6414422"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Le Soleil Medium Sweet Finest Perry 3 Litre",
+      "price": "£7.50",
+      "promotion": "Now £7.50, Was £8.00",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/6414420"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "McGuigan Black Label Red ",
@@ -9865,6 +9982,15 @@
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/mdx-sip-on-the-beach-440ml/115198213"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Mucho Más 75cl",
+      "price": "£7.25",
+      "promotion": "Now £7.25, Was £7.75",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9093195"
     },
     {
       "store": "Morrisons",
@@ -10166,11 +10292,29 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Guinness Draught Stout Beer Cans 4.1% vol 4 x 440ml",
+      "price": "£5.64",
+      "promotion": "Now £5.64, Was £6.10",
+      "saving": 0.46,
+      "link": "https://www.asda.com/groceries/product/x/x/3983"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Badger Golden Champion Golden Ale 500ml",
       "price": "£2.20",
       "promotion": "Any 4 for £7",
       "saving": 0.45,
       "link": "https://www.asda.com/groceries/product/x/x/6099472"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Bucks Fizz Sparkling 75cl",
+      "price": "£2.25",
+      "promotion": "Now £2.25, Was £2.70",
+      "saving": 0.45,
+      "link": "https://www.asda.com/groceries/product/x/x/7235179"
     },
     {
       "store": "Asda",
@@ -10750,6 +10894,15 @@
     },
     {
       "store": "Asda",
+      "category": "other",
+      "title": "Black Tower Fruity White 75cl",
+      "price": "£5.23",
+      "promotion": "Now £5.23, Was £5.50",
+      "saving": 0.27,
+      "link": "https://www.asda.com/groceries/product/x/x/2291"
+    },
+    {
+      "store": "Asda",
       "category": "spirits",
       "title": "JJ Whitley Pink Gin 1 Litre",
       "price": "£19.50",
@@ -11287,6 +11440,15 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.12,
       "link": "https://groceries.morrisons.com/products/excelsius-nitro-dry-hopped-pale-ale-5-500ml/116136444"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Magners The Original Irish Cider 568ml",
+      "price": "£1.38",
+      "promotion": "Now £1.38, Was £1.50",
+      "saving": 0.12,
+      "link": "https://www.asda.com/groceries/product/x/x/9378497"
     },
     {
       "store": "Morrisons",
