@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T14:14:42.922661+00:00",
-  "total": 1284,
+  "updated": "2026-10-06T13:09:40.234313+00:00",
+  "total": 1299,
   "deals": [
     {
       "store": "Asda",
@@ -847,6 +847,15 @@
       "promotion": "Now £15.50, Was £21.50",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/9063778"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Opihr Oriental Spiced London Dry Gin 70cl",
+      "price": "£21.50",
+      "promotion": "Now £21.50, Was £27.50",
+      "saving": 6.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5450375"
     },
     {
       "store": "Morrisons",
@@ -1813,6 +1822,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "Strongbow Dark Fruit 10X440Ml",
+      "price": "£13.50",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 3.5,
+      "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-10x440ml/116380519"
+    },
+    {
+      "store": "Morrisons",
       "category": "beer",
       "title": "Strongbow Dark Fruit Cider Cans 10x440ml",
       "price": "£13.50",
@@ -2101,6 +2119,15 @@
     },
     {
       "store": "Asda",
+      "category": "other",
+      "title": "Leffe Blonde 750ml",
+      "price": "£3.97",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.22,
+      "link": "https://www.asda.com/groceries/product/x/x/7629825"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Northern Monk Black Hole Stellar Imperial Stout 440ml",
       "price": "£3.97",
@@ -2262,6 +2289,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Brew York Giant Coney Hazy DIPA 440ml",
+      "price": "£3.75",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9407681"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "BrewDog Black Heart 8x440ml",
@@ -2269,6 +2305,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/brewdog-black-heart-8x440ml/113371431"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Brewdog Triple Ripple Raspberry Ripple New England IPA 440ml",
+      "price": "£3.75",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9411375"
     },
     {
       "store": "Asda",
@@ -2559,6 +2604,15 @@
       "link": "https://groceries.morrisons.com/products/roodeberg-black/113156431"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Rooster's Double Hazy Assassin Hazy DIPA 440ml",
+      "price": "£3.75",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9347366"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "San Miguel 10x440ml",
@@ -2803,6 +2857,24 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Pollys Rosebud IPA 5.6% 440ml Single Can",
+      "price": "£3.50",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 2.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9244683"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Vocation Brewery Special Edition Jamageddon Strawberry & Vanilla Pastry Stout 440ml",
+      "price": "£3.50",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 2.75,
+      "link": "https://www.asda.com/groceries/product/x/x/9346245"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "WKD X Blue Raspberry 440ml",
       "price": "£3.45",
@@ -2854,6 +2926,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 2.68,
       "link": "https://groceries.morrisons.com/products/carlsberg-pilsner-3-4-abv-12-x-440ml/116048621"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Leffe Brune Beer Bottle 750ml",
+      "price": "£3.42",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 2.67,
+      "link": "https://www.asda.com/groceries/product/x/x/1528464"
     },
     {
       "store": "Asda",
@@ -4208,6 +4289,24 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Bear Hazy IPA 440ml",
+      "price": "£2.75",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9397054"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Bear Polar Beer 440ml",
+      "price": "£2.75",
+      "promotion": "ANY 4 FOR 3",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9394844"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Birra Moretti Premium Lager Beer Can 10x330ml",
       "price": "£12.00",
       "promotion": "Any 2 for £20",
@@ -4397,7 +4496,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "SOUTHERN COMFORT CAN VENOM 250ML",
+      "title": "Southern Comfort Venom Orange & Blue Raspberry Cocktails 250ml",
       "price": "£2.75",
       "promotion": "ANY 4 FOR 3",
       "saving": 2.0,
@@ -6683,6 +6782,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Kopparberg Premium Cider Variety Pack 10 x 330ml",
+      "price": "£7.00",
+      "promotion": "Now £7.00, Was £8.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9104535"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Kopparberg Premium Cider with Mixed Fruit 10 x 330ml",
       "price": "£11.00",
       "promotion": "Any 2 for £20",
@@ -7239,6 +7347,15 @@
       "link": "https://groceries.morrisons.com/products/fuller-s-london-pride-amber-ale-large-bottle/101558530"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Gwynt Y Ddraig Black Dragon Welsh Cider 500ml",
+      "price": "£2.67",
+      "promotion": "Any 4 for £7",
+      "saving": 0.92,
+      "link": "https://www.asda.com/groceries/product/x/x/7638399"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Ilkley Pale Ale",
@@ -7435,6 +7552,15 @@
       "promotion": "Any 5 for £10",
       "saving": 0.9,
       "link": "https://www.asda.com/groceries/product/x/x/6151786"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Glamorgan Brewing Co. Welsh Pale 500ml",
+      "price": "£2.65",
+      "promotion": "Any 4 for £7",
+      "saving": 0.9,
+      "link": "https://www.asda.com/groceries/product/x/x/7347269"
     },
     {
       "store": "Morrisons",
@@ -8293,6 +8419,15 @@
     },
     {
       "store": "Asda",
+      "category": "beer",
+      "title": "Gwynt Y Ddraig Orchard Gold Welsh Cider 500ml",
+      "price": "£2.50",
+      "promotion": "Any 4 for £7",
+      "saving": 0.75,
+      "link": "https://www.asda.com/groceries/product/x/x/7638397"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Healeys Cornish Rattler Peach Cyder 500ml",
       "price": "£2.50",
@@ -9147,15 +9282,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/2156392"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Veltins Pilsener 500Ml",
-      "price": "£2.65",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.65,
-      "link": "https://groceries.morrisons.com/products/veltins-pilsener-500ml/116285351"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Carlsberg Export Lager Beer Cans 4 x 568ml",
@@ -9721,6 +9847,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.52,
       "link": "https://www.asda.com/groceries/product/x/x/9004917"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Old Speckled Hen Gluten Free 500ml",
+      "price": "£2.27",
+      "promotion": "Any 4 for £7",
+      "saving": 0.52,
+      "link": "https://www.asda.com/groceries/product/x/x/7720359"
     },
     {
       "store": "Asda",
