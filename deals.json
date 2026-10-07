@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T13:09:40.234313+00:00",
-  "total": 1299,
+  "updated": "2026-10-07T13:04:32.763436+00:00",
+  "total": 1295,
   "deals": [
     {
       "store": "Asda",
@@ -158,11 +158,11 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Johnnie Walker Black Label 12 YO Blended Scotch Whisky 1L",
+      "title": "Johnnie Walker Black Label 12 YO Blended Scotch Whisky 70cl",
       "price": "£36.00",
       "promotion": "Now £24, Was £36",
       "saving": 12.0,
-      "link": "https://groceries.morrisons.com/products/johnnie-walker-black-label-12-yo-blended-scotch-whisky-1l/102888426"
+      "link": "https://groceries.morrisons.com/products/johnnie-walker-black-label-12-yo-blended-scotch-whisky-70cl/102888426"
     },
     {
       "store": "Morrisons",
@@ -244,15 +244,6 @@
       "promotion": "Now £19.25, Was £29.50",
       "saving": 10.25,
       "link": "https://groceries.morrisons.com/products/haig-club-clubman-single-grain-scotch-whisky/108444201"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Baileys Original Irish Cream Liqueur 1L",
-      "price": "£23.00",
-      "promotion": "Now £13, Was £23",
-      "saving": 10.0,
-      "link": "https://groceries.morrisons.com/products/baileys-original-irish-cream-liqueur-1l/101525367"
     },
     {
       "store": "Morrisons",
@@ -723,15 +714,6 @@
       "link": "https://groceries.morrisons.com/products/jameson-triple-triple-blended-irish-whiskey-abv-40-70cl/114889418"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans  18 x 440ml",
-      "price": "£19.50",
-      "promotion": "Now £13, Was £19.50",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Jack Daniel's Tennessee Apple Whiskey 70 cL",
@@ -835,7 +817,7 @@
       "category": "spirits",
       "title": "Edinburgh Gin Rhubarb & Ginger Liqueur",
       "price": "£17.50",
-      "promotion": "Now £11.50, Was £17.50",
+      "promotion": "£11.50 - More Card Price",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-rhubarb-ginger-liqueur/109177627"
     },
@@ -1488,15 +1470,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/1342"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Foster's Lager Beer Can  18 x 440ml",
-      "price": "£13.00",
-      "promotion": "Now £8.97, Was £13",
-      "saving": 4.03,
-      "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-18-x-440ml/115868627"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Aperol Aperitivo 100cl",
@@ -1612,6 +1585,15 @@
       "promotion": "Now £17.00, Was £21.00",
       "saving": 4.0,
       "link": "https://www.asda.com/groceries/product/x/x/1814333"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "San Miguel Premium Lager Beer Cans 10x440ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £13.95",
+      "saving": 3.95,
+      "link": "https://www.asda.com/groceries/product/x/x/9259928"
     },
     {
       "store": "Asda",
@@ -2278,15 +2260,6 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/9361086"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Birrificio Angelo Poretti Premium Italian Lager Beer Cans 18 x 440ml",
-      "price": "£15.50",
-      "promotion": "Now £15.50, Was £18.50",
-      "saving": 3.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9351414"
     },
     {
       "store": "Asda",
@@ -4521,15 +4494,6 @@
       "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-70cl/113139607"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Thatchers Haze Cloudy Somerset Cider Cans 10x440ml",
-      "price": "£11.00",
-      "promotion": "Now £9, Was £11",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/thatchers-haze-cloudy-somerset-cider-cans-10x440ml/109797957"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "The Kraken Black Spiced & Cola 330ml",
@@ -4926,15 +4890,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9341535"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Peroni Nastro Azzurro Gluten Free Beer Bottles 4x330ml",
-      "price": "£5.82",
-      "promotion": "Now £5.82, Was £7.47",
-      "saving": 1.65,
-      "link": "https://www.asda.com/groceries/product/x/x/7419183"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Whitley Neill Rhubarb Gin & Ginger Ale 250ML",
@@ -5113,15 +5068,6 @@
       "promotion": "Now £6.00, Was £7.50",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/9184044"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Carling Original Lager Beer Cans 10x440ml",
-      "price": "£10.50",
-      "promotion": "Buy 2 for £18",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/carling-original-lager-beer-cans-10x440ml/104723043"
     },
     {
       "store": "Morrisons",
@@ -9246,6 +9192,15 @@
       "link": "https://groceries.morrisons.com/products/fever-tree-refreshingly-light-sicilian-lemonade/109694940"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Guinness Extra Foreign Stout Beer 7.5%",
+      "price": "£8.15",
+      "promotion": "Now £7.50, Was £8.15",
+      "saving": 0.65,
+      "link": "https://groceries.morrisons.com/products/guinness-extra-foreign-stout-beer-7-5/111001874"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Henney's Dry Cider 500ml",
@@ -9847,15 +9802,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.52,
       "link": "https://www.asda.com/groceries/product/x/x/9004917"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Old Speckled Hen Gluten Free 500ml",
-      "price": "£2.27",
-      "promotion": "Any 4 for £7",
-      "saving": 0.52,
-      "link": "https://www.asda.com/groceries/product/x/x/7720359"
     },
     {
       "store": "Asda",
@@ -11145,6 +11091,15 @@
       "link": "https://groceries.morrisons.com/products/budweiser-zero-0-beer-4-x-330-bottles/111113606"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Guinness Foreign Extra Stout ",
+      "price": "£4.50",
+      "promotion": "Now £4.25, Was £4.50",
+      "saving": 0.25,
+      "link": "https://groceries.morrisons.com/products/guinness-foreign-extra-stout/111001954"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Jameson Triple Distilled Irish Whiskey 350ml",
@@ -11386,6 +11341,15 @@
       "promotion": "Now £2.75, Was £2.98",
       "saving": 0.23,
       "link": "https://www.asda.com/groceries/product/x/x/6944594"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Bass Pale Ale 500ml",
+      "price": "£1.97",
+      "promotion": "Any 4 for £7",
+      "saving": 0.22,
+      "link": "https://www.asda.com/groceries/product/x/x/9263712"
     },
     {
       "store": "Asda",
