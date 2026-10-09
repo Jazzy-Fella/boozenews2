@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T13:11:51.214780+00:00",
-  "total": 1303,
+  "updated": "2026-10-09T12:58:17.483725+00:00",
+  "total": 1304,
   "deals": [
     {
       "store": "Asda",
@@ -1859,7 +1859,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "BuzzBallz Choc Tease Cocktails 200ml",
+      "title": "Buzzballz Cocktails Choc Tease 20cl (13.5% ABV)",
       "price": "£4.10",
       "promotion": "ANY 4 FOR 3",
       "saving": 3.35,
@@ -2791,15 +2791,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 2.81,
       "link": "https://www.asda.com/groceries/product/x/x/9352145"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "BrewDog Mix Pack 8 x 330ml",
-      "price": "£12.77",
-      "promotion": "Any 2 for £20",
-      "saving": 2.77,
-      "link": "https://www.asda.com/groceries/product/x/x/6228885"
     },
     {
       "store": "Morrisons",
@@ -5538,15 +5529,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/6104989"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Henry Westons Vintage Cider 6x500ml",
-      "price": "£11.36",
-      "promotion": "Any 2 for £20",
-      "saving": 1.36,
-      "link": "https://www.asda.com/groceries/product/x/x/5755242"
-    },
-    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Kopparberg Pear Cider 4x330ml",
@@ -6456,6 +6438,15 @@
       "link": "https://groceries.morrisons.com/products/williams-bros-double-joker-dipa-440ml/114869345"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Healeys Cornwall Rattler Cornish Cloudy Cyder 8 x 330ml",
+      "price": "£12.09",
+      "promotion": "Now £12.09, Was £13.14",
+      "saving": 1.05,
+      "link": "https://www.asda.com/groceries/product/x/x/9031576"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Kronenbourg 1664 Blanc 600ml",
@@ -6463,6 +6454,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.05,
       "link": "https://groceries.morrisons.com/products/kronenbourg-1664-blanc-600ml/115030621"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Greene King IPA India Pale Ale 10 x 440ml",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £9.03",
+      "saving": 1.03,
+      "link": "https://www.asda.com/groceries/product/x/x/9086626"
     },
     {
       "store": "Asda",
@@ -10193,7 +10193,7 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "ShotTails Baby G Creamy Coffee Liqueur  125ml",
+      "title": "Shottails Baby G Creamy Coffee Liqueur  125ml",
       "price": "£3.50",
       "promotion": "Buy 4 for £12 - Online Exclusive",
       "saving": 0.5,
@@ -10981,6 +10981,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.37,
       "link": "https://www.asda.com/groceries/product/x/x/509433"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Thatchers Zero Apple Cider 500ml",
+      "price": "£1.47",
+      "promotion": "Now £1.47, Was £1.84",
+      "saving": 0.37,
+      "link": "https://www.asda.com/groceries/product/x/x/6704212"
     },
     {
       "store": "Asda",
