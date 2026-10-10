@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:58:17.483725+00:00",
+  "updated": "2026-10-10T12:15:51.430485+00:00",
   "total": 1304,
   "deals": [
     {
@@ -1489,6 +1489,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Bankhall British Single Malt Whisky 70cl",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £20.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9112733"
+    },
+    {
+      "store": "Asda",
       "category": "beer",
       "title": "Cruzcampo Sevilla Lager Beer 4.4% ABV Bottle 12x330ml",
       "price": "£14.00",
@@ -2098,15 +2107,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/relais-du-roi-principaute-d-orange-rouge/114293235"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Thatchers Blood Orange 10 x 440ml",
-      "price": "£12.25",
-      "promotion": "Now £9, Was £12.25",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/thatchers-blood-orange-10-x-440ml/116277571"
     },
     {
       "store": "Asda",
@@ -4405,6 +4405,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Kirkgate Vodka Yorkshire Grain Vodka 700ml",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £18.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9362910"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "La Vieille Ferme 1.5L",
       "price": "£14.00",
@@ -4539,15 +4548,6 @@
       "link": "https://groceries.morrisons.com/products/whyte-mackay-blended-scotch-whisky/101582783"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "WKD Original Blue Vodka Mix 10 x 330ml",
-      "price": "£12.00",
-      "promotion": "Any 2 for £20",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9251246"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Zalze Bush Vine Chenin Blanc     ",
@@ -4618,15 +4618,6 @@
       "promotion": "Any 2 for £20",
       "saving": 1.87,
       "link": "https://www.asda.com/groceries/product/x/x/7501957"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Schweppes Slimline Tonic Water ",
-      "price": "£4.50",
-      "promotion": "Now £4.50, Was £6.35",
-      "saving": 1.85,
-      "link": "https://groceries.morrisons.com/products/schweppes-slimline-tonic-water/100157865"
     },
     {
       "store": "Asda",
@@ -6661,6 +6652,15 @@
       "promotion": "Now £5, Was £6",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/corona-extra-premium-lager-beer-bottles-4-x-330ml/104831183"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Dead Man's Fingers Golden Spiced Rum Spirit Drink 1L",
+      "price": "£18.00",
+      "promotion": "Now £18.00, Was £19.00",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9355973"
     },
     {
       "store": "Asda",
