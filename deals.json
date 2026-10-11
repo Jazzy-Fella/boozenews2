@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T12:15:51.430485+00:00",
-  "total": 1304,
+  "updated": "2026-10-11T12:31:09.585436+00:00",
+  "total": 1302,
   "deals": [
     {
       "store": "Asda",
@@ -681,7 +681,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Gordon's London Dry Gin   1L",
-      "price": "£25.00",
+      "price": "£18.50",
       "promotion": "Now £18.50, Was £25",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/gordon-s-london-dry-gin-1l/101557705"
@@ -852,7 +852,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Smirnoff No. 21 Vodka Red Label 1L",
-      "price": "£24.50",
+      "price": "£18.50",
       "promotion": "Now £18.50, Was £24.50",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/smirnoff-no-21-vodka-red-label-1l/101557043"
@@ -6745,15 +6745,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Johnnie Walker Scotch Whisky & Lemonade   250ml",
-      "price": "£2.50",
-      "promotion": "Buy 8 for £12 - Online Exclusive",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/johnnie-walker-scotch-whisky-lemonade-250ml/116047020"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Kirkstall Three Swords 4x440ml",
       "price": "£6.25",
@@ -8690,15 +8681,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "WKD Iron Brew 700ml",
-      "price": "£3.75",
-      "promotion": "Buy 4 for £12 - Online Exclusive",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/wkd-iron-brew-700ml/115031860"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Wkd Pineapple Ice 700ml",
       "price": "£3.75",
       "promotion": "Buy 4 for £12 - Online Exclusive",
@@ -10067,15 +10049,6 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Kopparberg Sweet Vintage Apple Premium Cider 500ml",
-      "price": "£2.00",
-      "promotion": "Now £2.00, Was £2.50",
-      "saving": 0.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9247557"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
       "title": "Kopparberg Sweet Vintage Pear Premium Cider 500ml",
       "price": "£2.00",
       "promotion": "Now £2.00, Was £2.50",
@@ -11152,6 +11125,15 @@
       "promotion": "Now £3.50, Was £3.75",
       "saving": 0.25,
       "link": "https://groceries.morrisons.com/products/budweiser-zero-0-beer-4-x-330-bottles/111113606"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Echo Falls Blue Raspberry 9%Abv 275Ml",
+      "price": "£3.25",
+      "promotion": "Buy 4 for £12 - Online Exclusive",
+      "saving": 0.25,
+      "link": "https://groceries.morrisons.com/products/echo-falls-blue-raspberry-9-abv-275ml/116314255"
     },
     {
       "store": "Morrisons",
