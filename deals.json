@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T15:03:29.918177+00:00",
-  "total": 1193,
+  "updated": "2026-10-13T13:57:56.480984+00:00",
+  "total": 1196,
   "deals": [
     {
       "store": "Asda",
@@ -84,15 +84,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9298631"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Tamnavulin Speyside Single Malt Scotch Whisky Port Cask Edition 70cl",
-      "price": "£23.00",
-      "promotion": "Now £23.00, Was £36.50",
-      "saving": 13.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9184585"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Johnny Cree Single Malt Scotch Whisky ",
@@ -145,15 +136,6 @@
       "promotion": "Now £28.00, Was £40.50",
       "saving": 12.5,
       "link": "https://www.asda.com/groceries/product/x/x/4598196"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Tullibardine Sovereign Single Malt Scotch Whisky ",
-      "price": "£39.50",
-      "promotion": "£27.00 - More Card Price",
-      "saving": 12.5,
-      "link": "https://groceries.morrisons.com/products/tullibardine-sovereign-single-malt-scotch-whisky/111386209"
     },
     {
       "store": "Morrisons",
@@ -670,15 +652,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Gordon's London Dry Gin   1L",
-      "price": "£18.50",
-      "promotion": "Now £18.50, Was £25",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/gordon-s-london-dry-gin-1l/101557705"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Jack Daniel's Tennessee Blackberry 70CL",
       "price": "£25.50",
@@ -838,15 +811,6 @@
       "promotion": "Now £21.50, Was £27.50",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/5450375"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Smirnoff No. 21 Vodka Red Label 1L",
-      "price": "£18.50",
-      "promotion": "Now £18.50, Was £24.50",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/smirnoff-no-21-vodka-red-label-1l/101557043"
     },
     {
       "store": "Morrisons",
@@ -1072,6 +1036,24 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 5.25,
       "link": "https://groceries.morrisons.com/products/magners-original-cider-cans-18x440ml/104802825"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Sourz Lemon & Lime ",
+      "price": "£11.75",
+      "promotion": "Now £6.50, Was £11.75",
+      "saving": 5.25,
+      "link": "https://groceries.morrisons.com/products/sourz-lemon-lime/115460154"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Coors Lager Beer Bottle 18 x 330ml",
+      "price": "£15.05",
+      "promotion": "Any 2 for £20",
+      "saving": 5.05,
+      "link": "https://www.asda.com/groceries/product/x/x/9253709"
     },
     {
       "store": "Morrisons",
@@ -1545,7 +1527,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Fris Vodka 1L",
-      "price": "£21.75",
+      "price": "£24.38",
       "promotion": "Now £18, Was £21.75",
       "saving": 3.75,
       "link": "https://groceries.morrisons.com/products/fris-vodka-1l/114159853"
@@ -1558,6 +1540,24 @@
       "promotion": "£20.25 - More Card Price",
       "saving": 3.75,
       "link": "https://groceries.morrisons.com/products/pernod-aniseed-liqueur/101568658"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sourz Cherry Liqueur",
+      "price": "£11.75",
+      "promotion": "Now £8, Was £11.75",
+      "saving": 3.75,
+      "link": "https://groceries.morrisons.com/products/sourz-cherry-liqueur/108599131"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Sourz Green Apple Liqueur  70cl",
+      "price": "£11.75",
+      "promotion": "Now £8, Was £11.75",
+      "saving": 3.75,
+      "link": "https://groceries.morrisons.com/products/sourz-green-apple-liqueur-70cl/101527670"
     },
     {
       "store": "Morrisons",
@@ -1675,15 +1675,6 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-10x440ml/116380519"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Strongbow Dark Fruit Cider Cans 10x440ml",
-      "price": "£13.50",
-      "promotion": "Buy 3 for £30 - Online Exclusive",
-      "saving": 3.5,
-      "link": "https://groceries.morrisons.com/products/strongbow-dark-fruit-cider-cans-10x440ml/105689916"
     },
     {
       "store": "Asda",
@@ -2107,6 +2098,15 @@
       "promotion": "Any 2 for £20",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/7629481"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Foster's Lager Beer Can  18 x 440ml",
+      "price": "£13.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-18-x-440ml/115868627"
     },
     {
       "store": "Morrisons",
@@ -3567,6 +3567,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9399570"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Bottles",
+      "price": "£12.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles/111538735"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Tanqueray London Dry Gin 41.3% vol 70cl Bottle",
@@ -4177,24 +4186,6 @@
       "promotion": "Buy 2 for £12",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/firstcape-special-cuvee-chenin-blanc-75cl/115448294"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Gold Ale Beer Cans 4x440ml",
-      "price": "£5.50",
-      "promotion": "Now £4, Was £5.50",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-gold-ale-beer-cans-4x440ml/113449955"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Ruby Ale Beer Cans 4x440ml",
-      "price": "£5.50",
-      "promotion": "Now £4, Was £5.50",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-ruby-ale-beer-cans-4x440ml/113450227"
     },
     {
       "store": "Morrisons",
@@ -6440,11 +6431,11 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Theakston Peculier IPA",
+      "title": "Theakston Peculier IPA  500ml",
       "price": "£2.80",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.92,
-      "link": "https://groceries.morrisons.com/products/theakston-peculier-ipa/113397770"
+      "link": "https://groceries.morrisons.com/products/theakston-peculier-ipa-500ml/113397770"
     },
     {
       "store": "Asda",
@@ -6805,6 +6796,15 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.88,
       "link": "https://groceries.morrisons.com/products/salcombe-brewery-gold/112654156"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Theakston Special Reserve 500ml",
+      "price": "£2.75",
+      "promotion": "Buy 4 for £7.50",
+      "saving": 0.88,
+      "link": "https://groceries.morrisons.com/products/theakston-special-reserve-500ml/116313295"
     },
     {
       "store": "Morrisons",
@@ -8132,11 +8132,11 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Theakstons XB Ale 500ml",
+      "title": "Theakston XB Ale 500ml",
       "price": "£2.55",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.67,
-      "link": "https://groceries.morrisons.com/products/theakstons-xb-ale-500ml/101550589"
+      "link": "https://groceries.morrisons.com/products/theakston-xb-ale-500ml/101550589"
     },
     {
       "store": "Morrisons",
@@ -8353,6 +8353,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.62,
       "link": "https://www.asda.com/groceries/product/x/x/7624931"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Timothy Taylor's Boltmaker",
+      "price": "£2.50",
+      "promotion": "Buy 4 for £7.50",
+      "saving": 0.62,
+      "link": "https://groceries.morrisons.com/products/timothy-taylor-s-boltmaker/108152031"
     },
     {
       "store": "Morrisons",
@@ -9068,6 +9077,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Kopparberg Sweet Vintage Apple Premium Cider 500ml",
+      "price": "£2.00",
+      "promotion": "Now £2.00, Was £2.50",
+      "saving": 0.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9247557"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Kopparberg Sweet Vintage Pear Premium Cider 500ml",
       "price": "£2.00",
       "promotion": "Now £2.00, Was £2.50",
@@ -9761,7 +9779,7 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Theakston Salted Caramel Porter 500Ml (Abv 4.2%)",
+      "title": "Theakston Salted Caramel Porter 500ml (Abv 4.2%)",
       "price": "£2.30",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.42,
@@ -10058,11 +10076,11 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Theakston Old Peculier",
+      "title": "Theakston Old Peculier  500ml",
       "price": "£2.15",
       "promotion": "Buy 4 for £7.50",
       "saving": 0.27,
-      "link": "https://groceries.morrisons.com/products/theakston-old-peculier/101533050"
+      "link": "https://groceries.morrisons.com/products/theakston-old-peculier-500ml/101533050"
     },
     {
       "store": "Asda",
@@ -10360,6 +10378,15 @@
       "promotion": "Buy 4 for £7.50",
       "saving": 0.23,
       "link": "https://groceries.morrisons.com/products/crabbies-ginger-beer/113977707"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Kopparberg Premium Cider Spiced Apple 500ml",
+      "price": "£1.98",
+      "promotion": "Any 4 for £7",
+      "saving": 0.23,
+      "link": "https://www.asda.com/groceries/product/x/x/9044340"
     },
     {
       "store": "Morrisons",
