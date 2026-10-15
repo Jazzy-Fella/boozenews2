@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T11:34:51.067987+00:00",
-  "total": 1208,
+  "updated": "2026-10-15T11:13:16.616278+00:00",
+  "total": 1186,
   "deals": [
     {
       "store": "Asda",
@@ -148,12 +148,12 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Bushmills Malt 16 Year Old 70cl",
+      "category": "spirits",
+      "title": "Bushmills Malt Whiskey 16 Year Old  70cl",
       "price": "£76.50",
       "promotion": "Now £65, Was £76.50 - Online Exclusive",
       "saving": 11.5,
-      "link": "https://groceries.morrisons.com/products/bushmills-malt-16-year-old-70cl/116160591"
+      "link": "https://groceries.morrisons.com/products/bushmills-malt-whiskey-16-year-old-70cl/116160591"
     },
     {
       "store": "Morrisons",
@@ -202,6 +202,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Corona Extra Premium Lager Beer PerfectDraft 6L",
+      "price": "£37.00",
+      "promotion": "Buy 3, Save £10 on PerfectDraft Kegs",
+      "saving": 10.0,
+      "link": "https://groceries.morrisons.com/products/corona-extra-premium-lager-beer-perfectdraft-6l/114102574"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Dead Man's Finger Golden Spiced Rum 70cl",
       "price": "£25.00",
@@ -211,21 +220,12 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Jack Daniel's Tennessee Whiskey 1L",
-      "price": "£35.00",
-      "promotion": "Now £25, was £35 - Online Exclusive",
+      "category": "beer",
+      "title": "Leffe Blonde Beer PerfectDraft 6L",
+      "price": "£38.00",
+      "promotion": "Buy 3, Save £10 on PerfectDraft Kegs",
       "saving": 10.0,
-      "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey-1l/101557035"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Jack Daniel's Tennessee Whiskey Honey ",
-      "price": "£35.00",
-      "promotion": "Now £25, was £35 - Online Exclusive",
-      "saving": 10.0,
-      "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey-honey/110829311"
+      "link": "https://groceries.morrisons.com/products/leffe-blonde-beer-perfectdraft-6l/116003191"
     },
     {
       "store": "Morrisons",
@@ -257,24 +257,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "PerfectDraft Corona Extra Keg  6 Litre",
-      "price": "£37.00",
-      "promotion": "Buy 3, Save £10 on PerfectDraft Kegs",
-      "saving": 10.0,
-      "link": "https://groceries.morrisons.com/products/perfectdraft-corona-extra-keg-6-litre/114102574"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "PerfectDraft Leffe Keg 6 Litre",
-      "price": "£38.00",
-      "promotion": "Buy 3, Save £10 on PerfectDraft Kegs",
-      "saving": 10.0,
-      "link": "https://groceries.morrisons.com/products/perfectdraft-leffe-keg-6-litre/116003191"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "PerfectDraft San Miguel Keg 6 Litre",
       "price": "£37.00",
       "promotion": "Buy 3, Save £10 on PerfectDraft Kegs",
@@ -294,7 +276,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "The Woodsman Blended Scotch Whisky ",
-      "price": "£30.00",
+      "price": "£20.00",
       "promotion": "Now £20, Was £30",
       "saving": 10.0,
       "link": "https://groceries.morrisons.com/products/the-woodsman-blended-scotch-whisky/111555261"
@@ -481,24 +463,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Edinburgh Gin Raspberry Gin",
-      "price": "£30.00",
-      "promotion": "£22.00 - More Card Price",
-      "saving": 8.0,
-      "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-gin/114035480"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Kraken Rum 40% Abv  1L",
-      "price": "£37.00",
-      "promotion": "Now £29, Was £37 - Online Exclusive",
-      "saving": 8.0,
-      "link": "https://groceries.morrisons.com/products/kraken-rum-40-abv-1l/116160444"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Morrisons The Best Block Series 006 Paarl Chenin Blanc 75CL",
       "price": "£15.00",
@@ -527,6 +491,15 @@
     {
       "store": "Morrisons",
       "category": "spirits",
+      "title": "The Kraken Black Spiced Rum 1L",
+      "price": "£37.00",
+      "promotion": "Now £29, Was £37 - Online Exclusive",
+      "saving": 8.0,
+      "link": "https://groceries.morrisons.com/products/the-kraken-black-spiced-rum-1l/116160444"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
       "title": "Jack Daniel's Tennessee Fire Whiskey",
       "price": "£26.50",
       "promotion": "£19.00 - More Card Price",
@@ -545,20 +518,11 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Sipsmith London Dry Gin (Abv 41.6%)   70cl",
-      "price": "£31.00",
-      "promotion": "£23.50 - More Card Price",
-      "saving": 7.5,
-      "link": "https://groceries.morrisons.com/products/sipsmith-london-dry-gin-abv-41-6-70cl/108556465"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "1800 Silver Tequila 38% Abv  70cl",
+      "title": "1800 Blanco Tequila 38% Abv 70cl",
       "price": "£35.00",
       "promotion": "Now £28, Was £35 - Online Exclusive",
       "saving": 7.0,
-      "link": "https://groceries.morrisons.com/products/1800-silver-tequila-38-abv-70cl/116160567"
+      "link": "https://groceries.morrisons.com/products/1800-blanco-tequila-38-abv-70cl/116160567"
     },
     {
       "store": "Morrisons",
@@ -591,19 +555,19 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jack Daniel's Tennessee Whiskey",
-      "price": "£27.00",
+      "price": "£20.00",
       "promotion": "Now £20, Was £27",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/jack-daniel-s-tennessee-whiskey/101526984"
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Sexton 40% Abv  70cl",
+      "category": "spirits",
+      "title": "The Sexton Single Malt Irish Whiskey 40% Abv  70cl",
       "price": "£32.00",
       "promotion": "Now £25, Was £32 - Online Exclusive",
       "saving": 7.0,
-      "link": "https://groceries.morrisons.com/products/sexton-40-abv-70cl/116160292"
+      "link": "https://groceries.morrisons.com/products/the-sexton-single-malt-irish-whiskey-40-abv-70cl/116160292"
     },
     {
       "store": "Morrisons",
@@ -654,7 +618,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jameson Triple Distilled Blended Irish Whiskey ",
-      "price": "£34.50",
+      "price": "£28.00",
       "promotion": "Now £28, Was £34.50",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/jameson-triple-distilled-blended-irish-whiskey/110196892"
@@ -1182,15 +1146,6 @@
       "link": "https://groceries.morrisons.com/products/tia-maria/101537616"
     },
     {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "JJ Pink Gin ",
-      "price": "£24.40",
-      "promotion": "£19.50 - More Card Price",
-      "saving": 4.9,
-      "link": "https://groceries.morrisons.com/products/jj-pink-gin/113781042"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "San Miguel Premium Lager  Beer Bottles 12x330ml",
@@ -1481,15 +1436,6 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Fris Vodka 1L",
-      "price": "£24.38",
-      "promotion": "Now £18, Was £21.75",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/fris-vodka-1l/114159853"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "Pernod Aniseed Liqueur",
       "price": "£24.00",
       "promotion": "£20.25 - More Card Price",
@@ -1513,15 +1459,6 @@
       "promotion": "Now £8, Was £11.75",
       "saving": 3.75,
       "link": "https://groceries.morrisons.com/products/sourz-green-apple-liqueur-70cl/101527670"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "White Claw Hard Seltzer Variety Pack Version 2 (8 x 330ml)",
-      "price": "£13.75",
-      "promotion": "Now £10, Was £13.75",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/white-claw-hard-seltzer-variety-pack-version-2-8-x-330ml/114704031"
     },
     {
       "store": "Asda",
@@ -1747,15 +1684,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 3.25,
       "link": "https://www.asda.com/groceries/product/x/x/9340692"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Bud Light 10x440ml Cans",
-      "price": "£11.25",
-      "promotion": "Now £8, Was £11.25",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/bud-light-10x440ml-cans/113370622"
     },
     {
       "store": "Asda",
@@ -2514,15 +2442,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9271092"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Asahi Super Dry  4 x 440ml",
-      "price": "£7.75",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/asahi-super-dry-4-x-440ml/115987360"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "ASDA Extra Special Botanical Dry Gin 70cl",
@@ -2530,15 +2449,6 @@
       "promotion": "Now £20.00, Was £22.50",
       "saving": 2.5,
       "link": "https://www.asda.com/groceries/product/x/x/7501961"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Au Vodka Party Pack 8x330ml",
-      "price": "£17.50",
-      "promotion": "Now £15, Was £17.50",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/au-vodka-party-pack-8x330ml/113758168"
     },
     {
       "store": "Morrisons",
@@ -2593,15 +2503,6 @@
       "promotion": "Now £14.00, Was £16.50",
       "saving": 2.5,
       "link": "https://www.asda.com/groceries/product/x/x/7422651"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Guinness Original Cans 12x440ml",
-      "price": "£18.00",
-      "promotion": "Now £15.50, Was £18",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/guinness-original-cans-12x440ml/101563291"
     },
     {
       "store": "Asda",
@@ -3487,18 +3388,9 @@
     },
     {
       "store": "Morrisons",
-      "category": "spirits",
-      "title": "Tanqueray London Dry Gin 70CL",
-      "price": "£23.00",
-      "promotion": "£21.00 - More Card Price",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/tanqueray-london-dry-gin-70cl/113139607"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Thatchers Haze Cloudy Somerset Cider Cans 10x440ml",
-      "price": "£11.00",
+      "price": "£9.00",
       "promotion": "Now £9, Was £11",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/thatchers-haze-cloudy-somerset-cider-cans-10x440ml/109797957"
@@ -3718,15 +3610,6 @@
       "promotion": "£9.75 - More Card Price",
       "saving": 1.75,
       "link": "https://groceries.morrisons.com/products/gordon-s-special-london-dry-gin/101528066"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Hobgoblin Session IPA Ale Beer Cans 10x440ml",
-      "price": "£10.25",
-      "promotion": "Now £8.50, Was £10.25",
-      "saving": 1.75,
-      "link": "https://groceries.morrisons.com/products/hobgoblin-session-ipa-ale-beer-cans-10x440ml/113417195"
     },
     {
       "store": "Morrisons",
@@ -3983,6 +3866,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Asahi Super Dry  4 x 440ml",
+      "price": "£6.75",
+      "promotion": "Buy 2 for £10.50",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/asahi-super-dry-4-x-440ml/115987360"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Beavertown Gamma Ray 4x330ml Cans",
       "price": "£7.50",
       "promotion": "Now £6, Was £7.50",
@@ -4006,15 +3898,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/6639063"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Bud Light 18x440ml Cans",
-      "price": "£12.50",
-      "promotion": "Now £11, Was £12.50",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/bud-light-18x440ml-cans/113371289"
     },
     {
       "store": "Morrisons",
@@ -4186,15 +4069,6 @@
       "promotion": "£7.50 - More Card Price",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/masseria-pietrosa-verdeca/108239620"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Mello Peach & Passionfruit 4x330ml",
-      "price": "£6.50",
-      "promotion": "Now £5, Was £6.50",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/mello-peach-passionfruit-4x330ml/115736317"
     },
     {
       "store": "Morrisons",
@@ -4549,15 +4423,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Kopparberg Pear Cider 4x330ml",
-      "price": "£5.85",
-      "promotion": "Now £4.50, Was £5.85",
-      "saving": 1.35,
-      "link": "https://groceries.morrisons.com/products/kopparberg-pear-cider-4x330ml/113043883"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Smirnoff Ice Original 4% Cans 4x250ml",
       "price": "£5.85",
@@ -4780,15 +4645,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-cans-4x440ml/112386278"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Mahou Beer Bottles 12x330ml",
-      "price": "£15.25",
-      "promotion": "Now £14, Was £15.25",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/mahou-beer-bottles-12x330ml/112386497"
     },
     {
       "store": "Asda",
@@ -5395,15 +5251,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Inch's Cloudy Cider 4x440ml",
-      "price": "£5.75",
-      "promotion": "Now £4.65, Was £5.75",
-      "saving": 1.1,
-      "link": "https://groceries.morrisons.com/products/inch-s-cloudy-cider-4x440ml/115068902"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Jameson Ginger & Lime Can",
       "price": "£2.60",
@@ -5671,15 +5518,6 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9357554"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Corona Extra Premium Lager Beer Bottles 4 x 330ml",
-      "price": "£6.00",
-      "promotion": "Now £5, Was £6",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/corona-extra-premium-lager-beer-bottles-4-x-330ml/104831183"
     },
     {
       "store": "Asda",
@@ -6064,7 +5902,7 @@
       "category": "other",
       "title": "The London Essence Co. Indian Tonic Water Cans",
       "price": "£4.00",
-      "promotion": "Now £3, Was £4",
+      "promotion": "Save 25%, was £4",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/the-london-essence-co-indian-tonic-water-cans/111550478"
     },
@@ -8608,15 +8446,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Thatchers Gold   Cider 4.8% 4x440ml",
-      "price": "£5.25",
-      "promotion": "Now £4.65, Was £5.25",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/thatchers-gold-cider-4-8-4x440ml/105613583"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Thatchers Somerset Haze ",
       "price": "£2.60",
@@ -9231,7 +9060,7 @@
       "store": "Morrisons",
       "category": "beer",
       "title": "Old Session Hen Easy-Drinking Session Beer",
-      "price": "£1.50",
+      "price": "£1.00",
       "promotion": "Now £1, Was £1.50",
       "saving": 0.5,
       "link": "https://groceries.morrisons.com/products/old-session-hen-easy-drinking-session-beer/113894311"
@@ -9550,15 +9379,6 @@
       "promotion": "Now £2.25, Was £2.70",
       "saving": 0.45,
       "link": "https://www.asda.com/groceries/product/x/x/7235179"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Royal Terrace Blended Scotch Whisky ",
-      "price": "£18.45",
-      "promotion": "Now £18, Was £18.45",
-      "saving": 0.45,
-      "link": "https://groceries.morrisons.com/products/royal-terrace-blended-scotch-whisky/114216977"
     },
     {
       "store": "Asda",
@@ -10029,15 +9849,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/5792312"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "St Austell Proper Job IPA 0.5%",
-      "price": "£2.00",
-      "promotion": "Now £1.60, Was £2",
-      "saving": 0.4,
-      "link": "https://groceries.morrisons.com/products/st-austell-proper-job-ipa-0-5/114469991"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Theakston Old Peculier 500ml",
@@ -10279,15 +10090,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.25,
       "link": "https://groceries.morrisons.com/products/kopparberg-cherry-abv-3-4/113639311"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Modelo Beer Bottles 4 x 355ml",
-      "price": "£6.25",
-      "promotion": "Now £6, Was £6.25",
-      "saving": 0.25,
-      "link": "https://groceries.morrisons.com/products/modelo-beer-bottles-4-x-355ml/113917368"
     },
     {
       "store": "Morrisons",
