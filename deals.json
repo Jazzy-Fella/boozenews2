@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T12:46:49.201046+00:00",
-  "total": 1446,
+  "updated": "2026-10-20T11:16:59.904777+00:00",
+  "total": 1451,
   "deals": [
     {
       "store": "Asda",
@@ -679,6 +679,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Estrella Damm Premium Lager Beer 12x330ml",
+      "price": "£17.75",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 7.75,
+      "link": "https://groceries.morrisons.com/products/estrella-damm-premium-lager-beer-12x330ml/108883853"
+    },
+    {
+      "store": "Morrisons",
       "category": "spirits",
       "title": "Tequila Rose Strawberry Cream 1L",
       "price": "£26.75",
@@ -730,6 +739,15 @@
       "promotion": "Now £13, Was £20.50",
       "saving": 7.5,
       "link": "https://groceries.morrisons.com/products/glayva-liqueur/101574775"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Madri Excepcional Lager Beer Bottles 12x330ml",
+      "price": "£17.50",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 7.5,
+      "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottles-12x330ml/112386041"
     },
     {
       "store": "Morrisons",
@@ -1264,15 +1282,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Madri Excepcional Lager Beer Bottles 12x330ml",
-      "price": "£17.50",
-      "promotion": "Now £12, Was £17.50",
-      "saving": 5.5,
-      "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottles-12x330ml/112386041"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Peroni Nastro Azzurro Bottles 12 x 330ml",
       "price": "£19.50",
@@ -1486,6 +1495,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-cans-10x440ml/112695311"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Mahou Lager Beer Cans 10 x 440ml",
+      "price": "£15.00",
+      "promotion": "Buy 3 for £30 - Online Exclusive",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/mahou-lager-beer-cans-10-x-440ml/115423265"
     },
     {
       "store": "Morrisons",
@@ -1814,6 +1832,15 @@
     {
       "store": "Morrisons",
       "category": "beer",
+      "title": "Brewdog Cold Beer 15x40ml",
+      "price": "£13.00",
+      "promotion": "Buy 2 for £18",
+      "saving": 4.0,
+      "link": "https://groceries.morrisons.com/products/brewdog-cold-beer-15x40ml/114196161"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
       "title": "Brewdog Hazy Jane New England Ipa  10X330ML",
       "price": "£14.00",
       "promotion": "Buy 3 for £30 - Online Exclusive",
@@ -1972,15 +1999,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 3.88,
       "link": "https://groceries.morrisons.com/products/chateau-lavigniere-2020-st-emilion-grand-cru/113731951"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
-      "price": "£14.00",
-      "promotion": "Now £14.00, Was £17.85",
-      "saving": 3.85,
-      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Asda",
@@ -3335,6 +3353,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Doom Bar Amber Ale Can 10 x 440ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £12.82",
+      "saving": 2.82,
+      "link": "https://www.asda.com/groceries/product/x/x/7140132"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "King Rat Hazy IPA 440ml",
       "price": "£3.56",
       "promotion": "ANY 4 FOR 3",
@@ -3925,15 +3952,6 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/kopparberg-strawberry-lime-cans-10x330ml/114732963"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Kronenbourg 1664 Biere Beer Lager Cans 10 x 440ml",
-      "price": "£11.00",
-      "promotion": "Now £8.50, Was £11",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/kronenbourg-1664-biere-beer-lager-cans-10-x-440ml/113898398"
     },
     {
       "store": "Asda",
@@ -5410,6 +5428,15 @@
       "promotion": "Buy 3 for £30 - Online Exclusive",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles/111538735"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £14.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Asda",
@@ -7849,6 +7876,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/foster-s-lager-beer-can-12-x-440ml/115868416"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Fuller's London Pride Outstanding Amber Ale 10 x 440ml",
+      "price": "£11.50",
+      "promotion": "Now £11.50, Was £12.50",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9343361"
     },
     {
       "store": "Morrisons",
@@ -12241,6 +12277,15 @@
       "promotion": "Any 4 for £7",
       "saving": 0.37,
       "link": "https://www.asda.com/groceries/product/x/x/509433"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Thatchers Zero Apple Cider 500ml",
+      "price": "£1.47",
+      "promotion": "Now £1.47, Was £1.84",
+      "saving": 0.37,
+      "link": "https://www.asda.com/groceries/product/x/x/6704212"
     },
     {
       "store": "Asda",
