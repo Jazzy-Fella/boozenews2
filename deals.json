@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T10:41:42.857763+00:00",
-  "total": 1548,
+  "updated": "2026-10-25T11:07:11.899824+00:00",
+  "total": 1549,
   "deals": [
     {
       "store": "Asda",
@@ -118,6 +118,15 @@
       "promotion": "£20.00 - More Card Price",
       "saving": 13.0,
       "link": "https://groceries.morrisons.com/products/johnny-cree-single-malt-scotch-whisky/114213910"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jura 12 Year Old Single Malt Scotch Whisky 70cl",
+      "price": "£28.00",
+      "promotion": "Now £28.00, Was £41.00",
+      "saving": 13.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9297220"
     },
     {
       "store": "Morrisons",
@@ -307,15 +316,6 @@
       "promotion": "£26.50 - More Card Price",
       "saving": 11.5,
       "link": "https://groceries.morrisons.com/products/old-pulteney-12-year-old-malt-single-malt-scotch-whisky/101545173"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Johnnie Walker Red Label Blended Scotch Whisky 40% vol 1L",
-      "price": "£21.00",
-      "promotion": "Now £21.00, Was £32.00",
-      "saving": 11.0,
-      "link": "https://www.asda.com/groceries/product/x/x/6944596"
     },
     {
       "store": "Morrisons",
@@ -5860,6 +5860,15 @@
       "promotion": "£13.50 - More Card Price",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/jameson-whiskey-35cl/115232725"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Kirkgate Vodka Yorkshire Grain Vodka 700ml",
+      "price": "£16.00",
+      "promotion": "Now £16.00, Was £18.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9362910"
     },
     {
       "store": "Morrisons",
