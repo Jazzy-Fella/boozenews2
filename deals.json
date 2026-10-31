@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T12:34:53.495256+00:00",
-  "total": 1480,
+  "updated": "2026-10-31T12:00:38.952480+00:00",
+  "total": 1482,
   "deals": [
     {
       "store": "Asda",
@@ -723,6 +723,15 @@
       "link": "https://groceries.morrisons.com/products/caorunn-scottish-raspberry-gin/112632205"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Courvoisier VS Cognac 70cl",
+      "price": "£26.00",
+      "promotion": "Now £26.00, Was £34.00",
+      "saving": 8.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7317249"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jack Daniel's Tennessee Whiskey",
@@ -910,15 +919,6 @@
       "promotion": "£14.00 - More Card Price",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/bankhall-blended-whisky/114213696"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Diplomatico Mantuano Rum 70 cL",
-      "price": "£25.50",
-      "promotion": "Now £25.50, Was £32.50",
-      "saving": 7.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9250974"
     },
     {
       "store": "Asda",
@@ -1225,15 +1225,6 @@
       "promotion": "Now £21.00, Was £27.00",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/7625457"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "The Kraken Dark Caramel and Cornish Sea Salt, Limited Edition 70cl",
-      "price": "£21.00",
-      "promotion": "Now £21.00, Was £27.00",
-      "saving": 6.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9296611"
     },
     {
       "store": "Morrisons",
@@ -5323,6 +5314,15 @@
     },
     {
       "store": "Asda",
+      "category": "spirits",
+      "title": "Exceptional by ASDA Pistachio & Milk Chocolate Flavour Cream Liqueur 70cl",
+      "price": "£6.00",
+      "promotion": "Now £6.00, Was £8.16",
+      "saving": 2.16,
+      "link": "https://www.asda.com/groceries/product/x/x/9296832"
+    },
+    {
+      "store": "Asda",
       "category": "other",
       "title": "Les Dauphins Côtes Du Rhône Réserve 750ml",
       "price": "£8.61",
@@ -5932,6 +5932,15 @@
       "promotion": "Now £9.00, Was £11.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/9035455"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Thatchers Blood Orange Fruit Cider 10 x 440ml",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £11.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9428279"
     },
     {
       "store": "Morrisons",
@@ -9055,6 +9064,15 @@
       "promotion": "Now £9.00, Was £9.96",
       "saving": 0.96,
       "link": "https://www.asda.com/groceries/product/x/x/5808657"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Gordon's Premium Pink Gin & Tonic 5% vol 10 x 250ml Ready to Drink",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £9.96",
+      "saving": 0.96,
+      "link": "https://www.asda.com/groceries/product/x/x/6149234"
     },
     {
       "store": "Asda",
