@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T13:57:32.129867+00:00",
-  "total": 1417,
+  "updated": "2026-11-04T14:10:56.397901+00:00",
+  "total": 1416,
   "deals": [
     {
       "store": "Asda",
@@ -658,15 +658,6 @@
       "promotion": "Now £23, Was £31.50",
       "saving": 8.5,
       "link": "https://groceries.morrisons.com/products/chivas-regal-12-year-old-blended-scotch-whisky/101564729"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Jack Daniel's Tennessee Whiskey 1L",
-      "price": "£26.00",
-      "promotion": "Now £26.00, Was £34.50",
-      "saving": 8.5,
-      "link": "https://www.asda.com/groceries/product/x/x/1652853"
     },
     {
       "store": "Asda",
@@ -1380,15 +1371,6 @@
       "link": "https://groceries.morrisons.com/products/lamb-s-spiced-rum-1l/111369177"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Peroni Nastro Azzurro Bottles 12 x 330ml",
-      "price": "£19.50",
-      "promotion": "Now £14, Was £19.50",
-      "saving": 5.5,
-      "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-bottles-12-x-330ml/112617195"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Smirnoff Red Label Vodka 37.5% vol 1L",
@@ -1651,21 +1633,21 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Tia Maria",
+      "category": "spirits",
+      "title": "Tia Maria Coffee Liqueur  70cl",
       "price": "£17.00",
       "promotion": "£12.00 - More Card Price",
       "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/tia-maria/101537616"
+      "link": "https://groceries.morrisons.com/products/tia-maria-coffee-liqueur-70cl/101537616"
     },
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Tia Maria Liqueur ",
+      "title": "Tia Maria Coffee Liqueur 1L",
       "price": "£22.00",
       "promotion": "£17.00 - More Card Price",
       "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/tia-maria-liqueur/101556737"
+      "link": "https://groceries.morrisons.com/products/tia-maria-coffee-liqueur-1l/101556737"
     },
     {
       "store": "Asda",
@@ -2008,6 +1990,15 @@
       "promotion": "Buy 2 for £20",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/brewdog-punk-ipa-10x330ml/115974024"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Budweiser Lager Beer Bottles 24x300ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £16.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6029646"
     },
     {
       "store": "Morrisons",
@@ -3603,15 +3594,6 @@
       "link": "https://groceries.morrisons.com/products/black-bottle-blended-scotch-whisky/106059326"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Bottles 24x300ml",
-      "price": "£16.00",
-      "promotion": "Now £16.00, Was £18.75",
-      "saving": 2.75,
-      "link": "https://www.asda.com/groceries/product/x/x/6029646"
-    },
-    {
       "store": "Morrisons",
       "category": "other",
       "title": "Cockburn's Fine Ruby Port",
@@ -4071,15 +4053,6 @@
       "link": "https://groceries.morrisons.com/products/kopparberg-strawberry-lime-cans-10x330ml/114732963"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Kronenbourg 1664 Biere Beer Lager Cans 10 x 440ml",
-      "price": "£11.00",
-      "promotion": "Now £8.50, Was £11",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/kronenbourg-1664-biere-beer-lager-cans-10-x-440ml/113898398"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Kronenbourg 1664 Bière Beer Lager 12 x 330ml Bottles",
@@ -4087,6 +4060,15 @@
       "promotion": "Any 2 for £20",
       "saving": 2.5,
       "link": "https://www.asda.com/groceries/product/x/x/9356461"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Leffe Blonde Ale Bottles 12x330ml",
+      "price": "£17.50",
+      "promotion": "Now £15, Was £17.50",
+      "saving": 2.5,
+      "link": "https://groceries.morrisons.com/products/leffe-blonde-ale-bottles-12x330ml/113128431"
     },
     {
       "store": "Asda",
@@ -4501,15 +4483,6 @@
       "promotion": "Now £11.00, Was £13.27",
       "saving": 2.27,
       "link": "https://www.asda.com/groceries/product/x/x/9095637"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "1664 Blanc Premium Lager Beer Bottles 4x330ml",
-      "price": "£7.50",
-      "promotion": "Buy 2 for £10.50",
-      "saving": 2.25,
-      "link": "https://groceries.morrisons.com/products/1664-blanc-premium-lager-beer-bottles-4x330ml/113960323"
     },
     {
       "store": "Morrisons",
@@ -5286,6 +5259,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/3866010"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Kronenbourg 1664 Biere Beer Lager Cans 10 x 440ml",
+      "price": "£11.00",
+      "promotion": "Buy 2 for £18",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/kronenbourg-1664-biere-beer-lager-cans-10-x-440ml/113898398"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Larkspur Lane London Dry Gin 700ml",
@@ -5365,15 +5347,6 @@
       "promotion": "Buy 2 for £20",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles-12-x-330ml/111538735"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Thatchers Blood Orange Fruit Cider 10 x 440ml",
-      "price": "£9.00",
-      "promotion": "Now £9.00, Was £11.00",
-      "saving": 2.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9035455"
     },
     {
       "store": "Asda",
@@ -6035,20 +6008,20 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Exceptional by ASDA Exceptional by  Sancerre Val De Loire 75cl",
-      "price": "£16.50",
-      "promotion": "Now £16.50, Was £18.00",
-      "saving": 1.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9181189"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
       "title": "Exceptional by ASDA Plan De Dieu Côtes Du Rhône Villages 75cl",
       "price": "£8.50",
       "promotion": "Now £8.50, Was £10.00",
       "saving": 1.5,
       "link": "https://www.asda.com/groceries/product/x/x/6963903"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Exceptional by ASDA Sancerre Val De Loire 75cl",
+      "price": "£16.50",
+      "promotion": "Now £16.50, Was £18.00",
+      "saving": 1.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9181189"
     },
     {
       "store": "Morrisons",
@@ -7734,6 +7707,15 @@
       "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottles-4x300ml/111112110"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Carling Original Lager 4 x 440ml",
+      "price": "£5.00",
+      "promotion": "Now £4, Was £5",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/carling-original-lager-4-x-440ml/116296704"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "Chouffe IPA 330ml",
@@ -9406,6 +9388,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/henry-westons-medium-dry-british-vintage-cider-bottle-500ml/111668097"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Henry Westons Medium Dry British Vintage Cider Bottle  750ml",
+      "price": "£3.50",
+      "promotion": "Now £2.75, Was £3.50",
+      "saving": 0.75,
+      "link": "https://groceries.morrisons.com/products/henry-westons-medium-dry-british-vintage-cider-bottle-750ml/115981911"
     },
     {
       "store": "Morrisons",
