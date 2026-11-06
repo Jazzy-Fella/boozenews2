@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T14:26:49.378730+00:00",
-  "total": 1420,
+  "updated": "2026-11-06T14:02:28.819085+00:00",
+  "total": 1418,
   "deals": [
     {
       "store": "Asda",
@@ -516,6 +516,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/5561043"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Old Pulteney 12 Year Old Single Malt Scotch Whisky",
+      "price": "£26.50",
+      "promotion": "Now £26.50, Was £36.25",
+      "saving": 9.75,
+      "link": "https://www.asda.com/groceries/product/x/x/1527016"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Whitley Neill Blood Orange Gin",
@@ -831,15 +840,6 @@
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottles-12x330ml/112386041"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "Three Barrels 1L",
-      "price": "£19.50",
-      "promotion": "Now £19.50, Was £27.00",
-      "saving": 7.5,
-      "link": "https://www.asda.com/groceries/product/x/x/4803813"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Three Barrels Brandy 1L",
@@ -847,6 +847,15 @@
       "promotion": "Now £19.50, Was £27",
       "saving": 7.5,
       "link": "https://groceries.morrisons.com/products/three-barrels-brandy-1l/107044927"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Three Barrels Rare Old French Brandy VSOP 1L",
+      "price": "£19.50",
+      "promotion": "Now £19.50, Was £27.00",
+      "saving": 7.5,
+      "link": "https://www.asda.com/groceries/product/x/x/4803813"
     },
     {
       "store": "Morrisons",
@@ -1099,15 +1108,6 @@
       "promotion": "£18.00 - More Card Price",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/admiral-s-old-j-cherry-spiced-rum/111786317"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bacardi Carta Blanca Superior White Rum 1L",
-      "price": "£25.50",
-      "promotion": "Now £19.50, Was £25.50",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/bacardi-carta-blanca-superior-white-rum-1l/101550917"
     },
     {
       "store": "Asda",
@@ -2998,15 +2998,6 @@
       "promotion": "Buy 2 for £18",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/carling-black-label-premium-lager-beer-cans-10-x-440ml/115980521"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Carling Original Lager 18 X 440Ml",
-      "price": "£13.00",
-      "promotion": "Now £10, Was £13",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/carling-original-lager-18-x-440ml/116296632"
     },
     {
       "store": "Morrisons",
@@ -6562,15 +6553,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.37,
       "link": "https://www.asda.com/groceries/product/x/x/6104989"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Henry Westons Vintage Cider 6x500ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £11.36",
-      "saving": 1.36,
-      "link": "https://www.asda.com/groceries/product/x/x/5755242"
     },
     {
       "store": "Morrisons",
