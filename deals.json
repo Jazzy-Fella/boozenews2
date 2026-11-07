@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:02:28.819085+00:00",
+  "updated": "2026-11-07T12:46:59.767949+00:00",
   "total": 1418,
   "deals": [
     {
@@ -1720,15 +1720,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-chateauneuf-du-pape/105261776"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
-      "price": "£12.00",
-      "promotion": "Now £12.00, Was £16.60",
-      "saving": 4.6,
-      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Asda",
@@ -6553,6 +6544,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 1.37,
       "link": "https://www.asda.com/groceries/product/x/x/6104989"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Henry Westons Vintage Cider 6x500ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £11.36",
+      "saving": 1.36,
+      "link": "https://www.asda.com/groceries/product/x/x/5755242"
     },
     {
       "store": "Morrisons",
