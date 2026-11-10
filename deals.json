@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T15:50:14.943090+00:00",
-  "total": 1485,
+  "updated": "2026-11-10T14:42:03.895880+00:00",
+  "total": 1486,
   "deals": [
     {
       "store": "Asda",
@@ -804,6 +804,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9291876"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jameson Triple Distilled Irish Whiskey 1L",
+      "price": "£27.00",
+      "promotion": "Now £27.00, Was £34.50",
+      "saving": 7.5,
+      "link": "https://www.asda.com/groceries/product/x/x/2251310"
+    },
+    {
       "store": "Morrisons",
       "category": "beer",
       "title": "Madri Excepcional Lager Beer Bottles 12x330ml",
@@ -982,15 +991,6 @@
       "promotion": "£23.00 - More Card Price",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/jameson-triple-triple-blended-irish-whiskey-abv-40-70cl/114889418"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Johnnie Walker Red Soul 70cl",
-      "price": "£25.00",
-      "promotion": "Now £18.50, Was £25",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/johnnie-walker-red-soul-70cl/116140101"
     },
     {
       "store": "Asda",
@@ -1819,6 +1819,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino-75cl/115233808"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
+      "price": "£18.85",
+      "promotion": "Now £18.85, Was £23.35",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7488429"
     },
     {
       "store": "Asda",
@@ -4341,15 +4350,6 @@
       "link": "https://groceries.morrisons.com/products/stowford-press-apple-cider-10x440ml/112291551"
     },
     {
-      "store": "Asda",
-      "category": "other",
-      "title": "Studio by Miraval 750ml",
-      "price": "£10.00",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 2.5,
-      "link": "https://www.asda.com/groceries/product/x/x/6766165"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Tequila Rose Strawberry Cream Liqueur 6 x 5cl",
@@ -4591,6 +4591,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 2.37,
       "link": "https://www.asda.com/groceries/product/x/x/9237366"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Studio by Miraval 750ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £12.36",
+      "saving": 2.36,
+      "link": "https://www.asda.com/groceries/product/x/x/6766165"
     },
     {
       "store": "Asda",
@@ -4918,15 +4927,6 @@
     },
     {
       "store": "Asda",
-      "category": "other",
-      "title": "Beefsteak Club Douro DOC The Beast Dark Red 750ml",
-      "price": "£8.75",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 2.19,
-      "link": "https://www.asda.com/groceries/product/x/x/7320485"
-    },
-    {
-      "store": "Asda",
       "category": "beer",
       "title": "Gwei.lo Neon Jungle IPA 440ml",
       "price": "£2.94",
@@ -5221,15 +5221,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.12,
       "link": "https://groceries.morrisons.com/products/casillero-del-diablo-jammy-red-devil/115433359"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "Fleurs de Prairie Luberon 75cl",
-      "price": "£8.50",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 2.12,
-      "link": "https://www.asda.com/groceries/product/x/x/9093930"
     },
     {
       "store": "Asda",
@@ -5806,6 +5797,15 @@
       "promotion": "Now £14.50, Was £16.47",
       "saving": 1.97,
       "link": "https://www.asda.com/groceries/product/x/x/9257139"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Heineken Original Premium Lager Beer 5% ABV Cans 15x440ml",
+      "price": "£14.00",
+      "promotion": "Now £14.00, Was £15.95",
+      "saving": 1.95,
+      "link": "https://www.asda.com/groceries/product/x/x/6078580"
     },
     {
       "store": "Asda",
@@ -6916,15 +6916,6 @@
     },
     {
       "store": "Asda",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Cans 4x568ml",
-      "price": "£6.47",
-      "promotion": "Any 2 for £10",
-      "saving": 1.47,
-      "link": "https://www.asda.com/groceries/product/x/x/6027743"
-    },
-    {
-      "store": "Asda",
       "category": "other",
       "title": "Funkin Nitro Cocktails Blue Raspberry Martini 200ml",
       "price": "£2.22",
@@ -7318,6 +7309,15 @@
       "promotion": "£11.50 - More Card Price",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/beaujolais-villages-louis-jadot/113327069"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Beefsteak Club Douro DOC The Beast Dark Red 750ml",
+      "price": "£8.75",
+      "promotion": "Now £8.75, Was £10.00",
+      "saving": 1.25,
+      "link": "https://www.asda.com/groceries/product/x/x/7320485"
     },
     {
       "store": "Asda",
@@ -8191,15 +8191,6 @@
       "promotion": "Now £17.50, Was £18.50",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/1190897"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "ASDA McKendrick's Blended Scotch Whisky 3 Years Old 1 Litre",
-      "price": "£18.00",
-      "promotion": "Now £18.00, Was £19.00",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/2933700"
     },
     {
       "store": "Asda",
@@ -9541,6 +9532,15 @@
       "promotion": "Any 2 for £10",
       "saving": 0.86,
       "link": "https://www.asda.com/groceries/product/x/x/9250850"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Fleurs de Prairie Luberon 75cl",
+      "price": "£8.50",
+      "promotion": "Now £8.50, Was £9.36",
+      "saving": 0.86,
+      "link": "https://www.asda.com/groceries/product/x/x/9093930"
     },
     {
       "store": "Asda",
@@ -12691,6 +12691,15 @@
       "promotion": "Now £2.70, Was £3.00",
       "saving": 0.3,
       "link": "https://www.asda.com/groceries/product/x/x/9255706"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Wrexham Lager Export 500ml",
+      "price": "£2.30",
+      "promotion": "Any 5 for £10",
+      "saving": 0.3,
+      "link": "https://www.asda.com/groceries/product/x/x/9396789"
     },
     {
       "store": "Asda",
