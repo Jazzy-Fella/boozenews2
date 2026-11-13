@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:57:49.156936+00:00",
+  "updated": "2026-11-13T14:22:37.181834+00:00",
   "total": 1493,
   "deals": [
     {
@@ -1630,6 +1630,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-chateauneuf-du-pape/105261776"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Beavertown Gamma Ray American Pale Ale 10 x 330ml",
+      "price": "£12.00",
+      "promotion": "Now £12.00, Was £16.60",
+      "saving": 4.6,
+      "link": "https://www.asda.com/groceries/product/x/x/9318761"
     },
     {
       "store": "Asda",
@@ -9032,7 +9041,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Bijou Terre De Providence 75cl",
+      "title": "Bijou Terre de Providence 75cl",
       "price": "£8.50",
       "promotion": "Now £8.50, Was £9.46",
       "saving": 0.96,
@@ -12169,15 +12178,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 0.47,
       "link": "https://www.asda.com/groceries/product/x/x/7628435"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "The Distiller Passion Fruit Martini 250ml",
-      "price": "£1.22",
-      "promotion": "ANY 4 FOR 3",
-      "saving": 0.47,
-      "link": "https://www.asda.com/groceries/product/x/x/7628433"
     },
     {
       "store": "Asda",
