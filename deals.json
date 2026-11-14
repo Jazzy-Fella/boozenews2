@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T14:22:37.181834+00:00",
-  "total": 1493,
+  "updated": "2026-11-14T13:18:37.892360+00:00",
+  "total": 1487,
   "deals": [
     {
       "store": "Asda",
@@ -915,7 +915,7 @@
       "store": "Morrisons",
       "category": "spirits",
       "title": "Malibu Original White Rum with Coconut Flavour",
-      "price": "£22.50",
+      "price": "£15.50",
       "promotion": "Now £15.50, Was £22.50",
       "saving": 7.0,
       "link": "https://groceries.morrisons.com/products/malibu-original-white-rum-with-coconut-flavour/113469227"
@@ -1018,15 +1018,6 @@
       "promotion": "Now £11.00, Was £17.00",
       "saving": 6.0,
       "link": "https://www.asda.com/groceries/product/x/x/1345"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Baileys Terry's Chocolate Orange ",
-      "price": "£17.00",
-      "promotion": "Now £11, Was £17",
-      "saving": 6.0,
-      "link": "https://groceries.morrisons.com/products/baileys-terry-s-chocolate-orange/115319151"
     },
     {
       "store": "Morrisons",
@@ -2917,6 +2908,15 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 3.06,
       "link": "https://groceries.morrisons.com/products/roodeberg-red/113153071"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Baileys Original Irish Cream Liqueur 1L",
+      "price": "£13.00",
+      "promotion": "Now £9.97, Was £13",
+      "saving": 3.03,
+      "link": "https://groceries.morrisons.com/products/baileys-original-irish-cream-liqueur-1l/101525367"
     },
     {
       "store": "Asda",
@@ -4837,15 +4837,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "St Austell Tribute Pale Ale 10x440ml",
-      "price": "£12.75",
-      "promotion": "Now £10.50, Was £12.75",
-      "saving": 2.25,
-      "link": "https://groceries.morrisons.com/products/st-austell-tribute-pale-ale-10x440ml/112580548"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Tiny Rebel CLWB Tropica 4x330ml",
       "price": "£7.50",
@@ -5675,7 +5666,7 @@
     {
       "store": "Asda",
       "category": "other",
-      "title": "Southern Comfort Venom Orange & Blue Raspberry Cocktails 250ml",
+      "title": "Southern Comfort Cocktails Venom Orange & Blue Raspberry 25cl (8% ABV)",
       "price": "£2.75",
       "promotion": "ANY 4 FOR 3",
       "saving": 2.0,
@@ -5689,6 +5680,15 @@
       "promotion": "Buy 2 for £20",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles-12-x-330ml/111538735"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Cans  18 x 440ml",
+      "price": "£14.00",
+      "promotion": "Now £12, Was £14",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
     },
     {
       "store": "Asda",
@@ -6808,15 +6808,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "beer",
-      "title": "Polly's Brew Co Floret Extra Pale Ale 4 x 330ml 4.2% Abv",
-      "price": "£7.50",
-      "promotion": "Now £6, Was £7.50",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/polly-s-brew-co-floret-extra-pale-ale-4-x-330ml-4-2-abv/116137800"
-    },
-    {
-      "store": "Morrisons",
       "category": "other",
       "title": "Sharps Atlantic",
       "price": "£6.75",
@@ -7579,15 +7570,6 @@
       "promotion": "Buy 2 for £10.50",
       "saving": 1.25,
       "link": "https://groceries.morrisons.com/products/theakston-old-peculier-ale-4x440ml/111820301"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wiper & True Kaleidoscope Pale Ale 4 x 330ml",
-      "price": "£7.25",
-      "promotion": "Now £6, Was £7.25",
-      "saving": 1.25,
-      "link": "https://groceries.morrisons.com/products/wiper-true-kaleidoscope-pale-ale-4-x-330ml/116137105"
     },
     {
       "store": "Asda",
@@ -8915,7 +8897,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "Southern Comfort Liqueur with Whiskey 35cl (35% ABV)",
+      "title": "Southern Comfort Whiskey Flavoured Liqueur 35cl",
       "price": "£10.00",
       "promotion": "Now £10.00, Was £10.98",
       "saving": 0.98,
@@ -11642,15 +11624,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Adnams Southwold Ghost Ship Session IPA 500ml",
-      "price": "£1.50",
-      "promotion": "Now £1, Was £1.50",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/adnams-southwold-ghost-ship-session-ipa-500ml/115419215"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Budweiser Budvar Beer Bottle",
       "price": "£2.50",
       "promotion": "Buy 4 for £8",
@@ -11946,15 +11919,6 @@
       "link": "https://groceries.morrisons.com/products/sandford-orchards-wilde-cherry/113899593"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Shipyard Session APA Ale Beer Bottle",
-      "price": "£1.50",
-      "promotion": "Now £1, Was £1.50",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/shipyard-session-apa-ale-beer-bottle/114404581"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Sipsmith London Dry Gin 70cl",
@@ -12043,15 +12007,6 @@
       "promotion": "Now £8.00, Was £8.50",
       "saving": 0.5,
       "link": "https://www.asda.com/groceries/product/x/x/9031131"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Wainwright Amber Ale 500ml",
-      "price": "£1.50",
-      "promotion": "Now £1, Was £1.50",
-      "saving": 0.5,
-      "link": "https://groceries.morrisons.com/products/wainwright-amber-ale-500ml/115034702"
     },
     {
       "store": "Asda",
@@ -12736,15 +12691,6 @@
       "promotion": "Now £2.70, Was £3.00",
       "saving": 0.3,
       "link": "https://www.asda.com/groceries/product/x/x/9256025"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "WKD Original Iron Brew Vodka Mix 700ml",
-      "price": "£2.70",
-      "promotion": "Now £2.70, Was £3.00",
-      "saving": 0.3,
-      "link": "https://www.asda.com/groceries/product/x/x/9255706"
     },
     {
       "store": "Asda",
