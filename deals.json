@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T13:46:57.475929+00:00",
-  "total": 1465,
+  "updated": "2026-11-16T15:25:48.498659+00:00",
+  "total": 1468,
   "deals": [
     {
       "store": "Asda",
@@ -442,15 +442,6 @@
       "promotion": "£20.00 - More Card Price",
       "saving": 9.75,
       "link": "https://groceries.morrisons.com/products/whitley-neill-blood-orange-gin/113211533"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Peroni Nastro Azzurro Bottles 12 x 330ml",
-      "price": "£19.50",
-      "promotion": "£9.97 - More Card Price",
-      "saving": 9.53,
-      "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-bottles-12-x-330ml/112617195"
     },
     {
       "store": "Morrisons",
@@ -2012,6 +2003,15 @@
     {
       "store": "Morrisons",
       "category": "other",
+      "title": "Cockburns Special Reserve",
+      "price": "£15.25",
+      "promotion": "Now £11.50, Was £15.25",
+      "saving": 3.75,
+      "link": "https://groceries.morrisons.com/products/cockburns-special-reserve/104288791"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
       "title": "Estrella Damm Cans 10x330ml",
       "price": "£13.75",
       "promotion": "Buy 2 for £20",
@@ -2422,6 +2422,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 3.25,
       "link": "https://www.asda.com/groceries/product/x/x/9340692"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Blandy's Rich Madeira ",
+      "price": "£15.25",
+      "promotion": "Now £12, Was £15.25",
+      "saving": 3.25,
+      "link": "https://groceries.morrisons.com/products/blandy-s-rich-madeira/101568800"
     },
     {
       "store": "Asda",
@@ -3487,6 +3496,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "other",
+      "title": "Harveys Bristol Cream Sherry",
+      "price": "£14.25",
+      "promotion": "Now £11.50, Was £14.25",
+      "saving": 2.75,
+      "link": "https://groceries.morrisons.com/products/harveys-bristol-cream-sherry/101574599"
+    },
+    {
+      "store": "Morrisons",
       "category": "beer",
       "title": "Inch's Cloudy Cider 10x440ml",
       "price": "£11.75",
@@ -4510,6 +4528,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 2.25,
       "link": "https://www.asda.com/groceries/product/x/x/9376817"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Dow's Renown Port",
+      "price": "£12.75",
+      "promotion": "Now £10.50, Was £12.75",
+      "saving": 2.25,
+      "link": "https://groceries.morrisons.com/products/dow-s-renown-port/101556921"
     },
     {
       "store": "Asda",
@@ -6987,15 +7014,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/9007501"
     },
     {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Henry Westons Vintage Cider 6x500ml",
-      "price": "£10.00",
-      "promotion": "Now £10.00, Was £11.36",
-      "saving": 1.36,
-      "link": "https://www.asda.com/groceries/product/x/x/5755242"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Arrowtown Drinks Vodka Soda Black Cherry & Apple 330ml",
@@ -7309,6 +7327,15 @@
       "promotion": "Any 4 for £7",
       "saving": 1.25,
       "link": "https://www.asda.com/groceries/product/x/x/6453726"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Morrisons The Best Aged Tawny Port",
+      "price": "£15.75",
+      "promotion": "Now £14.50, Was £15.75",
+      "saving": 1.25,
+      "link": "https://groceries.morrisons.com/products/morrisons-the-best-aged-tawny-port/107667657"
     },
     {
       "store": "Morrisons",
