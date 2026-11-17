@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T15:25:48.498659+00:00",
-  "total": 1468,
+  "updated": "2026-11-17T15:48:30.319725+00:00",
+  "total": 1467,
   "deals": [
     {
       "store": "Asda",
@@ -55,6 +55,15 @@
       "promotion": "Now £23, Was £41",
       "saving": 18.0,
       "link": "https://groceries.morrisons.com/products/the-singleton-malt-master-single-malt-scotch-whisky-40-vol-70cl/109823326"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jura Rum Cask Edition Single Malt Scotch Whisky 70cl",
+      "price": "£25.50",
+      "promotion": "Now £25.50, Was £41.00",
+      "saving": 15.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7268854"
     },
     {
       "store": "Morrisons",
@@ -820,15 +829,6 @@
       "promotion": "£11.00 - More Card Price",
       "saving": 6.5,
       "link": "https://groceries.morrisons.com/products/baileys-original-irish-cream-liqueur-70cl/101539671"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "Bell's Original Blended Scotch Whisky 1L",
-      "price": "£25.00",
-      "promotion": "Now £18.50, Was £25",
-      "saving": 6.5,
-      "link": "https://groceries.morrisons.com/products/bell-s-original-blended-scotch-whisky-1l/101537392"
     },
     {
       "store": "Morrisons",
@@ -1918,15 +1918,6 @@
       "promotion": "Buy 2 for £20",
       "saving": 4.0,
       "link": "https://groceries.morrisons.com/products/peroni-nastro-azzurro-10x330ml/115022429"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Stella Artois 0% 10X440ML",
-      "price": "£7.50",
-      "promotion": "Now £8, Was £12",
-      "saving": 4.0,
-      "link": "https://groceries.morrisons.com/products/stella-artois-0-10x440ml/115679439"
     },
     {
       "store": "Asda",
@@ -5268,15 +5259,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/4764972"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Carling Black Label 4 x 568ml",
-      "price": "£7.50",
-      "promotion": "Now £5.50, Was £7.50",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/carling-black-label-4-x-568ml/116014148"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Croft Original Original Sherry 1000ml",
@@ -7012,6 +6994,15 @@
       "promotion": "Now £9.50, Was £10.86",
       "saving": 1.36,
       "link": "https://www.asda.com/groceries/product/x/x/9007501"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Henry Westons Vintage Cider 6x500ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £11.36",
+      "saving": 1.36,
+      "link": "https://www.asda.com/groceries/product/x/x/5755242"
     },
     {
       "store": "Morrisons",
