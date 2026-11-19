@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:35:27.198366+00:00",
+  "updated": "2026-11-19T15:33:24.986287+00:00",
   "total": 1606,
   "deals": [
     {
@@ -507,6 +507,15 @@
       "link": "https://groceries.morrisons.com/products/glenmorangie-the-original-12-years-old-single-malt-whisky-70cl/114068206"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Johnnie Walker Red Label Blended Scotch Whisky 40% vol 1L",
+      "price": "£21.00",
+      "promotion": "Now £21.00, Was £32.00",
+      "saving": 11.0,
+      "link": "https://www.asda.com/groceries/product/x/x/6944596"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Warner's London Dry Gin 70cl",
@@ -811,6 +820,15 @@
       "promotion": "Now £30, Was £39",
       "saving": 9.0,
       "link": "https://groceries.morrisons.com/products/bumbu-original-rum/112613936"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Courvoisier VS Cognac 70cl",
+      "price": "£25.00",
+      "promotion": "Now £25.00, Was £34.00",
+      "saving": 9.0,
+      "link": "https://www.asda.com/groceries/product/x/x/7317249"
     },
     {
       "store": "Morrisons",
@@ -1198,15 +1216,6 @@
       "promotion": "£17.50 - More Card Price",
       "saving": 7.5,
       "link": "https://groceries.morrisons.com/products/whitley-neill-distillers-cut-london-dry-gin-70cl/114703901"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Budweiser Lager Beer Bottles  20 x 300ml",
-      "price": "£17.00",
-      "promotion": "£9.97 - More Card Price",
-      "saving": 7.03,
-      "link": "https://groceries.morrisons.com/products/budweiser-lager-beer-bottles-20-x-300ml/109710161"
     },
     {
       "store": "Morrisons",
@@ -2224,6 +2233,15 @@
       "promotion": "Now £18.50, Was £23.00",
       "saving": 4.5,
       "link": "https://www.asda.com/groceries/product/x/x/7346555"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Absolut Raspberri Raspberry Flavoured  Vodka 70cl",
+      "price": "£18.50",
+      "promotion": "Now £18.50, Was £23.00",
+      "saving": 4.5,
+      "link": "https://www.asda.com/groceries/product/x/x/7314222"
     },
     {
       "store": "Morrisons",
@@ -6492,15 +6510,6 @@
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-bottles-12-x-330ml/111538735"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans  18 x 440ml",
-      "price": "£14.00",
-      "promotion": "Now £12, Was £14",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-18-x-440ml/111545265"
-    },
-    {
       "store": "Asda",
       "category": "spirits",
       "title": "Tanqueray London Dry Gin 41.3% vol 70cl Bottle",
@@ -9289,15 +9298,6 @@
       "promotion": "Buy 2 for £10",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/collider-session-ipa-4-x-330ml/116109278"
-    },
-    {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Courvoisier VS Cognac 70cl",
-      "price": "£25.00",
-      "promotion": "Now £25.00, Was £26.00",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/7317249"
     },
     {
       "store": "Asda",
@@ -12324,6 +12324,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/9087832"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "St Austell Tribute Pale Ale 4x500ml",
+      "price": "£4.98",
+      "promotion": "Now £4.98, Was £5.54",
+      "saving": 0.56,
+      "link": "https://www.asda.com/groceries/product/x/x/6672143"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Fever-Tree Mediterranean Tonic Water",
@@ -14122,15 +14131,6 @@
       "promotion": "Now £2.75, Was £2.98",
       "saving": 0.23,
       "link": "https://www.asda.com/groceries/product/x/x/7156278"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Bass Pale Ale 500ml",
-      "price": "£1.97",
-      "promotion": "Any 4 for £7",
-      "saving": 0.22,
-      "link": "https://www.asda.com/groceries/product/x/x/9263712"
     },
     {
       "store": "Asda",
