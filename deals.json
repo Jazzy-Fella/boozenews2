@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T15:12:53.135913+00:00",
-  "total": 1674,
+  "updated": "2026-11-21T14:30:15.335468+00:00",
+  "total": 1672,
   "deals": [
     {
       "store": "Asda",
@@ -32,7 +32,7 @@
     {
       "store": "Asda",
       "category": "spirits",
-      "title": "The Singleton Malt Master Single Malt Scotch Whisky 40% vol 70cl",
+      "title": "The Singleton of Dufftown Malt Master's Selection Single Malt Scotch Whisky | 40% vol | 700ml",
       "price": "£23.00",
       "promotion": "Now £23.00, Was £41.40",
       "saving": 18.4,
@@ -1180,6 +1180,15 @@
       "promotion": "Now £27.00, Was £34.50",
       "saving": 7.5,
       "link": "https://www.asda.com/groceries/product/x/x/2251310"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Jim Beam Kentucky Straight Bourbon Whiskey ",
+      "price": "£28.00",
+      "promotion": "Now £20.50, Was £28",
+      "saving": 7.5,
+      "link": "https://groceries.morrisons.com/products/jim-beam-kentucky-straight-bourbon-whiskey/103994511"
     },
     {
       "store": "Morrisons",
@@ -2458,15 +2467,6 @@
       "promotion": "Now £12.00, Was £16.47",
       "saving": 4.47,
       "link": "https://www.asda.com/groceries/product/x/x/7151124"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
-      "price": "£13.50",
-      "promotion": "Now £13.50, Was £17.85",
-      "saving": 4.35,
-      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Asda",
@@ -7997,15 +7997,6 @@
     {
       "store": "Asda",
       "category": "beer",
-      "title": "Thatchers Gold Apple Cider 10 x 440ml",
-      "price": "£9.00",
-      "promotion": "Now £9.00, Was £10.47",
-      "saving": 1.47,
-      "link": "https://www.asda.com/groceries/product/x/x/5755252"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
       "title": "Vocation Brewery Life & Death Classic IPA 4 x 330ml",
       "price": "£6.47",
       "promotion": "Any 2 for £10",
@@ -9273,6 +9264,15 @@
       "link": "https://groceries.morrisons.com/products/malibu-pina-colada-pre-mixed-cocktail-can-250ml/111130297"
     },
     {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Smirnoff Ice 250ml",
+      "price": "£2.50",
+      "promotion": "Buy 5 for £7",
+      "saving": 1.1,
+      "link": "https://groceries.morrisons.com/products/smirnoff-ice-250ml/113782133"
+    },
+    {
       "store": "Asda",
       "category": "beer",
       "title": "St Austell Anthem Session Pale Ale 4x440ml",
@@ -9577,15 +9577,6 @@
       "promotion": "Any 4 for £7",
       "saving": 1.0,
       "link": "https://www.asda.com/groceries/product/x/x/9369588"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Bavaria 4X440ML",
-      "price": "£4.00",
-      "promotion": "Now £3, Was £4",
-      "saving": 1.0,
-      "link": "https://groceries.morrisons.com/products/bavaria-4x440ml/115933572"
     },
     {
       "store": "Asda",
@@ -11566,15 +11557,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.75,
       "link": "https://groceries.morrisons.com/products/henry-westons-medium-dry-british-vintage-cider-bottle-500ml/111668097"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Henry Westons Medium Dry British Vintage Cider Bottle  750ml",
-      "price": "£3.50",
-      "promotion": "Now £2.75, Was £3.50",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/henry-westons-medium-dry-british-vintage-cider-bottle-750ml/115981911"
     },
     {
       "store": "Morrisons",
