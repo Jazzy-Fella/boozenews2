@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T14:30:15.335468+00:00",
-  "total": 1672,
+  "updated": "2026-11-22T14:24:43.537110+00:00",
+  "total": 1674,
   "deals": [
     {
       "store": "Asda",
@@ -2467,6 +2467,15 @@
       "promotion": "Now £12.00, Was £16.47",
       "saving": 4.47,
       "link": "https://www.asda.com/groceries/product/x/x/7151124"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
+      "price": "£13.50",
+      "promotion": "Now £13.50, Was £17.85",
+      "saving": 4.35,
+      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Asda",
@@ -7993,6 +8002,15 @@
       "promotion": "Now £7.50, Was £8.97",
       "saving": 1.47,
       "link": "https://www.asda.com/groceries/product/x/x/9184266"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Thatchers Gold Apple Cider 10 x 440ml",
+      "price": "£9.00",
+      "promotion": "Now £9.00, Was £10.47",
+      "saving": 1.47,
+      "link": "https://www.asda.com/groceries/product/x/x/5755252"
     },
     {
       "store": "Asda",
