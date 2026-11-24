@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T17:49:57.892177+00:00",
-  "total": 1681,
+  "updated": "2026-11-24T17:22:52.295531+00:00",
+  "total": 1690,
   "deals": [
     {
       "store": "Asda",
@@ -1192,6 +1192,15 @@
     },
     {
       "store": "Morrisons",
+      "category": "beer",
+      "title": "Madri Excepcional Lager Beer Bottles 12x330ml",
+      "price": "£17.50",
+      "promotion": "Buy 2 for £20",
+      "saving": 7.5,
+      "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-bottles-12x330ml/112386041"
+    },
+    {
+      "store": "Morrisons",
       "category": "other",
       "title": "Plymouth The Original Strength English Gin",
       "price": "£29.50",
@@ -1594,6 +1603,15 @@
       "promotion": "£15.50 - More Card Price",
       "saving": 6.0,
       "link": "https://groceries.morrisons.com/products/jim-beam-kentucky-straight-bourbon-whiskey/101557431"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Kronenbourg 1664 15 x 440ml",
+      "price": "£16.00",
+      "promotion": "Buy 2 for £20",
+      "saving": 6.0,
+      "link": "https://groceries.morrisons.com/products/kronenbourg-1664-15-x-440ml/113780322"
     },
     {
       "store": "Morrisons",
@@ -2073,6 +2091,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/7439347"
     },
     {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Guinness Draught Stout Beer 4.1% vol Cans 12 x 440ml",
+      "price": "£17.00",
+      "promotion": "£12.00 - More Card Price",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/guinness-draught-stout-beer-4-1-vol-cans-12-x-440ml/113290307"
+    },
+    {
       "store": "Asda",
       "category": "other",
       "title": "Guinness ™ NitroSurge™ Device - Easy to Use - Portable - Re-chargeable - Use with NitroSurge™ Cans",
@@ -2107,6 +2134,15 @@
       "promotion": "Buy 2 for £20",
       "saving": 5.0,
       "link": "https://groceries.morrisons.com/products/madri-excepcional-lager-beer-cans-10x440ml/112695311"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Mahou Lager Beer Cans 10 x 440ml",
+      "price": "£15.00",
+      "promotion": "Buy 2 for £20",
+      "saving": 5.0,
+      "link": "https://groceries.morrisons.com/products/mahou-lager-beer-cans-10-x-440ml/115423265"
     },
     {
       "store": "Morrisons",
@@ -2451,6 +2487,15 @@
       "link": "https://groceries.morrisons.com/products/vestal-vodka-1l/116312698"
     },
     {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Warnink's Advocaat",
+      "price": "£16.00",
+      "promotion": "Now £11.50, Was £16",
+      "saving": 4.5,
+      "link": "https://groceries.morrisons.com/products/warnink-s-advocaat/101557908"
+    },
+    {
       "store": "Asda",
       "category": "spirits",
       "title": "Kahlua Original Coffee Liqueur 16% ABV 70cl",
@@ -2512,6 +2557,15 @@
       "promotion": "Now £12.50, Was £16.75",
       "saving": 4.25,
       "link": "https://groceries.morrisons.com/products/olmeca-altos-strawberry-margarita-75cl/115023501"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Strongbow Original Cider Cans 18 x 440ml",
+      "price": "£14.25",
+      "promotion": "Buy 2 for £20",
+      "saving": 4.25,
+      "link": "https://groceries.morrisons.com/products/strongbow-original-cider-cans-18-x-440ml/111039231"
     },
     {
       "store": "Asda",
@@ -3650,6 +3704,15 @@
     {
       "store": "Asda",
       "category": "beer",
+      "title": "Beavertown Neck Oil Session IPA 15 x 330ml",
+      "price": "£17.00",
+      "promotion": "Now £17.00, Was £20.00",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9340789"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
       "title": "Birrificio Angelo Poretti Premium Italian Lager Beer Cans 12 x 440ml",
       "price": "£13.00",
       "promotion": "Any 2 for £20",
@@ -3880,15 +3943,6 @@
       "promotion": "Now £10.00, Was £13.00",
       "saving": 3.0,
       "link": "https://www.asda.com/groceries/product/x/x/9401978"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Guinness Draught Stout Beer 4.1% vol Cans 12 x 440ml",
-      "price": "£17.00",
-      "promotion": "Now £14, Was £17",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/guinness-draught-stout-beer-4-1-vol-cans-12-x-440ml/113290307"
     },
     {
       "store": "Morrisons",
@@ -4159,6 +4213,15 @@
       "promotion": "Buy 2 for £20",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/sol-lager-15x330ml/115868213"
+    },
+    {
+      "store": "Morrisons",
+      "category": "beer",
+      "title": "Stella Artois Belgium Premium Lager Beer 18 x 330ml",
+      "price": "£18.00",
+      "promotion": "£15.00 - More Card Price",
+      "saving": 3.0,
+      "link": "https://groceries.morrisons.com/products/stella-artois-belgium-premium-lager-beer-18-x-330ml/115249412"
     },
     {
       "store": "Asda",
@@ -4744,6 +4807,15 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 2.53,
       "link": "https://www.asda.com/groceries/product/x/x/9271092"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Rogue Irish Cream Liqueur 1 Litre",
+      "price": "£7.47",
+      "promotion": "Now £7.47, Was £10.00",
+      "saving": 2.53,
+      "link": "https://www.asda.com/groceries/product/x/x/9405661"
     },
     {
       "store": "Asda",
@@ -6598,6 +6670,15 @@
       "promotion": "Now £21.00, Was £23.00",
       "saving": 2.0,
       "link": "https://www.asda.com/groceries/product/x/x/7745108"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Tequila Rose And Shot Glasses Gift Set 2 x 50ml",
+      "price": "£8.00",
+      "promotion": "Now £6, Was £8",
+      "saving": 2.0,
+      "link": "https://groceries.morrisons.com/products/tequila-rose-and-shot-glasses-gift-set-2-x-50ml/113447757"
     },
     {
       "store": "Morrisons",
@@ -9703,6 +9784,15 @@
       "promotion": "Buy 4 for £8",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/birra-moretti-lager-beer-bottle/101567241"
+    },
+    {
+      "store": "Morrisons",
+      "category": "spirits",
+      "title": "Bombay Sapphire London Dry Gin 1L",
+      "price": "£22.00",
+      "promotion": "Now £21, Was £22",
+      "saving": 1.0,
+      "link": "https://groceries.morrisons.com/products/bombay-sapphire-london-dry-gin-1l/101547574"
     },
     {
       "store": "Asda",
@@ -14554,15 +14644,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.25,
       "link": "https://www.asda.com/groceries/product/x/x/2541483"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Guinness Nitrosurge Stout Beer Cans - For use with Nitrosurge Device",
-      "price": "£7.75",
-      "promotion": "Now £7.75, Was £8",
-      "saving": 0.25,
-      "link": "https://groceries.morrisons.com/products/guinness-nitrosurge-stout-beer-cans-for-use-with-nitrosurge-device/113412360"
     },
     {
       "store": "Morrisons",
