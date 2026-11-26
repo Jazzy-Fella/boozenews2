@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T17:01:28.064647+00:00",
-  "total": 1695,
+  "updated": "2026-11-26T16:42:08.155948+00:00",
+  "total": 1704,
   "deals": [
     {
       "store": "Asda",
@@ -696,6 +696,15 @@
       "link": "https://www.asda.com/groceries/product/x/x/5023375"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "The Kraken Black Spiced Rum 1.75L",
+      "price": "£45.00",
+      "promotion": "Now £45.00, Was £55.00",
+      "saving": 10.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9338911"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "The Woodsman Blended Scotch Whisky ",
@@ -1290,15 +1299,6 @@
       "link": "https://groceries.morrisons.com/products/edinburgh-gin-rhubarb-ginger-liqueur/109177627"
     },
     {
-      "store": "Asda",
-      "category": "spirits",
-      "title": "Engine Organic Italian Gin 700ml",
-      "price": "£27.00",
-      "promotion": "Now £27.00, Was £34.00",
-      "saving": 7.0,
-      "link": "https://www.asda.com/groceries/product/x/x/9095319"
-    },
-    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Fireball Cinnamon Whisky Liqueur",
@@ -1614,6 +1614,24 @@
       "link": "https://www.asda.com/groceries/product/x/x/1784"
     },
     {
+      "store": "Asda",
+      "category": "other",
+      "title": "Jack Daniel's Tennessee Honey 1L",
+      "price": "£18.00",
+      "promotion": "Now £18.00, Was £24.00",
+      "saving": 6.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5221614"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Jack Daniel's Tennessee Whiskey 1L",
+      "price": "£18.00",
+      "promotion": "Now £18.00, Was £24.00",
+      "saving": 6.0,
+      "link": "https://www.asda.com/groceries/product/x/x/1652853"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Jim Beam Kentucky Straight Bourbon Whiskey",
@@ -1774,15 +1792,6 @@
       "promotion": "Now £14, Was £19.50",
       "saving": 5.5,
       "link": "https://groceries.morrisons.com/products/asahi-super-dry-beer-lager-bottles-12x330ml/115430203"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Asahi Super Dry Beer Pack 12 x 330ml Bottles",
-      "price": "£14.00",
-      "promotion": "Now £14.00, Was £19.50",
-      "saving": 5.5,
-      "link": "https://www.asda.com/groceries/product/x/x/9355697"
     },
     {
       "store": "Morrisons",
@@ -2208,6 +2217,15 @@
       "link": "https://groceries.morrisons.com/products/tia-maria-coffee-liqueur-1l/101556737"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Veltins Pilsener 5l",
+      "price": "£15.00",
+      "promotion": "Now £15.00, Was £20.00",
+      "saving": 5.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9409147"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "JJ Pink Gin ",
@@ -2503,15 +2521,6 @@
       "promotion": "Now £12.00, Was £16.47",
       "saving": 4.47,
       "link": "https://www.asda.com/groceries/product/x/x/7151124"
-    },
-    {
-      "store": "Asda",
-      "category": "beer",
-      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
-      "price": "£13.50",
-      "promotion": "Now £13.50, Was £17.85",
-      "saving": 4.35,
-      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Asda",
@@ -2858,6 +2867,15 @@
     {
       "store": "Asda",
       "category": "spirits",
+      "title": "The Famous Grouse Whisky Trio & Glass",
+      "price": "£8.00",
+      "promotion": "Now £8.00, Was £12.00",
+      "saving": 4.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9400835"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
       "title": "St-Rémy VSOP French Brandy 70cl",
       "price": "£16.00",
       "promotion": "Now £16.00, Was £19.99",
@@ -3151,6 +3169,15 @@
       "promotion": "Buy 2 for £18",
       "saving": 3.5,
       "link": "https://groceries.morrisons.com/products/stella-artois-premium-lager-beer-cans-10-x-440ml/111545185"
+    },
+    {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Stella Artois Premium Lager Beer Cans 18x440ml",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £13.50",
+      "saving": 3.5,
+      "link": "https://www.asda.com/groceries/product/x/x/6879962"
     },
     {
       "store": "Morrisons",
@@ -3727,6 +3754,15 @@
       "promotion": "£16.00 - More Card Price",
       "saving": 3.0,
       "link": "https://groceries.morrisons.com/products/bacardi-carta-blanca-superior-white-rum/101530449"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Baileys Original Irish Cream Liqueur 17% vol 1L",
+      "price": "£10.00",
+      "promotion": "Now £10.00, Was £13.00",
+      "saving": 3.0,
+      "link": "https://www.asda.com/groceries/product/x/x/423274"
     },
     {
       "store": "Asda",
@@ -4600,15 +4636,6 @@
       "promotion": "ANY 4 FOR 3",
       "saving": 2.7,
       "link": "https://www.asda.com/groceries/product/x/x/9378585"
-    },
-    {
-      "store": "Asda",
-      "category": "other",
-      "title": "19 Crimes Dark Red 750mL",
-      "price": "£10.75",
-      "promotion": "Buy 6 Save 25%",
-      "saving": 2.69,
-      "link": "https://www.asda.com/groceries/product/x/x/5721736"
     },
     {
       "store": "Morrisons",
@@ -6269,6 +6296,15 @@
     {
       "store": "Asda",
       "category": "other",
+      "title": "19 Crimes Dark Red 750mL",
+      "price": "£8.75",
+      "promotion": "Now £8.75, Was £10.75",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/5721736"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
       "title": "All Shook Up Cocktail Variety Pack 10 x 250ml",
       "price": "£9.00",
       "promotion": "Now £9.00, Was £11.00",
@@ -6283,6 +6319,15 @@
       "promotion": "Buy 2 for £22",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/aperol-aperitivo-70cl/106881416"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Aperol Spritz Perfect Kit",
+      "price": "£7.00",
+      "promotion": "Now £7.00, Was £9.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9315448"
     },
     {
       "store": "Morrisons",
@@ -6508,6 +6553,15 @@
       "promotion": "£17.00 - More Card Price",
       "saving": 2.0,
       "link": "https://groceries.morrisons.com/products/gordon-s-lemon-meringue-35-vol-70cl/115319880"
+    },
+    {
+      "store": "Asda",
+      "category": "other",
+      "title": "Gordon's Premium Pink Gin, Mini Bath Bombs & Socks",
+      "price": "£5.00",
+      "promotion": "Now £5.00, Was £7.00",
+      "saving": 2.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9408827"
     },
     {
       "store": "Morrisons",
@@ -10120,15 +10174,6 @@
     },
     {
       "store": "Asda",
-      "category": "other",
-      "title": "Jack Daniel's Tennessee Honey 1L",
-      "price": "£24.00",
-      "promotion": "Now £24.00, Was £25.00",
-      "saving": 1.0,
-      "link": "https://www.asda.com/groceries/product/x/x/5221614"
-    },
-    {
-      "store": "Asda",
       "category": "spirits",
       "title": "JJ Vanilla Vodka Mix Spirit Drink 700ml",
       "price": "£13.50",
@@ -10416,6 +10461,15 @@
       "link": "https://groceries.morrisons.com/products/tia-maria-coffee-liqueur-70cl/101537616"
     },
     {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tipple & Treat Infused with Natural Blackberries & Raspberries Gin Get Set",
+      "price": "£3.50",
+      "promotion": "Now £3.50, Was £4.50",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9401782"
+    },
+    {
       "store": "Morrisons",
       "category": "other",
       "title": "Tipple & Treat Snowball With Chocolate Lemon Truffles Gift Set 200ml",
@@ -10423,6 +10477,33 @@
       "promotion": "Now £3.50, Was £4.50",
       "saving": 1.0,
       "link": "https://groceries.morrisons.com/products/tipple-treat-snowball-with-chocolate-lemon-truffles-gift-set-200ml/111426119"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tipple & Treat Tequila Rose Gift Set",
+      "price": "£3.50",
+      "promotion": "Now £3.50, Was £4.50",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9410447"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tipple & Treat The Famous Grouse Whisky Gift Set",
+      "price": "£3.50",
+      "promotion": "Now £3.50, Was £4.50",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9407424"
+    },
+    {
+      "store": "Asda",
+      "category": "spirits",
+      "title": "Tipple & Treat The Original Irish Cream Liqueur Gift Set",
+      "price": "£3.50",
+      "promotion": "Now £3.50, Was £4.50",
+      "saving": 1.0,
+      "link": "https://www.asda.com/groceries/product/x/x/9408920"
     },
     {
       "store": "Asda",
