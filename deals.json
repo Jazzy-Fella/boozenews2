@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T16:42:08.155948+00:00",
-  "total": 1704,
+  "updated": "2026-11-27T16:27:37.110136+00:00",
+  "total": 1681,
   "deals": [
     {
       "store": "Asda",
@@ -1355,15 +1355,6 @@
     {
       "store": "Morrisons",
       "category": "spirits",
-      "title": "Edinburgh Gin Raspberry Liqueur ",
-      "price": "£17.25",
-      "promotion": "£10.50 - More Card Price",
-      "saving": 6.75,
-      "link": "https://groceries.morrisons.com/products/edinburgh-gin-raspberry-liqueur/109177686"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
       "title": "Baileys Original Irish Cream Liqueur 70cl",
       "price": "£17.50",
       "promotion": "Buy 2 for £22",
@@ -1794,6 +1785,15 @@
       "link": "https://groceries.morrisons.com/products/asahi-super-dry-beer-lager-bottles-12x330ml/115430203"
     },
     {
+      "store": "Asda",
+      "category": "beer",
+      "title": "Asahi Super Dry Beer Pack 12 x 330ml Bottles",
+      "price": "£14.00",
+      "promotion": "Now £14.00, Was £19.50",
+      "saving": 5.5,
+      "link": "https://www.asda.com/groceries/product/x/x/9355697"
+    },
+    {
       "store": "Morrisons",
       "category": "spirits",
       "title": "Bacardi Spiced Premium Rum Spirit Drink",
@@ -2173,15 +2173,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 020 Vacqueyras ",
-      "price": "£20.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 5.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-020-vacqueyras/115275987"
-    },
-    {
-      "store": "Morrisons",
       "category": "spirits",
       "title": "Olmeca Altos 100% Agave Plata Tequila 70cl",
       "price": "£27.00",
@@ -2296,15 +2287,6 @@
       "promotion": "Now £19.50, Was £24.25",
       "saving": 4.75,
       "link": "https://groceries.morrisons.com/products/johnnie-walker-red-label-blended-scotch-whisky/105631458"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Chateauneuf Du Pape ",
-      "price": "£19.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 4.75,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chateauneuf-du-pape/105261776"
     },
     {
       "store": "Asda",
@@ -2442,24 +2424,6 @@
       "link": "https://groceries.morrisons.com/products/laurent-delaunay-les-grappillages-chablis/114582475"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 013 Medoc ",
-      "price": "£18.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 4.5,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-013-medoc/115275928"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 018 Salnes Albarino 75cl",
-      "price": "£18.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 4.5,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-018-salnes-albarino-75cl/115233808"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Peroni Nastro Azzurro Italian Lager Beer 18 x 330ml Bottles",
@@ -2485,15 +2449,6 @@
       "promotion": "Buy 2 for £20",
       "saving": 4.5,
       "link": "https://groceries.morrisons.com/products/staropramen-pilsner-lager-beer-cans/114973185"
-    },
-    {
-      "store": "Morrisons",
-      "category": "spirits",
-      "title": "The Bushmills Original Irish Whiskey ",
-      "price": "£23.50",
-      "promotion": "Now £19, Was £23.50",
-      "saving": 4.5,
-      "link": "https://groceries.morrisons.com/products/the-bushmills-original-irish-whiskey/101542255"
     },
     {
       "store": "Morrisons",
@@ -2548,15 +2503,6 @@
       "promotion": "Buy 2 for £20",
       "saving": 4.25,
       "link": "https://groceries.morrisons.com/products/heineken-original-premium-lager-beer-5-abv-bottles-12x330ml/101561819"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Sancerre ",
-      "price": "£17.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 4.25,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-sancerre/110311897"
     },
     {
       "store": "Morrisons",
@@ -2812,15 +2758,6 @@
     },
     {
       "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 011 Cotes De Provence Ste Victoire",
-      "price": "£16.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 4.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-011-cotes-de-provence-ste-victoire/115210260"
-    },
-    {
-      "store": "Morrisons",
       "category": "beer",
       "title": "Old Mout Cider Berries & Cherries 10x330ml",
       "price": "£13.00",
@@ -2971,24 +2908,6 @@
       "promotion": "Now £17, Was £20.75",
       "saving": 3.75,
       "link": "https://groceries.morrisons.com/products/lamb-s-navy-rum/101527442"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 006 Paarl Chenin Blanc 75CL",
-      "price": "£15.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-006-paarl-chenin-blanc-75cl/114890072"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 019 Saumur Champigny",
-      "price": "£15.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.75,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-019-saumur-champigny/115205348"
     },
     {
       "store": "Morrisons",
@@ -3421,15 +3340,6 @@
       "promotion": "Now £12, Was £15.25",
       "saving": 3.25,
       "link": "https://groceries.morrisons.com/products/mahou-beer-bottles-12x330ml/112386497"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Block Series 004 Neiderrostereich Zweigelt 75CL",
-      "price": "£13.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.25,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-004-neiderrostereich-zweigelt-75cl/114908076"
     },
     {
       "store": "Morrisons",
@@ -4118,24 +4028,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Block Series 005 Douro Godelho 75CL",
-      "price": "£12.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-block-series-005-douro-godelho-75cl/115013485"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Fleurie ",
-      "price": "£12.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 3.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-fleurie/107008281"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Morrisons The Best Ribera Del Duero",
       "price": "£12.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -4757,15 +4649,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons The Best Chianti Classico",
-      "price": "£10.50",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 2.62,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chianti-classico/113349743"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Morrisons The Best Pedro Ximenez ",
       "price": "£10.50",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -5158,15 +5041,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 2.5,
       "link": "https://groceries.morrisons.com/products/morrisons-the-best-gruner-veltliner-75cl/106472591"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Muscadet Serve Et Maine Sur Lie   75cl",
-      "price": "£10.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 2.5,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-muscadet-serve-et-maine-sur-lie-75cl/107547516"
     },
     {
       "store": "Morrisons",
@@ -6674,15 +6548,6 @@
     {
       "store": "Morrisons",
       "category": "other",
-      "title": "Morrisons Limited Edition Mexican Sunrise Cocktail 75cl",
-      "price": "£6.00",
-      "promotion": "Now £4, Was £6",
-      "saving": 2.0,
-      "link": "https://groceries.morrisons.com/products/morrisons-limited-edition-mexican-sunrise-cocktail-75cl/115423821"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
       "title": "Morrisons The Best Soave Classico 75cl",
       "price": "£8.00",
       "promotion": "Buy 6 Save 25% - More Card Price",
@@ -6985,15 +6850,6 @@
       "promotion": "Buy 6 Save 25% - More Card Price",
       "saving": 1.88,
       "link": "https://groceries.morrisons.com/products/la-p-tite-pierre-white/113816735"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Morrisons The Best Chilean Carmenere   75cl",
-      "price": "£7.50",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 1.88,
-      "link": "https://groceries.morrisons.com/products/morrisons-the-best-chilean-carmenere-75cl/111255102"
     },
     {
       "store": "Asda",
@@ -7338,15 +7194,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/7623485"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Radacini Blanc De Noirs",
-      "price": "£7.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 1.75,
-      "link": "https://groceries.morrisons.com/products/radacini-blanc-de-noirs/112461127"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Stowford Press Crisp Apple Cider 10 x 440ml",
@@ -7417,15 +7264,6 @@
       "promotion": "Buy 6 Save 25%",
       "saving": 1.69,
       "link": "https://www.asda.com/groceries/product/x/x/6309343"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "I Heart Asti ",
-      "price": "£6.75",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 1.69,
-      "link": "https://groceries.morrisons.com/products/i-heart-asti/113884041"
     },
     {
       "store": "Asda",
@@ -7815,15 +7653,6 @@
       "link": "https://groceries.morrisons.com/products/campaneo-old-vines-garnacha/113425865"
     },
     {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Campaneo Old Vines Tempranillo ",
-      "price": "£6.00",
-      "promotion": "Buy 6 Save 25% - More Card Price",
-      "saving": 1.5,
-      "link": "https://groceries.morrisons.com/products/campaneo-old-vines-tempranillo/113152684"
-    },
-    {
       "store": "Asda",
       "category": "other",
       "title": "Captain Morgan Original Spiced Gold and Pepsi MAX® Pre-mix 6x250ml 5% vol can",
@@ -8146,6 +7975,15 @@
       "promotion": "£6.50 - More Card Price",
       "saving": 1.5,
       "link": "https://groceries.morrisons.com/products/torres-vina-sol/101574370"
+    },
+    {
+      "store": "Morrisons",
+      "category": "other",
+      "title": "Wattleford Red Blend 75cl",
+      "price": "£7.50",
+      "promotion": "Buy 2 for £12",
+      "saving": 1.5,
+      "link": "https://groceries.morrisons.com/products/wattleford-red-blend-75cl/116108259"
     },
     {
       "store": "Morrisons",
@@ -11930,15 +11768,6 @@
     {
       "store": "Morrisons",
       "category": "beer",
-      "title": "Old Mout Cider Strawberry & Apple ",
-      "price": "£2.75",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.75,
-      "link": "https://groceries.morrisons.com/products/old-mout-cider-strawberry-apple/112415876"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
       "title": "Old Mout Pineapple & Raspberry Cider Bottle  ",
       "price": "£2.75",
       "promotion": "Buy 4 for £8",
@@ -12747,15 +12576,6 @@
       "link": "https://www.asda.com/groceries/product/x/x/2156392"
     },
     {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Veltins Pilsener 500Ml",
-      "price": "£2.65",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.65,
-      "link": "https://groceries.morrisons.com/products/veltins-pilsener-500ml/116285351"
-    },
-    {
       "store": "Asda",
       "category": "beer",
       "title": "Carlsberg Danish Pilsner Lager Beer Cans 10x440ml",
@@ -12871,15 +12691,6 @@
       "promotion": "Buy 4 for £8",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/birrificio-angelo-poretti-italian-lager-beer-bottle/112386809"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Brooklyn Brewery Pilsner Lager Beer Bottle",
-      "price": "£2.60",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/brooklyn-brewery-pilsner-lager-beer-bottle/112917884"
     },
     {
       "store": "Morrisons",
@@ -13006,15 +12817,6 @@
       "promotion": "Now £4.65, Was £5.25",
       "saving": 0.6,
       "link": "https://groceries.morrisons.com/products/thatchers-gold-cider-4-8-4x440ml/105613583"
-    },
-    {
-      "store": "Morrisons",
-      "category": "other",
-      "title": "Thatchers Somerset Haze ",
-      "price": "£2.60",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.6,
-      "link": "https://groceries.morrisons.com/products/thatchers-somerset-haze/107693193"
     },
     {
       "store": "Morrisons",
@@ -14887,15 +14689,6 @@
       "promotion": "Any 4 for £7",
       "saving": 0.25,
       "link": "https://www.asda.com/groceries/product/x/x/1095567"
-    },
-    {
-      "store": "Morrisons",
-      "category": "beer",
-      "title": "Thatchers Old Rascal Cider Bottle ",
-      "price": "£2.25",
-      "promotion": "Buy 4 for £8",
-      "saving": 0.25,
-      "link": "https://groceries.morrisons.com/products/thatchers-old-rascal-cider-bottle/101564075"
     },
     {
       "store": "Morrisons",
